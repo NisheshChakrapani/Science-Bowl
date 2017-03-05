@@ -33,7 +33,7 @@ public class Proctor {
             }
             if (!correct && questionType.equals("BONUS")) {
                 skipQuestion(br);
-            } else if (!done && qCount<25) {
+            } else if (!done) {
                 String topic = br.readLine();
                 String answerType = br.readLine();
                 System.out.println(questionType + ": " + topic + " " + answerType);
@@ -55,11 +55,12 @@ public class Proctor {
                 stopwatch.stop();
                 boolean outOfTime = false;
                 if (questionType.equals("TOSS UP")) {
-                    if (stopwatch.getElapsedTimeMillis()>5000) {
+                    qCount++;
+                    if (stopwatch.getElapsedTimeMillis()>10000) {
                         outOfTime = true;
                     }
                 } else if (questionType.equals("BONUS")) {
-                    if (stopwatch.getElapsedTimeMillis()>20000) {
+                    if (stopwatch.getElapsedTimeMillis()>25000) {
                         outOfTime = true;
                     }
                 }
@@ -91,11 +92,12 @@ public class Proctor {
                 System.out.println("--------------------------------------");
             }
             String skip = br.readLine();
-            qCount++;
+            if (qCount == 25) {
+                done = true;
+            }
         }
-        System.out.println("Thanks for booling.");
         System.out.print("Final score: " + score + ". ");
-
+        analyzePerformance(score);
     }
 
     private void skipQuestion(BufferedReader br) throws IOException {
