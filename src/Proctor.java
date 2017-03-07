@@ -17,8 +17,9 @@ public class Proctor {
     private final int FAST_MODE_TOSS_UP = 10000;
     private final int FAST_MODE_BONUS = 25000;
 
-    public Proctor() {
+    public Proctor() throws IOException, InterruptedException {
         getSetAndRound();
+        readQuestions();
     }
 
     private void getSetAndRound() {
@@ -84,7 +85,7 @@ public class Proctor {
         }
     }
 
-    public void readQuestions() throws IOException, InterruptedException {
+    private void readQuestions() throws IOException, InterruptedException {
         String filepath = "Set" + set + "Round" + round + ".txt";
         File file = new File(filepath);
         BufferedReader br = new BufferedReader(new FileReader(file));
