@@ -26,10 +26,6 @@ public class Stopwatch {
         return elapsed;
     }
 
-    public void giveBuffer(long millis) {
-        this.startTime -= millis;
-    }
-
     public boolean isRunning() {
         return running;
     }

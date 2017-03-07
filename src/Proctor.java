@@ -1,20 +1,90 @@
 import java.io.*;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
  * Created by nishu on 3/1/2017.
  */
 public class Proctor {
+    private boolean fastMode;
+    private final double OFFSET_MULTIPLIER = 53.398058252427184466019417475728;
     private boolean correct = true;
     private Stopwatch stopwatch = new Stopwatch();
     private int set;
     private int round;
-    public Proctor(int set, int round) {
-        this.set = set;
-        this.round = round;
+    private final int SLOW_MODE_TOSS_UP = 5000;
+    private final int SLOW_MODE_BONUS = 20000;
+    private final int FAST_MODE_TOSS_UP = 10000;
+    private final int FAST_MODE_BONUS = 25000;
+
+    public Proctor() {
+        getSetAndRound();
     }
 
-    public void readQuestions() throws IOException {
+    private void getSetAndRound() {
+        Scanner scan = new Scanner(System.in);
+        boolean setFound = false;
+        while (!setFound) {
+            System.out.print("Enter set number from 1 to 8\n> ");
+            String input = scan.nextLine();
+            try {
+                set = Integer.parseInt(input);
+                if (set > 1 && set <= 8) {
+                    System.out.println("Sorry, that set of science bowl rounds does not exist yet!");
+                } else if (set > 8 || set <= 0) {
+                    System.out.println("That is not a valid set number.");
+                } else {
+                    System.out.println("Set " + set + " chosen.");
+                    setFound = true;
+                }
+            } catch (NumberFormatException | NoSuchElementException e) {
+                System.out.println("Please enter a valid number.");
+            }
+        }
+
+        boolean roundFound = false;
+        int maxRound;
+        while (!roundFound) {
+            if (set == 5 || set == 6) {
+                System.out.print("This set contains 15 science bowl rounds. Enter a number from 1 to 15\n> ");
+                maxRound = 15;
+            } else {
+                System.out.print("This set contains 17 science bowl rounds. Enter a number from 1 to 17\n> ");
+                maxRound = 17;
+            }
+            String input = scan.nextLine();
+            try {
+                round = Integer.parseInt(input);
+                if (round > 5 && round <= maxRound) {
+                    System.out.println("Sorry, that science bowl round does not exist yet!");
+                } else if (round > maxRound || round <= 0) {
+                    System.out.println("That is not a valid round number.");
+                } else {
+                    System.out.println("Round " + round + " chosen.");
+                    roundFound = true;
+                }
+            } catch (NumberFormatException | NoSuchElementException e) {
+                System.out.println("Please enter a valid number.");
+            }
+        }
+
+        boolean speedFound = false;
+        while (!speedFound) {
+            System.out.print("Fast or slow question speed? Type 'fast' for fast or 'slow' for slow.\n> ");
+            String input = scan.nextLine();
+            if (input.equalsIgnoreCase("fast")) {
+                fastMode = true;
+                speedFound = true;
+            } else if (input.equalsIgnoreCase("slow")) {
+                fastMode = true;
+                speedFound = true;
+            } else {
+                System.out.println("Not a valid answer.");
+            }
+        }
+    }
+
+    public void readQuestions() throws IOException, InterruptedException {
         String filepath = "Set" + set + "Round" + round + ".txt";
         File file = new File(filepath);
         BufferedReader br = new BufferedReader(new FileReader(file));
@@ -28,16 +98,17 @@ public class Proctor {
             try {
                 questionType.isEmpty();
             } catch (NullPointerException e) {
-                skipQuestion(br);
                 done = true;
             }
             if (!correct && questionType.equals("BONUS")) {
                 skipQuestion(br);
             } else if (!done) {
+                int totalChars = 0;
                 String topic = br.readLine();
                 String answerType = br.readLine();
                 System.out.println(questionType + ": " + topic + " " + answerType);
                 String question = br.readLine();
+                totalChars = question.length();
                 System.out.println(question);
                 if (answerType.equals("MULTIPLE CHOICE")) {
                     String w = br.readLine();
@@ -48,23 +119,35 @@ public class Proctor {
                     System.out.println(x);
                     System.out.println(y);
                     System.out.println(z);
+                    totalChars+=w.length();
+                    totalChars+=x.length();
+                    totalChars+=y.length();
+                    totalChars+=z.length();
                 }
-                stopwatch.giveBuffer(1000);
+                if (!fastMode) {
+                    Thread.sleep((long) (totalChars * OFFSET_MULTIPLIER));
+                    System.out.println("TIMER START");
+                }
                 stopwatch.start();
                 String userAnswer = user.nextLine();
                 stopwatch.stop();
                 boolean outOfTime = false;
                 if (questionType.equals("TOSS UP")) {
                     qCount++;
-                    if (stopwatch.getElapsedTimeMillis()>10000) {
+                    if (fastMode && stopwatch.getElapsedTimeMillis()>FAST_MODE_TOSS_UP) {
+                        outOfTime = true;
+                    } else if (!fastMode && stopwatch.getElapsedTimeMillis()>SLOW_MODE_TOSS_UP) {
                         outOfTime = true;
                     }
                 } else if (questionType.equals("BONUS")) {
-                    if (stopwatch.getElapsedTimeMillis()>25000) {
+                    if (fastMode && stopwatch.getElapsedTimeMillis()>FAST_MODE_BONUS) {
+                        outOfTime = true;
+                    } else if (!fastMode && stopwatch.getElapsedTimeMillis()>SLOW_MODE_BONUS) {
                         outOfTime = true;
                     }
                 }
-                String[] correctAnswers = br.readLine().split(" OR ");
+                String answers = br.readLine();
+                String[] correctAnswers = answers.split(" OR ");
                 if (outOfTime) {
                     System.out.println("Your response was out of time.");
                     correct = false;
@@ -86,13 +169,20 @@ public class Proctor {
                     if (wrongCount == correctAnswers.length) {
                         System.out.println("Incorrect.");
                         correct = false;
+
+                        System.out.println("Accepted answer(s): " + answers);
                     }
                 }
                 System.out.println("Current score: " + score);
                 System.out.println("--------------------------------------");
+                if (!fastMode) {
+                    Thread.sleep(2500);
+                }
             }
             String skip = br.readLine();
-            if (qCount == 25) {
+            if (qCount == 25 && !correct) {
+                done = true;
+            } else if (qCount == 25 && correct && questionType.equals("BONUS")) {
                 done = true;
             }
         }
@@ -115,14 +205,16 @@ public class Proctor {
     }
 
     private void analyzePerformance(int score) {
-        if (score < 20) {
-            System.out.println("Who are you, Kennewick?.");
+        if (score == 0) {
+            System.out.println("Were you actually playing or did you seriously drop a 0?");
+        } else if (score < 20) {
+            System.out.println("A Kennewick-esque performance.");
         } else if (score < 40) {
-            System.out.println("Could have been worse.");
+            System.out.println("You know, it could have been worse.");
         } else if (score < 70) {
             System.out.println("Hey, that's pretty good.");
         } else if (score < 100) {
-            System.out.println("You would probably win most games.");
+            System.out.println("Alright, you would probably win most games.");
         } else if (score < 350) {
             System.out.println("Nationals-bound, I presume.");
         } else {

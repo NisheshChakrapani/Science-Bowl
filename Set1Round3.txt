@@ -215,7 +215,7 @@ x OR diffusion
 BONUS
 CHEMISTRY
 MULTIPLE CHOICE
-In addition to the “sniff test”, which of the following is a standard laboratory test for a sulfide, such as hydrogen sulfide gas:
+In addition to the "sniff test", which of the following is a standard laboratory test for a sulfide, such as hydrogen sulfide gas:
 W) the gas passed over a filter paper soaked in colorless lead nitrate turns the paper brown
 X) when inserted into a flame, a glowing wooden splint bursts into flames
 Y) a flame test gives off a deep purple color
@@ -273,7 +273,7 @@ EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is LEAST accurate regarding earthquakes:
 W) scientists agree that mega-quakes of magnitude 10 are very likely in the near future
-X) the world’s greatest earthquake zone is the circum-Pacific seismic belt
+X) the world's greatest earthquake zone is the circum-Pacific seismic belt
 Y) Alaska has the greatest number of earthquakes in the U.S.
 Z) deep earthquakes are much less likely to be followed by aftershocks than shallow earthquakes
 w OR scientists agree that mega-quakes of magnitude 10 are very likely in the near future
@@ -305,7 +305,7 @@ constellations OR constellation
 TOSS UP
 PHYSICS
 SHORT ANSWER
-In one cycle of alternating current, 180º is given to the point at what fractional amount of the way through the cycle?
+In one cycle of alternating current, 180 degrees is given to the point at what fractional amount of the way through the cycle?
 1/2 OR half OR one half OR one-half
 
 BONUS
@@ -317,7 +317,7 @@ If the speed of sound in a certain medium is 360 meters per second, what is the 
 TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
-Which of the following is a gas that is tested for by ignition in air on contact with a lighted splint to produce a high-pitched “popping” sound:
+Which of the following is a gas that is tested for by ignition in air on contact with a lighted splint to produce a high-pitched "popping" sound:
 W) oxygen
 X) hydrogen
 Y) helium
