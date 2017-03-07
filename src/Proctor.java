@@ -55,7 +55,7 @@ public class Proctor {
             String input = scan.nextLine();
             try {
                 round = Integer.parseInt(input);
-                if (round > 5 && round <= maxRound) {
+                if (round > 6 && round <= maxRound) {
                     System.out.println("Sorry, that science bowl round does not exist yet!");
                 } else if (round > maxRound || round <= 0) {
                     System.out.println("That is not a valid round number.");
@@ -76,7 +76,7 @@ public class Proctor {
                 fastMode = true;
                 speedFound = true;
             } else if (input.equalsIgnoreCase("slow")) {
-                fastMode = true;
+                fastMode = false;
                 speedFound = true;
             } else {
                 System.out.println("Not a valid answer.");
