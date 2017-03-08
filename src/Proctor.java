@@ -86,6 +86,7 @@ public class Proctor {
     }
 
     private void readQuestions() throws IOException, InterruptedException {
+        readRules();
         String filepath = "Set" + set + "Round" + round + ".txt";
         File file = new File(filepath);
         BufferedReader br = new BufferedReader(new FileReader(file));
@@ -94,6 +95,7 @@ public class Proctor {
         int score = 0;
         int qCount = 0;
         while (!done) {
+            boolean interrupt = false;
             stopwatch.reset();
             String questionType = br.readLine();
             try {
@@ -135,15 +137,20 @@ public class Proctor {
                 boolean outOfTime = false;
                 if (questionType.equals("TOSS UP")) {
                     qCount++;
-                    if (fastMode && stopwatch.getElapsedTimeMillis()>FAST_MODE_TOSS_UP) {
+                    long elapsed = stopwatch.getElapsedTimeMillis();
+                    if (fastMode && elapsed>FAST_MODE_TOSS_UP) {
                         outOfTime = true;
-                    } else if (!fastMode && stopwatch.getElapsedTimeMillis()>SLOW_MODE_TOSS_UP) {
+                    } else if (!fastMode && elapsed>SLOW_MODE_TOSS_UP) {
                         outOfTime = true;
                     }
+                    if (!fastMode && elapsed == 0) {
+                        interrupt = true;
+                    }
                 } else if (questionType.equals("BONUS")) {
-                    if (fastMode && stopwatch.getElapsedTimeMillis()>FAST_MODE_BONUS) {
+                    long elapsed = stopwatch.getElapsedTimeMillis();
+                    if (fastMode && elapsed>FAST_MODE_BONUS) {
                         outOfTime = true;
-                    } else if (!fastMode && stopwatch.getElapsedTimeMillis()>SLOW_MODE_BONUS) {
+                    } else if (!fastMode && elapsed>SLOW_MODE_BONUS) {
                         outOfTime = true;
                     }
                 }
@@ -170,15 +177,15 @@ public class Proctor {
                     if (wrongCount == correctAnswers.length) {
                         System.out.println("Incorrect.");
                         correct = false;
-
+                        if (interrupt && questionType.equals("TOSS UP")) {
+                            System.out.println("You interrupted and got it wrong, so you lose 4 points.");
+                            score-=4;
+                        }
                         System.out.println("Accepted answer(s): " + answers);
                     }
                 }
                 System.out.println("Current score: " + score);
                 System.out.println("--------------------------------------");
-                if (!fastMode) {
-                    Thread.sleep(2500);
-                }
             }
             String skip = br.readLine();
             if (qCount == 25 && !correct) {
@@ -186,9 +193,22 @@ public class Proctor {
             } else if (qCount == 25 && correct && questionType.equals("BONUS")) {
                 done = true;
             }
+            if (!fastMode) {
+                System.out.print("Next question? Type 'y' for yes or 'n' for no\n> ");
+                String input = user.nextLine();
+                while (!input.equalsIgnoreCase("y") && !input.equalsIgnoreCase("n")) {
+                    System.out.print("Type 'y' for yes or 'n' for no\n> ");
+                    input = user.nextLine();
+                }
+                if (input.equalsIgnoreCase("n")) {
+                    done = true;
+                }
+            }
+            System.out.println();
         }
         System.out.print("Final score: " + score + ". ");
         analyzePerformance(score);
+        System.out.println("Thank you for using the Science Bowl Simulator!");
     }
 
     private void skipQuestion(BufferedReader br) throws IOException {
@@ -206,7 +226,9 @@ public class Proctor {
     }
 
     private void analyzePerformance(int score) {
-        if (score == 0) {
+        if (score < 0) {
+            System.out.println("A little bit too quick on the trigger, are we?");
+        } else if (score == 0) {
             System.out.println("Were you actually playing or did you seriously drop a 0?");
         } else if (score < 20) {
             System.out.println("A Kennewick-esque performance.");
@@ -221,5 +243,26 @@ public class Proctor {
         } else {
             System.out.println("Dang, you're Skyline-Team-1-level good.");
         }
+    }
+
+    private void readRules() {
+        System.out.println();
+        System.out.println("Science bowl rules: 4 points for every correct toss-up, 10 for every correct bonus. You get 5 seconds to answer a toss-up and 20 for a bonus.");
+        if (fastMode) {
+            System.out.println("In fast mode, questions will keep coming at you at a very fast pace. Be ready!");
+        } else {
+            System.out.println("In slow mode, the reading of the question is simulated. When the question is \"fully read\", the words \"TIMER START\" will appear." +
+                    "\nIf you answer the question before this pop-up, it is treated as an interrupt. On toss-ups, if you interrupt and get the answer right, you earn points as usual. However, " +
+                    "if you interrupt and get it wrong, you lose points. Interrupts do not matter in bonuses.");
+        }
+        System.out.println();
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Type 'start' to begin the game\n> ");
+        String input = scan.nextLine();
+        while (!input.equalsIgnoreCase("start")) {
+            System.out.print("Type 'start' to begin the game\n> ");
+            input = scan.nextLine();
+        }
+        System.out.println();
     }
 }
