@@ -252,7 +252,7 @@ public class Proctor {
             System.out.println("In fast mode, questions will keep coming at you at a very fast pace. Be ready!");
         } else {
             System.out.println("In slow mode, the reading of the question is simulated. When the question is \"fully read\", the words \"TIMER START\" will appear." +
-                    "\nIf you answer the question before this pop-up, it is treated as an interrupt. On toss-ups, if you interrupt and get the answer right, you earn points as usual. However, " +
+                    "\nIf you answer the question before this pop-up, it is treated as an interrupt. On toss-ups, if you interrupt and get the answer right, you earn points as usual. \nHowever, " +
                     "if you interrupt and get it wrong, you lose points. Interrupts do not matter in bonuses.");
         }
         System.out.println();
