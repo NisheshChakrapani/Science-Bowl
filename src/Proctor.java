@@ -193,14 +193,12 @@ public class Proctor {
             } else if (qCount == 25 && correct && questionType.equals("BONUS")) {
                 done = true;
             }
-            boolean y = false;
-            if (!fastMode && !y) {
+            if (!fastMode && correct) {
                 System.out.print("Next question? Type 'y' for yes or 'n' for no\n> ");
                 String input = user.nextLine();
                 while (!input.equalsIgnoreCase("y") && !input.equalsIgnoreCase("n")) {
                     System.out.print("Type 'y' for yes or 'n' for no\n> ");
                     input = user.nextLine();
-                    y = true;
                 }
                 if (input.equalsIgnoreCase("n")) {
                     done = true;
