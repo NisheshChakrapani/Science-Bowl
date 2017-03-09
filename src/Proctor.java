@@ -56,7 +56,7 @@ public class Proctor {
             String input = scan.nextLine();
             try {
                 round = Integer.parseInt(input);
-                if (round > 6 && round <= maxRound) {
+                if (round > 10 && round <= maxRound) {
                     System.out.println("Sorry, that science bowl round does not exist yet!");
                 } else if (round > maxRound || round <= 0) {
                     System.out.println("That is not a valid round number.");
@@ -97,19 +97,19 @@ public class Proctor {
         while (!done) {
             boolean interrupt = false;
             stopwatch.reset();
-            String questionType = br.readLine();
+            String questionType = br.readLine().trim();
             try {
                 questionType.isEmpty();
             } catch (NullPointerException e) {
                 done = true;
             }
-            if (!correct && questionType.equals("BONUS")) {
+            if (!correct && !questionType.contains("TOSS UP")) {
                 skipQuestion(br);
             } else if (!done) {
                 int totalChars = 0;
                 String topic = br.readLine();
                 String answerType = br.readLine();
-                System.out.println(questionType + ": " + topic + " " + answerType);
+                System.out.println(questionType.trim() + ": " + topic + " " + answerType);
                 String question = br.readLine();
                 totalChars = question.length();
                 System.out.println(question);
@@ -135,7 +135,7 @@ public class Proctor {
                 String userAnswer = user.nextLine();
                 stopwatch.stop();
                 boolean outOfTime = false;
-                if (questionType.equals("TOSS UP")) {
+                if (questionType.contains("TOSS UP")) {
                     qCount++;
                     long elapsed = stopwatch.getElapsedTimeMillis();
                     if (fastMode && elapsed>FAST_MODE_TOSS_UP) {
@@ -146,7 +146,7 @@ public class Proctor {
                     if (!fastMode && elapsed == 0) {
                         interrupt = true;
                     }
-                } else if (questionType.equals("BONUS")) {
+                } else  {
                     long elapsed = stopwatch.getElapsedTimeMillis();
                     if (fastMode && elapsed>FAST_MODE_BONUS) {
                         outOfTime = true;
@@ -165,7 +165,7 @@ public class Proctor {
                         if (userAnswer.equalsIgnoreCase(correctAnswer.trim())) {
                             System.out.println("Correct.");
                             correct = true;
-                            if (questionType.equals("TOSS UP")) {
+                            if (questionType.contains("TOSS UP")) {
                                 score += 4;
                             } else {
                                 score += 10;
@@ -177,7 +177,7 @@ public class Proctor {
                     if (wrongCount == correctAnswers.length) {
                         System.out.println("Incorrect.");
                         correct = false;
-                        if (interrupt && questionType.equals("TOSS UP")) {
+                        if (interrupt && questionType.contains("TOSS UP")) {
                             System.out.println("You interrupted and got it wrong, so you lose 4 points.");
                             score-=4;
                         }
@@ -203,8 +203,8 @@ public class Proctor {
                 if (input.equalsIgnoreCase("n")) {
                     done = true;
                 }
+                System.out.println();
             }
-            System.out.println();
         }
         System.out.print("Final score: " + score + ". ");
         analyzePerformance(score);

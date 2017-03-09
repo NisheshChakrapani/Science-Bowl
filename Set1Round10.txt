@@ -6,9 +6,9 @@ W)  sodium ions
 X)  potassium ions 
 Y)  magnesium ions 
 Z)  proteins 
-z OR proteins 
+z OR proteins
 
-BONUS 
+BONUS
 BIOLOGY
 SHORT ANSWER
 What human organ produces the majority of immune complement proteins? 
@@ -24,7 +24,7 @@ Y)  HCl
 Z)  HNO2 
 w OR h2c2o4 
 
-BONUS 
+BONUS
 CHEMISTRY
 MULTIPLE CHOICE
 Which of the following statements is NOT true: 
