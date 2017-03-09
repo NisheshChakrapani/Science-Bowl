@@ -56,7 +56,7 @@ public class Proctor {
             String input = scan.nextLine();
             try {
                 round = Integer.parseInt(input);
-                if (round > 10 && round <= maxRound) {
+                if (round > 11 && round <= maxRound) {
                     System.out.println("Sorry, that science bowl round does not exist yet!");
                 } else if (round > maxRound || round <= 0) {
                     System.out.println("That is not a valid round number.");
@@ -193,12 +193,14 @@ public class Proctor {
             } else if (qCount == 25 && correct && questionType.equals("BONUS")) {
                 done = true;
             }
-            if (!fastMode) {
+            boolean y = false;
+            if (!fastMode && !y) {
                 System.out.print("Next question? Type 'y' for yes or 'n' for no\n> ");
                 String input = user.nextLine();
                 while (!input.equalsIgnoreCase("y") && !input.equalsIgnoreCase("n")) {
                     System.out.print("Type 'y' for yes or 'n' for no\n> ");
                     input = user.nextLine();
+                    y = true;
                 }
                 if (input.equalsIgnoreCase("n")) {
                     done = true;
