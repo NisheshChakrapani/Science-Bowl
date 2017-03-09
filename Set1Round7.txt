@@ -1,0 +1,371 @@
+﻿TOSS UP
+BIOLOGY
+SHORT ANSWER
+If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end? 
+carboxyl 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the most common name of the protein that synthesizes DNA? 
+dna polymerase OR polymerase
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following compounds is used as a fuel additive in what is commonly known as “dry-gas” by solubilizing water to reduce its contamination in gasoline: 
+W)  isooctane 
+X)  glycerol 
+Y)  MTBE 
+Z)  isopropyl alcohol 
+z OR isopropyl alcohol 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+The molar heat of vaporization for water at its boiling point and in kilojoules per mole is: 
+W)  6.01 
+X)  40.7 
+Y)  540 
+Z)  2,260 
+x OR 40.7 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge’s motion and direction of the magnetic field.   Which of the following is the MOST common name for this force: 
+W)  B field 
+X)  Lorentz force 
+Y)  electrodynamic force 
+Z)  Faraday force 
+x OR lorentz force 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following BEST describes the Lorentz Contraction: 
+W)  reduction in the mass of a body as it approaches the speed of light 
+X)  reduction in the length of a body along the direction of motion as it approaches the speed of light 
+Y)  loss of kinetic energy when any object slows 
+Z)  loss of potential energy when any body emits electromagnetic radiation 
+x OR reduction in the length of a body along the direction of motion as it approaches the speed of light
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and –3, –4? 
+–10 
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for x: –2|3 + (x/2)| = –10
+4 and –16 
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the most common name for the temperature-slope or depth interval over which temperature changes with depth in a lake? 
+thermocline 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Trilobites are index fossils that lived: 
+W)  in warm, ocean waters 
+X)  during the Achaean geological time 
+Y)  in desert environments 
+Z)  in lakes, rivers and streams 
+w OR in warm, ocean waters 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the water’s surface.  Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters:
+W)  they are genetically engineered and their impact on human heath has not been assessed  
+X)  they were irradiated prior to seeding to ensure they were disease-free 
+Y)  there is a water pollution advisory against eating oysters grown within most of the watershed 
+Z)  some are equipped with a radio transmitter to allow biologists to easily measure population changes  
+y OR there is a water pollution advisory against eating oysters grown within most of the watershed
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+If one of Earth’s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it move in 100 million years? 
+10000
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits? 
+mars 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What object in the night sky can reach a maximum apparent magnitude of negative 12.6? 
+moon OR full moon
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the main respiratory pigment of skeletal muscle cells? 
+myoglobin 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet? 
+secondary 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+An increase in which of the following conditions would NOT lead to an increase in pressure of a gas in a piston: 
+W)  increased temperature 
+X)  increased number of gas molecules 
+Y)  increased average kinetic energy of gas particles 
+Z)  increased volume 
+z OR increased volume 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+To the nearest whole number, how many grams of Na2SO4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution? 
+7
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following best describes the concept upon which Kirchhoff’s current law or first law is based: 
+W)  charges come in unit dimensions  
+X)  all charges flow from the negative to the positive 
+Y)  charge can neither be created nor destroyed 
+Z)  what goes up must come down 
+y OR charge can neither be created nor destroyed 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Give by NUMBER all of the following 4 choices that would be considered units of electrical power:  1) ampere volt;  2) joules per second;  3) watts;  4) coulombs. Type answer in form "<answer1>, <answer2>, ..." or type "none" for none.
+1, 2, 3 OR 1, 3, 2 OR 2, 1, 3 OR 2, 3, 1 OR 3, 1, 2 OR 3, 2, 1
+
+TOSS UP
+MATH
+SHORT ANSWER
+Giving your answer as up, down, left, or right, the graph of the equation x = 5y – 8y^2 – 1 opens in what direction? 
+left 
+
+BONUS 
+MATH
+SHORT ANSWER
+If $10,000 is placed in a savings account that pays 5% interest compounded annually, how many dollars are in the account at the end of 2 years, to the nearest dollar? 
+11025
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen: 
+W)  ozone 
+X)  carbon monoxide 
+Y)  nitrous oxide 
+Z)  methane 
+w OR ozone 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air? 
+stationary OR stationary frontal boundary OR stationary front
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Geothermal power plants use which of the following to generate electricity: 
+W)  coal 
+X)  steam 
+Y)  sunlight  
+Z)  pressurized water 
+x OR steam 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Diatoms are: 
+W)  bacteria 
+X)  twinned crystals 
+Y)  seaweed 
+Z)  algae  
+z OR algae 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following statements is LEAST accurate: 
+W)  solar eclipses are less common than lunar eclipses 
+X)  stars that begin their lives with greater mass have longer life-spans 
+Y)  stars in the same constellation are not necessarily at the same distance from Earth 
+Z)  M-31 is a galaxy 
+x OR stars that begin their lives with greater mass have longer life-spans
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+In what constellation is the brightest-appearing star in the night sky? 
+canis major 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What specific biological process is believed to have produced most of the diatomic oxygen in the Earth’s atmosphere? 
+photosynthesis 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+In photosynthesis II, what is light energy most notably used to initially accomplish? 
+splitting of water 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane? 
+tetrahedral 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is considered a weak acid: 
+W)  HCO2H 
+X)  HClO4 
+Y)  HNO3 
+Z)  HBr 
+w OR hco2h 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy? 
+capacitor 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the SI unit of capacitance equal to one coulomb per volt? 
+farad 
+
+TOSS UP
+MATH
+SHORT ANSWER
+In what quadrant does θ terminate if sine θ is positive and secant θ is negative? 
+2nd OR 2 OR II OR second 
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for all real values of x: (1/8)x^2 - (1/4)x - 1 = 0. Type as "<answer1> and <answer2>".
+-4 and 2 OR 2 and -4
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following rocks is MOST porous: 
+W)  marble 
+X)  granite 
+Y)  limestone  
+Z)  slate 
+y OR limestone 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective: 
+W)  ground limestone 
+X)  ground oyster shells 
+Y)  pure CaCO3 
+Z)  gypsum 
+z OR gypsum 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is used as a white pigment in paint, paper, and plastics: 
+W)  Teflon 
+X)  zeolites 
+Y)  titanium dioxide 
+Z)  diatomaceous earth  
+y OR titanium dioxide 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Cats have a special layer of tissue behind their retina called the tapetum lucidum that does which of the following: 
+W)  reflects back to the retina stray photons of light 
+X)  allows for color vision 
+Y)  allows only for black, white and grey vision 
+Z)  serves as a second eyelid to protect the eye 
+w OR reflects back to the retina stray photons of light 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter? 
+gravity 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+During what month is the average surface temperature of the Earth typically the highest? 
+july 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+In what specific part of the testes does spermatogenesis occur in mammals? 
+seminiferous tubules 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system?   
+thymus 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+When a strip of sodium reacts with dilute HCl, what gas is produced? 
+hydrogen 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+The release of hydrogen gas in the above experiment is called: 
+W)  combustion 
+X)  effervescence 
+Y)  diffusion  
+Z)  ebullition 
+x OR effervescence 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What was the electrolyte used in the first voltaic piles built by Volta? 
+brine OR salt water
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run? 
+180 ohms 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the most common name for the micro-gametophyte in flowering plants? 
+pollen OR pollen grains
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Sieve cells and sieve tube members are types of what specific conductive plant cell type? 
+phloem 

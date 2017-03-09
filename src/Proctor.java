@@ -162,7 +162,7 @@ public class Proctor {
                 } else {
                     int wrongCount = 0;
                     for (String correctAnswer : correctAnswers) {
-                        if (userAnswer.equalsIgnoreCase(correctAnswer)) {
+                        if (userAnswer.equalsIgnoreCase(correctAnswer.trim())) {
                             System.out.println("Correct.");
                             correct = true;
                             if (questionType.equals("TOSS UP")) {
