@@ -1,0 +1,384 @@
+﻿TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  any foreign substance added to water will cause a freezing point drop 
+X)  a nonvolatile solute raises the boiling point of a solvent 
+Y)  methane has a higher boiling point than ethane 
+Z)  freezing point depression is a colligative property 
+y OR methane has a higher boiling point than ethane 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+According to standard chemical nomenclature, what is the formula for aluminum bicarbonate? 
+al(hco3)3 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following types of biological molecules is digested by trypsin: 
+W)  proteins 
+X)  nucleic acids 
+Y)  carbohydrates 
+Z)  lipids 
+w OR proteins 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 4 choices that are typically considered human autoimmune dysfunctions:  Rheumatoid arthritis;  Lupus;  shingles;  Down’s syndrom. Type as "<answer1>, <answer2>, ..." or type "none" for none.
+rheumatoid arthritis, lupus OR lupus, rheumatoid arthritis 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is closest to the radius of a hydrogen nucleus: 
+W)  1 micrometer  
+X)  1 angstrom 
+Y)  1 picometer 
+Z)  1 femtometer 
+z OR 1 femtometer 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Consider a planet where g equals 5.0 meters per second squared. Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 seconds, giving your answer in standard SI units?  
+40 meters OR 40 m
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+The graph of the relation y = -(sqrt(25 - x^2)) is a: 
+W)  circle 
+X)  semi-circle 
+Y)  parabola 
+Z)  straight line 
+x OR semi-circle 
+
+BONUS 
+MATH
+SHORT ANSWER
+If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find y when x = 10 and z = 20: 
+120 
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the third most common gas naturally found in the Earth’s clean, dry atmosphere?   
+argon 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+The Earth’s greenhouse effect is primarily caused by which of the following: 
+W)  incoming solar ultraviolet light is absorbed by the ozone layer 
+X)  outgoing infrared solar radiation is trapped by the lower atmosphere 
+Y)  incoming infrared solar radiation is trapped by the magnetic field 
+Z)  outgoing X-rays are absorbed by the troposphere and reflected to the Earth’s surface  
+x OR outgoing infrared solar radiation is trapped by the lower atmosphere
+ 
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska.  Which of the following would be the BEST mosquito attractant to ensure he traps the greatest number and variety of mosquitoes: 
+W)  oxygen  
+X)  nitrogen  
+Y)  dry ice 
+Z)  methane 
+y OR dry ice 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Rounded to the nearest whole number, convert 3,000 meters per second into kilometers per hour. Do not include units.
+10800 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is LEAST accurate: 
+W)  most stars visible to the unaided eye are part of the Milky Way galaxy 
+X)  there are 88 constellations officially recognized by the IAU 
+Y)  a red supergiant has a hotter surface than our Sun 
+Z)  the constellation Leo is located within 9º of the ecliptic 
+y OR a red supergiant has a hotter surface than our sun 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  the core of a red supergiant is hotter than the core of a main sequence K-type star 
+X)  helium flash is something that occurs in red giant stars 
+Y)  the Pleiades is an open star cluster 
+Z)  there is more lithium than carbon in the universe  
+z OR there is more lithium than carbon in the universe 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Carbon monoxide, or CO, will be adsorbed onto the surface of which of the following metals the MOST strongly: 
+W)  iron 
+X)  nickel 
+Y)  cobalt 
+Z)  gold 
+w OR iron 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Arrange the following 3 choices in order of increasing bond energies:  O2;  N2;  F2. Type as "<answer1>, <answer2>, <answer3>".
+f2, o2, n2 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+At which of the following pH levels will human pepsin be most active: 
+W)  2 
+X)  4 
+Y)  6 
+Z)  8 
+w OR 2 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the most plentiful class of immunoglobulins in human plasma? 
+igg OR g OR immunoglobulin g
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What constant is given as the amount of electric charge per mole of electrons? 
+faraday constant OR faraday
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following best describes the direction of the force on an electron moving through a magnetic field: 
+W)  opposite to the direction of the velocity 
+X)  the same direction as the velocity 
+Y)  the same direction as the magnetic field 
+Z)  perpendicular to the magnetic field 
+z OR perpendicular to the magnetic field 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following is a second quadrant angle in standard position: 
+W)  500 degrees
+X)  –180 degrees 
+Y)  –680 degrees
+Z)  930 degrees
+w OR 500 degrees
+
+BONUS 
+MATH
+SHORT ANSWER
+Giving your answer in simplest radical form, rationalize sqrt(960). Type as "<number> root <number>".
+8 root 15
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with 
+good cleavage: 
+W)  biotite 
+X)  olivine 
+Y)  plagioclase 
+Z)  quartz 
+w OR biotite 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true of basalt and gabbro: 
+W)  they formed from magma at the same temperature 
+X)  they are derived from basaltic magma 
+Y)  they formed from magma with the same silica content 
+Z)  they are both intrusive igneous rocks 
+z OR they are both intrusive igneous rocks 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder.  Each time they are deployed to the field, a small amount of light oil is added to the cylinder.  This is done to: 
+W)  deter birds from drinking the water 
+X)  stop the canister from oxidizing 
+Y)  prevent the growth of blue-green algae 
+Z)  prevent water evaporation 
+z OR prevent water evaporation 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is a widely-used analgesic and antipyretic medication which is not considered an NSAID (read as: en-say’d): 
+W)  acetylcysteine 
+X)  acetaminophen 
+Y)  acetylsalicylic acid 
+Z)  ibuprophen 
+x OR acetaminophen 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months: 
+W)  the planet Venus passing within a few degrees of the Moon a few hours after sunset  
+X)  the Moon at perigee 
+Y)  the planet Saturn passing with 5 degrees of the Moon 
+Z)  the planet Mercury within 10 degrees of the zenith 
+z OR the planet mercury within 10 degrees of the zenith 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Through how many degrees does the Earth rotate in 8 hours? 
+120 OR 120 degrees
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+The molal is a concentration unit that is most appropriately used in experimental designs that determine: 
+W)  freezing point depression 
+X)  osmotic pressure 
+Y)  density 
+Z)  vapor pressure lowering 
+w OR freezing point depression 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A 4.0 gram sample of calcium chloride contains 6.0 × 1022 cations.  Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl2.  Assume the atomic mass of calcium is 40 and chloride is 35. Type as "<number> x 10^<number>".
+6 x 10^22
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is the main target of bacteria by the antibiotic penicillin: 
+W)  energy production 
+X)  DNA synthesis   
+Y)  cell wall synthesis  
+Z)  translation 
+y OR cell wall synthesis 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the most common term for the form of protection when a non-poisonous frog has the same appearance as a poisonous frog? 
+batesian mimicry OR mimicry OR warning mimicry
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+During positron emission, which of the following most likely occurs: 
+W)  a proton changes to an electron 
+X)  a proton changes to a neutron  
+Y)  a neutron changes to an electron   
+Z)  a neutron changes to a proton 
+x OR a proton changes to a neutron 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Name all of the following 4 isotopes that release energy if they undergo fission:  helium-4;  hydrogen-2;  uranium-235;  iron-56. Type as "<answer1>, <answer2>, ..." or type "none" for none.
+uranium-235 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Identify the type of conic section represented by the equation, x^2 + y^2 + 10y + 16 = 0: 
+circle 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters. Type as "<number> root <number>".
+48 root 3 
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What type of fog frequently forms in valleys when the wind is light and the ground cools until the dew point is reached? 
+radiation fog OR radiation OR radiational 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Giving your answer as morning, afternoon, evening, or night, when does most radiational cooling occur for any location in the U.S.? 
+night 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What is the sling psychrometer used to measure? 
+humidity OR relative humidity OR ambient humidity
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+From which of the following is camphor derived: 
+W)  petroleum distillate 
+X)  the wood of an evergreen tree of the laurel family 
+Y)  the bark of a fir tree from the Mediterranean  
+Z)  the seed pod of the camphor herb 
+x OR the wood of an evergreen tree of the laurel family 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+As seen from the Earth, what planet has the smallest maximum eastern elongation? 
+mercury 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Choosing from noon, sunset, midnight or sunrise, at what time of the day does a new Moon rise for an observer at mid-northern latitudes in September? 
+sunrise 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the electron capacity in each of the 4 sublevels s, p, d, and f, respectively? Type as "s = <number>, p = <number>, d = <number>, f = <number>".
+s = 2, p = 6, d = 10, f = 14 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A sample of oxygen gas is collected over water at 14 degrees C. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone: 
+118.4 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What cell in the peripheral blood is the immediate precursor of the macrophage?  
+monocyte 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 4 cells that are leukocytes: neutrophil;  basophil;  melanocyte;  macrophage 
+neutrophil, basophil OR basophil, neutrophil
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it returns to a ground state, emits a coherent photon? 
+stimulated emission OR stimulated
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature: copper freezes;  water boils;  solar corona;  lead melts 
+water boils, lead melts, copper freezes, solar corona 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Simplify i^17:
+i 
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for x: (2^7)(2^(x^2 - 2)) = 2^21.
+4 OR -4 OR +=4
