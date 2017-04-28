@@ -32,8 +32,6 @@ public class Proctor {
                 set = Integer.parseInt(input);
                 if (set > 1 && set <= 8) {
                     System.out.println("Sorry, that set of science bowl rounds does not exist yet!");
-                } else if (set > 8 || set <= 0) {
-                    System.out.println("That is not a valid set number.");
                 } else {
                     System.out.println("Set " + set + " chosen.");
                     setFound = true;
@@ -227,7 +225,7 @@ public class Proctor {
 
     private void analyzePerformance(int score) {
         if (score < 0) {
-            System.out.println("A little bit too quick on the trigger, are we?");
+            System.out.println("Who are you, Amol?");
         } else if (score == 0) {
             System.out.println("Were you actually playing or did you seriously drop a 0?");
         } else if (score < 20) {

@@ -1,0 +1,387 @@
+﻿TOSS UP
+BIOLOGY
+SHORT ANSWER
+What common organic molecule is made of an adenine residue, a ribose sugar, and three phosphates: 
+atp OR adenosine triphosphate
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Transfer RNA charged with an amino acid is most accurately called: 
+W)  a nascent tRNA 
+X)  a tRNA with an amino acid attached 
+Y)  an amino acyl tRNA  
+Z)  t-primed RNA 
+y OR an amino acyl trna 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+In general, which of the following stereoisomers are the most dissimilar in terms of their physical and chemical properties: 
+W)  conformational 
+X)  mirror-image 
+Y)  enantiomers
+Z)  geometric 
+z OR geometric 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Under constant temperature conditions, a sample of gas has a volume of 8 liters at a pressure of 1.5 atmospheres.  If a 2 liter container is used to hold the gas, calculate the new pressure, in atmospheres: 
+6 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+For two objects separated by a distance d, if the mass of one of the objects increases by two times, by what factor will the gravitational attraction between them increase? 
+2 OR 2 times OR 2x OR two OR two times
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming air resistance is negligible and the gravitational acceleration is 10 meters per second squared, what is the distance traveled, in meters, by a body in free fall after 4 seconds if it started from rest?   
+80 meters OR 80 OR 80 m
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+The lunar maria are: 
+W)  composed of granite 
+X)  less than one billion years old 
+Y)  between three and four billion years old 
+Z)  older than the lunar highlands 
+y OR between three and four billion years old 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Based on what three physical properties do astronomers divide the planets into terrestrial and Jovian:  
+mass, size, density OR mass, density, size OR density, size, mass OR density, mass, size OR size, density, mass OR size, mass, density
+
+TOSS UP
+MATH
+SHORT ANSWER
+What German mathematician in 1865 cut a long rectangular strip of paper, gave the paper a half-twist, and pasted the ends together, to show that a sheet can have only one side? 
+augustus mobius OR mobius
+
+BONUS 
+MATH
+SHORT ANSWER
+In a triangle ABC, angle A = 55° and angle B = 70°. If line segment AB = 3x - 2 and line segment BC = x + 10, what is the value of x? 
+6 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Portions of the Ogallala aquifer are located under: 
+W)  Nebraska  
+X)  the San Jaoquin valley 
+Y)  Arizona  
+Z)  Florida 
+w OR nebraska 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+The seismic discontinuity that marks the base of the crust of the Earth is known as the what? 
+moho OR m discontinuity OR m-discontinuity OR mohoroivicic discontinuity
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Because of its enhanced capacity to refract light, which glass formula is most suitable for making lenses and prisms, as well as for imitation jewels: 
+W)  soda-lime 
+X)  potassium silicate 
+Y)  borosilicate 
+Z)  lead 
+z OR lead 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the general term for the process by which glass is strengthened, which involves reheating the glass until it almost softens and then rapidly and uniformly cooling it again, causing it to go into extreme compression? 
+tempering 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+The allowing of long file names was a primary difference between: 
+W)  DOS and Windows 3.11 
+X)  Windows 3.11 and Windows for Workgroups 
+Y)  Windows 3.11 and Windows 95 
+Z)  Windows 95 and Windows 98 
+y OR windows 3.11 and windows 95 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In Windows 98, long file names can be up to how many characters long: 
+W)  35 
+X)  75 
+Y)  100 
+Z)  255 
+z OR 255 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+The oval window is directly stimulated by the vibrations of what bone? 
+stapes 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Hair is mostly composed of what protein? 
+keratin 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Hydrogen bonding is due to a combination of forces, the most important of which is what type of interaction: 
+W)  dipole-dipole 
+X)  dipole-induced dipole  
+Y)  induced dipole-induced  
+Z)  induced 
+w OR dipole-dipole 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following compounds contains a coordinate covalent bond: 
+W)  NH4+ 
+X)  N2H4 
+Y)  N2 
+Z)  NH3 
+w OR nh4+ 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the most common name for the magnetic fusion confinement system first developed in the USSR that has the shape of a toroid? 
+tokamak 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+In 1995, two scientists from the University of Colorado created what new state of matter that would lead to their winning of a Nobel prize: 
+bose-einstein condensate OR bec 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+What is the most common name for the pattern found etched on samples of iron meteorites? 
+W)  Widmanstatten pattern  
+X)  Rhombic pattern 
+Y)  Halley’s pattern 
+Z)  Chondritic Rhombite pattern 
+w OR widmanstatten pattern 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+If the sidereal period “P” of a planet is measured in years, and the semi-major axis of the planet’s elliptical orbit, “a”, is measured in astronomical units, then the equation governing the planet’s motion given by the formula, P2 = a3, is best known as what law?  
+kepler’s third law 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+A parallelogram whose adjacent sides are unequal is called a: 
+W)  rhombus 
+X)  rhomboid 
+Y)  deltoid 
+Z)  rectangle 
+x OR rhomboid 
+
+BONUS 
+MATH
+SHORT ANSWER
+Use the Binomial Theorem to expand and simplify the following equation:  (x – 1)^4. Give in order of decreasing powers of x.
+x^4 – 4x^3 + 6x^2 – 4x + 1 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+What type of seismic wave causes the most damage during an earthquake: 
+W)  shear 
+X)  compressional  
+Y)  expansional  
+Z)  surface 
+z OR surface 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+What scale is based on the amount of vibration felt by people during low-magnitude earthquakes and the extent of building damage during high magnitude earthquakes? 
+modified mercalli scale OR modified mercalli OR mercalli scale OR mercalli
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The leaf of the Sugar Maple tree is considered to be: 
+W)  palmately lobed 
+X)  palmately compound 
+Y)  pinnately lobed 
+Z)  pinnately compound 
+w OR palmately lobed 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is the causative agent for chicken pox: 
+W)  Bordetella pertussis 
+X)  Varicella-zoster 
+Y)  Variolla-zoster 
+Z)  Vermicelli pertussis 
+x OR varicella-zoster 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Resetting a computer that is already turned on to its initial state whereby any data or programs in main memory are erased is called a: 
+W)  clean boot 
+X)  cold boot 
+Y)  warm boot 
+Z)  hot boot 
+y OR warm boot 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What does the acronym for the JPEG graphics file format stand for? 
+joint photographic experts group 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+In what specific part of the uterus does implantation normally occur? 
+endometrium 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the most common name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids? 
+triglyceride 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+The IUPAC name 1,4-dimethylcyclohexane is an example of which of the following: 
+W)  cyclic alkane 
+X)  branched alkane 
+Y)  straight chain alkane 
+Z)  haloalkane
+w OR cyclic alkane 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following solutions are miscible: 
+W)  carbon tetrachloride and water 
+X)  oil and water 
+Y)  carbon tetrachloride and octane 
+Z)  octane and water 
+y OR carbon tetrachloride and octane 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the common commercial unit of energy equal to 3,600,000 joules: 
+kilowatt hour 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following types of prisms was developed for obtaining interference between 2 sections of a wave front with diffraction largely eliminated: 
+W)  Fresnel biprism 
+X)  Littrow prism 
+Y)  Nicol prism 
+Z)  Broca prism 
+w OR fresnel biprism 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What is the common astronomical name for areas where gravitational attraction of two or more celestial bodies prevents objects in that area from maintaining an orbit, such as the spacings of semi-major axes of orbits of asteroids in the asteroid belt?  
+kirkwood gaps 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the name for a lunar ditch where molten lava once flowed? 
+volcanic rille 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the longest chord of a circle also known as? 
+diameter of the circle OR diameter
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for b: (a+b)/b = (c+d)/d
+b = (ad)/c OR (ad)/c
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+A sharp ridge of erosion-resistant rock formed between adjacent cirque glaciers, often forming a saw-toothed mountain ridge is known as: 
+W)  arete 
+X)  scree 
+Y)  levee 
+Z)  moraine 
+w OR arête 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Two common igneous rocks derived from andesitic magma are: 
+W)  andesite and alkali basalt 
+X)  diorite and andesite 
+Y)  komatite and rhyolite  
+Z)  rhyolite and kimberlite 
+x OR diorite and andesite 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the predominant immunoglobulin class found in human tears? 
+iga 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following vitamins is NOT properly matched with one of its major symptoms of deficiency: 
+W)  vitamin C and bleeding of gums 
+X)  vitamin D and poor bone structure 
+Y)  vitamin A and night blindness 
+Z)  vitamin B-1 and pellagra 
+z OR vitamin b-1 and pellagra 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following polymers is the first man-made polymer: 
+W)  nylon 
+X)  Teflon 
+Y)  bakelite 
+Z)  celluloid 
+y OR bakelite 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+The change in enthalpy, deltaH, is to a calorimeter as the change in internal energy, deltaE, is to what? 
+bomb calorimeter 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+According to quantum chromodynamics, what is the name for the particle that transmits the color charge? 
+gluon 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the kinetic energy, in Joules, of a 50 Kilogram person who is moving at 5 meters per second? 
+625
