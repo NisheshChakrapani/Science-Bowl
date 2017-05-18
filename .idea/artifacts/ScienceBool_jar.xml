@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScienceBool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScienceBool_jar</output-path>
+    <root id="archive" name="ScienceBool.jar">
+      <element id="module-output" name="ScienceBool" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.5/commons-lang3-3.5-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.5/commons-lang3-3.5-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.5/commons-lang3-3.5-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.5/commons-lang3-3.5-test-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
