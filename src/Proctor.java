@@ -425,7 +425,6 @@ public class Proctor {
         }
     }
 
-    //s
     public void playCasualMode() throws IOException {
         getAllQuestions();
         //test(3, 10);
