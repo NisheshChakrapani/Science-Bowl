@@ -1,0 +1,363 @@
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following particles has not yet been detected but is generally theorized to exist: 
+W)  fermionic hadrons 
+X)  gluons 
+Y)  Higgs boson 
+Z)  mesons 
+y OR higgs boson 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Order the following from the substance with the lowest dielectric constant to the highest:  air,  quartz,  rubber,  pure water 
+air, rubber, quartz, pure water 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+The formula V/n = k, at constant T and P, is a representation of what gas law? 
+avogadro’s law OR avogadro's OR avogadro
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Electron configurations can be specified using orbital-filling diagrams, in which electrons are represented in standard nomenclature by up and down arrows.  Which of the following best describes the arrows representing the 4p orbitals in Arsenic, whose atomic number is 33: 
+W)  3 single up arrows 
+X)  one pair of up and down arrows, and a single up arrow 
+Y)  3 pairs of up and down arrows 
+Z)  two pairs of up and down arrows and a single down arrow 
+w OR 3 single up arrows 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Of the primary, secondary, tertiary, and quaternary levels of protein structure, what level is most directly changed in an amino acid substitution? 
+primary 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following would be LEAST soluble in distilled water: 
+W)  propanoic acid 
+X)  phosphoglyceraldehyde 
+Y)  methanol 
+Z)  cholesterol 
+z OR cholesterol 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens: 
+W)  Huygens 
+X)  orthoscopic 
+Y)  Kellner 
+Z)  Erfle 
+y OR kellner 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Which two of the following five celestial bodies are not moons of Jupiter:  Io,  Charon,  Titan,  Ganymede,  Callisto 
+charon and titan OR charon, titan OR titan and charon OR titan, charon
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+In the general Circulation of the atmosphere, what is the name given to the middle latitude cell marked by sinking motion near 30° and rising motion near 60° latitude: 
+W)  Polar cell 
+X)  Ferrel cell 
+Y)  Hadley cell 
+Z)  Rossby cell 
+x OR ferrel cell 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+What is the form of frost in which a thick coating of ice crystals builds upon leaves, twigs and fences as is often seen at the tops of snow-covered mountain peaks? 
+rime ice OR rime OR rime frost OR hoar frost 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following would best be used for an application that required a metal that does not emit sparks, resists corrosion, becomes stronger under very cold temperatures, and is an excellent thermal conductor: 
+W)  iron 
+X)  tin 
+Y)  copper 
+Z)  aluminum 
+z OR aluminum 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Order the following 4 ecosystems from the highest percentage of the Earth’s surface to the lowest:  tropical rainforest;  continental shelf;  tundra;  estuary 
+continental shelf, tropical rainforest, tundra, estuary 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+The purpose of an ISDN network is to: 
+W)  determine a server’s IP address from a domain name 
+X)  translate binary files to text-based email messaging 
+Y)  coordinate packet information for the many IP packets and addresses in an online transmission 
+Z)  set a specification for digital transmission of data over analog phone lines 
+z OR set a specification for digital transmission of data over analog phone lines
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In Oracle databases, a foreign key is: 
+W)  a field which designates the language in which the table is represented 
+X)  a  key to decrypt the information in a table 
+Y)  a mapping from a field in one table to information in another table 
+Z)  a link to a web site about the table 
+y OR a mapping from a field in one table to information in another table
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Oersted, during a classroom demonstration, accidentally showed the first example of: 
+W)  capacitance  
+X)  artificial lightening 
+Y)  electricity being stored in a capacitor 
+Z)  the connection between magnetism and electricity  
+z OR the connection between magnetism and electricity 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming the specific heat of aluminum is 0.9 Joules per gram per degree, how much energy, in kilojoules rounded to the first decimal place, must be added to 500 grams of aluminum to raise its temperature from 10°C to 70°C? 
+27 kilojoules OR 27 kj OR 27
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Addition reactions in organic chemistry are characteristic of: 
+W)  alkanes 
+X)  aromatic compounds 
+Y)  alkenes 
+Z)  ketones 
+y OR alkenes 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Calculate the heat energy, in Joules, released when 10 grams of a substance, which has the same specific heat as liquid water, cools from 100°C to 50°C: Round to the nearest 100, do not include units.
+2000 OR 2100
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+To what intermediate molecule of the citric acid cycle does succinate dehydrogenase oxidize succinate? 
+fumarate 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+The mean corpuscular volume of erythrocytes is obtained by which of the following: 
+W)  the hematocrit multiplied by ten and then divided by the red cell count in millions per microliter 
+X)  the red cell count per cc divided by the hematocrit 
+Y)  the red cell count per cc divided by 7 microns 
+Z)  the hemoglobin value divided by the hematocrit 
+w OR the hematocrit mutiplied by ten and then divided by the red cell count in millions per microliter 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Crux, Ara, Reticulum, and Tucana are all best known as: 
+W)  craters on the moon  
+X)  canals on mars 
+Y)  constellations 
+Z)  maria on the moon 
+y OR constellations 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters? 
+40x OR 40 x OR 40 times OR 40
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following eccentricities describes a hyperbola: 
+W)  e = 0 
+X)  0 < e < 1 
+Y)  e = 1 
+Z)  e > 1 
+z OR e > 1 
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for y: y + ((3y-9)/5) = 4 - ((5y-12)/3). Type as "y = <number>".
+y = 3 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+If the Earth were nonrotating, global wind circulation would most likely resemble: 
+W)  the doldrums 
+X)  huge circulatory convection cells paralleling lines of latitude 
+Y)  huge circulatory convection cells moving from the equator to the poles  
+Z)  global circulation would cease 
+y OR huge circulatory convection cells moving from the equator to the poles
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+In meteorology, what is the name for the horizontal wind velocity for which the Coriolis acceleration exactly balances the horizontal pressure force? 
+geostrophic wind 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The carcinogenic effects of sunlight on skin are caused by light in which of the following wavelength ranges: 
+W)  280-320 nanometers 
+X)  320-360 nanometers 
+Y)  400-450 nanometers 
+Z)  1.0-1.5 micrometers 
+w OR 280-320 nanometers 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Order the following 4 countries from the lowest to the highest in energy consumption per capita in 1999:  Russia,  China,  Japan,  Germany 
+china, germany, japan, russia 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+All of these programming languages allow variables to pass by value EXCEPT: 
+W)  FORTRAN 
+X)  PASCAL 
+Y)  Java 
+Z)  Algol-60 
+w OR fortran 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What does the acronym MODEM stand for? 
+modulator-demodulator 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Thomas Young’s double slit experiments lent strong support in his time to which of the following: 
+W)  the particle nature of light 
+X)  that light could be polarized 
+Y)  the wave nature of light 
+Z)  the wave particle duality of light 
+y OR the wave nature of light 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a string vibrates at a fundamental frequency of 120 hertz, what are the frequencies of the first and second overtones respectively? Do not include units.
+240 and 360 OR 240, 360 OR 360 and 240 OR 360, 240
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+What rule would be best used to predict the alcohol vapor pressure over 100 proof bourbon: 
+W)  Henry’s Law 
+X)  Raoult’s Law 
+Y)  Dalton’s Law of Partial Pressures 
+Z)  Boyles Law 
+x OR raoult’s law 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A mixture of gases with an average molecular weight of 30grams per mole is contained in a 480 liter tank.  What is the mass of the gases, in grams, if the temperature of the gas is 300K and the pressure is 2 atmospheres. Do not include units.
+1200 OR 1.2 x 10^3 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+If a culture of cells from a hyperallergenic person was exposed to fluorescent labeled immunoglubulin E, which of the following cell types would most likely glow the most: 
+W)  PMN 
+X)  mast cell 
+Y)  eosinophile  (pronounced:  E-O-sin-O-fill) 
+Z)  macrophage 
+x OR mast cell 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Which one of the following 5 cells is NOT found in a typical angiosperm rhizome?    parenchymal,  collenchymal,  meristematic,  epidermal,  guard cell  
+guard cell 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Cape Dennison in Antarctica holds the world’s record for the highest annual average wind speeds owing to: 
+W)  Chinook winds 
+X)  katabatic winds 
+Y)  Hadley cell circulation 
+Z)  Ekman spirals 
+x OR katabatic winds 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Order the following four geological epochs from the youngest to the oldest:  Pliocene,  Holocene,  Oligocene,  Paleocene 
+holocene, pliocene, oligocene, paleocene 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Yellow fever is transmitted by what genus of mosquito: 
+W)  Anopheles  (read as: ann-off-a-lees) 
+X)  Culex  (reas as: CUE-lex) 
+Y)  Aedes 
+Z)  Culiseta  (read as:  cue-lee-see-ta) 
+x OR culex 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the least number of colors for any map on a sphere so that regions with common boundaries are distinguished by different colors? 
+4 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Which ones, if any, of the following 5 elements is/are radioactive? sulfur-32,  polonium-209,  lithium-7,  deuterium,  francium-223. Type as "<x> and <y>".
+polonium-209 and francium-223 OR francium-223 and polonium-209
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Order the following 4 substances from the one that will show the LEAST increase in temperature for each single calorie added to one gram of that substance to the one that will show the MOST:  aluminum,  iron,  tungsten,  water 
+water, aluminum, iron, tungsten 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+A monosaccharide unit containing a ketone functional group is to a ketose as a monosaccharide unit containing a glucose is to what?   
+an aldose OR aldose
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the osmotic pressure, in atmospheres, of a 1.0 molar solution of sodium chloride in water at 300K? Round to the nearest number, do not include units
+24 OR 25
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following responses does indoleacetic acid NOT usually produce in plants: 
+W)  vascular cell differentiation 
+X)  fruit maturation 
+Y)  cell elongation  
+Z)  flowering 
+z OR flowering 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the name for the strap-like muscle involved with head movements and abbreviated as the SCM? 
+sternocleidomastoid muscle OR sternocleidomastoid

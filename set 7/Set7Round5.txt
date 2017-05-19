@@ -1,0 +1,449 @@
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+You are given a particular polymer to study, and you notice that it can endure an extremely high amount of stress, but only a very small amount of strain. Which 
+of the following types of polymer is it? 
+W) Brittle plastic 
+X) Tough fiber 
+Y) Elastomer 
+Z) Plastic with yield 
+x OR tough fiber 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+The measured bond angle in ammonia is 107.3°, whereas the bond angles in phosphine [FOS-feen] are 93.7°. Which of the following facts correctly identifies 
+the atomic property that makes the two angles different? 
+W) Ammonia and phosphine have different expected VSEPR geometries  
+X) Nitrogen is more electronegative than phosphorus  
+Y) The bonding orbitals of phosphine have more s and less p character than those of ammonia 
+Z) The phosphorus atom is much larger than the nitrogen atom  
+z OR the phosphorus atom is much larger than the nitrogen atom 
+
+TOSS UP
+MATH
+SHORT ANSWER
+If f(x) = x2 - 1 and g(x) = x - 1, what is the composite function f(g(x)) [f of g of x]? 
+x2 - 2x 
+
+BONUS 
+MATH
+SHORT ANSWER
+Given 2 two by two matrices A = �1 32 1� 1T2T [row one: 1, 3; row 2: 2, 1] and B = �3 41 0� [row 1: 3, 4; row 2: 1, 0]. Find the determinant of the product AB. 
+20 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following rocks would most likely be created within a fluvial environment?  
+W) Dolostone 
+X) Granite 
+Y) Conglomerate  
+Z) Limestone  
+y OR conglomerate 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following scenarios could strengthen a hurricane? 
+W) It travels over Hispaniola  
+X) It moves into a region with strong upper-level winds 
+Y) It passes over an area of warm surface waters  
+Z) It encounters a polar front 
+y OR it passes over an area of warm surface waters 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Which law of physics explains how a changing magnetic field can produce an electric current? 
+faraday’s (accept: faraday’s law of induction) 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+A wireless router transmits an 802.11a Wi-Fi radio signal at 5 megahertz with a speed up to 54 megabits of data per second. What is the wavelength of the 
+router’s signal in meters?  
+W) 10  
+X) 15  
+Y) 60  
+Z) 150  
+y OR 60 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following is the least promising method of large-scale oil extraction in the next several decades? 
+W) Drilling access to underground oil reservoirs [REZ-er-vwahrs] 
+X) Acquiring oil from whales 
+Y) Acquiring oil from algae 
+Z) Acquiring oil produced by genetically re-engineered Escherichia coli [e-schuh-ri-KEE-uh 
+koh-LY] 
+x OR acquiring oil from whales 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Coal combustion products (CCPs) are solid materials produced when coal is burned to generate electricity. Which of the following is NOT a sustainable way to 
+recycle CCPs?  
+W) Adding CCP to biodiesel 
+X) Using CCP as an agricultural fertilizer 
+Y) Adding CCP to concrete 
+Z) Adding CCP to asphalt 
+w OR adding ccp to biodiesel 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The taxonomic class Myxini [MIK-suh-nee] contains which of the following fish?  
+W) Wolf eels 
+X) Hagfish 
+Y) Chimaeras [ki-MEER-uhs] 
+Z) Bowfin 
+x OR hagfish 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+In fruit flies, one gene called fruitless is responsible for male courtship behavior. The gene is transcribed in both males and females, but due to differences in 
+intron usage, is only translated as a full-length protein in males. A genetic XX female will attempt 
+to court other females if she expresses the male form of the fruitless gene. What molecular 
+process would have to be accurately executed to assure that the male form of the gene is 
+expressed only in males? 
+alternative splicing (accept: alternative rna processing or 
+
+SPLICING) 
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the irreducible representation for the atomic orbital s for a molecule with C2v symmetry? 
+a1 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+For 680 milligrams of tannic acid, which has a molar mass of 1700 grams per mole, dissolved in water, it takes 40.00 milliliters of 0.25 molar sodium 
+hydroxide to titrate the solution to a pH of 13. Based on this data, how many acidic protons does 
+tannic acid have?  
+25 
+
+TOSS UP
+MATH
+SHORT ANSWER
+How many subsets are there of a set whose elements are the composite numbers less than 9? 
+8 
+
+BONUS 
+MATH
+MULTIPLE CHOICE
+A balloon is being filled with water. Its volume in gallons is given by the function V(r) = r3/10 [V of r equals r cubed over 10], where r is the radius of the balloon in 
+inches. What is the average rate of change in gallons per inch of the volume of the balloon as 
+the radius is increased from 1 to 2 inches? 
+W) 0.3 
+X) 0.7 
+Y) 0.8 
+Z) 1.2 
+x OR 0.7 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following minerals has four planes of cleavage?  
+W) Fluorite 
+X) Calcite 
+Y) Augite [AW-jyt] 
+Z) Muscovite [MUHS-kuh-vyt] 
+w OR fluorite 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What physical law, which ice skaters utilize to increase their rate of spin, is critical in the formation of dust devils, water spouts, and hurricanes? 
+law of conservation of angular momentum 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A slingshot stretched by a distance x gives a pebble speed v. What is the speed of the same pebble if a slingshot, obeying Hooke’s law, is stretched by a 
+distance 2x? 
+W) v/2 
+X) v 
+Y) 2v 
+Z) 4v 
+y OR 2v 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Free neutrons decay to protons, electrons, and antineutrinos. What fundamental force is responsible for this decay?  
+W) Weak nuclear  
+X) Strong nuclear  
+Y) Electromagnetic 
+Z) Gravitational 
+w OR weak nuclear 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the name of the process in which the female gametes are formed in an animal? 
+oogenesis 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following terms indicates centromere [SEN-truh- meer] placement at the end of the chromosome? 
+W) Metacentric 
+X) Acrocentric 
+Y) Telocentric 
+Z) Submetacentric 
+y OR telocentric 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following statements about ferrimagnetic solids is true? 
+W) Magnetic moments are on different sublattices and are antiparallel 
+X) Magnetic moments are on different sublattices and are parallel 
+Y) Magnetic moments are on the same sublattices and are parallel 
+Z) Magnetic moments are on the same sublattices and are antiparallel 
+w OR magnetic moments are on different sublattices and are 
+
+ANTIPARALLEL 
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the major product formed at the conclusion of the following two-step reaction sequence: Step 1) Methylmagnesium bromide, ethylene oxide, and 
+tetrahydrofuran [te-truh-hy-druh-FYOOR-an]; Step 2) Ethyl iodide. 
+ethyl n-propyl ether (accept: 1-ethoxy-propan;ether, ethyl 
+
+propyl;ether,ethylpropyl;n-C3H7OC2H5;propane,1-ethoxy-;Propyl ethyl ether;ETHYL PROPYL 
+ETHER) 
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A particle is constrained to move in one dimension according to the relation x = 3t3 [x equals 3 t cubed], where x is the position from the origin in meters and t 
+is time in seconds. What is the acceleration in meters per second squared of the particle at t = 7 
+seconds? 
+W) 18 
+X) 126  
+Y) 441 
+Z) 1029 
+x OR 126 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+An RLC circuit consists of a 2 henry inductor, a 1000 ohm resistor, an 8 farad capacitor, and a power supply in series. With what frequency in hertz must 
+the power supply operate in order to establish resonance in the circuit? 
+W) 1/8π 
+X) 1/4  
+Y) 4 
+Z) 8π 
+w OR 1/8π 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the next number in the arithmetic sequence that has first three terms of 17, 31, and 45?  
+59 
+
+BONUS 
+MATH
+SHORT ANSWER
+A card is drawn at random from a standard deck of 52 cards. Given that the card drawn is a face card, what is the probability that the drawn card is a Jack? 
+1/3 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+In which of the following locations is it possible to find an esker formed during the Pleistocene [PLY-stuh-seen] epoch?  
+W) Maryland 
+X) West Virginia 
+Y) Tennessee 
+Z) Iowa 
+z OR iowa 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Why do tornadoes occur with the lowest frequency near dawn?  
+W) The ground surface is moist, cooling the ground 
+X) The differential between land and air temperatures is at its peak 
+Y) Cloud formation in the early morning hours is rare 
+Z) Air temperature is lowest and radiation deficits are highest 
+z OR air temperature is lowest and radiation deficits are highest 
+
+TOSS UP
+ENERGY SHORT ANSWER
+Bond energy measures the strength of a chemical bond. Providing your answer in kilojoules per mole, what is the average bond energy of the C-H bonds in 
+methane if it takes 1600 kilojoules to break up 1 mole of methane into 1 mole of carbon and 4 
+moles of hydrogen?  
+400 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Organisms are sometimes assigned fractional trophic levels. Which of the following factors is least likely to complicate trophic level assignment? 
+W) Female black widow spiders cannibalize male black widow spiders after mating 
+X) Bullfrogs eat crayfish while crayfish eat bullfrog tadpoles 
+Y) Bobcats eat rabbits while mountain lions eat both bobcats and rabbits 
+Z) Gorillas eat both bamboo and fruit 
+z OR gorillas eat both bamboo and fruit 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A 1 kilogram object is travelling to the left at 3 meters per second when it explodes into 2 equal pieces. One piece is travelling at 7 meters per second to the left 
+after the explosion. What is the velocity in meters per second of the other piece after the 
+explosion?  
+W) 1 to the right 
+X) 1 to the left  
+Y) 4 to the right 
+Z) 4 to the left 
+w OR 1 to the right 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the root mean square voltage of a power supply that outputs a sinusoidal voltage with a frequency of 60 hertz and peak voltage of 120 volts?  
+85 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Bacteria are classified as Gram positive or Gram negative based on several characteristics, including which of the following? 
+W) Genome size 
+X) Cell wall structure 
+Y) Degree of virulence 
+Z) Reproduction rate 
+x OR cell wall structure 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Which actin-associated motor protein generates the force for muscle contraction? 
+myosin 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Carbon dioxide has a boiling point of -57° Celsius, whereas sulfur dioxide has a boiling point of -10° Celsius. This difference is most likely due to the fact 
+that sulfur dioxide exhibits which intermolecular force, while carbon dioxide does not? 
+dipole-dipole (accept: dipole forces) 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+The family of olefin metathesis catalysts developed by Grubbs employs which metallic element? 
+ruthenium 
+
+TOSS UP
+MATH
+SHORT ANSWER
+A graph has symmetry with respect to the origin and passes through the point (-2, 3). What other point must be on this graph? 
+(2, -3) 
+
+BONUS 
+MATH
+SHORT ANSWER
+A line in parametric mode is given by the equations: x = 1 2
+t + 2  
+and y = 2t. What is the slope of this line? 
+4 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Approximately how often is the entire stomach lining in a human replaced? 
+W) Every three days 
+X) Every five days 
+Y) Every week 
+Z) Every month 
+w OR every three days 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Polymerase [POL-uh-muh-rays] chain reaction (PCR) is a widely used method to rapidly clone pieces of DNA. Place the following three steps of PCR in order for 
+a single amplification cycle: 1) Annealing, 2) Denaturation, 3) Elongation.  
+2, 1, 3 (accept: denaturation, annealing, elongation) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Thermohaline [thuhr-moh-HAY-lyn] circulation in the ocean is controlled most by which of the following? 
+W) Temperature and pressure  
+X) Temperature and salinity  
+Y) Salinity and precipitation  
+Z) Salinity and sea ice formation  
+x OR temperature and salinity 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Why did Charles Keeling’s carbon dioxide graphs show an up and down pattern each year? 
+W) More carbon dioxide was generated by heating processes during the winter 
+X) The air is denser in the winter, causing carbon dioxide to become diluted 
+Y) Carbon dioxide is absorbed during the growth season and released through decay during the 
+fall and winter  
+Z) Warmer summer continents release more carbon dioxide than during colder winters 
+y OR carbon dioxide is absorbed during the growth season and 
+
+RELEASED THROUGH DECAY DURING THE FALL AND WINTER  
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+An electron is travelling due north when it experiences a magnetic field that is pointing vertically upward. In what direction will the electron be deflected 
+when it initially encounters the field?  
+W) North 
+X) South  
+Y) East  
+Z) West 
+z OR west 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A 35.4 x 10-11 coulomb charge is placed into a spherical Gaussian [GOUS-ee-uhn] surface with a radius of 5 meters. Given that epsilon naught is 8.85 x 10-12 
+farads per meter, what is the electric flux through this surface in newton meters squared per 
+coulomb? 
+40 
+
+TOSS UP
+ENERGY SHORT ANSWER
+Which type of metabolic pathway uses ATP to build macromolecules, such as proteins, out of smaller components? 
+anabolic metabolism 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Although coal formed throughout many geological periods, coal from the Lower Triassic period is quite rare. Which of the following is the best possible 
+explanation? 
+W) Terrestrial plants had not yet evolved 
+X) Large animals had not yet evolved 
+Y) A mass extinction occurred 
+Z) Soil density was too low 
+y OR a mass extinction occurred 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The 2011 Nobel Prize in Physiology or Medicine was awarded to three researchers, including Jules Hoffman and Bruce Beutler, for their discoveries leading to 
+the characterization of the Toll-like receptor (TLR) family of molecules. This family of molecules 
+is encoded by genes in a wide variety of eukaryotes [yoo-KAR-ee-ohts], ranging from flies to 
+humans, and plays an important role in which of the following processes? 
+W) Recognizing pathogens in the immune system 
+X) Breaking down lipids in the digestive system 
+Y) Regulating neurotransmitters in the nervous system 
+Z) Enabling meiosis [my-OH-sis] in the reproductive system 
+w OR recognizing pathogens in the immune system 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Assume you would like to isolate a specific membrane protein from a cell. How could you best remove the protein from the membrane? 
+W) Disrupt the lipid bilayer with detergents 
+X) Grind the cells using a pestle 
+Y) Stain the target protein with fluorescing antibodies 
+Z) Centrifuge the cells to separate the lipid bilayer from other cellular components 
+w OR disrupt the lipid bilayer with detergents 
+

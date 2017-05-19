@@ -1,0 +1,375 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the most common term used to describe the velocity equal to the average velocity in the limit that the measurement time period approaches zero? 
+instantaneous velocity 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+How long will it take a squirrel to run straight down a tree trunk 18 meters long if it accelerates from a stop at 4 meters/sec2? 
+3 seconds 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What gland in humans is the primary producer of melatonin? 
+pineal gland 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+An example of negative feedback control is when: 
+W)  thyroid hormone interrupts the stimulation of the thyroid by TSH 
+X)  the initial enzyme of a metabolic pathway inhibits a later reaction 
+Y)  FSH inhibits progesterone production by the corpus luteum 
+Z)  the initial product of a metabolic pathway inhibits the next reaction 
+w OR thyroid hormone interrupts the stimulation of the thyroid by tsh
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+According to Kepler's second Law of planetary motion, in which season in North America does the Earth currently move the fastest in its orbit about the Sun? 
+winter 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the brightest star in the Northern sky? 
+arcturus OR alpha bootes
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the most common name for the theorem proved by Gauss which states that “every polynomial of degree n  ≥ 1 with real or complex coefficients has n real or complex roots”? 
+the fundamental theorem of algebra 
+
+BONUS 
+MATH
+SHORT ANSWER
+Simplify the following fractional radicand to an expression that has the lowest whole number radicand: sqrt(2/3)
+1/3sqrt(6)
+  
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+Which body wave can travel at the greatest velocity of all the seismic waves? 
+p-waves OR primary wave OR compression/expansion waves OR p waves
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+The earth's outer core is interpreted to be liquid because: 
+W)  S-waves don't travel through liquid  
+X)  S-waves are faster than P-waves 
+Y)  S-waves don't travel through gases 
+Z)  P-waves don't travel through liquids 
+w OR s-waves don't travel through liquid 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+If you need to measure 100 milliliters in an Erlenmeyer flask that has a stated volume of 100 ml but has no calibration lines, typically the stated volume will approximately fill to: 
+W)  the top rim of the flask 
+X)  where the neck attaches to the flask 
+Y)  1 centimeter below the where the neck attaches to the flask 
+Z)  there is no safe way to approximate 100 ml in such a flask 
+x OR where the neck attaches to the flask 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+The ratio of total leaf surface area to the total ground surface area covered by the leaves is know as what? 
+leaf area index OR lai
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following best describes a router: 
+W)  segments an existing network 
+X)  provides the network address for the PC 
+Y)  manages traffic on the network by filtering data 
+Z)  controls the flow of data between 2 or more separate networks 
+z OR controls the flow of data between 2 or more separate networks
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+A network technology based on transferring data in cells or packets, what does the acronym ATM stand for? 
+asynchronous transfer mode
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+One standard atmosphere of pressure is equal to how many Pascals: 
+W)  760 
+X)  1,325 
+Y)  10,325 
+Z)  101,325 
+z OR 101,325 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In order of increasing energy, number and designate all the subshells in the 4th electron shell: 
+4s, 4p, 4d, 4f OR s, p, d, f
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Rutherford discovered that x-rays were produced by: 
+W)  uranium when bombarded with slow neutrons 
+X)  certain binary stars 
+Y)  particles emitted by a cathode, which then struck an anode  
+Z)  the sun 
+y OR particles emitted by a cathode, which then struck an anode
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Which 3 of the following 4 are vector quantities: velocity,  acceleration,  speed,  magnetic field 
+velocity, acceleration, magnetic field OR velocity, magnetic field, acceleration OR magnetic field, velocity, acceleration OR magnetic field, acceleration, velocity OR acceleration, velocity, magnetic field OR acceleration, magnetic field, velocity
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT a Rickettsial disease: 
+W)  Q fever 
+X)  Scrub Typhus 
+Y)  Rocky Mountain Spotted Fever 
+Z)  Relapsing fever 
+z OR relapsing fever 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following vegetations is NOT properly matched with its location: 
+W)  boreal coniferous forest and Midwestern Canada 
+X)  rain forest and the Olympic National Forest 
+Y)  Saguaro desert and the Southwestern US 
+Z)  Taiga and the Northeastern US 
+z OR taiga and the northeastern us 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+Which planet is 14.5 times the Earth’s mass, has a rotational rate of 17.2 hours, and a year length of 84 Earth years? 
+uranus 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What are generally considered the most common and most primitive type of meteorites? 
+chondrites 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Simplify the ratio of the following factorial: 4!/6!
+1/30
+
+BONUS 
+MATH
+SHORT ANSWER
+A recipe calls for flour, sugar and butter to be mixed in a ratio of  7 to 5 to 2, respectively.  Assuming there is enough sugar and butter to use all the flour and 20 pounds of flour is available, how many pounds of the mixture can be made? 
+40 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which one of the following was NOT formed by the deposition of sediment by a glacial stream: 
+W)  outwash plain 
+X)  kame 
+Y)  moraine 
+Z)  esker 
+y OR moraine 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Closely spaced isobars on a weather map most directly indicate which of the following weather-related events: 
+W)  calm conditions 
+X)  windy conditions 
+Y)  a gentle pressure gradient  
+Z)  torrential rainfall 
+x OR windy conditions 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Most plants absorb nitrogen from the soil through their roots in which of the following forms: 
+W)  dinitrogen  
+X)  ammonia 
+Y)  ammonium 
+Z)  nitrate 
+z OR nitrate 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT a fat-soluble vitamin: 
+W)  vitamin K 
+X)  vitamin A 
+Y)  vitamin D 
+Z)  biotin 
+z OR biotin 
+
+TOSS UP
+COMPUTER SCIENCE
+SHORT ANSWER
+If a computer has a 64-bit bus, how many bytes of information can travel across it at the same time? 
+8 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+What type of chip is commonly used to store the BIOS in a PC: 
+W)  ROM 
+X)  DAT 
+Y)  DOS 
+Z)  FAT 
+w OR rom 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+An amine is a class of compounds that contains a: 
+W)  sulfur and hydrogen group 
+X)  nitrogen and oxygen group 
+Y)  nitrogen and hydrogen group 
+Z)  carbon and sulfur group 
+y OR nitrogen and hydrogen group 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+An element with an electron configuration of 2-8-8-2 is found in what Period and main Group number on the Periodic Chart? (Type as "period <number> and group <number>")
+period 4 and group 2 period 4 and group 2a
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+In 1885, Johann Balmer derived the formula for the 4 spectral line of what element? 
+hydrogen 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Which lower case letter is most typically used to denote Planck’s constant? 
+h 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is a member of the Hirudinea: 
+W)  earthworm 
+X)  centipede 
+Y)  leech 
+Z)  chelicerae
+y OR leech 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+When successive beats of the heart result in an increased end- diastolic volume leading to optimal sarcomere length for strength of contraction, it is most commonly referred to by the name of what law: 
+the frank-starling law OR frank-starling law OR frank-starling
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following was NOT known to be a planet until 1781 AD: 
+W)  Saturn 
+X)  Venus 
+Y)  Mercury 
+Z)  Uranus 
+z OR uranus 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What law states that the total amount of energy radiated per unit time from the surface of a body is related to the fourth power of its temperature? 
+l OR
+
+TOSS UP
+MATH
+SHORT ANSWER
+A statistician who computes the standard deviation of a set of sample means is computing what statistical quantity? 
+standard error of the mean OR standard error
+
+BONUS 
+MATH
+SHORT ANSWER
+Name 2 consecutive ODD integers where 5 times the second number minus 6 times the first number equals –55: 
+–65 and –67 OR -65, -67
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Recent evidence shows which to be the best advice for a person suffering from recurrent kidney stones: 
+W)  decrease their intake of calcium-rich foods 
+X)  increase their intake of calcium-rich foods 
+Y)  increase their intake of oxalate-rich foods 
+Z)  decrease their intake of magnesium-rich foods 
+x OR increase their intake of calcium-rich foods 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A lens defect resulting from its inability to bring all wavelengths of light into the same plane of focus is called: 
+W)  barrel distortion 
+X)  astigmatism 
+Y)  chromatic aberration 
+Z)  spherical aberration 
+y OR chromatic aberration 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which metal acts at the anode in mercury batteries that are commonly found in cameras and watches: 
+W)  mercury 
+X)  mercury (II) oxide 
+Y)  zinc 
+Z)  lithium 
+y OR zinc 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In the periodic table, what are elements 58 through 71 classified as? 
+lanthanides OR lanthanide series OR inner transition metals OR rare earth metals
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+How far, in kilometers, will the runner travel in five hours on a straight path if her average speed is 9 kilometers per hour? 
+45 km 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following forms of radioactive decay does NOT alter the atomic number of an element: 
+W)  alpha  
+X)  beta minus 
+Y)  beta plus 
+Z)  gamma 
+z OR gamma 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following genera of plants contains a species that traps and digests insects: 
+W)  Ulmus 
+X)  Nepenthes  
+Y)  Lupinus  
+Z)  Psilotum
+x OR nepenthes 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Thallassemia and Marfan Syndrome are both which of the following types of diseases: 
+W)  virus-related diseases 
+X)  bacteria-related diseases 
+Y)  toxic-exposure diseases 
+Z)  inherited disorders 
+z OR inherited disorders 

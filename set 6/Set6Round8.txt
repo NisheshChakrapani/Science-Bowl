@@ -1,0 +1,409 @@
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Indicate the name of the common and treatable condition that occurs when a person’s eyeball is longer than normal and the lens focuses distant objects in the 
+front of the retina. 
+myopia (accept: nearsightedness) 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Quorum [KWOHR-uhm] sensing in bacteria occurs when bacteria “sense” other bacteria. Which of the following triggers this phenomenon to occur? 
+W) Number of bacteria 
+X) Density of bacteria 
+Y) Production and detection of autoinducers 
+Z) Bacterial fission 
+y OR production and detection of autoinducers 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What type of particle mediates the strong nuclear force? 
+gluon 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A car with a mass of 1100 kilograms moves at 24 meters per second. What is the magnitude of the braking force, in newtons, needed to bring the car to a 
+halt in 20 seconds? 
+1320 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the standard molar enthalpy of formation, in kilojoules per mole, for hydrogen gas? 
+0 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Name all of the following five compounds that are soluble in water: 1) sodium sulfate, 2) lead (II) iodide, 3) barium chloride, 4) iron (II) hydroxide, 5) calcium 
+sulfate. 
+1, 3 (accept: sodium sulfate, barium chloride) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Liquid water can store more heat energy than an equal amount of any other naturally occurring substance because liquid water has which of the 
+following characteristics? 
+W) It expands when cooled 
+X) It has its greatest density at 4° Celsius 
+Y) It has higher specific heat 
+Z) It can be changed into a solid or a gas 
+y OR it has higher specific heat 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following factors has the greatest influence on the weathering rate of Earth’s surface bedrock? 
+W) Regional climate  
+X) Angle of insolation 
+Y) Age of the bedrock 
+Z) Local air pressure  
+w OR regional climate 
+
+TOSS UP
+MATH
+SHORT ANSWER
+If g(u) = [g of u equals the integral from 0 to u of secant squared of t dt], find g’(u) [g prime of u]. 
+sec2u 
+
+BONUS 
+MATH
+SHORT ANSWER
+Factor completely the expression: 5rs + 25r – 3s – 15. (s + 5)(5r – 3) 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following will NOT usually increase the gas mileage of gasoline cars manufactured since the early 1980s? 
+W) Driving at or below 60 miles per hour on the freeway 
+X) Using cruise control 
+Y) Replacing clogged air filters 
+Z) Using overdrive gears 
+y OR replacing clogged air filters 
+
+BONUS 
+ENERGY SHORT ANSWER
+A solar cell is an electrical device that converts light energy directly into electricity. What is the term for this conversion process? 
+photovoltaic effect (do not accept: photoelectric effect) 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+As could be detected clinically during a functional magnetic resonance image, which of the following parts of the brain would be activated when a person is 
+faced with a fearful situation? 
+W) Neocortex 
+X) Hippocampus [hip-uh-KAM-puhs] 
+Y) Amygdala [uh-MIG-duh-luh] 
+Z) Superior colliculi [ko-LI-kyoo-lee] 
+y OR amygdala 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Indicate where action potentials are generated in a myelinated [MY-uh-luh-nay-tid] post-synaptic cell. 
+W) Axon hillock  
+X) Dendrites 
+Y) Neuron nucleus 
+Z) Schwann cell  
+w OR axon hillock 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+If a 0.20 kilogram apple fell 7.0 meters, hitting Newton’s head, given acceleration due to gravity as 10 meters per second squared, what was the change in 
+potential energy in joules? 
+14 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Taking the acceleration due to gravity to be 10 meters per second squared, what kinetic coefficient of friction will exert a force of 20 newtons on a 4 kilogram 
+object as it moves over a horizontal surface? 
+0.5 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What subshell is defined by an electron with quantum numbers n = 3 and l = 2 [ell equals 2]? 
+3d 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In a titration experiment, how many grams of sodium hydroxide are needed to neutralize 25 milliliters of a 0.1 molar hydrogen chloride solution? 
+0.1 
+
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+Which planet takes more time to complete one rotation on its axis than to complete one revolution around the Sun? 
+venus 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+A major belt of asteroids is located between Mars and Jupiter. Which of the following is the approximate average distance in millions of kilometers 
+between the Sun and this major asteroid belt? 
+W) 110 
+X) 220 
+Y) 390 
+Z) 850 
+y OR 390 
+
+TOSS UP
+MATH
+SHORT ANSWER
+How many terms does the binomial expansion of (x2 + 2y3)20 [open parenthesis x squared plus 2 y cubed close parenthesis to the power of 20] contain? 
+21 
+
+BONUS 
+MATH
+MULTIPLE CHOICE
+Which of the following functions has an oblique asymptote? 
+W) f(x) = (x5 + 1)/(x4 + 3x2 + 2) [f of x equals open parenthesis x to the fifth plus 1 close 
+parenthesis over open parenthesis x to the fourth plus 3 x squared plus 2 close 
+parenthesis] 
+X) f(x) = (x2 + 1)/(x3 - x2 - 1) [f of x equals open parenthesis x squared plus 1 close 
+parenthesis over open parenthesis x cubed minus x squared minus 1 close parenthesis] 
+Y) f(x) = (4x2 + x + 1)/x2 [f of x equals open parenthesis 4 x squared plus x plus 1 close 
+parenthesis over x squared] 
+Z) f(x) = x5/(x2 - 1) [f of x equals x to the fifth over open parenthesis x squared minus 1 
+close parenthesis] 
+w OR f(x) = (x5 + 1)/(x4 + 3x2 + 2) 
+
+TOSS UP
+ENERGY SHORT ANSWER
+What is the term for a facility that integrates biomass conversion processes and equipment to produce fuels, power, and chemicals from biomass? 
+biorefinery 
+
+BONUS 
+ENERGY SHORT ANSWER
+Name all of the following five products that have been made with green algae: 1) biodiesel, 2) methane, 3) ethanol, 4) gasoline, 5) biogasoline. 
+1, 2, 3, 5 (accept: biodiesel, methane, ethanol, biogasoline) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Given f(x) = x + 1 and g(x) = 3x, what is f(g(x)) [f of g of x]? 
+3x + 1 
+
+BONUS 
+MATH
+SHORT ANSWER
+If g(b) = 6b3 – 4b2 + b + 4b -1 [g of b equals 6 b cubed minus 4 b squared plus b plus 4 b to the negative 1], what is g’(b) [g prime of b]? 
+18b2 – 8b + 1 – 4b-2 (accept: 18b2 – 8b + 1 – ) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is the name given to soil that forms over millions of years from weathering of crystalline bedrock? 
+W) Advanced   
+X) Mature 
+Y) Transported  
+Z) Parent  
+x OR mature 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is unlikely, given the Moon’s current orbital plane? 
+W) Solar eclipses visible from Earth 
+X) The Moon passing directly over the poles 
+Y) Lunar eclipses visible from Earth 
+Z) Variations in the lunar path across the sky 
+x OR the moon passing directly over the poles 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following senses is most important to the behavior of most spiders? 
+W) Audition 
+X) Olfaction 
+Y) Mechanoreception 
+Z) Polarized light vision 
+y OR mechanoreception 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following parts of a nerve cell acts as a resistor? 
+W) Ion channels 
+X) Cytoplasm 
+Y) Plasma membrane 
+Z) Mitochondria [my-tuh-KON-dree-uh] 
+w OR ion channels 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+A current of 4 milliamperes flows when a resistor is connected across a 12-volt battery. What is the resistance of this resistor in ohms? 
+3000 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Two asteroids that are 10,000 kilometers apart attract each other with a gravitational force of F. If the two asteroids move further away from each other to a 
+distance of 20,000 kilometers apart, what will the gravitational force be in terms of F? 
+¼ f (accept: 0.25f) 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following molecules is an alkane? 
+W) C4H8 
+X) C3H8 
+Y) C2H2 
+Z) C2H5OH 
+x OR c3h8 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Of the following five solutions, name all that are nonelectrolytic: 1) acetone; 2) glucose; 3) acetic acid; 4) nitric acid; 5) ammonia. 
+1, 2 (accept: acetone, glucose) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+The metamorphism of a sandstone rock will cause the rock to do which of the following? 
+W) Melt 
+X) Contain more fossils 
+Y) Become denser 
+Z) Occupy a greater volume 
+y OR become denser 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following pairs of minerals could be contained in the rocks gabbro and granite? 
+W) Calcite and dolomite [py-ROK-seen] 
+X) Mica [MY-kuh] and amphibole [AM-fuh-bohl] 
+Y) Orthoclase and olivine 
+Z) Plagioclase [PLAY-jee-uh-klays] and nepheline [NEF-uh-lin] 
+x OR mica and amphibole 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following is an identity? 
+W) cos(2x) = 2 cos(x)[cosine of 2x equals 2 cosine of x] 
+X) sin(2x) = 2 sin(x) cos(x) [sine of 2 x equals 2 sine of x cosine of x] 
+ Y) cos(x + y) = cos(x) + cos(y) [cosine of the quantity x plus y equals cosine of x plus 
+cosine of y] 
+Z) sin(x - y) = sin(x) - sin(y) [sine of the quantity x minus y equals sine of x minus sine of y] 
+x OR sin(2x) = 2 sin(x) cos(x) 
+
+BONUS 
+MATH
+SHORT ANSWER
+For Valentine’s Day, Adam bought several dozen roses and several dozen carnations. The roses cost $15 per dozen, and the carnations cost $8 per dozen. Adam 
+bought a total of 17 dozen flowers and paid a total of $192. How many dozen roses did he buy? 
+8 
+
+TOSS UP
+ENERGY SHORT ANSWER
+What is the term for the process during the thermodynamic cycle in which a fluid or gas changes volume or pressure without any heat exchange between it and 
+its surrounding environment? 
+adiabatic 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Which of the following statements about carbon sequestration is false?  
+W) Costs of carbon sequestration programs increase due to integration  
+X) Iron fertilization in the ocean encourages phytoplankton growth, which removes additional 
+carbon from the atmosphere 
+Y) The use of cover crops between planting seasons could remove carbon from the atmosphere 
+Z) Peat bogs are excellent for carbon storage  
+w OR costs of carbon sequestration programs increase due to 
+
+INTEGRATION 
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following animal species is usually NOT considered gregarious [gri-GAIR-ee-uhs]? 
+W) Leopards 
+X) Harbor seals 
+Y) Brown-headed cowbirds 
+Z) Nile crocodiles 
+w OR leopards 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What name is used both for the breathing aperture [AP-er-cher] on arthropods [AHR-thruh-pods] and the nasal opening of whales? 
+spiracles (accept: spiraculum) 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A wheel with moment of inertia m is mounted horizontally to a frictionless axle.  At time t = 0 the initial angular speed is ω. A constant torque Q is applied to 
+the wheel, bringing it to a stop in time t. Which of the following is the average power required to 
+dissipate the wheel’s energy in this time? 
+W) mω/2t 
+X) mω²/2t 
+Y) mω/t 
+Z) mω/Q 
+x OR mω²/2t 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A pole vaulter wishes to clear a bar 5 meters above her center of mass. Given an ideal pole and launch, assuming her mass is uniformly distributed, and given 10 
+meters per second squared as the acceleration due to gravity, how fast must she run in meters 
+per second? 
+10 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following chemicals is least likely to hydrogen bond with water? 
+W) Benzene 
+X) Water 
+Y) Ammonia 
+Z) Formic acid 
+w OR benzene 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A sample containing sulfuric acid requires 10 milliliters of 0.6 molar sodium hydroxide to reach the equivalence point during a titration. Providing your answer 
+as a decimal to three places, how many moles of sulfuric acid were in the sample? 
+0.003 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Extremely small crystal grains in an igneous [IG- nee-uhs] rock are an indication that the crystals formed in which of the following ways? 
+W) Under high pressure  
+X) Over a short period of time 
+Y) From an iron-rich magma 
+Z) Deep below the surface of the Earth 
+x OR over a short period of time 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What quantity is used to compare the speed of light in different mediums?  
+the refractive index 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the name for the boundary between two or more ecological communities? 
+ecotone 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following correctly describes the path of a newly synthesized secreted protein? 
+W) Rough endoplasmic reticulum [en-duh-PLAZ-mik ri-TIK-yuh-luhm], vesicles[VES-i-kuhls], 
+Golgi apparatus, vesicles, plasma membrane 
+X) Golgi apparatus, vesicles, rough endoplasmic reticulum, vesicles, plasma membrane  
+Y) Smooth endoplasmic reticulum, vesicles, Golgi apparatus, plasma membrane 
+Z) Golgi apparatus, vesicles, smooth endoplasmic reticulum, plasma membrane 
+w OR rough endoplasmic reticulum, vesicles, golgi apparatus, 
+
+VESICLES, PLASMA MEMBRANE 

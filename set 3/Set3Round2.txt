@@ -1,0 +1,375 @@
+﻿TOSS UP
+CHEMISTRY
+SHORT ANSWER
+In addition to iron, what 2 substances must be present for iron to rust? Type as "<x> and <y>".
+oxygen and water OR water and oxygen OR o2 and h2o OR h2o and o2
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Classify the following 3 elements as a halogen, metalloid, or transition metal, respectively:  silicon;  iron; iodine. Type as "silicon = <x>, iron = ...".
+silicon = metalloid, iron = transition metal, iodine = halogen 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+If a car is going around a corner, which of the following statements correctly describes the relationship among the speeds of the wheels on the car: 
+W)  the wheels all rotate at the same speed  
+X)  the wheels on the inside of the corner rotate faster because they have less distance to travel 
+Y)  the wheels on the inside of the corner rotate faster because they have more distance to travel  
+Z)  the wheels on the outside of the corner rotate faster because they have more distance to travel 
+z OR the wheels on the outside of the corner rotate faster because they have more distance to travel
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+How many kilometers will a mosquito travel in 9.5 hours if it moves in a straight path with an average speed of 8 kilometers per hour? 
+76 OR 76 kilometers OR 76 km
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+What is the most appropriate term for the genetic character of an organism having a pair of identical alleles for a certain trait: 
+W)  dominant 
+X)  recessive 
+Y)  homozygous 
+Z)  heterozygous 
+y OR homozygous 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT a blood vessel located in the human head or neck: 
+W)  jugular vein  
+X)  jugular artery 
+Y)  internal carotid artery 
+Z)  temporal vein 
+x OR jugular artery 
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the name for the lowermost 12 to 18 kilometers of Earth’s atmosphere? 
+troposphere 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT a process that makes up the Earth’s hydrologic cycle: 
+W)  precipitation 
+X)  condensation 
+Y)  transpiration 
+Z)  sedimentation  
+z OR sedimentation 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+An isotonic solution of sodium chloride, also known as normal saline, is what percent by mass: 
+W)  0.045% 
+X)  0.9% 
+Y)  2.5% 
+Z)  10% 
+x OR 0.9% 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following BEST describes the size of a typical animal virus: 
+W)  600 micrometers 
+X)  100 nanometers 
+Y)  1 nanometer 
+Z)  1 angstrom 
+x OR 100 nanometers 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Our Sun is a: 
+W)  A-type star 
+X)  B-type star 
+Y)  G-type star 
+Z)  K-type star 
+y OR g-type star 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What element was first discovered through spectroscopic analysis of the Sun? 
+helium OR he
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What element is central to synthetic chemistry because of the unique ability of its atoms to bind to one another with single, double and triple bonds and form chains, branches and rings of varying sizes? 
+carbon 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+How many atoms of each element are in the following molecule: Al2(SO4)3. Type as "al = <x>, s = <y>, o = <z>".
+al = 2, s = 3, o = 12 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is the SI unit for the product of newtons and meters: 
+W)  henry 
+X)  watt 
+Y)  erg 
+Z)  joule  
+z OR joule 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+In a gearing arrangement where a 10-tooth pinion drives a 40-tooth gear, what is the gear ratio: 
+W)  1 to 4 
+X)  4 to 1 
+Y)  1 to 10 
+Z)  40 to 1 
+x OR 4 to 1 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The type of muscle that is in the walls of human arteries is: 
+W)  smooth  
+X)  striated 
+Y)  skeletal 
+Z)  fast twitch 
+w OR smooth 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 4 organisms that are bivalves: clam;  oyster;  mussel;  snail 
+clam, oyster, mussel 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Simplify the following, giving your answer in proper scientific notation: (2.0 x 10^-6)^4 
+1.6 x 10^-23 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the sum of the first 5 terms of the geometric sequence in which the first term is 2 and the common ratio is 2? 
+62 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is the largest global reserve of carbon on Earth: 
+W)  oceans 
+X)  soils 
+Y)  vegetation 
+Z)  atmospheric CO2 
+w OR oceans 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+What moon of Saturn was shown by the Cassini space-craft to be spewing a watery, gassy plume from its geothermally heated south pole? 
+enceladus 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is a trace element in coal that is a pollutant and neurotoxin released into the atmosphere when coal is burned, for which some states are currently developing technologies to reduce these emissions by 70 to 90%: 
+W)  sulfur 
+X)  mercury 
+Y)  carbon 
+Z)  chromium 
+x OR mercury 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the term for the process of the addition of small amounts of certain elements that makes semiconductors become useful electronic materials? 
+doping 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Main sequence stars are found in a region on the H-R diagram that is oriented on the diagram from: 
+W)  upper left to lower left 
+X)  upper left to lower right 
+Y)  upper right to lower left 
+Z)  upper right to lower right 
+x OR upper left to lower right 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is the BEST explanation for why the Northern Hemisphere’s summer occurs when the Sun is not the closest to Earth in Earth’s orbit around the Sun:  
+W)  the Sun’s rays are made of mostly neutrinos that have such small mass that distance does not matter 
+X)  the Sun emits different amounts of energy at different times of the year  
+Y)  the Sun’s rays strike the Northern Hemisphere more directly in summer 
+Z)  because of precession 
+y OR the sun’s rays strike the northern hemisphere more directly in summer
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the MOST common method for separating a mixture of liquids based on the differences in component volatilities? 
+distillation OR fractional distillation OR simple distillation 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What type of interaction occurs between molecules of H2O that causes it to have a higher boiling point than H2S? 
+hydrogen bonding OR h bonding
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Giving your answer as north, south, east, or west relative to a point on the Equator, in what direction is the Earth’s angular velocity as it rotates daily about its axis? 
+north 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Ignoring air resistance, wind velocity, and the rotation of the Earth, if a projectile is fired directly upwards, the horizontal component of the projectile’s velocity: 
+W)  is zero 
+X)  remains a non zero constant 
+Y)  continuously increases 
+Z)  continuously decreases 
+w OR is zero 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is a homologous structure to a whale flipper: 
+W)  insect wing 
+X)  human arm 
+Y)  a fish operculum 
+Z)  shark fin 
+x OR human arm 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+A sarcomere is a basic unit in what specific tissue of mammals? 
+muscle 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Evaluate the following radical expression: 5sqrt(3) - sqrt(75)
+0
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the positive geometric mean between the numbers 1 and 10,000: 
+100 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+In which of the following locations is oceanic crust converging with oceanic crust: 
+W)  the Aleutian Islands  
+X)  the Himalayan Mountains 
+Y)  the Mid-Atlantic Ridge 
+Z)  the East Pacific Rise 
+w OR the aleutian islands 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+About what percent of all glaciers in the world are retreating today: 
+W)  25% 
+X)  50% 
+Y)  75% 
+Z)  100% 
+z OR 100% 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The process in which fat globules in milk are broken up into smaller, more evenly dispersed particles is BEST described as: 
+W)  lactation  
+X)  pasteurization  
+Y)  fermentation 
+Z)  homogenization 
+z OR homogenization 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is LEAST accurate regarding non-fuel petroleum products: 
+W)  petroleum jelly is often used to make household toiletries 
+X)  asphalt is often used in making roof shingles 
+Y)  petrochemicals are used to make latex 
+Z)  printing inks and paint solvents are often petroleum-based 
+y OR petrochemicals are used to make latex 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What scientific term is given to the apparent path of the Sun around the celestial sphere? 
+the ecliptic OR ecliptic
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+The local group is a collection of what type of astronomical bodies? 
+galaxies OR galaxy
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What general term BEST describes the use of electrical current to cause a normally non-spontaneous reaction to occur? 
+electrolysis 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In a chemical reaction, what is the term that describes the time required for a reactant to reach half its original concentration? 
+half-life OR half life
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Neglecting air resistance, at what angle above the horizontal would you aim your garden hose nozzle to obtain the greatest horizontal distance if the nozzle is at ground level: 
+W)  0º 
+X)  30º 
+Y)  45º 
+Z)  60º 
+y OR 45º 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Tim hears water dripping from a faucet while trying to take a nap. If he counts 20 drops in one minute, what is the period of the drops, in seconds? 
+3 OR 3 seconds OR 3 s
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The lambdoid suture is found in which of the following parts of the human body: 
+W)  scapula 
+X)  pelvis 
+Y)  skull 
+Z)  knee 
+y OR skull 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 5 organs in the human body that are NOT typically considered part of the respiratory system:  nose;  bronchi;  pharynx; esophagus;  cervix 
+esophagus, cervix OR cervix, esophagus
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the SI unit given to a volt per ampere? 
+ohm OR ohms
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the current, in amperes, for a 3600-watt electric conveyor operating on a 240-volt power source? 
+15 OR 15 amperes OR 15 amps

@@ -1,0 +1,375 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the angular velocity of a wheel with a radius of 15 meters and a surface velocity of 120 meters/sec? Do not include units.
+8
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming friction is negligible, how long, in seconds, will it take an object to stop if it has an initial velocity of 5 meters per second, if the average braking force is 20 Newtons, and if the object’s mass is 20 kilograms? Do not include units. 
+5
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+For individuals who are “Lactose Intolerant,” the reason for their gastric distress is the production of: 
+W)  methane  
+X)  acetic acid and nitrogen 
+Y)  lactic acid and carbon dioxide 
+Z)  acetic acid and methane 
+y OR lactic acid and carbon dioxide 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which acid connects the 2-deoxyribose units within every DNA strand: 
+W)  acetic acid 
+X)  phosphoric acid 
+Y)  citric acid 
+Z)  glycolic acid 
+x OR phosphoric acid 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following organisms does NOT belong to the Class Arachnida: 
+W)  scorpions 
+X)  lobsters 
+Y)  mites 
+Z)  ticks 
+x OR lobsters 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What anatomical structure is responsible for the various colors of eyes in humans? 
+iris 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following planets is NOT known to have any orbiting satellites:  
+W)  Venus 
+X)  Mars 
+Y)  Uranus 
+Z)  Saturn 
+w OR venus 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Cassini’s division is associated with what planet? 
+saturn 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Convert 135° into radians: Type as "<number>pi/<number>".
+3pi/4
+ 
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following inequality: 3 – 6x > 15
+x < -2 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Hawaiian volcanoes such as Kilauea and Mauna Loa are examples of which of the following types of volcanoes: 
+W)  basaltic 
+X)  rhyolitic 
+Y)  andesitic 
+Z)  andesitic and rhyolitic 
+w OR basaltic 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+In reference to glacial ice, the process by which ice below the snow line is lost by evaporation and melting is called what? 
+ablation 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What is a quantity that has only a magnitude most commonly called? 
+scalar 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+What pioneer bacteriologist in 1873 located a particular bacterium that caused anthrax in the spleen of infected cattle and, after transferring it serially to mice, recovered the same bacterium in the end: 
+W)  Louis Pasteur 
+X)  Robert Koch
+Y)  Rudolf Virchow 
+Z)  Peter Vogt 
+x OR robert koch 
+
+TOSS UP
+COMPUTER SCIENCE
+SHORT ANSWER
+In most computer systems, a byte is a unit of data that is how many binary digits long? 
+8 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What is the term for half a byte, or four bits? 
+nibble OR nybble 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+In a standing wave of a vibrating wire cord, what are the points of constructive interference most commonly called where the cord oscillates with maximum amplitude? 
+antinodes 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+For a radioactive element with a half-life of 5000 years, if a sample of the radioactive element is left to decay for 15,000 years, what fraction of the original radioactive atoms in the sample will be left? 
+1/8 OR .125 OR 12.5% 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following elements is found in Period 3 and main Group 5A: 
+W)  phosphorous 
+X)  silicon 
+Y)  nitrogen   
+Z)  arsenic 
+w OR phosphorous 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+From the lowest to the highest atomic number, give the full names of the first 4 alkaline earth metals: 
+beryllium, magnesium, calcium, strontium
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Which is the more common specific name for the polymorphonuclear (read as:  poly-morph-oh-nuclear) leukocyte? 
+neutrophil OR pmn 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Tobacco, jimsonweed, belladonna, and tomatoes all belong to what family of plants? 
+nightshade OR solanaceae 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+How many degrees above the horizon will the north celestial pole be for someone standing at latitude 53° North?  
+53 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What kind of celestial bodies have cores that consist primarily of neutral particles in a superfluid state and are thought to have evolved from stars with masses more than about 1.4 times the Chandrasekhar limit? 
+neutron stars
+
+TOSS UP
+MATH
+SHORT ANSWER
+4/3 pi r cubed is the formula for the volume of what object?
+sphere
+
+BONUS 
+MATH
+SHORT ANSWER
+Subtract the following 2 polynomials: (-4x^3y + 2x^3y^2 + 2x^2y^3 + 2y) – (4x^3y – 7x^3y^2 + x^2y^3 – y) 
+–8x^3y + 9x^3y^2 + x^2y^3 + 3y 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+A measure of how easily water flows through rock is called its: 
+W)  porosity 
+X)  aquifer system 
+Y)  permeability 
+Z)  zone of aeration 
+y OR permeability 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+In coastal engineering terms, the area from the shoreline to just beyond the breaker zone is called what? 
+littoral zone OR intertidal zone
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What ardent behaviorist and author of “Walden Two” believed that human behavior is strongly influenced by what he referred to as operant reinforcement? 
+b.f. skinner OR bf skinner OR skinner
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The total amount of sediment a stream can carry past a point in a given amount of time, is known as its: 
+W)  competence 
+X)  capacity 
+Y)  abrasion 
+Z)  dissolved load 
+x OR capacity 
+
+TOSS UP
+COMPUTER SCIENCE
+SHORT ANSWER
+In word processing, a collection of letters and associated characters in the same typeface, style and point size is called: 
+font 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+A logic chip that is just 20 nanometers wide would be about how many times wider than a single silicon atom? 
+W)  5 
+X)  50 
+Y)  200 
+Z)  500 
+y OR 200 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which physical phenomenon explains the flotation of boats and air balloons: 
+W)  Bernoulli’s principle 
+X)  Archimedes principle 
+Y)  Newton's second law of motion 
+Z)  Galileo’s law of displacement 
+x OR archimedes principle 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A runner, with her feet braced against her starting blocks, accelerates with a horizontal magnitude of 5 meters per second squared.  How much horizontal force, in Newtons, must she exert on the blocks to produce this acceleration if the she has a mass of 70 kilograms? 
+350 newtons OR 350 n OR 350 ns OR 350 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+How many electrons would fill the 4d energy subshell? 
+10 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+In which element is the first crossing in the orbital-filling order encountered, whereby the next 2 electrons go into the 4s subshell rather than filling the 3d orbitals? 
+W)  argon 
+X)  scandium  
+Y)  rubidium  
+Z)  potassium 
+z OR potassium 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What section of the brain is sometimes referred to as the body’s thermostat? 
+hypothalamus 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Removal of a predatory starfish results in an overabundance of mollusks dramatically altering the community population.  The starfish would be considered: 
+W)  a keystone species 
+X)  primary competitor 
+Y)  secondary producer 
+Z)  an endangered species 
+w OR a keystone species 
+
+TOSS UP
+MATH
+SHORT ANSWER
+In statistics, what is the square root of the variance most commonly known as? 
+standard deviation 
+
+BONUS 
+MATH
+SHORT ANSWER
+To the nearest cubic inch, find the volume of a sphere whose diameter is 4 inches: 
+33 OR 32 OR 34 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+On a topographical map, what are the lines drawn that connect points of the same elevation above or below mean sea level called: 
+W)  isobars  
+X)  ridges 
+Y)  isohyets 
+Z)  contours 
+z OR contours 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+The abyssal plain of the Atlantic ocean lies directly adjacent to the: 
+W)  continental slope 
+X)  continental rise 
+Y)  continental shelf 
+Z)  continental crust 
+x OR continental rise 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+In 1905, on the basis of apparent irregularities in the orbital motion of Neptune that later proved to be incorrect, who predicted the existence of a ninth planet with an orbit beyond Neptune: 
+W)  Percival Lowell 
+X)  Charles Dillon Perrine 
+Y)  George Ellery Hale 
+Z)  Johannes Franz Hartman 
+w OR percival lowell 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What native tree, prized for its wood, which looked like oak, and valued also for its fruit, is now almost extinct in the wild in the US? 
+american chestnut
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+The speed of light in a vacuum divided by the speed of light in a specific material is a way to compute what common optical value: 
+index of refraction 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the potential difference, in volts, if 35 joules of work is needed to move 5 coulombs of charge in a uniform electric field? 
+7 OR 7 v OR 7 volts
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+All elements in a given period of the periodic table have similar: 
+W)  valence-shell electron configuration  
+X)  maximum principal quantum number 
+Y)  atomic radii 
+Z)  atomic number 
+x OR maximum principal quantum number 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the systematic name for the compound FeCO3? 
+iron(ii) carbonate OR iron(ii)carbonate OR iron(2) carbonate OR iron(2)carbonate
+ 
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is a feeding structure in arachnids : 
+W)  dentipalps 
+X)  radula   
+Y)  proboscis 
+Z)  chelicerae 
+z OR chelicerae 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT a cranial bone: 
+W)  parietal 
+X)  occipital 
+Y)  sphenoid 
+Z)  lacrimal 
+z OR lacrimal

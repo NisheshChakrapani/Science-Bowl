@@ -1,0 +1,387 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the resulting electrical potential, in volts, when a charge of 12 coulombs is applied to a 1 farad capacitor? 
+12 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  the magnetic field associated with the current on a straight long wire is inversely proportional to the distance from the wire 
+X)  Kirchhoff’s first rule has to do with the accounting of total charges entering and leaving a junction per unit time 
+Y)  superconducting quantum interference devices, or SQUID’s, are based on the Josephson Effect 
+Z)  resistance and voltage are the two most common parameters used to characterize a resistor 
+z OR resistance and voltage are the two most common parameters used to characterize a resistor 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT a colligative property: 
+W)  vapor pressure lowering 
+X)  osmotic pressure  
+Y)  boiling point elevation 
+Z)  color of solution 
+z OR color of solution 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is a type of colloid that is classified as a sol at room temperature: 
+W)  gelatin  
+X)  milk  
+Y)  whipped cream 
+Z)  marshmallow 
+w OR gelatin 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following tissues is MOST directly responsible for the increased diameter of a tree trunk from year to year: 
+W)  apical meristem 
+X)  pericycle 
+Y)  vascular cambium 
+Z)  pith 
+y OR vascular cambium 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 3 metabolic processes which directly require oxygen:  glycolysis;  alcohol fermentation;  electron transport system 
+electron transport system 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Convert 21 octal into decimal
+17
+
+BONUS 
+MATH
+SHORT ANSWER
+Consider a 6-sided irregular polygon whose perimeter is 100 centimeters. If 4 of the sides have a length of 7 centimeters each, what is the length, in centimeters, of each of the remaining two sides if they are congruent? 
+36 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is a man-made coastal structure that causes coastal erosion by blocking oceanic longshore drift: 
+W)  jetty 
+X)  barrier island 
+Y)  atoll 
+Z)  fringing reef 
+w OR jetty 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Used as a way to categorize rivers and streams, what is the term for the volume of water flowing through the cross-section of a channel over a given period of time?   
+discharge OR discharge rate
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Case hardening is a process through which: 
+W)  the surface of a metal is hardened 
+X)  the metal is hardened completely through 
+Y)  the hardness of a metal is determined 
+Z)  metals are shaped or formed 
+w OR the surface of a metal is hardened 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The oil used with an oil-immersion objective in compound light microscopes takes advantage of what optical phenomenon to improve magnification: 
+W)  chromatic coherence 
+X)  index of refraction 
+Y)  polarization 
+Z)  dispersion 
+x OR index of refraction 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  the rotation of the Sun’s surface is faster at the equator than at the poles 
+X)  the apparent magnitude of an RR Lyrae depends most on its distance from the Earth 
+Y)  Venus appears its largest to nighttime observers when it is in its full phase 
+Z)  a star’s light curve typically plots brightness verses time 
+y OR venus appears its largest to nighttime observers when it is in its full phase
+ 
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following techniques would you most directly be using if you were analyzing a Balmer and Lyman series: 
+W)  astrolabe measurements 
+X)  spectroscopy 
+Y)  nuclear fission 
+Z)  bolometric analysis 
+x OR spectroscopy 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is the strongest spectral line in the visible region of the hydrogen spectrum: 
+W)  red Balmer line 
+X)  orange Lyman line 
+Y)  green Paschen line 
+Z)  blue Brackett line 
+w OR red balmer line 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following has the highest vapor pressure at standard temperature and pressure: 
+W)  mercury 
+X)  ethyl alcohol 
+Y)  methyl alcohol 
+Z)  acetone 
+z OR acetone 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+According to the Arrhenius theory, an Arrhenius acid is any substance that does which of the following in a chemical reaction: 
+W)  donates a pair of electrons 
+X)  accepts a pair of electrons 
+Y)  produces H+ ions in aqueous solution 
+Z)  produces OH– ions in aqueous solution 
+y OR produces h+ ions in aqueous solution 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+If you were to evaporate 1 liter or kilogram of water, how many calories of latent heat are stored in the vapor? 
+540000 OR 5.4 x 10^5
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+During meiosis, how many chromatids are in a chromosomal tetrad? 
+4 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT true of nucleated mammalian cells: 
+W)  mast cells contain large amounts of histamine 
+X)  the golgi apparatus processes proteins for exocytosis 
+Y)  microtubules are components in cilia 
+Z)  all the DNA in a nucleated cell is in the nucleus 
+z OR all the dna in a human nucleated cell is in the nucleus 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Solve the following equation for x: x^2 – 20x + 19 = 0. Type as "x = <x1>, <x2>".
+x = -1, 19 OR x = 19, -1
+
+BONUS 
+MATH
+SHORT ANSWER
+Express the following radical in its simplest radical form: root(175). Type as "<number> root <number>".
+5 root 7
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true about Earth’s history: 
+W)  the Ordovician Period predates the Silurian Period 
+X)  we currently live in the Cenozoic Era 
+Y)  we currently live in the Pleistocene Epoch  
+Z)  the Holocene Epoch began about 10,000 years ago 
+y OR we currently live in the pleistocene epoch 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is the global wind system that most influences weather in the U.S.: 
+W)  prevailing westerlies 
+X)  tropical easterlies 
+Y)  trade winds 
+Z)  polar easterlies 
+w OR prevailing westerlies 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+One metric ton equals how many grams? 
+one million OR million OR 1000000 OR 1 x 10^6 OR 10^6 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Gout in humans is the result of the precipitation of what substance in joints? 
+uric acid OR lithic acid OR triketopurine
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+With reference to the Sun’s position in the sky, when does a full Moon set? 
+when the sun rises 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+In a Newtonian telescope, how many degrees is the secondary mirror tilted in reference to the primary? 
+45 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+If 1000 pounds is applied to a spring with spring constant of 100 pounds per inch on top of a hydraulic piston, how many pounds of force is transferred to the piston: 
+W)  1,000  
+X)  900  
+Y)  100 
+Z)  zero 
+w OR 1,000 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+If the atomic mass of carbon-12 is exactly 12 atomic mass units, why is the atomic mass of carbon not exactly 12 when listed on the Periodic Table: 
+W)  the mass deficit 
+X)  neutrons are not the same mass as protons 
+Y)  it adds the mass of the electrons 
+Z)  the presence in nature of about 1.1% carbon-13 
+z OR the presence in nature of about 1.1% carbon-13 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+How many carbon and hydrogen atoms are in a cyclopentane molecule? Type as "c = <num>, h = <num>".
+c = 5, h = 10 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the systematic IUPAC name for the following acid: HClO 
+hypochlorous acid 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What specific part of any member of the Anthophyta produces pollen? 
+stamen OR anther
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Which one of the following 4 plant groups is phenotypically and phylogenetically LEAST related to the others:  ferns;  liverworts;  hornworts;  mosses  
+ferns 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Subtract the following complex numbers, giving your answer in standard form:  (11 – 4i) – (–3 + 3i) 
+14 – 7i 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the indefinite integral of: cos(18x + 16)
+sin(18x + 16)/18
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+The time interval between the generation of P and S waves from its arrival at a seismometer is BEST translated as: 
+W)  the magnitude of the earthquake 
+X)  the distance to the epicenter 
+Y)  the wave height of a potential tsunami 
+Z)  the distance to the nearest fault zone 
+x OR the distance to the epicenter 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  sea levels dropped during the Pleistocene glaciation making the Bering Strait a land bridge 
+X)  large animals such as the mastodon and dire wolves became extinct at the end of the Pleistocene 
+Y)  the Holocene may be an interglacial stage 
+Z)  recent ice ages are thought to be controlled by uniformitarian cycles 
+z OR recent ice ages are thought to be controlled by uniformitarian cycles
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What substance made of several fibrous materials was widely used in the 20th century for its heat resistant properties but is now banned because it can cause lung cancer when inhaled? 
+asbestos 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the medical term for the type of lung cancer specifically associated with asbestosis? 
+mesothelioma 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What planet is never more than 28º from the Sun in the evening sky? 
+mercury 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+At 8:00 AM in early August of 2006 in New York, the Moon could be seen low in the western sky.  What phase was it most likely in: 
+W)  waxing crescent 
+X)  just past new 
+Y)  a few days past full 
+Z)  first quarter  
+y OR a few days past full 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+How many nodes are there in the first overtone in a standing wave of a vibrating guitar string? 
+3 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If g = 9.8 meters per second squared, to the first decimal place and in newtons, how many newtons of force are required to keep a 500 kilogram slab of granite moving across a horizontal surface at constant speed if there is a kinetic frictional coefficient of 0.10 between the surface and the slab? 
+490 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Organic compounds that contain double bonds are said to be: 
+W)  saturated 
+X)  unsaturated 
+Y)  unable to undergo cis-trans isomerization 
+Z)  unable to undergo addition reactions 
+x OR unsaturated 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Arrange the following 4 elements in order of increasing atomic radii:  lithium;  oxygen;  potassium;  sodium 
+oxygen, lithium, sodium, potassium 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Which one of the following 4 animal groups is LEAST closely related to the others:  brachiopods;  gastropods;  cephalopods;  bivalves 
+brachiopods 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+From the OUTSIDE to the INSIDE, name the 3 embryonic germ layers in mammals: 
+ectoderm, mesoderm, endoderm 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  actinides are characterized by occupying the f-block of the periodic table 
+X)  lanthanides are characterized by occupying the d-block of the periodic table 
+Y)  alkali metals are the most reactive of all metallic elements 
+Z)  actinides are metals 
+x OR lanthanides are characterized by occupying the d-block of the periodic table
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In standard chemical nomenclature, what is the complete electron configuration for the sodium ion, Na+? 
+1s22s22p6

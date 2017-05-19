@@ -1,0 +1,425 @@
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+What is the name of the sedimentary rock formed by compaction and cementation of rounded, pebble-size particles? 
+conglomerate 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is NOT a characteristic of a good index fossil? 
+W) Easy to identify 
+X) Geographically widespread 
+Y) Slow evolution 
+Z) Easy to preserve 
+y OR slow evolution 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT an evolutionary adaptation of plants to arid climates? 
+W) Leaves have a waxy coating 
+X) Carbon incorporation and the Calvin cycle are separated  
+Y) Stomata are closed at night 
+Z) Leaves are absent 
+y OR stomata are closed at night 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following mammal species is usually considered diurnal [dy-UR-nl]? 
+W) Eastern fox squirrel  
+X) Black-footed ferret 
+Y) Virginia opossum 
+Z) Raccoon  
+w OR eastern fox squirrel 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the specific chemical term for the minimum pressure required to produce liquefaction of a substance at the critical temperature? 
+critical pressure 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Name the molecule with the formula CH3COOCH2CH2CH3. propyl ethanoate (accept: propyl acetate) 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+The variables x and y vary directly. Which of the following equations could represent the relationship between x and y? 
+W) (1/5)x = 1/y [one fifth x equals 1 over y] 
+X) x/y = 1/5 [x over y equals one fifth] 
+Y) xy = 1/5 [x y equals one fifth] 
+Z) xy = 5 
+x OR x/y = 1/5 
+
+BONUS 
+MATH
+SHORT ANSWER
+An open box is to be made from a rectangular piece of material 8 inches by 6 inches by cutting equal squares of side x from the four corners and turning up the 
+sides. In terms of x, give an expression for the volume of the box in cubic inches. 
+x(8- 2x)(6- 2x) (accept: 4x3 – 28x2 + 48x) 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A rock is thrown vertically upwards with speed v from the edge of a cliff. At the same moment, a second rock is thrown vertically downwards with the same initial 
+speed v. Neglecting air resistance, which of the following statements is true? 
+W) The rock that was thrown upwards reaches the bottom of the cliff with a higher velocity 
+X) The rock that was thrown downwards reaches the bottom of the cliff with a higher velocity 
+Y) Both rocks reach the bottom of the cliff with the same velocity at the same time 
+Z) Both rocks reach the bottom of the cliff with the same velocity but at different times 
+z OR both rocks reach the bottom of the cliff with the same 
+
+VELOCITY BUT AT DIFFERENT TIMES 
+BONUS 
+PHYSICS
+SHORT ANSWER
+A mass is spun horizontally at the end of a string. If its speed is changed so that the centripetal force is doubled, in simplest decimal form to the nearest tenth, 
+what is the ratio of final speed to initial speed? 
+1.4 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following mineral properties is most reliable for identification? 
+W) Color 
+X) Density 
+Y) Cleavage 
+Z) Luster 
+y OR cleavage 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+In what wavelengths of electromagnetic radiation do greenhouse gases absorb and reradiate energy back to Earth’s surface? 
+infrared (accept: ir) 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is true of enzymes? 
+W) They increase the activation energy of metabolic reactions 
+X) They have active sites that bind to specific substrate molecules 
+Y) They are made of chitin [KY-tin] protein  
+Z) They generally act on a variety of substrate molecules 
+x OR they have active sites that bind to specific substrate 
+
+MOLECULES 
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following branches of science deals with study of the life and phenomena of inland standing waters, especially lakes and ponds? 
+W) Limnology [lim-NOL-uh-jee] 
+X) Hydrology 
+Y) Ichthyology [ik-thee-OL-uh-jee] 
+Z) Ecology  
+w OR limnology 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following is NOT a potential source of biogas? 
+W) Landfills 
+X) Sewage treatment plants 
+Y) Automobile engine 
+Z) Animal waste 
+y OR automobile engine 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+The presence of which of the following traits is required for the creation of all oil traps? 
+W) Anticline 
+X) Syncline 
+Y) Impermeable layer 
+Z) Fault 
+y OR impermeable layer 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following catabolic pathways liberates carbon dioxide? 
+W) Electron transport 
+X) Glycolysis [gly-KOL-uh-sis] 
+Y) Citric acid cycle 
+Z) Cori cycle 
+y OR citric acid cycle 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+If one mole of a substance with a molar mass of 20 is burned at constant pressure and 800 kilojoules of energy is released as heat, what is the standard 
+enthalpy change, in kilojoules, when a 5-gram sample of this substance is burned at constant 
+pressure? 
+-200 (must include negative sign in answer) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Providing your answer to one decimal place, find the value of the following fraction: 63!
+62!3!
+ [the numerator is 63 factorial; the denominator is 62 factorial times 3 
+factorial]. 
+10.5 
+
+BONUS 
+MATH
+SHORT ANSWER
+Name all of the quadrants that contain solutions of the inequality 2x – y > 4 .  
+i, iii, iv (accept: 1, 3, 4 or first, third, fourth) 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A string 40 centimeters long produces a fundamental frequency of 384 hertz. To produce a note one octave higher, the tension in the string must be increased 
+by which of the following factors? 
+W) 0.7 
+X) 1.4 
+Y) 2 
+Z) 4 
+z OR 4 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A meter stick is held by a low-friction support on a stand. A single weight and an air-filled balloon hang from the left side of the meter stick; a weight hangs from 
+the right side of the meter stick. The fulcrum is adjusted so that the system is balanced and 
+level. If the string holding the balloon is burned so as to exert no torque when the string breaks, 
+identify by number what will happen when the string breaks: 1) the right side of the meter stick 
+will go down; 2) the left side of the meter stick will go down; or 3) the meter stick will remain 
+balanced. 
+1 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is produced by gas-to-particle conversion in the atmosphere? 
+W) Primary particulate matter 
+X) Secondary particulate matter 
+Y) Tertiary aerosols 
+Z) Primary aerosols 
+x OR secondary particulate matter 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What are the two most abundant minerals in the continental crust? 
+f OR 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the highest level of protein structure present in collagen, a fibrous protein with three discrete helical polypeptides [HEL-i-kuhl pol-ee-PEP-tyds] 
+supercoiled into a triple helix? 
+quaternary 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Estrogen and progesterone [proh-JES-tuh-rohn] are most directly regulated by which two hormones? 
+fsh and lh (accept: follicle-stimulating and luteinizing) 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following is typically increased in order for electricity to travel long distances through transmission lines? 
+W) Voltage  
+X) Amperage 
+Y) Wattage 
+Z) Current  
+w OR voltage 
+
+BONUS 
+ENERGY SHORT ANSWER
+What type of semi-conducting junction is essential to the functioning of a solar cell? 
+p-n junction (accept: p-n) 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is an aldehyde [AL-duh-hyd]? 
+W) C11H20  
+X) C5H11OH 
+Y) C5H11CHO 
+Z) C5H11NH2  
+y OR c5h11cho 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which one of the following five metals would react the least with dilute hydrochloric acid: 1) lead, 2) chromium, 3) manganese, 4) nickel, 5) gold? 
+5 (accept: gold) 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+If the surface area of a cube is 96 square units, which of the following is the length of a diagonal of a face of the cube? 
+W) 4 
+X) 4√2 
+Y) 4√3 
+Z) 16√2 
+x OR 4√2 
+
+BONUS 
+MATH
+SHORT ANSWER
+Determine the largest possible real domain of y = √𝑥−1 √𝑥2− 1
+ [y equals 
+the fraction with numerator the square root of the quantity x minus 1 and denominator 
+the square root of the quantity x squared minus 1 ]. 
+x > 1 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+If two inductance coils of inductance L are connected in parallel, but are well separated, the equivalent inductance of the system is which of the following? 
+W) 0.5L 
+X) L 
+Y) 2L 
+Z) L2 
+w OR 0.5l 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Two balls are dropped one second apart from a tall building. Given g as 10 meters per second squared and neglecting air resistance, what is the 
+approximate distance in meters between the two balls three seconds after the first ball is 
+dropped? 
+W) 20 
+X) 25 
+Y) 45 
+Z) Depends on the masses 
+x OR 25 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following theories describes the random movement of small particles in the atmosphere? 
+W) Diffusion  
+X) Reynolds number 
+Y) Brownian motion 
+Z) Kinetic  
+y OR brownian motion 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+Igneous [IG-nee-uhs] rocks and magmas are classified into four main compositional groups: ultramafic, mafic, intermediate, and felsic, based 
+on the content of what chemical compound? 
+silica 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the term for the process in which a reptile sheds its outer layer of skin, or an arthropod [AHR-thruh-pod] or crustacean [kruh-STAY-shuhn] sheds its 
+outer shell? 
+ecdysis (accept: molting) 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+The acronym NAD stands for what phrase? 
+nicotinamide adenine dinucleotide 
+
+TOSS UP
+ENERGY SHORT ANSWER
+Cadmium and boron are used in a nuclear reactor to absorb which subatomic particle? 
+neutron 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Which of the elements, used as a nuclear fuel, is most abundant in the Earth's crust? 
+W) Uranium 
+X) Plutonium 
+Y) Thorium 
+Z) Americium 
+y OR thorium 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+When hydrogen reacts with 2-butanone, which of the following is the primary product? 
+W) A primary aldehyde [AL-duh-hyd] 
+X) A secondary aldehyde 
+Y) A primary alcohol 
+Z) A secondary alcohol 
+z OR a secondary alcohol 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Arrange the following three choices in order of increasing number of oxygen atoms: 1) one mole of carbon monoxide; 2) one mole of carbon dioxide; 3) 
+one-half mole of calcium carbonate. 
+1, 3, 2 (accept: one mole of carbon monoxide; one-half mole of 
+
+CALCIUM CARBONATE; ONE MOLE OF CARBON DIOXIDE) 
+TOSS UP
+MATH
+SHORT ANSWER
+If two 6-sided fair dice are rolled, providing your answer as a fraction in lowest terms, what is the probability that both numbers will be even? 
+1 
+
+4
+BONUS 
+MATH
+SHORT ANSWER
+Mary travels for 110 miles averaging 55 miles per hour and for 150 miles averaging 50 miles per hour. What is Mary’s average speed in miles per hour for the trip? 
+52 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+White light is incident on a diffraction grating. Which of the following colors will be diffracted through the largest angle? 
+W) Red 
+X) Yellow 
+Y) Blue 
+Z) Green  
+w OR red 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+A square conducting loop of length L on a side carries a current i. Which of the following best characterizes the magnetic field at the center of the loop? 
+W) Independent of L 
+X) Inversely proportional to L 
+Y) Proportional to L  
+Z) Proportional to L2 
+x OR inversely proportional to l 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following clockwise currents brings warm Caribbean waters into the Gulf of Mexico before joining the Gulf Stream? 
+W) Caribbean system  
+X) Loop  
+Y) North Equatorial  
+Z) Florida  
+x OR loop 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following does NOT describe the asthenosphere? 
+W) Region of the lower mantle 
+X) Viscous [VIS-kuhs] 
+Y) Mechanically weak and ductile 
+Z) Involved in plate tectonic movements  
+w OR region of the lower mantle 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Who discovered the antibiotic nature of penicillin in 1928? 
+sir alexander fleming (accept: alexander fleming, fleming) 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Of the following four choices, identify all that are involved in plant primary growth: 1) axillary bud meristem, 2) cork cambium, 3) apical meristem, 4) vascular 
+cambium. 
+1, 3 (accept: axillary bud meristem, apical meristem) 
+

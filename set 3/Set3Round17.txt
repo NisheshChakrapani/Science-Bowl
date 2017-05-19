@@ -1,0 +1,454 @@
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Which two of the following 5 amino acids are classified as basic because of the structure of their side chains:   
+arginine;  glycine;  glutamic acid;  phenylalanine;  lysine 
+arginine; lysine 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+At 250K, the pressure of oxygen in a 1-liter container is 0.40 atmospheres.  If 0.10 moles of carbon dioxide are added to the container, what will be the new 
+pressure, in atmospheres rounded to the first decimal place? 
+2.5 (accept: 2.4) 
+
+(Soln: PCO2 = (nRT/V) = [(0.10mol)(0.0821L-atm/K-mol)(250K)]/1L = 2.05 atm; PT = 0.40 + 2.05 = 
+2.45atm = 2.5 atm) 
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is the MOST likely ultimate fate of the universe if mass in the universe is less than the critical density and there is no dark energy: 
+W)  it will eventually stop expanding and maintain a constant size 
+X)  it will stop expanding and collapse 
+Y)  it will expand forever 
+Z)  it will expand at an accelerating rate and then nearly collapse, then expand again and continue to 
+oscillate this way forever 
+y OR it will expand forever 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following BEST explains why scientists believe the early universe up to a few hundred thousand years old was opaque: 
+W)  deuterium at those temperatures absorbed all electromagnetic radiation 
+X)  there was no electromagnetic radiation 
+Y)  free electrons scattered photons and prevented them from traveling very far  
+Z)  the temperature had cooled so far that space without stars was a dark void 
+y OR free electrons scattered photons and prevented them 
+
+FROM TRAVELING VERY FAR  
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The movement of cells from G-1 in the cell cycle into S-phase is mostly under the control of: 
+W)  cyclins and cyclin-dependent kinases 
+X)  the availability of purines and pyrimidines 
+Y)  ubiquitin (read as: you-BIK-qui-tin) and proteosomes (read as: PRO-tee-oh-somes) 
+Z)  G proteins and APC’s 
+w OR cyclins and cyclin-dependent kinases 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+If you fluorescent-labeled the outsides of the trans-membrane proteins of one mammalian cell with a yellow label and another cell with a red label and fused them, 
+which of the following would MOST likely occur over about 1 hour at 37ºC: 
+W)  the labels would remain unevenly distributed on the outside of the cells 
+X)  the labels would quickly disappear 
+Y)  one color would show up in the inside of the cell and the other would remain on the outside 
+Z)  the labels would mix evenly on the outside of the cell 
+z OR the labels would mix evenly on the outside of the cell 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+By definition, a quadrantal angle is an angle in standard position where its terminal side: 
+W)  lies on a coordinate axis 
+X)  is a central angle 
+Y)  lies only in quadrants one and three 
+Z)  lies only in quadrants two and four 
+w OR lies on a coordinate axis 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the following indefinite integral: ∫ dxxex (read as: the integral of x times e to the x power, dx) 
+xex – ex + c 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT used in determining relative geologic time: 
+W)  principle of superposition 
+X)  principle of original horizontality 
+Y)  principle of cross-cutting 
+Z)  radioisotope half-lives 
+z OR radioisotope half-lives 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Arrange the following 3 oceanic crust features from the YOUNGEST to the OLDEST:  abyssal plain;  continental shelf;  mid-ocean ridge 
+mid-ocean ridge; abyssal plain; continental shelf 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  electron tunneling is a phenomenon known since the early formulations of quantum mechanics 
+X)  interstellar dust is now believed to constitute less than 1% of the mass in the interstellar medium 
+Y)  antibiotic resistance in bacteria can arise from bacteria incorporating exogenous DNA into their 
+genomes 
+Z)  plant auxin is typically produced in bud scales and has the restricted role of cellular elongation 
+z OR plant auxin is typically produced in bud scales and has the 
+
+RESTRICTED ROLE OF CELLULAR ELONGATION 
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+If the magic sum for a magic square is 15 and the top row of the magic square consists of  the numbers 2, 9 and 4 and the top two numbers of the left column 
+from the top down are 2 and 7, what are the 3 rows, from top to bottom? 
+
+
+816
+357
+492
+  (must be exact and read as  2, 9, 4   7, 5, 3   6, 1, 8) 
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following MOST directly predicts that the maximum mass possible for a white dwarf is about 1.4-times that of the Sun: 
+W)  the Hubble constant 
+X)  the Chandrasekhar limit  (read as: chan-dra-SAY-kar) 
+Y)  General Relativity 
+Z)  the Fornax theorem 
+x OR the chandrasekhar limit 
+
+BONUS 
+7)  ASTRONOMY  Multiple choice  Which of the following is illustrated on Maunder’s diagram:  
+W)  sunspot activity  
+X)  stellar luminosity 
+Y)  cometary periods 
+Z)  planetary orbital periods 
+w OR sunspot activity 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following ionic compounds would have the highest melting point: 
+W)  NaF  
+X)  NaCl 
+Y)  CaF2 
+Z)  MgO 
+z OR mgo 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In a zinc-lead voltaic cell, what is the maximum voltage, to the third decimal place, that can be obtained if the standard reduction potential for the zinc ion is  
+–0.763 volts and for the lead ion is –0.126 volts? 
+0.637 (must be positive) 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  electrons are directly affected by the strong nuclear force 
+X)  general relativity predicts the existence of black holes 
+Y)  a deuterium atom has two nucleons  
+Z)  many cosmologists believe that neutrinos make up about as much mass as all the stars in the 
+universe 
+w OR electrons are directly affected by the strong nuclear 
+
+FORCE 
+BONUS 
+PHYSICS
+SHORT ANSWER
+Ashley, who weighs 450 newtons, is with her dad at the playground, and she is sitting on a swing that is 0.60 meters above the ground.  Her dad pulls her back and lets 
+her go when the swing is 1.1 meters above the ground.  How fast, in meters per second to the first 
+decimal place, is Ashley moving when the swing passes through its lowest position? 
+3.1 (accept: 3.2) 
+
+KE2 = 
+2/8.9/450
+)225(2
+smN
+J = 3.13 m/s) 
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+To what specific part of the tryptophan or lac operon will the repressor typically bind in order to exert its control on the operon? 
+operator 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is the primary difference in regulation between the lactose and tryptophan operons: 
+W)  tryptophan activates its repressor and lactose leads to an inactive repressor 
+X)  when tryptophan is present, the repressor is inactive and the opposite is true for allolactose in the 
+lac operon 
+Y)  allolactose is considered a co-repressor whereas tryptophan is actually an inducer 
+Z)  when tryptophan is not present, the co-repressor is able to inactivate the promoter directly 
+w OR tryptophan activates its repressor and lactose leads to 
+
+AN INACTIVE REPRESSOR 
+TOSS UP
+MATH
+SHORT ANSWER
+Differentiate and simplify the following with respect to x: y = xe 
+
+x
+e x
+2
+BONUS 
+MATH
+SHORT ANSWER
+For a triangle whose side b = 6 and c = 8 and the angle formed by those sides is 45º, find the area of the triangle, to the nearest whole number: 
+17 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+If you were hiking on a glacier in the summertime, which of the following is the BEST way to recognize if you were walking on the zone of accumulation: 
+W)  large amounts of rocks eroded from the nearby mountainsides have accumulated 
+X)  you were walking mostly on exposed, bare ice 
+Y)  last year’s snow is still covering the glacial ice 
+Z)  a bergschrund delineates the start of the accumulation zone 
+y OR last year’s snow is still covering the glacial ice 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Order the following 4 choices from the LOWEST metamorphic grade to the HIGHEST:  schist;  gneiss;  slate;  phyllite 
+slate; phyllite; schist; gneiss 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT typically true about lichens: 
+W)  lichens produce a rock-dissolving acid as they grow 
+X)  few animals other than caribou can eat lichens 
+Y)  lichens take nutrients from the air  
+Z)  lichens are prone to desiccation and death if water is withheld for more than a few days 
+z OR lichens are prone to desiccation and death if water is 
+
+WITHHELD FOR MORE THAN A FEW DAYS 
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What general class of plant hormones and their synthetic cousins have been used as herbicides such as 2,4-D and agent orange? 
+auxins 
+
+TOSS UP
+14)  ASTRONOMY  Multiple choice  In the first step of the proton-proton chain, when two protons 
+come together one of the protons remains as a proton and the other: 
+W)  is annihilated 
+X)  turns into a neutron 
+Y)  turns into a negatron  
+Z)  also remains as a proton 
+x OR turns into a neutron 
+
+BONUS 
+14)  ASTRONOMY  Multiple choice  In the second step of the proton-proton chain, which of the 
+following occurs: 
+W)  a proton combines with deuterium to produce helium-3 and a gamma ray is emitted 
+X)  a neutron combines with deuterium to produce helium-3 and a neutrino is emitted 
+Y)  a proton combines with deuterium to produce helium-3 and a neutrino ray is emitted 
+Z)  a neutron combines with deuterium to produce helium-2 and a positron is emitted 
+w OR a proton combines with deuterium to produce helium-3 and 
+
+A GAMMA RAY IS EMITTED 
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Consider the following reaction, N2(gas) + 3H2(gas) ↔ 2NH3(gas), whose heat of reaction, or delta H, is –91.8 kilojoules.  If the temperature for the reaction is 
+increased, which of the following will occur: 
+W)  the concentration of N2 increases  
+X)  the concentration of H2 decreases 
+Y)  the concentration of NH3 increases 
+Z)  the concentration of N2 decreases 
+w OR the concentration of n2 increases 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+How many kilopascals of pressure are needed to compress 400 milliliters of a gas under the conditions of 150 kilopascals of pressure and 400K, to 600 milliliters at 
+a new temperature of 200K? 
+50 
+
+P1V1
+T1  = 
+P2V2
+T2  ;  K
+mlkPa
+400
+)400)(150(  = 
+K
+mlP
+200
+)600)(( 2 ;  = 50 kPa) 
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is MOST closely related to the movement of charge in non-ceramic superconductors: 
+W)  charge confinement 
+X)  Josephson effect 
+Y)  Cooper pairs 
+Z)  Hall movement 
+y OR cooper pairs 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is NOT a standard characteristic of a laser: 
+W)  coherent beam 
+X)  optical gain 
+Y)  distinctly identifiable pumping threshold 
+Z)  distinctly identifiable pumping turn-off 
+z OR distinctly identifiable pumping turn-off 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is the BEST description of photorespiration: 
+W)  the process whereby primitive bacteria use light to help oxidize inorganic molecules 
+X)  the competition of carbon dioxide and molecular oxygen for Rubisco 
+Y)  the gaining of chemical energy in photosynthesis 
+Z)  the loss of reduced electrons from photosystem one 
+x OR the competition of carbon dioxide and molecular oxygen 
+
+FOR RUBISCO 
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name 2 of the following 4 plant types that have the LEAST amount of photorespiration if all are exposed to a bright summer Sun:  agave;  corn;  begonia;  tulip  
+agave; corn 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Give the center point and the vertices of the horizontal axis and vertical axis of the ellipse for the following equation:  1
+9
+)2(
+16
+)1( 22
+=
+!
++
++ yx  
+center = (–1, 2); horizontal = (–5, 2) and (3, 2); 
+
+VERTICAL = (–1, –1) AND (–1, 5) 
+BONUS 
+MATH
+SHORT ANSWER
+Differentiate and simplify the following with respect to x: y = x
+xln   
+(read as: natural log of x divided by x) 
+2 
+
+ln1
+x
+x!        (ALSO ACCEPT [-(lnx) +1]/x2 
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the name for the most recent Pleistocene glacial episode in North America?  
+wisconsinian 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+A moment magnitude 7 earthquake releases how many times more energy than a moment magnitude 6 earthquake? 
+31 (accept: 30 to 32) 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is the equivalent of a googolplex: 
+W)  10100 
+X)  
+101010  
+Y)  
+1001010  
+Z)  101000 
+y OR
+
+1001010  
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Most scientific evidence currently supports the belief that HIV-1 evolved from: 
+W)  a rotovirus of monkeys 
+X)  a retrovirus of monkeys 
+Y)  a simian immunodeficiency virus of chimps 
+Z)  a picorna immunodeficiency virus of monkeys 
+y OR a simian immunodeficiency virus of chimps 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+Order the following 3 stars from the one that will undergo fusion for the SHORTEST time to the LONGEST:  red dwarf;  our Sun;  large mass o-type star 
+large mass o-type star; our sun; red dwarf 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+If a stellar body’s surface is 5,000 kelvin, what is its peak emission of electromagnetic radiation, in nanometers? 
+580 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Predict the shape of a molecule of phosphorous pentafluoride, whereby each phosphorous atom has 5 valence electrons to share with 5 fluorine atoms: 
+trigonal bipyramidal 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Give all 3 angles, in degrees, that are present in phosphorous pentafluoride: 
+90; 120; 180 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+As reported recently in the journal Science, researchers have succeeded in producing a high efficiency organic LED.  They began with a blue emitting system and 
+then added a single color light emitting phosphor to obtain white light.  What was the single color 
+phosphor they used? 
+yellow 
+
+needed red and green to add to blue to make white they chose a yellow phosphor) 
+BONUS 
+PHYSICS
+SHORT ANSWER
+A sphere of radius 1 meter contains uniformly distributed charge of charge density rho.  Assuming ρ/ε0 (rho over epsilon-naught) equals 30 volts per meter squared, 
+what is the magnitude of electric field at a radius of 0.5 meters? 
+5 v/m 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Which 2 of the following 4 hormones play the largest roles in regulating sperm production in humans:   
+luteinizing hormone;  estradiol;  progesterone;  follicle stimulating hormone 
+luteinizing hormone; follicle stimulating hormone 
+
+(ACCEPT:  LH;  FSH) 
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Give the corresponding alternate DNA strand synthesized by reverse transcriptase from the following mRNA:  (read slowly, pausing between each triplet) 
+AUA, CAG, ACU, UUC, AUU 
+tat, gtc, tga, aag, taa 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the most common term for what Einstein first proposed to operate in empty space, but later rejected as his greatest blunder following Hubble’s discovery of the 
+expansion of the universe? 
+cosmological constant 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Name all of the following 4 particles that are leptons: 
+muon,  photon,  tau,  electron 
+muon; tau; electron (accept: all but photon) 
+

@@ -1,0 +1,371 @@
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+The triple point of a substance can be represented in what type of graphical representation: 
+W)  Lewis diagram  
+X)  phase diagram 
+Y)  energy diagram 
+Z)  time-temperature transformation diagram 
+x OR phase diagram 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Based on the acid dissociation constants of the following acids, order the following 4 acids from the strongest to the weakest in acid strength:  HBr;  HCl;  HF;  HI 
+hi, hbr, hcl, hf 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Color photography and the eventual development of the color television was advanced most directly by: 
+W)  Planck’s quantum theory of light 
+X)  Young’s and Helmholtz’s three color theory of light  
+Y)  the three color pigment theory 
+Z)  Kichoff’s understanding of the photoelectric effect  
+x OR young’s and helmholtz’s three color theory of light 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Ignoring friction and assuming g = 9.8 m/s2, how high will a stone reach, in meters rounded to the first decimal place, if launched vertically from rest at 15 m/s? 
+11.5 meters OR 11.5 OR 11.5 m
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Oligodendrocytes are responsible for producing what nerve coating that speeds nerve conduction: 
+myelin sheath OR myelin
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following are mostly under the control of the hypothalamus: 
+W)  metabolism, heart rate, sleep 
+X)  metabolism, heart rate, ovulation 
+Y)  metabolism, heart rate, micturition 
+Z)  metabolism, heart rate, balance 
+w OR metabolism, heart rate, sleep 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+To a stargazer in Ohio, a star far enough south of the celestial equator to be circumpolar such as Miaplacidus is: 
+W)  only seen for about 6 hours 
+X)  only seen briefly for about half an hour on the horizon 
+Y)  only seen on the winter solstice 
+Z)  never seen 
+z OR never seen 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Non-circumpolar stars that lie north of the celestial equator when viewed from Michigan will: 
+W)  spend less than 6 hours above the horizon 
+X)  spend more than 6 hours but less than 12 hours above the horizon 
+Y)  spend more than 12 hours but less than 24 hours above the horizon 
+Z)  spend 24 hours above the horizon 
+y OR spend more than 12 hours but less than 24 hours above the horizon
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following trigonometric relationships is TRUE: 
+W)  sine ? x cotangent ? = 1   
+X)  tangent ? x cotangent ? = 1 
+Y)  secant ? – cosine ? = 1 
+Z)  sine ? + cosecant ? = 1 
+x OR tangent ? x cotangent ? = 1 
+
+BONUS 
+MATH
+SHORT ANSWER
+Given the points, (0, 0) and (–4/5, 3/5), find the distance between them: 
+1
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT classified as an intrusive igneous rock: 
+W)  granite 
+X)  diorite 
+Y)  rhyolite 
+Z)  gabbro 
+y OR rhyolite 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Order the following three types of magma based on their typical percentage of dissolved gas, starting with the lowest: andesitic, basaltic, rhyolitic 
+basaltic, andesitic, rhyolitic 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The neutralization of the magnetic field around a body by encircling it with a conductor through which a current is maintained is called: 
+W)  demodulation 
+X)  degaussing 
+Y)  debugging 
+Z)  dehissing 
+x OR degaussing 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+For his discovery of a new form of radiation in 1895, what person received the first Nobel prize in physics? 
+wilhelm roentgen OR roentgen OR wilhelm rontgen OR rontgen
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In most microprocessors, cache memory built into the microprocessor is what kind of cache: 
+W)  L1 
+X)  L2 
+Y)  L3 
+Z)  L4  
+w OR l1 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+A component of the CPU, what does the acronym ALU stand for? 
+arithimetic logic unit 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Of the following, which is the most powerful tool available for the quantitative elemental analysis of metals in solutions: 
+W)  potentiometry 
+X)  nuclear magnetic resonance spectrometry 
+Y)  atomic absorption spectrometry 
+Z)  liquid chromatography 
+y OR atomic absorption spectrometry 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A sodium chloride solution in water has a weight percent of 6%. What mass of solution, in grams, contains 1.5 grams of sodium chloride? 
+25 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following forms of ionizing radiation expends most of its energy over the shortest distance when passing through human tissue: 
+W)  alpha particles 
+X)  beta particles 
+Y)  x-rays 
+Z)  gamma particles 
+w OR alpha particles 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Consider a sailor off the coast of Cape Cod, Massachusetts. How far from a fog horn, in meters, is the sailor if it takes 5 seconds to hear the horn at 10° C? 
+1680 OR 1681 OR 1682 OR 1683 OR 1684 OR 1685 OR 1686 OR 1687 OR 1688 OR 1689 OR 1690
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Okazaki fragments are joined by what specific enzyme? 
+dna ligase OR dna polymerase i OR dna polymerase 1
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Assuming a man has Daltonism and marries a homozygous, normal woman, their children would most likely have which of the following genetic distributions: 
+W)  100% of the females would be carriers and 50% of the males would be carriers   
+X)  100% of the females would be carriers and 100% of the males would be normal 
+Y)  50% of the females would be carriers and all of the males would have Daltonsim 
+Z)  both the females and the males would all have Daltonsim 
+x OR 100% of the females would be carriers and 100% of the males would be normal
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+What shape do interstellar dust particles have since the light emitted by stars is dimmed and partially polarized: 
+W)  sphere 
+X)  cube 
+Y)  disk 
+Z)  rodlike 
+z OR rodlike 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What astronomical instrument, used to determine the position of celestial bodies, uses light in parallel rays falling on a mercury surface, which then pass through a prism and into a telescope? 
+prismatic astrolabe OR astrolabe OR impersonal astrolable
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following minerals has a hardness of 7, often has good crystal shape with 6 sides, varies from colorless to white, pink, purple and several other colors, and exhibits conchoidal fracture: 
+W)  quartz 
+X)  diamond 
+Y)  pyroxene 
+Z)  olivine 
+w OR quartz 
+
+BONUS 
+EARTH 
+SCIENCE SHORT ANSWER
+Calculate the percent relative humidity for air at 70°F containing 10 millibars of water vapor if the saturation vapor pressure is 25.0 millibars at that temperature: 
+40% OR 40 percent OR 40 per cent OR 0.4
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+In population ecology, which of the following best defines the number of individuals of a species per unit of area: 
+W)  population size 
+X)  population density 
+Y)  biomass 
+Z)  cohort 
+x OR population density 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Recent studies of Troglodytes indicate they are some of the most sensitive endangered life forms.  In what specific environment do Troglodytes typically live? 
+caves OR cave
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In Java, a vector is different from an array in that: 
+W)  it is unordered 
+X)  it has no API to support it 
+Y)  it can store only integers  
+Z)  its size does not need to be explicitly declared 
+z OR its size does not need to be explicitly declared 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following operating systems came first: 
+W)  UNIX 
+X)  Linux 
+Y)  Windows 3.1 
+Z)  OS/2 
+w OR unix 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is the common name for the following compound:  benzene with a methyl group on carbon #1 and a chlorine atom on carbon #2 
+W)  chlorotoluene 
+X)  o-chlorotoluene 
+Y)  p-chlorotoluene 
+Z)  m-chlorotoluene 
+x OR o-chlorotoluene 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the oxidation number of the sulfur atom in H2SO4? 
++6 OR 6 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+If e is energy, f is frequency, and h is Planck’s constant, which of the following is NOT possible according to Planck’s quantum hypothesis: 
+W)  e = hf 
+X)  e = 0.5 hf 
+Y)  e = 1 hf 
+Z)  e = 2 hf 
+x OR e = 0.5 hf 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Einstein proposed that the photoelectric effect was a test for which of the following: 
+W)  the wave nature of light 
+X)  that light traveled a constant speed in a vacuum 
+Y)  the photon theory of light 
+Z)  the wave particle duality of light 
+y OR the photon theory of light 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Give the common chemical name for where new bases are added to a DNA strand: 
+3 prime hydroxyl OR 3 prime end
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Which one of the following 5 intermediates of the citric acid cycle is considered a 6 carbon intermediate:  citric acid,  oxaloacetic acid,  succinic acid,  alpha ketogluteric acid, fumaric acidd 
+citric acid 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is not a characteristic of the terrestrial planets: 
+W)  low average density 
+X)  closely spaced orbits 
+Y)  craters in old surfaces 
+Z)  very few moons 
+w OR low average density 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is NOT true of Kepler’s works in astronomy: 
+W)  Kepler gathered most of his data from his monitoring of the planets with a quadrant 
+X)  Kepler very seldom observed the planets and looked through a telescope only a few times in his life 
+Y)  many of Kepler’s computations were based on data gathered by Tycho Brahe 
+Z)  Kepler assumed planetary motion was not circular 
+w OR kepler gathered most of his data from his monitoring of the planets with a quadrant
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+In keeping with developments in the science of physics, Freud incorporated which of the following into his personality theory: 
+W)  relativity 
+X)  quantum theory 
+Y)  conservation of energy 
+Z)  entropy constantly increases  
+y OR conservation of energy 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Which of the following 5 metals has the lowest thermal conductivity:  iron;  lead;  tin;  magnesium;  zinc 
+lead 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is a naturally occurring amino acid that is NOT found in proteins? 
+W)  threonine 
+X)  histidine 
+Y)  ornithine
+Z)  isoleucine 
+y OR ornithine 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which two of the following 5 amino acids contain nonpolar R groups?  valine,  lysine,  arginine,  alanine,  histidine 
+valine, alanine OR valine and alanine OR alanine, valine OR alanine and valine
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+If the Earth was the same mass but half its present diameter, by what multiple, to the first decimal place, would escape velocity increase? 
+1.4 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the energy used in Kilowatt–hours if a current of 2 amps flows though a circuit whose resistance is 5 ohms for one hour? Do not include units
+0.020  
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What common organic molecule has a hydrocarbon phytol tail and a multi-ring structure with a magnesium metal ion in the center? 
+chlorophyll
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Order the following 3 monosaccharides from the smallest to the largest:   xylose,  threose,  glyceraldehyde 
+glyceraldehyde, threose, xylose

@@ -452,9 +452,10 @@ public class Proctor {
                 done = true;
             }
             System.out.println();
-            unread.remove(randQ);
+            unread.remove(unread.get(randQ));
             if (unread.size()==0) {
                 done = true;
+                System.out.print("Ran out of questions. ");
             }
         }
         System.out.println("Thanks for playing!");

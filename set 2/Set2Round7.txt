@@ -1,0 +1,407 @@
+﻿TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT considered a state function of a system in a reaction: 
+W)  work 
+X)  enthalpy  
+Y)  temperature 
+Z)  volume 
+w OR work 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the name of the law that states that the overall enthalpy change for a reaction is equal to the sum of the enthalpy changes for the individual steps in the reaction: 
+hess’s law OR hess OR hess' law OR hess'
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A beam of white light is incident on one face of a prism. Which of the following colors will emerge on the other side at the lowest angle with respect to the primary beam: 
+W)  violet  
+X)  yellow  
+Y)  red  
+Z)  blue  
+y OR red 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Consider a lever with a 4-gram mass located 12 centimeters from its fulcrum.  A 6-gram mass is placed on the opposite side of the lever.  How far, in centimeters, must the 6-gram mass be placed from the fulcrum to equally balance the 4-gram mass? 
+8 centimeters 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the substrate for which catalase has the greatest affinity? 
+hydrogen peroxide OR h2o2
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following kinds of microscopy will most commonly employ freeze fracture preparation of tissue specimens: 
+W)  bright field microscopy 
+X)  scanning electron microscopy 
+Y)  Normarsky microscopy 
+Z)  transmission electron microscopy 
+x OR scanning electron microscopy 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Cepheid variables are a large and important group of: 
+W)  yellow giants and super giants 
+X)  red giants 
+Y)  blue giants  
+Z)  pulsating quasars 
+w OR yellow giants and super giants 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the name of the simple astronomical instrument consisting of a vertical stick placed in a sunny spot to cast a shadow? 
+gnomon 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Find the derivative of the following function: f(x) = sin (ln x) (read as: f of x equals the sine of the natural log of x) 
+cos(lnx)/x OR cos(ln x)/x OR cos(ln x) / x OR cos(lnx) / x
+  
+BONUS 
+MATH
+MULTIPLE CHOICE
+Using the Cartesian coordinate system, find the distance between the points (2, 3) and (-3, 1): 
+W)  29  
+X)  7  
+Y)  5  
+Z)  39  
+w OR 29 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+What percentage of the earth’s total volcanic activity occurs under the ocean? 
+W)  30% 
+X)  45% 
+Y)  65% 
+Z)  90% 
+z OR 90% 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true about the Earth’s troposphere: 
+W)  within the layer, temperature decreases with altitude 
+X)  it is terminated by the tropopause 
+Y)  it contains the jet stream 
+Z)  within the layer, temperature increases with altitude 
+z OR within the layer, temperature increases with altitude 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Galena is a primary ore of which of the following metals: 
+W)  zinc 
+X)  lead 
+Y)  germanium 
+Z)  tungsten 
+x OR lead 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+According to Aristotle, the portion of the Cosmos lower than the moon is made of what four elements, apart from fire and water?
+earth, air OR earth and air OR air, earth OR air and earth 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+The letter “T” in 10 Base-T wiring refers to: 
+W)  Teflon coated 
+X)  telephone wire 
+Y)  tetrahedral packing 
+Z)  twisted pair 
+z OR twisted pair 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In Windows 98, what screen would you access to change device resources and troubleshoot resource conflicts: 
+W)  Device Performance Console 
+X)  Device Add/Remove 
+Y)  Device Changer 
+Z)  Device Manager 
+z OR device manager 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is a manufactured fiber composed of regenerated cellulose or of regenerated cellulose in which substituents have replaced more than 15% of the hydrogens of the hydroxyl groups: 
+W)  polyester  
+X)  silk 
+Y)  rayon 
+Z)  nylon 
+y OR rayon 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+If the temperature of a 4L tank of gas changes from 200K to 500K, at constant pressure what is the new volume of gas, in liters: 
+10 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+According to the work of Coulomb, if the charge on either one of two tiny objects was doubled, by what multiple would the total force on the particles increase?  
+2 times 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+In the Bragg equation which is conventionally written as, nλ = 2d sin N (Read as: n lambda equals two d sine phi), which of the following is the correct description of the angle phi: 
+W)  the complementary angle with respect to the normal to the crystal surface 
+X)  the angle between the incident ray and the normal to the crystal surface 
+Y)  the angle between the incident ray and the crystal surface 
+Z)  the internal angle of reflection of the crystal 
+y OR the angle between the incident ray and the crystal surface
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What scientist in 1936, building on the discoveries of Szent-Gyorgyi, (Pronounced: SENT- GEE-or-gee) postulated the basic reactions of the tricarboxylic acid cycle?  
+krebs 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+At which of the following wavelengths will photosynthesis in a spinach plant be greatest: 
+W)  475 nanometers 
+X)  550 nanometers 
+Y)  600 nanometers 
+Z)  750 nanometers 
+w OR 475 nanometers 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following planets sees the Sun rising from the west and setting in the east during its Autumn and Spring equinoxes?  
+W)  Mars 
+X)  Saturn 
+Y)  Uranus 
+Z)  Mercury 
+y OR uranus 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Who is the author of the book titled “On the Revolution of the Heavenly Spheres” which rejected the Earth-centric universe? 
+copernicus 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What percent of a normally distributed sample lies within 2 standard deviations of the mean? 
+95% 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the smallest integer that satisfies the following inequality: (x/2)+(x/3) > 5  
+7 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+A wave base is defined as the depth below an ocean wave in deep water below which stirring due to wind is negligible, and is approximately equal to: 
+W)  1/8 of its wavelength 
+X)  1/4 of its wavelength 
+Y)  1/2 of its wavelength 
+Z)  3/4 of its wavelength 
+y OR 1/2 of its wavelength 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+A clastic particle falling within the size range of 1/16th mm to 2 mm is called: 
+W)  silt 
+X)  sand 
+Y)  clay 
+Z)  pebble 
+x OR sand 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following woods is most desirable for fence posts in wet environments: 
+W)  locust  
+X)  oak 
+Y)  alder 
+Z)  hickory 
+w OR locust 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+BenzoPyrenes are food toxins that can be found in low concentrations in: 
+W)  charcoal-broiled meats 
+X)  uncooked shellfish 
+Y)  raw eggs 
+Z)  wild mushrooms 
+w OR charcoal-broiled meats 
+
+TOSS UP
+COMPUTER SCIENCE
+SHORT ANSWER
+The elapsed time between the initiation of a request for data and the receipt of the first bit or byte of that data is called: 
+access time OR disk access time 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following is a port that transmits data in a sort of wave, 8 bits across, in which each bit goes in the same direction at the same time: 
+W)  LPT 
+X)  serial  
+Y)  USB 
+Z)  FireWire 
+w OR lpt 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+A substance with an acid dissociation constant, or Ka, of 1 x 10-9 would be considered a: 
+W)  weak acid 
+X)  strong acid 
+Y)  weak base 
+Z)  strong base 
+w OR weak acid 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which Law states that the rate of effusion of a gas is inversely proportional to the square root of its molar mass? 
+graham's law OR graham's
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+According to quantum electrodynamics, what is exchanged that gives rise to the electromagnetic force between 2 charged particles? 
+photons 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What are the spin quantities for a gauge boson, a lepton, and a kaon, respectively? (Type as <answer>, <answer>, <answer>)
+1, 1/2, 0 OR 1, 0.5, 0 OR 1, .5, 0
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+A nucleosome is composed of what general class of proteins? 
+histones 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+In the cloning of plants such as orchids, the most desirable tissue to begin culturing in vitro is: 
+W)  radial cambium 
+X)  shoot meristematic tissue 
+Y)  amyloplasts 
+Z)  stem internodes 
+x OR shoot meristematic tissue 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What is the Greek name meaning sparkling or scorching for the star, alpha Canis Majoris? 
+sirius 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+One important difference between spiral and elliptical galaxies is that: 
+W)  spiral galaxies contain Population II stars 
+X)  spiral galaxies contain clouds of gas and are still forming stars 
+Y)  spiral galaxies contain a massive black hole 
+Z)  spiral galaxies are formed by a more rapid accumulation of mass 
+x OR spiral galaxies contain clouds of gas and are still forming stars
+
+TOSS UP
+MATH
+SHORT ANSWER
+What parameter, usually signified by a lower case r, describes the direction and strength of a straight-line relationship between two quantifiable variables? 
+correlation OR pearson’s correlation OR correlation coefficient or pearson's r, or the pearson product moment correlation 
+
+BONUS 
+MATH
+SHORT ANSWER
+In terms of pi, what is the area of a sector in a circle whose central angle is 40° bounded by two radii of 6? 
+4pi OR 4 pi
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A flurry of recent reports in neurology and psychology points to protein translation in cerebral cortex dendrites leading to changes in synapses vital to what biological process: 
+W)  voluntary  motor control 
+X)  stem cell repair 
+Y)  myelination 
+Z)  learning 
+z OR learning 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A common type of distortion in CRT monitors in which horizontal and vertical lines bend inwards towards the center of the display is called: 
+W)  spiral distortion 
+X)  barrel distortion 
+Y)  trapezoid distortion 
+Z)  pincushion distortion 
+z OR pincushion distortion 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+A racemic mixture is a solution that contains: 
+W)  a 50:50 mixture of (+) and (-) isomers 
+X)  greater than 50% of the (+) isomers 
+Y)  greater than 50% of the (-) isomers 
+Z)  only one species of isomer 
+w OR a 50:50 mixture of (+) and (-) isomers 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Separation of proteins by centrifugation in a sucrose density gradient is based on: 
+W)  size and shape only 
+X)  size only 
+Y)  density only 
+Z)  size, shape, and density 
+z OR size, shape, and density 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Which 2 of the following 4 parameters most directly yield the product used in the Lawson criterion for nuclear fusion:  ion density;  fusion temperature;  isotope half-life;  energy confinement time 
+ion density and energy confinement time OR ion density, energy confinement time OR energy confinement time and ion density OR energy confinement time, ion density
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+The toroidal magnetic field in the Tokamak fusion confinement is oriented in which of the following directions: 
+W)  uniformly throughout the toroid 
+X)  oblique to the toroid axis 
+Y)  perpendicular to the toroid axis 
+Z)  parallel to the surface of the toroid 
+z OR parallel to the surface of the toroid 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Which germ layer in mammals is predominantly responsible for the gut lining and digestive glands? 
+endoderm 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Shistosomia mansoni is to shistosomiasis as Trypanasoma cruzi is to: 
+chagas’ disease

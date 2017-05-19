@@ -1,0 +1,421 @@
+TOSS UP
+MATH
+SHORT ANSWER
+What is the degree of the polynomial: (x – 3)3 (x – 7)4 [open parenthesis x minus 3 close parenthesis cubed times open parenthesis x minus 7 close 
+parenthesis to the power of 4]?   
+7 
+
+BONUS 
+MATH
+MULTIPLE CHOICE
+If x is an angle such that tan(x) = 5/12 and π < x < 3π/2, then sec(x) [secant of x] is equal to which of the following? 
+W) -13/12 
+X) -13/5 
+Y) 13/5 
+Z) 13/12 
+w OR -13/12 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following describes the bonds found in one molecule of water? 
+W) Hydrogen 
+X) Nonpolar covalent 
+Y) Polar covalent 
+Z) Ionic 
+y OR polar covalent 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name the stage of translation during which peptide bond formation occurs. 
+elongation 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+In a series-connected string of holiday lights, which of the following is most likely to occur if one bulb gets shorted without breaking the filament? 
+W) All other bulbs will go out 
+X) The current in the string will increase 
+Y) The current in the string will decrease 
+Z) The current in the string will remain unchanged 
+x OR the current in the string will increase 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a car goes from zero to 20 meters per second in 8 seconds, providing your answer to the nearest tenth, what is its average acceleration in meters per 
+second squared? 
+2.5 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is generated from temperature changes in the atmosphere? 
+W) Latent heat 
+X) Sensible heat  
+Y) Potential temperature 
+Z) Irradiate heat  
+x OR sensible heat 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What kind of black hole can be described entirely by its mass? 
+schwarzschild 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following gases is NOT one of the major causes of the greenhouse effect? 
+W) Carbon dioxide 
+X) Nitrous oxide  
+Y) Methane 
+Z) Carbon monoxide 
+z OR carbon monoxide 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In a titration experiment, 6.0 milliliters of a 0.05 molar monoprotic weak acid are titrated with 0.10 molar sodium hydroxide. How much base in 
+milliliters will it take to reach the half-equivalence point? 
+1.5 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following is NOT an even function? 
+W) cosx 
+X) cos(x2) 
+Y) sinx 
+Z) sin(x2) 
+y OR sinx 
+
+BONUS 
+MATH
+SHORT ANSWER
+Given that x and y are real numbers, solve for x and y: 
+2y + ix = 4 + x – i. 
+x = -1; y = 3/2 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Which taxonomic kingdom of organisms has cell walls of chitin [KY-tin]?  
+fungi 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Hardy-Weinberg equilibrium is based on the assumption that allele frequencies in a population are stable. Which of the following conditions would be most 
+likely to contribute to the stability of allele frequencies?  
+W) Very large population 
+X) Migration of individuals into or out of a population 
+Y) Mutations  
+Z) Natural selection 
+w OR very large population 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following energy resources is the most energy efficient, meaning very little of the energy created is transferred to the surroundings unused? 
+W) Coal 
+X) Biofuel 
+Y) Oil 
+Z) Hydrogen fuel cells 
+z OR hydrogen fuel cells 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+Which of the following statements is true about pure biodiesel, or B100? 
+W) B100 has higher carbon dioxide emissions compared to petrodiesel  
+X) B100 is more toxic than petrodiesel  
+Y) Glycerin [GLIS-er-in] is a key byproduct created during biodiesel production 
+Z) B100 contains a small amount of petroleum 
+y OR glycerin is a key byproduct created during biodiesel 
+
+PRODUCTION 
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+An object of mass m sits on a flat table. The Earth pulls on the object with force mg. Which of the following is the corresponding reaction force? 
+W) The table pushing down on the floor with force mg 
+X) The object pushing down on the table with force mg 
+Y) The object pulling upward on the Earth with force mg 
+Z) The table pushing up on the object with force mg 
+y OR the object pulling upward on the earth with force mg 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A projectile is fired from a gun at an angle of 45o with respect to the horizontal. Given 9.8 meters per second squared as the acceleration due to gravity, and 
+neglecting air resistance, what are the magnitude and direction of the acceleration of the 
+projectile when it reaches its maximum height? 
+9.8 meters per second squared, downward (accept: -9.8 meters 
+
+PER SECOND SQUARED) 
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is the term for the hygroscopic [hy-gruh-SKOP-ik] atmospheric particles that are precursors to clouds? 
+W) Stratospheric aerosols 
+X) Cloud condensation nuclei 
+Y) Aqueous particles [AY-kwee-uhs] 
+Z) Stratospheric condensation nuclei 
+x OR cloud condensation nuclei 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following does the far side of the Moon possess in greater quantity when compared to the near side of the Moon? 
+W) Maria  
+X) Regolith [REG-uh-lith] 
+Y) Impact craters 
+Z) Aurora 
+y OR impact craters 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following adjectives describes the reaction of a strong base with a strong acid? 
+W)  Precipitation 
+X)  Synthesis 
+Y)  Redox 
+Z)  Neutralization 
+z OR neutralization 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT a strong acid? 
+W) Nitric acid 
+X) Perchloric acid 
+Y) Formic acid 
+Z) Hydroiodic acid  
+y OR formic acid 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+For ions or polar molecules to pass across a plasma membrane in passive transport, the molecules must move in which of the following ways? 
+W) Down an electrochemical gradient 
+X) Up an electrochemical gradient  
+Y) Through a pump 
+Z) With a chaperone molecule 
+w OR down an electrochemical gradient 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Symmetry in animal taxonomy describes which of the following? 
+W) How the animals are related 
+X) Similarities in anatomy of different species 
+Y) Patterns of animal behavior 
+Z) How the parts of an animal are arranged around a point or an axis 
+AXIS
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Construction of habitable structures on the Moon hinges upon the discovery of which of the following vital resources on the Moon? 
+W) Carbon  
+X) Helium 
+Y) Water 
+Z) Iron 
+y OR water 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+The Sun’s magnetic field, also called the interplanetary magnetic field, extends to at least which of the following? 
+W) 0.5 au 
+X) Neptune 
+Y) Pluto 
+Z) Asteroid belt 
+y OR pluto 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What are the solutions to x2 – 5x + 6 = 0? 
+2 and 3 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find an equation of the graph that results from reflecting the graph of y =   over the y-axis, and then shifting the graph 3 units to the left. 
+y = (accept: y = ) 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What disease occurs when blood vessel walls harden and blood passage is decreased or fully blocked? 
+arteriosclerosis (accept myoconditis) 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name the fat soluble vitamin that is a component of visual pigments in vertebrates. 
+vitamin a (accept: retinol) 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following statements about coal is true? 
+W) Over 50% of the coal mined in the United States is bituminous [by-TOO-muh-nuhs] 
+X) Lignite [LIG-nyt] has the highest energy content of all coal varieties 
+Y) Anthracite [AN-thruh-syt] contains approximately 25% carbon 
+Z) Lignite has a very low moisture content 
+w OR over 50% of the coal mined in the united states is bituminous 
+
+BONUS 
+ENERGY SHORT ANSWER
+The United States utilizes two different types of commercial nuclear power plants: BWRs and PWRs. What is the full term for which BWR is the 
+abbreviation? 
+boiling water reactor 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the mathematical relationship between the period of a wave and the frequency of a wave? 
+inverse (accept: inversely proportional) 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a radio station broadcasts with a wavelength of 2.5 meters, what is the frequency of the radio station in megahertz, given the speed of light as 3 X 108 meters per 
+second? 
+120 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is true of galaxies that are more distant from us? 
+W) They are moving away faster 
+X) They are expanding more 
+Y) They are generally larger 
+Z) They possess more heavy elements 
+w OR they are moving away faster 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+The Sun has already completed nearly one half of its main sequence stage. Which of the following will occur next? 
+W) White dwarf 
+X) Red giant 
+Y) Pulsar 
+Z) Neutron star 
+x OR red giant 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+When baking cupcakes, a common ingredient used to make the batter rise is baking soda. What is the gas produced that causes the batter to rise? 
+carbon dioxide (accept: co2) 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the conjugate acid of the acetate ion? 
+acetic acid (accept: ethanoic acid) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Convert 420 degrees to radians as an improper fraction in terms of pi. 7 /3 
+
+BONUS 
+MATH
+SHORT ANSWER
+The midpoint of segment AB is (1.5, -3). The coordinates of point A are (7, -5); what are the coordinates of point B? 
+(-4, -1) 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What biome is characterized by dense evergreen shrubs and small trees, usually in the Mediterranean region of the world? 
+chaparral (accept shrublands, scrub, brush) 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following processes is MOST under the influence of prolactin? 
+W) Growth and maturation of the uterine lining [YOO-ter-in] 
+X) Lactation 
+Y) Follicular maturation in the ovaries 
+Z) Stimulation of uterine contractions 
+x OR lactation 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following is an example of a secondary energy source? 
+W) Coal 
+X) Electricity 
+Y) Solar 
+Z) Nuclear 
+x OR electricity 
+
+BONUS 
+ENERGY SHORT ANSWER
+A water heater uses 4 kilowatts of electricity for 8 hours. To the nearest cent, how much does it cost to operate if the cost of electricity in your area is 10 cents 
+per kilowatt hour? 
+$3.20 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A massless, rigid, insulating rod of length R is attached at one end to a wall by a hinge so that it is free to swing vertically. The other end of the rod is attached 
+to a sphere of mass m with charge -Q. If the rod and sphere are released in a horizontal 
+position, which of the following electric fields is required to maintain the horizontal position of the 
+rod? 
+W) mg/Q, down  
+X) mg/Q, up 
+Y) mgQ/R, down  
+Z) mgR/Q, up  
+w OR mg/q, down 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+The majority of helium originating in the dust cloud that formed the Earth has since evaporated into space. Most present-day terrestrially available helium 
+comes from which of the following? 
+W) Nuclear fusion reactors 
+X) A by-product of nuclear fission  
+Y) Harvested from the ionosphere 
+Z) Radioactive decay of heavier elements 
+z OR radioactive decay of heavier elements 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+In the balanced equation 2Ag+ + Cu [yields] 2Ag + Cu2+, what is the reducing agent?   
+copper (do not accept: copper 2+) 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Converting carbon dioxide to carbon monoxide through reduction would be effective method for reducing harmful levels of atmospheric carbon dioxide. 
+However, this conversion is very difficult for which of the following reasons? 
+W) There is a limited supply of rhenium in the world 
+X) Not all steps of the reduction have been completely determined 
+Y) The final step takes an extremely long time 
+Z) The carbon dioxide is too difficult to harness 
+w OR there is a limited supply of rhenium in the world 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Compared to felsic igneous rocks, mafic igneous rocks contain greater amounts of which of the following elements? 
+W) Iron  
+X) Aluminum 
+Y) Potassium 
+Z) Silicon  
+w OR iron 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+Name the components that create the two distinct tails of a comet. 
+ions and dust 
+

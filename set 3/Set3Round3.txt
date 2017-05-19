@@ -1,0 +1,383 @@
+﻿TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+The slope of a velocity versus time graph represents: 
+W)  acceleration 
+X)  velocity 
+Y)  position 
+Z)  displacement 
+w OR acceleration 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Under which of the following conditions is the average velocity equal to the average of an object’s initial and final velocity: 
+W)  always  
+X)  never  
+Y)  only when the acceleration changes  
+Z)  only when the acceleration is constant  
+z OR only when the acceleration is constant 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is an EXTENSIVE property of matter: 
+W)  temperature 
+X)  density 
+Y)  mass  
+Z)  viscosity 
+y OR mass 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the name for the phenomenon that occurs when a light beam becomes visible after passing through a colloid, an example of which is a beam of light passing through fog at night? 
+the tyndall effect OR tyndall effect
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+How many autosomes are in a normal nucleated human nerve cell in G-zero of the cell cycle? 
+44 OR 44 autosomes
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT true of the human body: 
+W)  there are substantial numbers of lymph nodes in the wall of the large intestine 
+X)  veins have comparatively thick walls with more muscle than arteries  
+Y)  there are two layers of smooth muscle in the walls of the small intestine 
+Z)  the small intestine is longer than the large intestine 
+x OR veins have comparatively thick walls with more muscle than arteries
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the side of a square, in centimeters to the nearest whole number, given that its diagonal is 16 centimeters? 
+11 OR 11 cm
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for x: –10 |(x + 2)| = –50. Type as "x = <ans1> and <ans2>".
+x = 3 and -7 OR x = -7 and 3
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the percent relative humidity if the vapor content is one-half the amount of vapor the mass of air can hold? 
+50% OR 50 percent OR 50 per cent OR 50
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following MOST directly modulates the intensity of incoming solar radiation through the course of a year: 
+W)  the eccentricity of Earth’s orbit 
+X)  the time for 1 orbit of Earth around the Sun  
+Y)  Earth’s rapid rotation about its axis 
+Z)  the tilt of Earth’s axis 
+z OR the tilt of earth’s axis 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is closest to the conversion of 900 millibars into atmospheres: 
+W)  0.09 
+X)  0.9 
+Y)  9.0 
+Z)  90.0 
+x OR 0.9 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Convert 2000 meters per second into kilometers per hour. Do not include units.
+7200 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+At about 10 PM in late summer of 2006, an observer at about 35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the following places in the sky: 
+W)  low in the east 
+X)  low in the west 
+Y)  about half way up in the northern sky 
+Z)  almost directly overhead 
+z OR almost directly overhead 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the most common astronomical term for the interval of time between two successive passages of the Sun through the vernal equinox? 
+tropical year OR solar year 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Stories have been told about opera singers breaking crystal glass by singing a certain tone loud enough.  What is the most common term for the property that would account for this happening? 
+resonance
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the wavelength, in meters, of a sound wave that has a frequency of 600 hertz and a speed in a certain medium of 360 meters per second? 
+0.6 OR 0.6 m OR 0.6 meters
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following techniques employs a moving phase and a stationary phase to separate components of a mixture: 
+W)  filtration 
+X)  centrifugation 
+Y)  distillation 
+Z)  chromatography 
+z OR chromatography 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following would you expect to have an electron affinity of zero: 
+W)  chlorine 
+X)  carbon  
+Y)  hydrogen 
+Z)  helium 
+z OR helium 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+What specific part of the human brain has the most influence on heart rate, sleep, body temperature, and metabolism, and is a large part of the ventral portion of the diencephalon (read as: die-en-SEFF-ah-lon): 
+W)  hypothalamus 
+X)  cerebellum 
+Y)  pituitary 
+Z)  sella turcica (read as: TURR-sik-ah) 
+w OR hypothalamus 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 5 muscles that are NOT part of the human rotator cuff:  supraspinatus;  infraspinatus;  subscapularis;  teres minor;  latissimus dorsi 
+latissimus dorsi 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Solve the following inequality for x: x^2 < 3x 
+0 < x < 3 OR 0<x<3
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the least common multiple of the following 4 numbers: 12, 15, 16, 20 
+240 
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the specific name for the tides that occur during the first and third-quarter phases of the Moon and have the smallest range? 
+neap tides OR neap tide OR neap
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Typically, thin veils or sheets of white fibrous clouds composed entirely of ice crystals which can sometimes cover the whole sky are called: 
+W)  alto-cumulus 
+X)  cirro-stratus 
+Y)  nimbo-stratus 
+Z)  alto-stratus 
+x OR cirro-stratus 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Suppose you measured the voltage of a fully-charged 12-volt battery and you get 3 identical results of 10.45 volts.  Which of the following BEST describes your data: 
+W)  precise but not accurate  
+X)  accurate but not precise 
+Y)  both accurate and precise 
+Z)  neither accurate nor precise 
+w OR precise but not accurate 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Giving your answer in proper scientific notation, convert 100 millimeters into kilometers. Do not include units. Type as "1 x 10^<answer>".
+1 x 10^-4 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following can you estimate BEST if you know the color of a star: 
+W)  luminosity  
+X)  elemental makeup 
+Y)  temperature 
+Z)  mass 
+y OR temperature 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is closest to the maximum apparent brightness of the brightest star in the night sky from anywhere on Earth: 
+W)  –15 
+X)  –1.5 
+Y)  4.5 
+Z)  6 
+x OR –1.5 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+The area under the curve of a velocity versus time graph represents: 
+W)  acceleration 
+X)  velocity 
+Y)  displacement 
+Z)  position  
+y OR displacement 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  a spring scale can be used to indirectly measure acceleration 
+X)  momentum is a vector 
+Y)  impulse is a vector 
+Z)  a change in direction of an object’s motion cannot affect its momentum 
+z OR a change in direction of an object’s motion cannot affect its momentum
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the name for the voltaic cells in which the reactants are continuously supplied to the cell and the products are continuously removed? 
+fuel cell OR hydrogen-oxygen fuel cell OR h-o fuel cell
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+A Lewis base is defined as any species that does which of the following in a chemical reaction: 
+W)  donates a proton 
+X)  accepts a proton 
+Y)  donates a pair of electrons 
+Z)  accepts a pair of electrons 
+y OR donates a pair of electrons 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the area of the human brain that functions to allow the two hemispheres to communicate? 
+corpus callosum 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Myelination of nerves is an adaptation to: 
+W)  increase axon lifetime 
+X)  increase speed of nerve conduction 
+Y)  protect nerves from damage 
+Z)  prevent nerves from misfiring  
+x OR increase speed of nerve conduction 
+
+TOSS UP
+MATH
+SHORT ANSWER
+In a Venn diagram, what is the most appropriate name of the rectangle that contains the circles that represent the subsets? 
+universal set 
+
+BONUS 
+MATH
+SHORT ANSWER
+How many different letter arrangements are possible with the six letters in the word ‘SECOND’? 
+720 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is a rock that is commonly made of microscopic shells: 
+W)  limestone 
+X)  schist 
+Y)  shale 
+Z)  quartzite 
+w OR limestone 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+In what Era of the geological time scale did mammals and grasses become abundant?  
+cenozoic 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What technology used to transmit digital information specifically takes advantage of the property of light called total internal reflection? 
+fiber optics OR fiber optic
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the generic name for the trade-named drug Tylenol? 
+acetaminophen 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+If a stargazer in Vermont during the midnight April sky follows the pointer stars of the Big Dipper about 35º in the opposite direction of Polaris, which one of the following 5 constellations will she most likely encounter:  Bootes;  Libra;  Canus Major;  Leo;  Lepus  
+leo 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+To an observer on the Moon, in what phase would the Earth appear when an observer on Earth saw the Moon in its 3rd quarter? 
+first quarter OR 1st quarter
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the mass, in kilograms, of a 5-kilogram rock on a planet with a gravitational acceleration one-half that of the Earth’s? 
+5 OR 5 kg OR 5 kilograms
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the specific gravity, to the first decimal place, of a cubic foot of metal that has a density of 188 pounds per cubic foot if water has a density of 62.4 pounds per cubic foot? Do not include units.
+3.0 OR 3
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT generally true regarding trends for the representative elements in the Periodic Table: 
+W)  nonmetals predominate the periodic table 
+X)  metallic character increases from top to bottom 
+Y)  nonmetallic character increases from left to right 
+Z)  atomic radii increases from top to bottom 
+w OR nonmetals predominate the periodic table 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which one of the following 5 atoms can violate the octet rule with more than 8 electrons:  O;  F;  Cl;  N;  C 
+cl 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What substance converts pepsinogen (read as: pep-SIN-oh-gen) into its active form in the human stomach? 
+hcl OR hydrochloric acid
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What specific cells of the human stomach secrete pepsinogen? 
+chief cells OR chief
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Boyle’s gas law concerns which of the following two variables: 
+W)  volume and pressure  
+X)  volume and temperature  
+Y)  pressure and temperature  
+Z)  pressure and moles   
+w OR volume and pressure 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What mass of sodium hydroxide, in grams, would contain 40 grams of oxygen? Do not include units.
+100 

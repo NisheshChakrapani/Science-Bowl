@@ -1,0 +1,407 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+Neglecting friction, what is the acceleration, in meters per second squared, when a force of 144 Newtons is applied to a 12 kilogram object: 
+12 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+When Johann Schweigger invented the first galvanometer, what did he recognize could be used to measure current: 
+W)  deflection of a compass needle  
+X)  movement of iron particles in a magnetic field 
+Y)  movement  of electrons through a potential 
+Z)  a magneto 
+w OR deflection of a compass needle 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following has the highest specific heat value: 
+W)  wood 
+X)  ice water 
+Y)  sand 
+Z)  gold 
+x OR ice water 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Normal hydrogen at room temperature contains what two forms of hydrogen, as defined by the spins of their electrons and nuclei? 
+para and ortho OR para, ortho OR ortho and para OR ortho, para
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+When the color of an organism alerts predators to stay away it is technically referred to as: 
+W)  aposematic coloration 
+X)  homological coloration 
+Y)  analogous coloration 
+Z)  camouflage coloration 
+w OR aposematic coloration 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is NOT a hexose: 
+W)  mannose  
+X)  glucose 
+Y)  fructose 
+Z)  xylulose
+z OR xylulose 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+A first quarter Moon will cross the meridian at what time of the day or night: 
+W)  midnight 
+X)  sunrise 
+Y)  sunset 
+Z)  noon 
+w OR midnight 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the most common astronomical term for the angle analogous to geographical longitude? 
+right ascension OR ascension
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the equation of a line that has a slope of 4 and a y-intercept of 5? 
+y = 4x + 5 
+
+BONUS 
+MATH
+SHORT ANSWER
+Factor the following expression as completely as possible: x^4 – 16 
+(x – 2)(x + 2)(x^2 + 4) OR (x-2)(x+2)(x^2+4)
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+The salts and ions derived from the chemical weathering of rocks are carried by a stream are part of its: 
+W)  bed load 
+X)  suspended load 
+Y)  dissolved load 
+Z)  salt load 
+y OR dissolved load 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+The Sahara desert in Africa is an example of what type of desert: 
+W)  subtropical 
+X)  continental 
+Y)  rainshadow 
+Z)  coastal 
+w OR subtropical 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Electric appliances and tools are grounded to: 
+W)  complete the electrical circuit 
+X)  balance the voltage in both lines 
+Y)  prevent the overloading of circuits 
+Z)  prevent surface static charge buildup 
+z OR prevent surface static charge buildup 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is an example of a multiple fruit: 
+W)  apple 
+X)  sour cherry 
+Y)  pineapple 
+Z)  pear 
+y OR pineapple 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+An email sent over the internet most likely uses what protocol: 
+W)  HTTP 
+X)  FTP 
+Y)  SMTP 
+Z)  HMTTP 
+y OR smtp 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What is the name for the high-speed serial bus developed by Apple and Texas Instruments that allows for the connection of multiple devices, supports hot-swapping, and transfers data at rates of up to 400 million bytes per second: 
+firewire OR ieee 1394 OR i-link OR lynx 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+What branch of mechanics customarily deals with force and why objects move as they do: 
+W)  kinematics 
+X)  dynamics 
+Y)  statics 
+Z)  mechanics 
+x OR dynamics 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Yellow light has a wavelength of approximately: 
+W)  300-350 nanometers 
+X)  450-500 nanometers 
+Y)  550-600 nanometers 
+Z)  650-700 nanometers 
+y OR550-600 nanometers 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+In which of the following pairs are both elements classified as semimetals: 
+W)  tellurium and tin 
+X)  selenium and bromine 
+Y)  scandium and silicon 
+Z)  arsenic and germanium 
+z OR arsenic and germanium 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+The f subshell is associated with what L quantum number? 
+3 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the predominant immunoglobulin class found in human saliva? 
+iga 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the common name for the part of a compound light microscope that functions to converge a light source so that it passes through the specimen: 
+condenser 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Because of precession, the celestial pole traces out a complete circle on the sky about every: 
+W)  26,000 years 
+X)  12,000 years 
+Y)  6,000 years 
+Z)  600 years 
+w OR 26,000 years 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+The ecliptic is: 
+W)  the line that divides the sky into the northern half and the southern half 
+X)  the Sun's apparent path across the celestial sphere 
+Y)  the point directly overhead 
+Z)  the line on the celestial sphere directly above the celestial equator 
+x OR the sun's apparent path across the celestial sphere 
+
+TOSS UP
+MATH
+SHORT ANSWER
+If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3;  set B by the numbers 3, 4, 5, 6;  and set C by the numbers 2, 3, 4, then what set is represented by the union of sets A and B? 
+1, 2, 3, 4, 5, 6 OR 1,2,3,4,5,6
+
+BONUS 
+MATH
+SHORT ANSWER
+In the US Senate, Senator Bill received four-sixths of the votes, Senator George received two- tenths of the votes, and Senator Mary received the remaining votes.  If 48 votes were cast for Senator Mary, how many votes did Senator Bill receive? 
+240 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following make up approximately 80% of all magma erupted by volcanoes on Earth: 
+W)  andesitic 
+X)   rhyolitic 
+Y)  basaltic 
+Z)  andesitic and rhyolitic 
+y OR basaltic 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+A mixture of molten rock, suspended mineral grains, and dissolved gasses that forms in the crust or mantle when temperatures are sufficiently high, is a definition of what? 
+magma 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is an example of a modular organism that grows by producing additional units of body construction that are very similar to the units of which it is already composed: 
+W)  sea sponge 
+X)  cockroach 
+Y)  spider 
+Z)  turtle 
+w OR sea sponge 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+A widely used dental amalgam is formed by reacting metallic mercury with an alloy consisting primarily of which 2 metals? 
+silver and tin 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following is TRUE about resolution: 
+W)  printed images resolve with dots per inch and displayed images resolve with pixels 
+X)  printed images resolve with dots per inch and displayed images resolve with dots per inch 
+Y)  printed images resolve with pixels and displayed images resolve with dots per inch 
+Z)  printed images resolve with pixels and displayed images resolve with pixels 
+w OR printed images resolve with dots per inch and displayed images resolve with pixels
+ 
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Fonts that are digital representations of fonts that are not scalable are called: 
+W)  bitmap fonts 
+X)  outline fonts 
+Y)  TrueType fonts 
+Z)  vector fonts 
+w OR bitmap fonts 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What scientist was the first to propose that in the absence of air resistance, all objects fall with the same constant acceleration? 
+galileo 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a piano string is 1.6 meters long and has a fundamental frequency of 320 Hertz, what is the wavelength, in meters, of the fundamental? 
+3.2 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is considered a nonpolar molecule: 
+W)  H2S  
+X)  NH3 
+Y)  NO2 
+Z)  BeH2 
+z OR beh2 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What general term describes a substance whose electrons are all spin-paired and that are weakly repelled by magnetic fields? 
+diamagnetic 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the name for the group of muscles that stabilize the shoulder joint by holding the head of the humerus in its socket?  
+rotator cuff 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+The “one gene one enzyme” rule proposed by Beadle and Tatum was mostly based upon their work with what genus of organisms? 
+neurospora 
+
+TOSS UP
+MATH
+SHORT ANSWER
+An arc of length 2π is cut off by a central angle of π/4  radians.  What is the radius of the circle? 
+8 
+
+BONUS 
+MATH
+SHORT ANSWER
+Simplify the following equation: sqrt(9x + 9) - sqrt(4x + 4)
+sqrt(x + 1) OR sqrt(x+1) OR sqrt(1 + x) OR sqrt(1+x)
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following types of plutons is a cylindrical conduit of igneous rock below a volcanic vent: 
+W)  laccolith 
+X)  dike 
+Y)  volcanic stock 
+Z)  volcanic pipe 
+z OR volcanic pipe 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Trellis drainage patterns are most likely to form on: 
+W)  coastal plains 
+X)  folded terrains 
+Y)  glacial outwash 
+Z)  permafrost 
+x OR folded terrains 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What contemporary of Autolycus wrote a set of thirteen books titled “Elements”, which remains among the most studied works in human thought and was a culmination of classical geometry? 
+euclid 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+In the tempering of steel, the slower the hot steel cools in the quenching process: 
+W)  the softer its core and the less the outer hardness penetrates 
+X)  the softer its core and the more the outer hardness penetrates 
+Y)  the harder its core and the less the outer hardness penetrates 
+Z)  the harder its core and the more the outer hardness penetrates 
+w OR the softer its core and the less the outer hardness penetrates
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following explains why a sailboat can sail into the wind: 
+W)  Archimedes' Principle 
+X)  Bernoulli's Law 
+Y)  Pascal's Law 
+Z)  Reynolds' Numbers 
+x OR bernoulli's law 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+If the resolution of the human eye is about 0.1 millimeter and the resolution of a light microscope is about 2,000 angstroms, what is the approximate useful magnification of a human eye combined with a light microscope: 
+W)  250 times 
+X)  500 times 
+Y)  1,000 times 
+Z)  2,000 times 
+x OR 500 times 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Liver enzymes oxidize ethanol to: 
+W)  methanol 
+X)  formaldehyde 
+Y)  oxalic acid 
+Z)  acetaldehyde 
+z OR acetaldehyde 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which of the gas laws describes how the volume of a gas is affected by changes in pressure, temperature, and amount? 
+ideal gas law 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+In bacterial transference of genes, what is the term for when naked DNA enters the cell from the surroundings: 
+transduction 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is the type of plant leaf that lacks a palisade and spongy mesophyll: 
+W)  common crabgrass 
+X)  dandelion 
+Y)  apple tree 
+Z)  lotus plant 
+w OR common crabgrass 

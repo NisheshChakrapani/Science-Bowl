@@ -1,0 +1,387 @@
+﻿TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Robert Hooke coined the term ‘cell’ mostly because of: 
+W)  his observations of red blood cells 
+X)  his observations of cork cells 
+Y)  his analysis of hundreds of different protozoans 
+Z)  his readings of the works of other early microscopists 
+x OR his observations of cork cells 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 4 organisms that would be considered to have radial symmetry:  flatworms;  cestodes;  Echinoderms;  sea urchins 
+echinoderms, sea urchins 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following properties BEST explains why small liquid water droplets on a clean sheet of glass often coalesce into larger spherical water droplets: 
+W)  tensile strength  
+X)  capillary action  
+Y)  surface tension 
+Z)  viscosity 
+y OR surface tension 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Arrange the following 3 liquids in order of DECREASING surface tension at 20ºC:  water;  ethanol;  mercury 
+mercury, water, ethanol 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+For a given time interval, when is the average velocity of an object equal to the instantaneous velocity for every time in the interval: 
+W)  never 
+X)  always 
+Y)  only when the velocity is changing at a constant rate 
+Z)  only when the velocity is constant 
+z OR only when the velocity is constant 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+In a tug-of-war, each person on a team pulls with an average force of 500 newtons.  What is the tension in the center of the rope if there are 10-man teams on each side: 
+W)  0 newtons 
+X)  2,500 newtons 
+Y)  5,000 newtons 
+Z)  10,000 newtons 
+y OR 5,000 newtons 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following numbers is evenly divisible by 4: 
+W)  1,722 
+X)  2,636 
+Y)  4,114 
+Z)  6,126 
+x OR 2,636 
+
+BONUS 
+MATH
+SHORT ANSWER
+Rounded to the nearest centimeter, if side A of a right triangle measures 2 centimeters and side B measures 10 centimeters, what is the length of the hypotenuse? 
+10 OR 10 cm
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following BEST describes Earth’s current climate type: 
+W)  glacial 
+X)  interglacial 
+Y)  pre-ice age 
+Z)  post-ice age 
+x OR interglacial 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true about volcanoes: 
+W)  stratovolcanoes are typically found at convergent plate boundaries 
+X)  80% of all magma erupted by volcanoes on Earth is basaltic 
+Y)  Mount Kilimanjaro is a stratovolcano 
+Z)  the Ring of Fire is dominated by volcanoes that erupt basaltic magma 
+z OR the ring of fire is dominated by volcanoes that erupt basaltic magma
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following numbers has 6 significant figures: 
+W)  55.0000 
+X)  555,000 
+Y)  0.00500 
+Z)  0.55000 
+w OR 55.0000 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What is the Roman numeral equivalent of the year 1776? 
+mdcclxxvi 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  Vega is part of the summer triangle 
+X)  the Seven Sisters is a star cluster 
+Y)  Cassiopeia is a constellation generally shaped like a W 
+Z)  cosmic rays are electromagnetic radiation of very high energies 
+z OR cosmic rays are electromagnetic radiation of very high energies
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+The north magnetic pole of the Sun reverses every so many years. How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals? 
+22 OR 22 years
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The cloaca (read as: klo-AY-ka) is a reproductive structure of: 
+W)  female bird 
+X)  male shark 
+Y)  female cestode 
+Z)  male lobster   
+w OR female bird 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following does NOT belong to the Arthropoda: 
+W)  Arachnida 
+X)  Diplopoda 
+Y)  Chilopoda 
+Z)  Nematoda 
+z OR nematoda 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+The conversion of olein, a liquid oil, into stearin, a solid fat, by the addition of hydrogen in the presence of a catalyst and high heat is commonly known as what type of reaction? 
+hydrogenation 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+How many parts per million of arsenic are in a 2-gram water sample if it contains 8.0 micrograms of arsenic? 
+4 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What are typically given as the two parameters of a velocity vector? Type as "<x> and <y>".
+magnitude and direction OR direction and magnitude
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following conditions must be true for Hooke’s law to apply: 
+W)  the spring must be within its proportional elastic limit 
+X)  the spring must me made of cold formed steel coils 
+Y)  the deflection of the spring must be less than one tenth the spring’s free length 
+Z)  the carbon content of the metal must be over 0.023 percent 
+w OR the spring must be within its proportional elastic limit 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Boolean algebra involves ideas or subjects that have how many possible states? 
+2 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the least common denominator of the following 3 fractions: 5/2 , 7/6, and 7/12 
+60 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+The zone of aeration is BEST described as pores in rock or soil that contain: 
+W)  only water 
+X)  only oil 
+Y)  air and water  
+Z)  oil and water 
+y OR air and water 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is a compressional elastic seismic wave that causes rock particles to move back and forth parallel to wave direction: 
+W)  Rayleigh-wave 
+X)  P-wave 
+Y)  S-wave 
+Z)  L-wave 
+x OR p-wave 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is MOST closely related to the mosquito: 
+W)  fly 
+X)  wasp 
+Y)  human body louse 
+Z)  dragonfly 
+w OR fly 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following vitamins is NOT properly matched with its function in humans: 
+W)  vitamin E and antioxidant action  
+X)  vitamin C and collagen production 
+Y)  vitamin D and calcium absorption  
+Z)  vitamin A and absorption of iron 
+z OR vitamin a and absorption of iron 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following would have a Widmanstätten Pattern: 
+W)  meteorite 
+X)  comet 
+Y)  planet 
+Z)  constellation 
+w OR meteorite 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is the BEST description of the H-R Diagram: 
+W)  it plots apparent brightness versus age 
+X)  it plots luminosity versus surface temperature with highest temperatures on the right  
+Y)  it plots luminosity versus surface temperature with highest temperatures on the left  
+Z)  it plots apparent magnitude versus average stellar temperature 
+y OR it plots luminosity versus surface temperature with highest temperatures on the left
+ 
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is a function of the pollen tube in flowering plants: 
+W)  attaches pollen to the developing anther 
+X)  allows pollen to absorb nutrients as they develop in the anther 
+Y)  enables the ovule to breach through the micropyle 
+Z)  carries the sperm nuclei to the ovule 
+z OR carries the sperm nuclei to the ovule 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Most of the molecular oxygen in Earth’s atmosphere came from what biological process? 
+photosynthesis 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What simple alcohol is commercially produced by reacting carbon monoxide and hydrogen gas under pressure and heat and in the presence of a catalyst? 
+methanol OR ch3oh OR methyl alcohol
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In standard chemical nomenclature, what is the ground-state electron configuration for fluorine? 
+1s22s22p5 OR [he]2s22p5
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Which one of the following 5 colors of light has the LEAST angle of refraction in normal glass:  blue;  green;  orange;  yellow;  red 
+red 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+For a standing wave on a guitar string, the first overtone represents what harmonic? 
+second 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Glacial till is: 
+W)  sorted and stratified 
+X)  sorted and unstratified 
+Y)  unsorted and stratified 
+Z)  unsorted and unstratified 
+z OR unsorted and unstratified 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+In which period of the Geological Time Scale did trilobites first appear: 
+W)  Permian  
+X)  Cambrian 
+Y)  Devonian 
+Z)  Silurian 
+x OR cambrian 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  phosphorous is used in the manufacture of detergents  
+X)  nitric acid is used in the manufacture of fertilizers 
+Y)  lead ore is most commonly mined in bauxite  
+Z)  flotation separation is used in the preparation of ores 
+y OR lead ore is most commonly mined in bauxite 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is one of the MAIN ways of preventing Brucellosis in humans: 
+W)  avoid person-to-person contact  
+X)  consume only pasteurized dairy products 
+Y)  avoid flea bites  
+Z)  boil all drinking water 
+x OR consume only pasteurized dairy products 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris: 
+W)  Cassiopeia and Ursa Major 
+X)  Orion and Leo 
+Y)  Aquarius and Capricorn 
+Z)   Leo and Sagittarius 
+w OR cassiopeia and ursa major 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the astronomical distance at which a star would have a parallax of 1 arcsecond? 
+parsec 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the scientific name for the openings in the grasshopper body through which air enters? 
+spiracles 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 4 cellular structures that are NOT typically found in diploid higher plant cells:  centrioles;  flagella;  lysosomes;  plasmodesmata  
+centrioles, flagella, lysosomes 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following classifications of crystalline solids is NOT true: 
+W)  quartz is a covalent network solid 
+X)  calcium carbonate is an ionic solid 
+Y)  sucrose is a molecular solid 
+Z)  iron sulfide is a glassy solid 
+z OR iron sulfide is a glassy solid 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the empirical formula for the following: C18H33N6O3 
+c6h11n2o 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+At normal operating speed for a motor vehicle, how many times as much kinetic energy does a car have if its velocity is doubled?  
+4 times OR 4 OR 4x OR 4 x
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Relative to the floor, what is the gravitational potential energy, in joules, of a 25-newton bag of beans on a shelf 5 meters above the floor? 
+125 OR 125 joules OR 125 J
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Organisms that have radial symmetry and belong to the Radiata typically have how many germ layers? 
+2 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Name all of the following 5 animal groups that are NOT echinoderms:  sea urchins;  sand dollars;  tunicates;  rotifers;  brittle stars  
+tunicates, rotifers

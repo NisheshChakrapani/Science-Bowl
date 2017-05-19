@@ -1,0 +1,387 @@
+﻿TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+In Galileo’s experiments on balls rolling down an inclined plane, he had originally hypothesized: 
+W)  that all objects have inertia 
+X)  that all balls underwent uniform acceleration 
+Y)  the 2nd law of motion 
+Z)  the 3rd law of motion 
+x OR that all balls underwent uniform acceleration 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the centripetal force, in Newtons, that is required to cause a 10 kilogram body to move at 3 meters per second in uniform circular motion with a radius of 10 meters? 
+9 newtons 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Give the genus and species name for the first bacterium shown to be the cause of a disease: 
+bacillus anthracis 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+In the late 1800’s, who was the first person to isolate and grow numerous pathogenic Monerans? 
+robert koch OR koch
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy: 
+W)  group 1A 
+X)  group 2A 
+Y)  group 7A 
+Z)  group 8A 
+y OR group 7a 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What element is a corrosive, greenish-yellow gas, is widely used in the manufacturing of polymers such as Teflon, and is the 13th most abundant element in the Earth’s crust? 
+fluorine (accept: f) 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+Containing roughly ten times more gas than Earth’s, why does Titan’s atmosphere extend some ten times farther into space than does our own? 
+weaker gravitational pull OR smaller mass OR less mass OR mass OR weaker gravity
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the most common term for the imaginary band on either side of the ecliptic where the path of the Sun, Moon, and planets are generally found? 
+the zodiac OR zodiac
+
+TOSS UP
+MATH
+SHORT ANSWER
+On a blueprint, if three-quarters of an inch represents 1 foot, then 2 inches will represent what distance, in feet, expressed as a simplified improper fraction? Type as "<number>/<number>".
+8/3
+
+BONUS 
+MATH
+SHORT ANSWER
+How old is Michelle if 4 years ago she was one-half the age she will be 10 years from now? 
+18 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Groundwater that is rich in calcium and magnesium bicarbonates is termed: 
+W)  hard water 
+X)  soft water 
+Y)  well water 
+Z)  recharge water 
+w OR hard water 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following descriptions is NOT true of eskers: 
+W)  they were formed above glaciers by the widening of crevasses 
+X)  they are low, steep-sided ridges of sand and gravel 
+Y)  deposits were laid down by running water 
+Z)  their deposits are roughly sorted and bedded 
+w OR they were formed above glaciers by the widening of crevasses
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What major biome occurs only in the Northern Hemisphere and is composed of both Low Arctic and High Arctic areas? 
+tundra 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Give the respective SI multipliers for the following prefixes:  exa;  peta; giga. For each, type "10^<number>" and separate each with ", "
+10^18, 10^15, 10^9 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+A Java stock ticker that runs within the user’s Web browser is an example of: 
+W)  an applet 
+X)  liteware 
+Y)  firmware 
+Z)  a taskbar 
+w OR an applet 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+What is the octal equivalent of the binary number 1100? 
+W)  11 
+X)  14 
+Y)  2 
+Z)  4 
+x OR 14 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following moves in the form of a longitudinal compression  wave: 
+W)  ocean wave  
+X)  sound wave 
+Y)  light wave 
+Z)  electromagnetic wave 
+x OR sound wave 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming g = 9.8 m/sec^2, what is the weight on Earth, in Newtons, of a 70 kilogram person? Do not include units
+686
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following Orders does NOT belong to the Class Insecta: 
+W)  Lepidoptera  
+X)  Diptera  
+Y)  Isoptera  
+Z)  Chelicerata  
+z OR chelicerata 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following diseases is NOT caused by bacteria: 
+W)  strep throat 
+X)  toxic shock syndrome 
+Y)  scarlet fever 
+Z)  influenza 
+z OR influenza 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the pH of a solution at 25°C that has a hydrogen ion concentration of 0.001? 
+3 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which 3 Noble gases undergo no chemical reactions and form no known compounds? Type in order of increasing atomic number
+helium, neon, argon OR he, ne, ar
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What gas makes up most of the atmosphere of Mars? 
+carbon dioxide OR co2
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Longitude is to right ascension as latitude is to: 
+declination 
+
+TOSS UP
+MATH
+SHORT ANSWER
+In order, what are the prime numbers between 30 and 50? 
+31, 37, 41, 43, 47 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the prime factorization of 1050. Type as "<prime>x<prime>x...". No exponents.
+2x3x5x5x7
+
+TOSS UP
+EARTH SCIENCE
+SHORT ANSWER
+What is the term for wave activity between the line of breakers and the shore, produced as an ocean wave steepens and falls forward? 
+surf 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Distinctly and finely stratified layers of silt and clay deposited in lakes of glacial origin are known as: 
+W)  varves 
+X)  moraines 
+Y)  drumlins 
+Z)  eskers 
+w OR varves 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+One knot is approximately equal to how many kilometers per hour? 
+W)  0.6 
+X)  1.9 
+Y)  1.65 
+Z)  1.0 
+x OR 1.9 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What term describes the ability of a microscope to remain very nearly in focus when switching from one objective lens to another: 
+parfocal OR parfocality
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+The process of converting 3D information to a 2D screen image is called: 
+W)  texturing 
+X)  rendering 
+Y)  rastering 
+Z)  modeling 
+x OR rendering 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+What is the minimum amount of RAM required for the proper execution of Windows 2000 Professional: 
+W)  80 MB 
+X)  64 MB 
+Y)  40 MB 
+Z)  32 MB 
+x OR 64 mb 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Ultrasonic sound frequencies are typically considered to be: 
+W)  above 20,000 kilohertz  
+X)  below 20,000 kilohertz 
+Y)  above 20,000 Hertz 
+Z)  below 20,000 Hertz 
+y OR above 20,000 hertz 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Which of the following will deposit the greatest amount of energy per unit path in human tissue: 
+W)  gamma ray 
+X)  x-ray 
+Y)  beta particles 
+Z)  alpha particles 
+z OR alpha particles 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+One species benefits while the other is unaffected is most specifically an example of what symbiotic relationship? 
+commensalism 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the term for the epidermal rupture in cork cells, common to the birch tree, that allows air to diffuse trough the bark? 
+lenticel 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What does the acronym MSDS, the safety information sheet for a particular chemical substance, stand for? 
+material safety data sheet 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+If an atom X, which has an electronegativity of 3.5, bonds with atom Y, which has an electronegativity of 0.9, what type of bond is most likely prevalent: 
+W)  ionic 
+X)  polar covalent 
+Y)  non-polar covalent 
+Z)  neutral 
+w OR ionic 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What is the common astronomical term that derives its name from the Latin word meaning ocean or ‘seas’ that is used to label the darker and smoother parts of the moon’s surface: 
+maria OR mare
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What celestial phenomenon most directly causes a comet's tail to point away from the Sun: 
+the solar wind 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+The Alpine-Himalayan mountain chain formed by: 
+W)  rifting 
+X)  transform faulting 
+Y)  continental collision 
+Z)  continent to ocean subduction 
+y OR continental collision 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following minerals is classified as a native element: 
+W)  gypsum 
+X)  quartz 
+Y)  graphite 
+Z)  clay 
+y OR graphite 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+In Freudian theory, libidinal drives reside in what division of the personality? 
+id 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A typical 6-ounce brewed cup of tea contains about how many milligrams of caffeine: 
+W)  30 
+X)  70 
+Y)  110 
+X)  150 
+x OR 70 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Pitch in an airplane is typically controlled by which of the following: 
+W)  horizontal stabilizer 
+X)  aileron 
+Y)  vertical stabilizer 
+Z)  swing arm 
+w OR horizontal stabilizer 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What is the wavelength, in meters, of a sound wave that has a frequency of 3,500 hertz and a speed in a certain medium of 350 meters per second? Do not include units.
+0.1 OR .1 OR 1/10
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the anatomical term for movement of a bone that results in a decrease in the angle of a joint, bringing bones together? 
+flexion 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following trees does NOT have simple, toothed leaves: 
+W)  Quaking Aspen 
+X)  Eastern Cottonwood 
+Y)  White Birch 
+Z)  Yellow Buckeye 
+z OR yellow buckeye 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+The concentration of a solution expressed in the number of gram-equivalent weights of solute per liter of solution is called: 
+W)  normality 
+X)  molality  
+Y)  equivalent weight 
+Z)  molarity 
+w OR normality 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In the chemical reaction that expands a typical car air bag, when sodium azide is broken down, what main toxic product is released in the first reaction? Do not type the formula.
+sodium OR sodium hydroxide 

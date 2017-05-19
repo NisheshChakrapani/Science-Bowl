@@ -1,0 +1,436 @@
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+If the viscous force acting on an object moving through a liquid or gas is modeled as F = -bv, where F is the resistive force, v is the velocity, and b is a constant, 
+which of the following types of equation will need to be solved in order to determine the 
+acceleration as a function of time? 
+W) Transcendental 
+X) Differential 
+Y) Hyperbolic 
+Z) Logarithmic 
+x OR differential 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Two objects of masses m1 and m2 with speeds v1 and v2, where v2 = 0, suffer collision, stick together, and move off with speed V. Which of the following equals 
+the ratio v1/V? 
+W) 1 + m2/m1 
+X) 1 + m1/m2  
+Y) 1 - m2/m1 
+Z) 1 - m1/m2 
+w OR 1 + m2/m1 
+
+TOSS UP
+ENERGY SHORT ANSWER
+Line losses vary linearly with what physical characteristic of power lines? 
+r OR 
+
+BONUS 
+ENERGY SHORT ANSWER
+Arrange the following four sectors based on the number of tons of greenhouse gases released from smallest to largest: 1) Agriculture, 2) Residential, 3) 
+Commercial, 4) Transportation. 
+1, 2, 3, 4 (accept: agriculture, residential, commercial, 
+
+TRANSPORTATION) 
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following functional group pairs corresponds to those constituting a hemiaminal?  
+W) Thiol [THY-ol] and nitrile [NY-tril] 
+X) Halogen and alkyl [AL-kuhl]  
+Y) Amine [uh-MEEN] and hydroxyl  
+Z) Azide and alkoxy [AL-kok-see]  
+y OR amine and hydroxyl 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Providing your answer as a decimal to the nearest hundredth, what is the reduced mass of an oscillator made up of a hydrogen and a fluorine atom? 
+0.95 (accept: 0.96) 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What gene, sometimes called the guardian of the genome, has a central role in cell cycle checkpoints and is the most frequently mutated gene in human 
+cancers? 
+p53 (accept: tumor suppressor p53, protein 53, tumor protein 53, 
+
+TUMOR ANTIGEN P53, TRP53, TRANSFORMATION RELATED PROTEIN 53) 
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Amino acids are joined to one another in linear polymers that fold to form proteins. What is the name of the chemical bond that joins the amino terminus of one 
+amino acid to the carboxyl terminus of the next amino acid in the sequence? 
+peptide bond (accept: peptide, amine bond) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the derivative with respect to x of xe2 [x times e squared]? 
+e2 
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve for x: 2x+1 = 4x+3[2 raised to the quantity x+1 equals 4 raised to the quantity x+3]. 
+-5 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Moving away from the ridges, oceanic crust becomes which of the following? 
+W) Hotter and younger  
+X) Hotter and older  
+Y) Cooler and older  
+Z) Cooler and younger  
+y OR cooler and older 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What is the name for the great circle that passes through the northernmost point on the horizon and the zenith? 
+meridian 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+You are at a party where the sound level is 70 decibels. Someone turns up the radio and the sound level suddenly increases to 100 decibels. By what factor has 
+the sound intensity been multiplied? 
+W) 30 
+X) 100 
+Y) 1000 
+Z) 10,000 
+y OR 1000 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+After running for 20 minutes, a person’s diastolic blood pressure is 100 millimeters of mercury. Providing your answer to two significant figures, what is the 
+equivalent height in centimeters of a column of water, assuming the mass density of mercury is 
+13.6 grams per cubic centimeter and the mass density of water is 1.0 grams per cubic 
+centimeter?  
+140 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT true when writing electron configurations?  
+W) Atomic orbitals can accommodate two electrons 
+X) Electrons pair in degenerate orbitals when possible  
+Y) Electrons will populate orbitals to maximize spin  
+Z) Noble gas cores are often used to truncate longer configurations 
+x OR electrons pair in degenerate orbitals when possible 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which quantum number is allowed values ranging from 0 to n -1 and is associated with atomic orbital shape? 
+angular momentum quantum number (accept: l, azimuthal, 
+
+SUBSIDIARY) 
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+In eukaryotes [yoo-KAR-ee-ohts], the spliceosome [SPLY-see-uh- sohm] is an RNA-protein complex important for RNA processing. What does this complex 
+remove? 
+introns 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+In the standard genetic code, how many of the 64 codons signal for stop of translation? 
+3 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+If the line y = 2 is reflected over the y-axis, what is the equation of the image? 
+W) x = -2 
+X) y = -2 
+Y) x= 2 
+Z) y = 2 
+z OR y = 2 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is ∫ |𝑥|2−2 𝑑𝑥 [the integral from negative 2 to 2 of the absolute value of x dx]? 
+4 
+
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+What is the term for the wind-driven transport process that causes sand particles to skip or bounce for short distances? 
+saltation 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+What is the second hottest spectral class? 
+b 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+What is the main difference between transverse and longitudinal waves? 
+W) Wavelength  
+X) Frequency  
+Y) Direction of the medium displacement with respect to the direction of wave propagation 
+Z) Phase difference 
+y OR direction of the medium displacement with respect to the 
+
+DIRECTION OF WAVE PROPAGATION 
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+What is the wavelength in nanometers of a photon of period 3.33 × 10-18 seconds? 
+W) 1 
+X) 3  
+Y) 6  
+Z) 9 
+w OR 1 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following equations best represents the conservation of energy in fluid systems? 
+W) Laplace  
+X) Bernoulli  
+Y) Navier-Stokes  
+Z) Euler  
+x OR bernoulli 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+How many BTUs are required to raise 5 pounds of water from 40° Fahrenheit to 120° Fahrenheit with a stove that is 80% efficient? 
+W) 320 
+X) 400 
+Y) 450 
+Z) 500 
+z OR 500 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+When a peptide bond is formed between two amino acids, water is removed as a byproduct. Which group contributes the OH to form water, and which group 
+contributes the hydrogen? 
+contributes oh = carboxyl group (accept: carboxyl, cooh, or 
+
+COOH GROUP); CONTRIBUTES HYDROGEN = AMINO GROUP (ACCEPT: AMINO, NH2, OR 
+NH2 GROUP) 
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+In the Haber reaction, where diatomic hydrogen and diatomic nitrogen react to form ammonia, how many moles of ammonia could be formed if one starts with 
+0.75 moles of hydrogen? 
+0.50 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What is the only infectious human disease to be declared completely eradicated from nature? 
+smallpox 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following cellular phenomena uses double-stranded RNA with the same or similar sequence to a gene to target that gene for inhibition of 
+transcription and translation? 
+W) RNA interference  
+X) Transposition 
+Y) RNA editing  
+Z) Alternative splicing 
+w OR rna interference 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What are the coordinates of the point where the graph of x2y + 3x – 4y – 24 = 0 [x squared y plus 3 x minus 4 y minus 24 equals zero] crosses the x-
+axis?  
+(8, 0) (do not accept: 8 alone, x = 8) 
+
+BONUS 
+MATH
+MULTIPLE CHOICE
+Which of the following represents a simplification of: (𝐴 1
+2  +  𝐴
+1
+2)2  
+[open parenthesis a to the power of one half plus a to the power of one half close 
+parenthesis squared]? 
+W) A2 
+X) 4A 
+Y) 2A 
+Z) √𝐴 
+x OR 4a 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Based on current scientific data, the most widely accepted cause of past ice ages is which of the following?  
+W) Volcanic aerosols in the atmosphere from major eruptions 
+X) Increased absorption of carbon dioxide by the oceans and land masses 
+Y) A decrease in solar intensity such as during the Maunder Minimum  
+Z) Milankovitch cycles 
+z OR milankovitch cycles 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Some quasars exhibit multiple images. What phenomenon explains this observation? 
+W) Structure doubling 
+X) Faraday rotation 
+Y) Wormholes 
+Z) Gravitational lensing 
+z OR gravitational lensing 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+G-protein coupled receptors regulate various cell signaling events in a cell. How many transmembrane segments are typically found in these receptors? 
+W) 5 
+X) 6 
+Y) 7 
+Z) 9 
+y OR 7 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+An ecologist uses seven foot tall mist nets to capture birds. In which of these habitats would the number of captures most likely underestimate the actual 
+number of birds present? 
+W) Tundra 
+X) Temperate grassland 
+Y) Chaparral 
+Z) Temperate forest 
+z OR temperate forest 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+The number of lines per centimeter in a transmission grating is 10,000. What is the distance in meters between the lines of the grating?  
+W) 10-3 
+X) 10-4 
+Y) 10-5 
+Z) 10-6 
+z OR 10-6 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A proton is travelling with a speed of 300,000 meters per second to the east in a region where there is a magnetic field of 4 teslas pointing to the north. What is the 
+magnitude and direction of the electric field in newtons per coulomb that must be present if the 
+proton is to move through this region undeflected?  
+1,200,000, down 
+
+TOSS UP
+ENERGY SHORT ANSWER
+In CFL light bulbs, what is the name for the process where electricity excites mercury vapor and light is released? 
+fluorescence 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+When photons strike a photovoltaic cell, which of the following must occur to generate electricity? 
+W) Absorption 
+X) Reflection 
+Y) Refraction 
+Z) Resection 
+w OR absorption 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+With regard to crystalline solids, which of the following most aptly describes a covalent network? 
+W) Low melting point, soft, excellent thermal conductor 
+X) Low to high melting point, hard, moderate electrical conductor  
+Y) High melting point, soft, poor electrical conductor  
+Z) High melting point, hard, poor thermal conductor  
+z OR high melting point, hard, poor thermal conductor 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Identify, respectively, the isotopes created by the emission of one beta minus particle from the following three isotopes: 1) cesium-137, 2) phosphorus-32, 3) 
+carbon-14.  
+1) barium-137, 2) sulfur-32, 3) nitrogen-14 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following bacterial gene transfer mechanisms requires the involvement of a bacteriophage [bak-TEER-ee-uh-fayj]? 
+W) Conjugation 
+X) Transduction 
+Y) Horizontal gene transfer 
+Z) Bacterial transformation 
+x OR transduction 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Plasmids are autonomously replicating circles of DNA containing one or a few genes. How many plasmids may a single bacterium carry? 
+W) 0 
+X) 1  
+Y) 2  
+Z) No fixed limit  
+z OR no fixed limit 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Find the magnitude of the vector 5i – 12j. 13 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the nonzero value of k that will result in exactly one real solution to the equation kx2 + 7x – 5 = 0.  
+k = -49/20 (accept: -2 9 
+
+20
+ OR -2.45) 
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is NOT a feature produced by wave erosion? 
+W) Sea cave  
+X) Sea stack  
+Y) Sea arch  
+Z) Shoal 
+z OR shoal 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+While most scientists believe global warming will cause soils of northern latitudes to emit more carbon dioxide, one recent study predicted they 
+would sequester more carbon in the future. Which of the following mechanisms could explain 
+this? 
+W) Warmer temperatures accelerate soil respiration 
+X) Warmer temperatures promote vegetation growth, which fixes more carbon  
+Y) Warmer temperatures dry out soils  
+Z) Warmer temperatures cause vegetation to grow and die faster, which puts more carbon into 
+the soil and accelerates soil respiration 
+x OR warmer temperatures promote vegetation growth, which 
+
+FIXES MORE CARBON 
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A top is spinning at a rate of 2π radians per second when it slows uniformly to a stop in 15 seconds. Through how many revolutions did the top turn before 
+stopping? 
+W) 7.5 
+X) 7.5π  
+Y) 15 
+Z) 15π 
+w OR 7.5 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A 100 microfarad parallel plate capacitor with air between the plates is connected to a 1.5 volt battery and becomes fully charged. The battery is disconnected 
+from the capacitor and a dielectric with a dielectric constant of 7 is inserted between the plates. 
+What is the charge in microcoulombs on one plate of the capacitor after the dielectric is 
+inserted? 
+150 
+

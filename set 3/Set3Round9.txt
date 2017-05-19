@@ -1,0 +1,391 @@
+﻿TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Resonance in a musical instrument is MOST directly exemplified by: 
+W)  sympathetic harmonic vibration  
+X)  destructive interference  
+Y)  dissonance in the standing wave 
+Z)  diffraction 
+w OR sympathetic harmonic vibration 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+The specific heat of a certain metal is 0.750 joules per gram kelvin. How much heat, in joules to the nearest whole number, will it take to increase the temperature of 0.50 kilograms of the metal from 25ºC to 50ºC? 
+9375 OR 9375 J OR 9375 joules
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Solvents, such as water, that can both donate and accept protons are typically described as: 
+W)  resonant 
+X)  metalloid  
+Y)  amphoteric 
+Z)  polyprotic 
+y OR amphoteric 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+When going from left to right, elements in the same period of the Periodic Table have progressively smaller atomic radii because of: 
+W)  increased effective nuclear charge  
+X)  decreased effective nuclear charge 
+Y)  addition of electrons 
+Z)  addition of neutrons 
+w OR increased effective nuclear charge 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is missing in bryophytes and is an evolutionary advancement of higher plants: 
+W)  vascular tissue 
+X)  epidermal tissue 
+Y)  chloroplasts 
+Z)  plasmodesmata  (read as: PLAS-mo-dez-MAH-tah) 
+w OR vascular tissue 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+If the flower color red is dominant and white is recessive, what will be the expected phenotypic ratio of red to white flowers in the first generation of a cross between parent plants both heterozygous for flower color? Type as "<number> to <number>". 
+3 to 1
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+What type of stream only bears water during and immediately after a rainstorm: 
+W)  ephemeral 
+X)  intermittent 
+Y)  perennial 
+Z)  dendritic 
+w OR ephemeral 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true about ocean tides: 
+W)  the Moon’s influence on Earth’s tides is about 2-times greater than the Sun’s influence 
+X)  a complete tidal day is about 24 hours 50 minutes long 
+Y)  some coastlines have 2 high tides and 2 low tides each lunar day whereas some have only have 1 high tide and 1 low tide each lunar day 
+Z)  spring high tides typically have greater ranges in the Northern Hemisphere during summer than during winter 
+z OR spring high tides typically have greater ranges in the Northern Hemisphere during summer than during winter
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What neurotransmitter is deficient in Parkinson’s disease? 
+dopamine 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is the BEST reason why Parkinson’s disease cannot be treated by simply administering dopamine into the blood stream: 
+W)  dopamine’s blood half-life is too short 
+X)  dopamine will not cross the blood brain barrier 
+Y)  dopamine is the precursor to the real effective transmitter in Parkinson’s disease 
+Z)  it is not known why dopamine will not work if administered directly into the blood 
+x OR dopamine will not cross the blood brain barrier 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission: 
+W)  Chandra X-ray observatory 
+X)  Arecibo radio telescope 
+Y)  Hubble gamma-ray telescope 
+Z)  Spitzer infrared spectrograph 
+z OR spitzer infrared spectrograph 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+By what multiple does the brightness of two stars differ with apparent magnitudes of –3 and +4:  
+W)  2.5 
+X)  25   
+Y)  250 
+Z)  625 
+z OR 625 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the acceleration, in meters per second squared, of a 10-kilogram snow sled that is on a frictionless horizontal surface if a horizontal force of 500 newtons is applied to it? 
+50
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+What is the speed of light in meters per second for monochromatic light of 780 nanometers in glass with a refractive index of 1.55: 
+W)  1.5 x 10^8  
+X)  1.9 x 10^8 
+Y)  4.65 x 10^7 
+Z)  4.65 x 10^8 
+x OR 1.9 x 10^8 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is a nonpolar molecule: 
+W)  HCN 
+X)  HBr 
+Y)  CHCl3 
+Z)  CO2 
+z OR co2 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is the general formula for a noncyclic alkene (read carefully as: al-KEEN) with n number of carbon atoms: 
+W)  CnH2n 
+X)  CnH2n+2 
+Y)  CnH2n–2 
+Z)  CnH2n+1 
+w OR cnh2n 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+In photosystem one, when NADP+ forms NADPH with the catalytic help of NADP+ reductase, from what specific place in the chloroplast are the hydrogen ions derived? 
+stroma 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+The conversion of pyruvate to Acetyl Co-A occurs: 
+W)  in the cytosol 
+X)  in the ER 
+Y)  in the mitochondrion 
+Z)  in the lysosome 
+y OR in the mitochondrion 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the degree of the following monomial: (–6x^2)(y^4)(z^3) 
+9 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the number of sides in a regular polygon if each interior angle measures 176 degrees: 
+90 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is LEAST accurate regarding paleontology: 
+W)  endothermic mammals thrived during the Cenozoic Era 
+X)  the fossil records of birds is poor because of their thin bones and lack of teeth 
+Y)  the mastodon was a Proboscidian mammal of the Cenozoic Era 
+Z)  trilobites are an important index fossil of the Mesozoic Era 
+z OR trilobites are an important index fossil of the mesozoic era 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Deposited by subglacial streams, ridges of sand and gravel that form beneath the ablation zone of a glacier are called: 
+W)  cirques 
+X)  eskers 
+Y)  horns 
+Z)  kames 
+x OR eskers 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is MOST commonly used for removing many organic compounds in water in municipal water treatment plants: 
+W)  activated charcoal 
+X)  precipitation reactions 
+Y)  reverse osmosis 
+Z)  dredging 
+w OR activated charcoal 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT true: 
+W)  the epilimnion is the upper warm layer of water of a lake in summer 
+X)  in cameras, the larger the f-number, the greater the depth of field 
+Y)  crab grass is better adapted to hot dry weather than Kentucky blue grass 
+Z)  Listeria is a waterborne parasite 
+z OR listeria is a waterborne parasite 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is LEAST accurate: 
+W)  recent evidence suggests a subsurface salty ocean is present on the Moon Europa 
+X)  spiral galaxies are actively forming stars 
+Y)  Earth’s aphelion occurs on the summer solstice 
+Z)  Julian days are often used as the time reference on light curves of stars 
+y OR earth’s aphelion occurs on the summer solstice 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+What would happen in the mid-northern latitudes if the tilt of the Earth’s axis decreased by 15 degrees: 
+W)  warmer summers and warmer winters 
+X)  cooler summers and cooler winters 
+Y)  cooler summers and warmer winters 
+Z)  colder summers and colder winters 
+y OR cooler summers and warmer winters 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is generally NOT true regarding diffraction of light: 
+W)  when white light is passed through a diffraction grating, shorter wavelengths are diffracted the most 
+X)  diffraction is wavelength dependent 
+Y)  if laser light is passed through a diffraction grating it will produce an interference pattern as a series of dots on a screen 
+Z)  white light passing through a diffraction grating is spread into a rainbow of colors 
+w OR when white light is passed through a diffraction grating, shorter wavelengths are diffracted the most
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A 300-newton box is placed on an inclined plane that makes a 45º angle with the horizontal.  Find the component of the box’s weight parallel to the plane’s surface, in newtons to the nearest whole number: 
+212 OR 213 OR 212 n OR 213 n OR 212 newtons OR 213 newtons
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Dalton’s gas law applies primarily to: 
+W)  non-ideal gases 
+X)  gas mixtures 
+Y)  density of gases 
+Z)  molar mass of gas 
+x OR gas mixtures 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+The oxidation number of oxygen is –1 in: 
+W)  normal oxides 
+X)  peroxides 
+Y)  superoxides 
+Z)  lithium oxide 
+x OR peroxides 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+According to the 3 domain system of classification with the 3 domains being, Archaea, Bacteria and Eukarya, which of the following would be LEAST likely to belong to the domain Bacteria: 
+W)  chlamydia 
+X)  spirochetes  (read as: spy-row-keets) 
+Y)  gram positive bacteria 
+Z)  non-nucleated thermophiles 
+z OR non-nucleated thermophiles 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+In which of the following does the RUBISCO enzyme play a central role: 
+W)  Photosystem One 
+X)  Electron Transport 
+Y)  Photosystem Two 
+Z)  Calvin Cycle 
+z OR calvin cycle 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Rationalize the denominator: 1/(3 - sqrt(x))
+(3 + sqrt(x))/(9 - x)
+
+BONUS 
+MATH
+SHORT ANSWER
+Solve the following equation for x over the set of complex numbers, giving your answer in simplest form:  x^2 – 10x + 34 = 0. Type as "<root> and <root>".
+5 + 3i and 5 – 3i OR 5 - 3i and 5 + 3i
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+A hurricane originating in the Eastern tropical Atlantic is driven westward by: 
+W)  the intertropical convergence zone 
+X)  the prevailing westerlies 
+Y)  the easterly trade winds 
+Z)  the doldrums 
+y OR the easterly trade winds 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is NOT a silicate: 
+W)  mica 
+X)  galena 
+Y)  olivine 
+Z)  potassium feldspar 
+x OR galena 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What technique, used by the U.S. Navy in military exercises and suspected of harming many marine species, is the focus of a recent agreement to not run these exercises within 40 kilometers of the new Hawaiian Islands Marine Reserve? 
+sonar OR min-range sonar 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Name all of the following 5 celestial bodies that have atmospheres composed primarily of nitrogen:  Earth;  Uranus;  Venus;  Pluto;  Titan 
+earth, pluto, titan 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+A stargazer looks at Orion and sees a reddish star called Betelgeuse.  The redness is because the star is what type of star? 
+red giant 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the MOST common name for the celestial objects that are called stars but since they are low mass objects of less than 0.08 solar masses they cannot undergo fusion? 
+brown dwarfs OR brown dwarf
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+The lens-maker’s equation relates the focal length of a glass lens to the radii of curvature of the lens’s two surfaces and what other property of the lens? 
+index of refraction OR refractive index
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Green light has a wavelength of 500 nanometers. What is its associated frequency, in hertz? 
+6 x 10^14 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+A molecule that contains 4 carbon-hydrogen single bonds and one carbon-carbon double bond contains how many sigma and pi bonds, respectively? Type as "sigma = <num>, pi = <num>".
+sigma = 5, pi = 1 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the systematic IUPAC name for the compound RbClO4? 
+rubidium perchlorate 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Animal tissues are generally divided into four main types. If three of them are, connective, nervous, and muscle, what is the fourth tissue? 
+epithelial OR epithelium
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Order the following 4 choices from the SMALLEST to the LARGEST, assuming average size for each:  erythrocyte;  mitochondrion;  polio virus;  macrophage 
+polio virus, mitochondrion, erythrocyte, macrophage 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What is the pH of a solution having a hydroxide ion concentration of 1 x 10^–5 M? 
+9 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+At standard temperature and pressure, if a sample of argon has a volume of 67 liters, how many moles of argon are in the sample, to the nearest whole number? 
+3 OR 3 m OR 3 moles

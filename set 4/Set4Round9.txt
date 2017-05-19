@@ -1,0 +1,422 @@
+TOSS UP
+MATH
+SHORT ANSWER
+Give the measure of angle (read as: theta), if 0 ≤ ≤ 2π, sin = and cos  =  . 
+
+
+BONUS  
+MATH
+SHORT ANSWER
+What is the perimeter of a sector of angle π/3 radians in a circle with circumference 2π2? Provide your answer in simplest form in terms of π. 
+2π+ π2/3 (accept: ) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+A geologic map uses a combination of lines, symbols and colors to show the composition and structure of earth materials across and beneath the 
+Earth’s surface. Which of the following would NOT be included on a geologic bedrock map? 
+W) Limestone 
+X) Granite 
+Y) Vertisols 
+Z) Slate 
+y OR vertisols 
+
+BONUS  
+EARTH AND
+SPACE SHORT ANSWER
+What kind of map shows soils, alluvium, and glacial deposits, distinguished on the basis of particle size, texture, and composition? 
+surficial 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A golf cart and a fire truck collide. Which vehicle experiences a greater force in the collision? 
+W) Golf cart 
+X) Fire truck 
+Y) Both vehicles experience the same force 
+Z) Depends on the speeds of the vehicles 
+y OR both vehicles experience the same force 
+
+BONUS  
+PHYSICS
+MULTIPLE CHOICE
+Before a light marble and a heavy marble experience a head-on elastic collision, the heavy marble has a much higher speed than the light marble. During the 
+collision, which marble experiences greater acceleration? 
+W) The light marble 
+X) The heavy marble 
+Y) Both experience the same acceleration 
+Z) In an elastic collision, neither marble accelerates 
+w OR the light marble 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+What color are the chromophores NOT absorbing in a blue shirt? 
+blue 
+
+BONUS  
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following compounds is insoluble in water? 
+W) Barium acetate 
+X) Beryllium acetate 
+Y) Lead acetate 
+Z) Silver acetate 
+x OR beryllium acetate 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Salmon dine on smaller fish like tiny herring, thus acquiring the energy in the herring’s meat. The herring ate a lot of food energy over its lifetime that was not 
+transferred to the salmon, however. What happened to that energy?  
+W) The energy was destroyed by electrical impulses 
+X) The herring converted the energy to oxygen  
+Y) The herring converted the energy to carbon dioxide 
+Z) The herring used the energy of its food for metabolic processes and entropy 
+z OR the herring used the energy of its food for metabolic 
+
+PROCESSES AND ENTROPY 
+BONUS  
+BIOLOGY
+MULTIPLE CHOICE
+Underwater mountains called seamounts provide a solid surface to cling to for many kinds of marine animals. Seamounts are important for all of the following 
+reasons, except: 
+W) They are sustainable locations for deep-sea fishing  
+X) They may be breeding grounds  
+Y) They support distinctive groups of animals, including corals 
+Z) Their altitude they causes complex current patterns 
+w OR they are sustainable locations for deep-sea fishing 
+
+TOSS UP
+MATH
+SHORT ANSWER
+A number is obtained by tripling an original value, then tripling that result. If the final resulting value obtained by applying the process previously described is 1, 
+what was the original number? 
+1/9 
+
+BONUS  
+MATH
+SHORT ANSWER
+What matrix of integers is equal to 3 - (read as: 3 times the 2 by 2 matrix with row 1: -2, 1, and row 2: 0, 5 minus the 2 by 2 matrix row 1: 4, 0, and 
+row 2: negative 4, 1) 
+
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Providing your answer as a decimal to the nearest tenth, if you start with 3 grams of Carbon-14, how many grams of isotope will remain after 3 half lives?  
+0.4 
+
+BONUS  
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT true about enzymes? 
+W) They catalyze most of the chemical changes that occur in a cell 
+X) They are unchanged by the reaction they catalyze 
+Y) They do not change the normal equilibrium position of a chemical system 
+Z) They change the amount of product that is produced 
+z OR they change the amount of product that is produced 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+John has twice the mass of Carl. They jump off a cliff into the water below. Just before the splash: 
+W) John has half as much kinetic energy as Carl  
+X) John and Carl have the same kinetic energy 
+Y) John has twice as much kinetic energy as Carl 
+Z) John has four times as much kinetic energy as Carl 
+y OR john has twice as much kinetic energy as carl 
+
+BONUS  
+PHYSICS
+MULTIPLE CHOICE
+In a safety crash test, a big truck and a small car have a head-on collision. What can we say about total system momentum? 
+W) It is equal to zero 
+X) It is less after the crash than before the crash 
+Y) It is the same before and after the crash 
+Z) It is more after the crash than before the crash 
+y OR it is the same before and after the crash 
+
+TOSS UP
+ENERGY MULTIPLE CHOICE
+Which of the following produces the largest share of electric power generation in the U.S.?   
+W) Natural gas 
+X) Coal 
+Y) Nuclear power 
+Z) Hydropower 
+x OR coal 
+
+BONUS  
+ENERGY MULTIPLE CHOICE
+Methane hydrate is a cage-like lattice of ice inside which are trapped molecules of methane, the chief constituent of natural gas. Which of the following is 
+NOT true about methane hydrate? 
+W) Deposits generally occur beneath Arctic permafrost and the ocean floor 
+X) Methane extraction from methane hydrate has been documented in large-scale field 
+experiments  
+Y) If pressures are high enough, it is stable far above the melting point of water ice 
+Z) The energy content of methane hydrate is very high 
+x OR methane extraction from methane hydrate has been 
+
+DOCUMENTED IN LARGE-SCALE FIELD EXPERIMENTS 
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+How long, in hours, is the night during the equinox? 
+12 
+
+BONUS  
+EARTH AND
+SPACE SHORT ANSWER
+What is the term for the angle of an object’s elevation above the horizon? 
+altitude 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the potential difference in volts between two points, located 2 meters apart, in a constant electric field of 1 volt per meter? 
+2 
+
+BONUS  
+PHYSICS
+MULTIPLE CHOICE
+When a fighter pilot fires on a plane directly in front of her, the momentum of the fighter pilot and her plane changes in what way? 
+W) It increases 
+X) It decreases 
+Y) It stays the same 
+Z) It changes direction 
+x OR it decreases 
+
+TOSS UP
+ENERGY MULTIPLE CHOICE
+Petroleum comes from: 
+W) Accumulated carbon rich plant materials 
+X) Dinosaur remains 
+Y) Meteorite rocks that impacted the Earth millions of years ago found deep underground 
+Z) Organic sediment transformed over time by bacteria, pressure, and temperature 
+z OR organic sediment transformed over time by bacteria, 
+
+PRESSURE, AND TEMPERATURE 
+BONUS  
+ENERGY MULTIPLE CHOICE
+Unleaded gasoline pumped at a filling station comes from crude oil. About what percentage of the oil’s original energy content is present in gasoline when it is 
+pumped into the vehicle at the station? 
+W) 13% 
+X) 36% 
+Y) 50% 
+Z) 86% 
+z OR 86% 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+The length of a rectangle is 5 inches less than twice the width. What is the width in inches if the perimeter is 38 inches? 
+W) 5  
+X) 8  
+Y) 11  
+Z) 14  
+x OR 8 
+
+BONUS  
+MATH
+SHORT ANSWER
+One side of an equilateral triangle is 6. In simplest form, what is the altitude? 
+3 
+
+TOSS UP
+ENERGY MULTIPLE CHOICE
+Of the following choices, what is the primary direct use of geothermal energy? 
+W) Aquaculture 
+X) Space heating 
+Y) Gold mining 
+Z) Dehydration of vegetable and fruit products 
+x OR space heating 
+
+BONUS  
+ENERGY MULTIPLE CHOICE
+Aquaculture applications for geothermal energy are particularly promising for all of the following reasons, except: 
+W) A variety of freshwater or marine organisms can be raised 
+X) There is an abundance of geothermal resources at the required temperature range  
+Y) Consistent water temperatures increase survival rates 
+Z) Consistent water circulation enables year-round harvesting of consistently-sized fish 
+OF CONSISTENTLY-SIZED FISH 
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+Which of the following rocks would be most impacted by acid rain: 1) chert, 2) limestone, or 3) granite? 
+limestone (accept: 2) 
+
+BONUS  
+EARTH AND
+SPACE SHORT ANSWER
+Imagine a sandstone that fizzes when exposed to hydrochloric acid. Name the mineral that cements the sand grains together. 
+calcium carbonate (accept: calcite or caco3) 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Russian physiologist Ivan Pavlov performed a famous experiment where he rang a bell before giving meat powder to dogs, which caused them to salivate. After a 
+time, the dogs would salivate at the sound of the bell alone. What type of learned behavior is 
+this? 
+conditioned response (accept: conditioning) 
+
+BONUS  
+BIOLOGY
+MULTIPLE CHOICE
+The common shore ragworm only leaves its sandy tube to feed. If a shadow passes overhead, it will quickly return to the safety of its burrow. If the shadow 
+passes overheard repeatedly and nothing happens, the worm will eventually ignore the shadow. 
+This type of learning is called: 
+W) Sensitization  
+X) Habituation 
+Y) Conditioned response 
+Z) Mimicry 
+x OR habituation 
+
+TOSS UP
+MATH
+SHORT ANSWER
+If four numbers have an arithmetic mean of 20, and three of the numbers are 17, 18, and 19, what is the fourth number? 
+26 
+
+BONUS  
+MATH
+SHORT ANSWER
+What adjective is used to describe a set that can be placed in one-to- one correspondence with a subset of itself? 
+infinite 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following marine environments has the fewest trophic levels? 
+W) Coastal Arctic 
+X) Subtropical gyre 
+Y) Coastal Antarctic 
+Z) Peruvian upwelling zone 
+y OR coastal antarctic 
+
+BONUS  
+EARTH AND
+SPACE SHORT ANSWER
+The presence of which organism allows for the low level of trophic complexity observed in coastal Antarctic waters? 
+krill [accept: euphausiids (read as: yuh-foh-zee-ids)] 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Find the measure of angle C in degrees in triangle ABC with sides equal to the following: AB = 15 centimeters, AC = 15  centimeters, and BC = 30 centimeters. 
+30 
+
+BONUS  
+MATH
+SHORT ANSWER
+If y = p(x) and y = q(x) are two cubic polynomial functions that have the same leading coefficient, what is the maximum possible number of intersections of their 
+graphs? 
+2 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following compounds has the lowest solubility product constant at pH 7? 
+W) Sodium carbonate 
+X) Iron II chloride 
+Y) Magnesium chloride 
+Z) Ammonium nitrate 
+x OR iron ii chloride 
+
+BONUS  
+CHEMISTRY
+SHORT ANSWER
+What is the oxidation number of manganese in potassium permanganate? 
++7 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+When the distance travelled and displacement are equal and nonzero for a given object in motion, the object must have travelled: 
+W) Back and forth 
+X) In a straight line without changing direction 
+Y) In a circle 
+Z) In an ellipse 
+x OR in a straight line without changing direction 
+
+BONUS  
+PHYSICS
+SHORT ANSWER
+For an object to travel in a circle, it must experience acceleration in what direction? 
+towards the circle's center 
+
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+Give the two elements that primarily make up our sun. hydrogen, helium 
+
+BONUS  
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is NOT true about the Sun? 
+W) It vibrates in multiple modes like a bell that is repeatedly struck 
+X) Gas near the Sun’s higher latitudes rotate more quickly than gas near its equator 
+Y) It contains about 99% of the mass in the solar system 
+Z) It is magnetic 
+x OR gas near the sun’s higher latitudes rotate more quickly than 
+
+GAS NEAR ITS EQUATOR 
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The bones of a human forearm are homologous to all of the following structures except for a: 
+W) Whale flipper 
+X) Dog forelimb 
+Y) Bat wing  
+Z) Fly wing 
+z OR fly wing 
+
+BONUS  
+BIOLOGY
+SHORT ANSWER
+Female mosquitoes and vampire bats are both sanguivores. This trait in bats and mosquitoes is an example of what type of evolution? 
+convergent evolution 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+In what range of colors do fireflies generally emit light? 
+W) Yellow to green 
+X) Orange to red 
+Y) Red to blue 
+Z) Blue to violet 
+w OR yellow to green 
+
+BONUS  
+CHEMISTRY
+MULTIPLE CHOICE
+What are the two conditions that distinguish bioluminescence from chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns)? 
+W) Bioluminescence occurs in living organisms and has hydrogen as a common reactant 
+X) Bioluminescence occurs in living organisms and requires an enzyme catalyst 
+Y) Bioluminescence occurs in living organisms and involves the emission of light at a lower 
+energy than chemiluminescence (read as: keh-mee-luh-mi-NEH-sehns) 
+Z) Bioluminescence occurs uniquely in living organisms and has oxygen as a common reactant 
+x OR bioluminesence occurs in living organisms and requires an 
+
+ENZYME CATALYST 
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Bees are essential pollinators, pollinating approximately 80% of flowering agricultural crops. Why do bees pollinate? 
+W) It is an inadvertent product of collecting food 
+X) Bees benefit when plants procreate 
+Y) Bees harvest the fruits for food  
+Z) It is an inadvertent product of mating  
+w OR it is an inadvertent product of collecting food 
+
+BONUS  
+BIOLOGY
+MULTIPLE CHOICE
+In recent years, honey bee populations have been decreasing. What impact would the extinction of honey bees have on human agriculture? 
+W) Different types of pollinators could be used; there would be no impact on agriculture 
+X) All honey bee pollinated plants would go extinct 
+Y) Plants would asexually reproduce instead; there would be no impact on agriculture 
+Z) Some species are only pollinated by honey bees and would therefore need to be hand 
+pollinated or face extinction 
+z OR some species are only pollinated by honey bees and would 
+
+THEREFORE NEED TO BE HAND POLLINATED OR FACE EXTINCTION 

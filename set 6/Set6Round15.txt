@@ -1,0 +1,466 @@
+TOSS UP
+MATH
+SHORT ANSWER
+Expressing your answer in simplest form, if y = (x6) ln(x) [y equals x to the sixth power times the natural log of x], what is the derivative of y with respect to x?  
+6x5 ln(x) + x5 
+
+BONUS 
+MATH
+SHORT ANSWER
+A national achievement test is administered. The test has a mean score of 100 and a standard deviation of 15. If Vince’s z-score is 1.20, what is his score on the 
+test? 
+118 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+The amino acid sequence of a protein represents the translation of which of the following? 
+W) The template DNA strand  
+X) The nontemplate DNA strand  
+Y) The tRNA nucleotide sequence [NOO-klee-uh-tyd] 
+Z) The reverse-complement of the mRNA strand  
+x OR the nontemplate dna strand 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following insect orders is characterized by the beak or stylet arising from the posterior part of the head and extending along the insect’s sternum? 
+W) Hymenoptera [hy-muh-NOP-ter-uh] 
+X) Homoptera [hoh-MOHP-tuh-ruh] 
+Y) Coleoptera [koh-lee-OP-ter-uh] 
+Z) Hemiptera [hi-MIP-ter-uh] 
+x OR homoptera 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following principles of fluid dynamics does an airplane use to create an upward force? 
+W) Archimedes’ 
+X) Pascal’s 
+Y) Venturi’s 
+Z) Bernoulli’s 
+z OR bernoulli’s 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+If magnetic monopoles exist, which of the following Maxwell’s equations would be changed? 
+W) Gauss’s law for magnetism only 
+X) Gauss’s law for magnetism and Ampere’s law 
+Y) Gauss’s law for magnetism and Faraday’s law 
+Z) Gauss’s law for magnetism, Ampere’s law, and Faraday’s law 
+y OR gauss’s law for magnetism and faraday’s law 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is the rate at which atmospheric gases and particles are moved across a surface? 
+W) Vertical dispersion 
+X) Turbulence 
+Y) Flux 
+Z) Stratospheric transport 
+y OR flux 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is true of sandstone formed from a long-term paleodesert? 
+W) It would exhibit clearly graded bedding 
+X) It would have preserved ripples but not dunes 
+Y) It would appear black due to the dark iron-rich minerals present  
+Z) It would contain well rounded grains and have high quartz content 
+z OR it would contain well rounded grains and have high quartz 
+
+CONTENT
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following bonds is the longest in length? 
+W) Fluorine-fluorine 
+X) Chlorine-chlorine 
+Y) Bromine-bromine 
+Z) Iodine-iodine 
+z OR iodine-iodine 
+
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Ozonolysis [oh-zuh-NOL-uh-sis] cleaves which of the following? 
+W) Carbon-carbon double bonds in alkenes [AL-keens]  
+X) Carbon-carbon bonds in alkanes  
+Y) Oxygen-oxygen bonds 
+Z) Bonds between carbon and hydrogen 
+w OR carbon-carbon double bonds in alkenes 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following best represents the conversion of the rectangular coordinates (3, 4) into polar coordinates? 
+W) (5, 37o) 
+X) (37o, 5) 
+Y) (5, 53o) 
+Z) (53o, 5) 
+y OR (5, 53o) 
+
+BONUS 
+MATH
+SHORT ANSWER
+Evaluate [the integral from the square root of 2 to the 3 times the square root of 2 of the quantity 3 x squared plus 6 dx] in simplest radical 
+form. 
+
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What modified base in the anticodon’s wobble position can base pair with uracil [YOOR-uh-sil], cytosine [SY-tuh-seen] or adenine [AD-n-een] in the third 
+position of an mRNA codon? 
+inosine 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Kearns-Sayre Syndrome is caused by a mutation on a gene in the mitochondrial [my-tuh-KON-dree-uhl] DNA. Both males and females can have the disease, 
+but the disease can only be transmitted to a child by the mother, never the father. Why is this 
+so? 
+W) The gene is on the X chromosome, and females are XX 
+X) The sperm that fertilizes the egg contributes only its chromosomes and none of its 
+mitochondria  
+Y) The mutant protein is only active in the egg, not the sperm  
+Z) The disease is sex-limited 
+x OR the sperm that fertilizes the egg only contributes its 
+
+CHROMOSOMES AND NONE OF ITS MITOCHONDRIA 
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Which of the following effects does lowering the temperature have on the decay rate of a sample of radioactive material? 
+W) The decay will speed up 
+X) The decay will slow down 
+Y) There is no change 
+Z) There is an inverse relationship between temperature and fission 
+y OR there is no change 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+FutureGen 2.0 power plants will reduce carbon dioxide production by burning coal in which of the following ways? 
+W) With a mixture of oxygen and carbon dioxide instead of air to produce concentrated carbon 
+dioxide 
+X) With an enhanced concentration of oxygen instead of air to produce less carbon dioxide per 
+ton of coal burned 
+Y) In a catalytic chamber that scrubs the carbon dioxide out of the emissions 
+Z) Using carbon dioxide reduced coal in an 80% nitrogen and 18% oxygen mixture 
+w OR with a mixture of oxygen and carbon dioxide instead of air to 
+
+PRODUCE CONCENTRATED CARBON DIOXIDE
+TOSS UP
+PHYSICS
+SHORT ANSWER
+Two electromagnetic waves are incident upon a gerbil. They are identical and coherent except for a phase difference of 60 degrees. If the intensity of each wave 
+in isolation is 10 watts per meter squared, what is the intensity of light in watts per square meter 
+experienced by the gerbil? 
+30 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+An ideal gas is enclosed within a container with a movable piston as the lid. The gas is initially at a pressure of 3 atmospheres and occupies a volume of 2 liters. 
+The piston is lowered so that the gas now occupies 1.5 liters at a pressure of P. If the process 
+was carried out slowly, maintaining constant temperature in contact with a suitable reservoir, 
+what is P in atmospheres? 
+4 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+The observation that the mean luminosity of more distant stars tends to be higher than the mean luminosity of nearby stars in a flux-limited sample 
+is an example of which of the following kinds of bias?   
+W) Eddington  
+X) Selection  
+Y) Confirmation  
+Z) Hindsight  
+x OR selection 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following features is NOT associated with subduction zone geology? 
+W) San Joaquin Valley, California 
+X) Accreted terrains of coastal California 
+Y) North Carolina barrier islands  
+Z) Cascade Mountains in Oregon and Washington  
+y OR north carolina barrier islands 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is true for an adiabatic process? 
+W) Temperature remains constant 
+X) Pressure remains constant 
+Y) Net heat transfer to the surroundings is zero  
+Z) Work done on the surroundings is zero  
+y OR net heat transfer to the surroundings is zero 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A reaction between two solutions A and B has a rate constant k of 1. If A increases from 2.0 molar to 4.0 molar and B is held constant, the reaction rate is 
+doubled. If B goes from 2.0 molar to 4.0 molar and A is held constant, the reaction rate is 
+quadrupled. What is the overall reaction order? 
+3 (accept: third) 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+In active meiosis, new genetic combinations can arise in two different ways. Which of the following is the first stage in which there could be genetic 
+recombination? 
+W) Anaphase I 
+X) Anaphase II 
+Y) Prophase I 
+Z) Prophase II 
+y OR prophase i 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What is the term for an inanimate object that is capable of transmitting infectious disease from one individual to another? 
+fomite 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following classes of stars does NOT have radiative zones?  
+W) A  
+X) G  
+Y) M  
+Z) O  
+y OR m 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Under which of the following circumstances does ocean depth affect ocean wave motion? 
+W) When ocean depth falls below half the wavelength of a wave  
+X) When the ocean wave has a period exceeding 20 seconds 
+Y) When the ocean waves are impacted by tides 
+Z) When the ocean floor has high relief, regardless of the depth  
+w OR when ocean depth falls below half the wavelength of a wave 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the radius of the circle with equation x2 + 6x + y2 8y 11= 0? 
+6 
+
+BONUS 
+MATH
+SHORT ANSWER
+Providing your answer as an improper fraction in lowest terms, solve the following equation for x over the real numbers:  [9 to the power of 2x equals 
+27 to the power of the quantity 3x minus 4]. 
+12/5 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+If a single nucleotide is inserted into the middle of the protein coding sequence of a gene, which of the following is the likely outcome? 
+W) A frameshift mutation that leads to multiple missense and/or nonsense mutations  
+X) A single codon will have a missense mutation 
+Y) One codon will have a missense or nonsense mutation, and the another nucleotide [NOO-
+klee-uh-tyd] will be deleted  
+Z) A frameshift mutation that is silent  
+w OR a frameshift mutation that leads to multiple missense and/or 
+
+NONSENSE MUTATIONS 
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following statements is NOT correct regarding short day plants? 
+W) Flowering occurs when night length is less than critical length 
+X) Continuity of darkness is crucial; flowering will not occur if darkness is interrupted by a 
+momentary light flash 
+Y) Short day plants are synonymous with long night plants 
+Z) Photoperiod can be detected via phytochromes 
+w OR flowering occurs when night length is less than critical 
+
+LENGTH 
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+If you heat a container of gas at a higher temperature than its surroundings to twice its prior absolute temperature without changing the temperature of its 
+environment, you have done which of the following? 
+W) Increased the system's enthalpy and decreased its entropy 
+X) Increased the system's enthalpy and entropy 
+Y) Decreased the system's enthalpy and entropy 
+Z) Decreased the system's enthalpy and increased its entropy 
+x OR increased the system's enthalpy and entropy 
+
+BONUS 
+ENERGY SHORT ANSWER
+What is the name of the technique used to enrich gaseous U-235 after it has been combined with fluorine? 
+centrifugation 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+When an object with a volume of 10 cubic meters is completely submerged in water, given that acceleration due to gravity is 9.8 meters per second squared, 
+what is the buoyant force on the object in newtons if the density of water is 1000 kilograms per 
+cubic meter? 
+98,000 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Stress-strain curves show how real materials respond to forces that are applied to them. Materials such as steel have a region of elasticity where they 
+approximate an ideal spring and a region where they start to deform plastically. Where the 
+materials are acting like an ideal spring, how do we find their Young's modulus? 
+W) It is the slope of the stress-strain curve 
+X) It is the integral of the curve in the elastic region 
+Y) It is the y-intercept of the stress-strain curve 
+Z) It is the second derivative of the curve just after transition into the region of plastic 
+deformation 
+w OR it is the slope of the stress-strain curve 
+
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+What is the name for the gravitational equilibrium [ee- kwuh-LIB-ree-uhm] points in the orbital plane of two bodies?  
+lagrangian point (accept: lagrange point) 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+A galaxy shows a strong bar and very loosely-wound spiral arms. Which of the following would most likely be its class?  
+W) S0  
+X) SBa  
+Y) SBc  
+Z) Sb  
+y OR sbc 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+In preparing to perform a flame test on a sample, a high molar solution of which of the following chemicals would be best to use to clean your nichrome 
+wire? 
+W) Sodium hydroxide 
+X) Nitrous acid 
+Y) Hydrochloric acid 
+Z) Lithium hydroxide  
+y OR hydrochloric acid 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+To heat 0.5 kilograms of water from 20 degrees Celsius to 80 degrees Celsius, providing your answer in kilojoules, how much energy is needed?   
+126 (accept: values from 125 to 126) 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following values for a and b provide a counterexample to the statement “If 4 divides a + b, then 4 divides a or 4 divides b.” 
+W) a = 5 and b = 7 
+X) a = 5 and b = 6 
+Y) a = 4 and b = 8 
+Z) a = 4 and b = 6 
+w OR a = 5 and b = 7 
+
+BONUS 
+MATH
+SHORT ANSWER
+Providing your answer as an improper fraction in lowest terms, what is the area under the curve bounded by the x-axis, x = 4 and y = ? 
+16/3 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Name the circulatory adaptation found in the legs of ducks and geese that allows them to swim in water that is near freezing and yet not become hypothermic. 
+countercurrent exchanger (accept: countercurrent heat 
+
+EXCHANGE, COUNTERCURRENT) 
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Muscle fibers can be classified as slow, intermediate, or fast. Which of the following is NOT true regarding fast muscle fibers? 
+W) They are found in higher relative abundance in world class sprinters versus world class 
+marathoners 
+X) They fatigue most rapidly 
+Y) They have the highest mitochondrial density  
+Z) The primary pathway for ATP production is fermentation  
+y OR they have the highest mitochondrial density 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+Nanticoke Generating Station, located in southern Ontario, Canada, is one of the world's largest coal-burning power plants. However, the Canadian 
+Ministry of Energy announced in 2010 that Nanticoke would convert some of their generators to 
+use which of the following types of fuel instead of coal? 
+W) Natural gas 
+X) Uranium-238 
+Y) Petroleum 
+Z) Ethanol 
+w OR natural gas 
+
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+A liquid metal fast reactor (LMFR) is an advanced type of nuclear reactor that uses liquid metal as a primary coolant. Of the following metals, which one is 
+NOT most commonly used as a primary coolant in LMFRs? 
+W) Lithium  
+X) Mercury 
+Y) Lead 
+Z) Sodium 
+w OR lithium 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What type of antineutrino [an-tee-noo-TREE-noh] is produced in beta decay? 
+electron antineutrino 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+There is an electrostatic force of attraction between any two of three metal spheres P, Q, and R. Which of the following is a possible combination for the 
+charges on P, Q, and R? 
+W) P: positive, Q: negative, R: positive 
+X) P: positive, Q: negative, R: neutral 
+Y) P: positive, Q: positive, R: positive 
+Z) P: neutral, Q: positive, R: neutral 
+x OR p: positive, q: negative, r: neutral 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Consider the track of the 2005 Hurricane Katrina. Alabama’s Dauphin Island suffered more extreme damage than other islands exposed to the 
+storm. Based on the nature of hurricanes, what quadrant of the storm pounded Dauphin Island? 
+W) Northeast 
+X) Northwest 
+Y) Southwest 
+Z) Southeast 
+w OR northeast 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+When the lunar surface is bombarded with solar wind, which of the following resources may be exploited from the Moon's surface?  
+W) Helium for nuclear fusion 
+X) Iron for steel 
+Y) Sulfur for acids 
+Z) Silicon for computer technologies 
+w OR helium for nuclear fusion 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+For the molecular orbital diagram of H2, in which of the following locations are the electrons located? 
+W) One electron in each hydrogen's 1s atomic orbital 
+X) Both electrons in the sigma 1s orbital 
+Y) Both electrons in the sigma* [sigma-star] 1s orbital 
+Z) Both electrons in the pi 1s orbital 
+x OR both electrons in the sigma 1s orbital 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Providing your answer to one significant figure, determine the pH of a 5.0 molar solution of acetic acid, given that acetic acid’s Ka is 2 x 10-5.   
+2 
+

@@ -1,0 +1,419 @@
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Recently, the number of American bee colonies has been seriously diminished due to sudden, massive, unexplained die-offs. The agent of this epidemic has not 
+yet been conclusively identified. What is the name of this disease? 
+colony collapse disorder (accept: ccd) 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+While hiking in Arizona, you come over a rise, hear a rattling sound and see a western diamondback rattlesnake coiled and ready to strike. Indicate which of 
+the following physiological responses would NOT occur in you? 
+W) Gluconeogenesis would occur in the liver  
+X) Blood vessels in the gut and skin would constrict 
+Y) Heart rate and blood pressure would increase 
+Z) Adipose tissue would release fatty acids to the blood stream  
+w OR gluconeogenesis would occur in the liver 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following best describes why arches and domes are more stable than flat roofed structures? 
+W) They transmit compressive forces along their length to the ground, uniformly bearing the 
+load of gravity upon the structure 
+X) Each section is under great tension, using the stronger dimension of the components 
+Y) Torsional resistance to sideways swaying ensures that such structures are stable, even in 
+high winds 
+Z) The surface tension of the arched shape allows the building components to be hollowed out, 
+saving weight 
+w OR they transmit compressive forces along their length to the 
+
+GROUND, UNIFORMLY BEARING THE LOAD OF GRAVITY UPON THE STRUCTURE 
+BONUS 
+PHYSICS
+SHORT ANSWER
+Given a piece of glass with an index refraction of 2, what is the optimal index of refraction, to one decimal place, for an antireflection coating? 
+1.4 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Providing your answer as a decimal, what is the bond order for the oxygen-oxygen bonds in ozone? 
+1.5 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which of the following is the local VSEPR geometry of a triply- bonded alkyne carbon? 
+W) Tetrahedral 
+X) Trigonal planar 
+Y) Linear 
+Z) Bent  
+y OR linear 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following best describes the absorption characteristics of dust in the interstellar medium?   
+W) Its effects are strongest in radio wavelengths  
+X) It absorbs light at all wavelengths with about the same efficiency  
+Y) It preferentially absorbs optical light at redder wavelengths  
+Z) It preferentially absorbs optical light at bluer wavelengths  
+z OR it preferentially absorbs optical light at bluer wavelengths 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+A binary star system has one star with an apparent magnitude of 5 and a brown dwarf companion with an apparent magnitude of 15. The first star is 
+how many times as luminous as the brown dwarf? 
+10,000 
+
+TOSS UP
+MATH
+SHORT ANSWER
+If logb(5) = c [log base b of 5 equals c], then what does b 4c [b to the power of 4 c] equal? 
+625 
+
+BONUS 
+MATH
+SHORT ANSWER
+The three sides of a triangle are 5 centimeters, 6 centimeters, and 8 centimeters. What is the cosine of the smallest angle in reduced fractional form? 
+25/32 
+
+TOSS UP
+ENERGY SHORT ANSWER
+Gasoline is sold as “unleaded gas,” which is a misnomer because gasoline does not naturally contain lead. Lead was added to gasoline from the 1940s to 1980s. 
+What was the reason for adding lead to gasoline?  
+stop engine knock (accept: knocking, autoignition, increase 
+
+OCTANE RATING)  
+BONUS 
+ENERGY SHORT ANSWER
+Given g as 10 meters per second squared, how much power in megawatts can a perfectly efficient dam 100 meters high produce if 2000 kilograms of water 
+pass through its turbines every second? 
+2 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Horseshoe crabs are most closely related to which of the following organisms? 
+W) Spiders  
+X) Millipedes 
+Y) Centipedes  
+Z) Insects 
+w OR spiders 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Cloning a gene into a plasmid often requires you to amplify the target DNA sequence, then digest and paste the target sequence into the plasmid. Several 
+purified enzymes are important in this process. Which of the following enzymes would act LAST 
+in the cloning process? 
+W) Polymerase [POL-uh-muh-rays] 
+X) Ligase [LY-gays] 
+Y) Exonuclease [eks-uh-NOO-klee-ays] 
+Z) Restriction endonuclease [en-duh-NOO-klee-ays] 
+x OR ligase 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+A nubbin-on-a-spring keeps a door from hitting the wall. If the nubbin is flicked, such that the nubbin passes its rest point more than once before coming to 
+rest, which of the following is true? 
+W) It is undamped 
+X) It is underdamped 
+Y) It is criticially damped 
+Z) It is overdamped 
+x OR it is underdamped 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+A potential of 10 volts is applied to a parallel plate capacitor with capacitance of 1 microfarad and a plate separation of 10 micrometers. What is the electrical 
+force in newtons between the plates? 
+10 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following is NOT an aliphatic hydrocarbon? 
+W) Benzene 
+X) Propane 
+Y) Cyclopropane 
+Z) Cyclopentene 
+w OR benzene 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Determine the entropy, in calories per mole Kelvin, of a system that is at 27° Celsius and which has undergone a 1500 calorie per mole decrease in Gibbs free 
+energy accompanied by a negligible change in enthalpy. 
+-5 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+In special relativity, Lorentz contraction states that for an object moving relative to an observer, the observer will measure the object’s length to be 
+which of the following? 
+W) Longer 
+X) Shorter 
+Y) Exactly the same 
+Z) Impossible to tell 
+x OR shorter 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+With regard to Earth’s axis, what are the two principal reasons that the Sun’s position in the sky traces an analemma [an-l-EM-uh] from a fixed 
+position at the same time each day? 
+earth is tilted and earth has a elliptical orbit 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+Which of the following is [the limit as x approaches 0 of the absolute value of x over x]? 
+W) -1 
+X) 0 
+Y) 1 
+Z) The limit does not exist 
+z OR the limit does not exist 
+
+BONUS 
+MATH
+SHORT ANSWER
+A square has a side of 8 millimeters. Providing your answer in terms of π and in square millimeters, what is the difference between the areas of its circumscribed 
+circle and its inscribed circle? 
+16π 
+
+TOSS UP
+ENERGY
+MULTIPLE CHOICE
+OTEC is which of the following? 
+W) A method of producing hydrogen gas using solar energy 
+X) A form of tidal energy that harnesses the ebb and flow of ocean water 
+Y) An organization of oil-rich countries  
+Z) A method of energy generation from the thermal gradient of ocean waters 
+z OR a method of energy generation from the thermal gradient of 
+
+OCEAN WATERS 
+BONUS 
+ENERGY
+MULTIPLE CHOICE
+There are several ways to store wind energy for non-windy days. Which of the following methods is NOT currently being used?  
+W) Pumping air into underground storage  
+X) Pumping water up to elevated storage and then releasing it to drive an electric generator  
+Y) Pumping water into underground storage  
+Z) Charging batteries  
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following does the enzyme aminoacyl-tRNA synthetase [uh-mee-noh-AS-il T-R-N-A SIN-thuh-tays] catalyze? 
+W) Base-pairing between the tRNA and the mRNA 
+X) Transfer of the amino acid from the tRNA to form a peptide bond 
+Y) Charging of a tRNA with an amino acid 
+Z) Synthesis of tRNA molecules 
+y OR charging of a trna with an amino acid 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+DNA replication involves many different steps. By number, arrange the following four steps in order from start to finish: 1) DNA polymerase [POL-uh-muh-
+rays] synthesizes a new DNA strand, 2) DNA ligase [LY-gays] repairs nicks in the 
+phosphodiester [fos-foh-dy-ES-tuhr] backbone, 3) replication bubble opens at origin, 4) 
+primase builds the primer. 
+3, 4, 1, 2 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is NOT true about the outer core of the Earth? 
+W) It is composed of iron and nickel 
+X) It is highly viscous and ductile 
+Y) Its temperature is greater than 4000 degrees Celsius  
+Z) It is the source of Earth’s magnetic field 
+x OR it is highly viscous and ductile 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+The Himalayas are the result of the collision between which two tectonic plates? 
+indian and eurasian 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is an example of a covalent bond or bonds? 
+W) The bond between two adjacent amino acids in a polypeptide chain 
+X) The bond between a tRNA anticodon and an mRNA codon 
+Y) The bonds between the large subunit and the small subunit of the ribosome [RY-buh-sohm] 
+Z) The bonds between the small ribosomal subunit and the mRNA 
+w OR the bond between two adjacent amino acids in a polypeptide 
+
+CHAIN 
+BONUS 
+BIOLOGY
+SHORT ANSWER
+An F1 individual plant is heterozygous for each of four traits and is allowed to self-fertilize. The plant produces 128 offspring. How many of the offspring would 
+you expect to have the genotype AaBBccDd [big A little a big B big B little c little c big D 
+little d]? 
+2 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Work W is done to extend a spring beyond its natural length by a small distance x. Assuming a spring constant of 1, which of the following is the magnitude of 
+the maximum force done by the person stretching the spring?    
+W) x 
+X) x/2W 
+Y) 2W/x 
+Z) 2W/x2 
+y OR 2w/x 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a spaceship moving at relativistic speed v appears to be shortened to 4/5 its original length, what is its speed as a fraction of the speed of light, c, in 
+lowest terms? 
+3c/5 or (3/5)c 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following has the lowest freezing point? 
+W) Water 
+X) Chloroform 
+Y) Acetic acid 
+Z) Ethanol 
+z OR ethanol 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Given that the Kb of a particular solvent is 2.53 oC per molal and providing your answer to two decimal places, by how many degrees Celsius would the 
+boiling point of a solution be raised if it contains 3.0 moles of a nonelectrolyte in 6.0 kilograms of 
+solvent? 
+1.27 (accept: 1.26) 
+
+TOSS UP
+EARTH AND
+SPACE SHORT ANSWER
+What protects Earth’s atmosphere from being directly struck by solar wind? 
+earth’s magnetic field (accept: magnetosphere) 
+
+BONUS 
+EARTH AND
+SPACE SHORT ANSWER
+List the three most common gases in dry atmosphere on Earth from highest percentage to least.   
+nitrogen, oxygen, and argon (answers must be in this order) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Find the measure in degrees of the largest angle of a triangle with sides of 24 centimeters, 7 centimeters, and 25 centimeters. 
+90° 
+
+BONUS 
+MATH
+SHORT ANSWER
+Providing your answers as improper fractions in lowest terms, solve  [negative 7 plus the absolute value of the quantity 3 minus 2x equals 
+15] for x.  
+-19/2 and 25/2 
+
+TOSS UP
+ENERGY SHORT ANSWER
+What is the common name of the process by which heavy hydrocarbons are broken down into simpler molecules such as light hydrocarbons? 
+cracking 
+
+BONUS 
+ENERGY SHORT ANSWER
+What is the name for the prediction that an ideal blackbody would emit short wavelength radiation with infinite power? 
+ultraviolet catastrophe (accept: rayleigh-jeans catastrophe) 
+
+TOSS UP
+MATH
+SHORT ANSWER
+How many points of intersection exist for the graphs of y = 2x [y equals 2 to the power of x] and y = -x2 + 2? 
+2 
+
+BONUS 
+MATH
+SHORT ANSWER
+A different universe has nine spatial dimensions. If an object travels four meters in all nine dimensions, then what is the object’s displacement in meters in this 
+universe? 
+12 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What two word phrase describes an electromagnetic wave in which the electric field lies in a single plane along the direction of propagation? 
+linearly polarized 
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+Planets A and B are in circular orbits about the same star. Planet A's orbital radius is three times as large as Planet B's. Which of the following is the ratio 
+of Planet A's orbital period to Planet B's? 
+W)  
+X) /2 
+Y) 33/2 [three to the power of the quantity three over two] 
+Z) 32/3 [three to the power of the quantity two over three] 
+y OR 33/2 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Carbon nanotubes are potentially useful in applications such as nanotechnology, optics, and electronics. What allotrope of carbon makes up these cylinders? 
+fullerene (accept: buckminsterfullerene or buckytube) 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+The wavelength of light emitted from a quantum dot generally depends on what feature of the dot? 
+size (accept: diameter) 
+
+TOSS UP
+EARTH AND SPACE
+MULTIPLE CHOICE
+During the Earth’s equinoxes, which of the following is NOT true? 
+W) Daytime and nighttime are equal in length 
+X) They occur at the perihelion and aphelion of Earth’s orbit 
+Y) They occur during fall and spring 
+Z) The Sun is directly overhead at the equator 
+x OR they occur at the perihelion and aphelion of earth’s orbit 
+
+BONUS 
+EARTH AND SPACE
+MULTIPLE CHOICE
+Which of the following is NOT used as evidence for plate tectonic theory? 
+W) Deposition of glacial dropstones in Australian bedrock 
+X) Elevation and increased heat flow at the Mid-Atlantic Ridge  
+Y) Correlation of fossils between Africa and South America 
+Z) Successively deeper earthquakes at the Peru-Chili trench 
+w OR deposition of glacial dropstones in australian bedrock 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+On a phylogenetic [fy-LOJ-uh-neek] tree, two species are grouped in the same clade. What is represented by the branch point that joins these two 
+species? 
+common ancestor 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+You’re investigating guinea pig coat genetics, and you’ve found an interesting new phenotype: spiral guinea pig fur. If you take a purebred wavy-hair guinea pig 
+and cross it with a purebred kinked-hair guinea pig, you get all spiral-hair progeny. If you mate 
+spiral-hair guinea pigs with each other, the progeny have a phenotypic ratio of 9 spiral: 3 wavy: 
+3 kinked: 1 straight. Which of the following is most likely to be true given your experimental 
+results? 
+W) There are two different genes that result in the wavy and kinked phenotypes, and there is an 
+epistatic interaction between them  
+X) There are two different genes that result in the wavy and kinked phenotypes, and they are 
+linked  
+Y) There are two different genes that result in the wavy and kinked phenotypes, and they are 
+independently assorting 
+Z) There is only one gene with a number of different alleles 
+y OR there are two different genes that result in the wavy and 
+
+KINKED PHENOTYPES, AND THEY ARE INDEPENDENTLY ASSORTING 
