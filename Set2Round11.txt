@@ -1,0 +1,412 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+In their studies of trans-uranium elements and crystallization studies of barium, Hahn and Meitner discovered what process? 
+fission OR nuclear fission
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming g = -32 feet/sec2 and friction is negligible, if a coffee bean is thrown upward from the top of a building with a vertical velocity of +32 ft/sec, what will its velocity be in ft/sec after 3 seconds? Do not include units 
+-64 OR 64 down
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Afferent neuron is to sensory neuron as efferent neuron is to: 
+motor neuron 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is most accurate about the pasteurization of milk: 
+W)  it heats milk to the boiling point for about 1minute 
+X)  it kills all bacteria by passing steam through the milk 
+Y)  it kills most of the germs in the milk by moderate heating 
+Z)  it kills all the bacteria but not the viruses in the milk 
+y OR it kills most of the germs in the milk by moderate heating 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Hydrocarbons that contain a carbon-carbon double bond are generally know as what: 
+alkenes OR olefins
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+If you have 1 milliliter of a 75% ethanol stock solution, how much water, in milliliters, must be added to the 1 milliliter stock solution to obtain a 25% ethanol solution? 
+2 OR 2 ml OR 2 milliliters
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+The total amount of energy of a star’s surface radiated into space each second  is most commonly referred to as what? 
+absolute luminosity OR luminosity OR intrinsic brightness OR absolute brightness 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+If you could shrink the Earth to a quarter its present diameter while maintaining its mass, by what factor would the escape velocity change? 
+W)  the escape velocity would be doubled 
+X)  the escape velocity would be four times larger 
+Y)  the escape velocity would remain unchanged 
+Z)  the escape velocity would  be reduced by half 
+w OR the escape velocity would be doubled 
+
+TOSS UP
+MATH
+SHORT ANSWER
+What is the term for the part of the secant contained between the points of intersection on a curve? 
+chord 
+
+BONUS 
+MATH
+SHORT ANSWER
+Find the solution set of the following inequality: x^2 – x – 2 <= 0 
+-1 <= x <= 2 OR -1<=x<=2 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+The Hawaiian Islands originated from magma: 
+W)  intruding along the boundary between two lithospheric plates 
+X)  formed within an island arc 
+Y)  injected along a mid-ocean fracture zone 
+Z)  coming from a hotspot within the mantle 
+z OR coming from a hotspot within the mantle 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is classified as a silicate mineral: 
+W)  gypsum 
+X)  malachite 
+Y)  halite 
+Z)  quartz 
+z OR quartz 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A severe and chronic deficiency in what vitamin causes the disease known as pellagra: 
+W)  vitamin C 
+X)  vitamin D 
+Y)  niacin 
+Z)  thiamine 
+y OR niacin 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+What tree in the North-Central to Northeast US has heart-shaped leaves and a light-colored wood which is prized by wood carvers 
+W)  pin oak 
+X)  cottonwood 
+Y)  American sycamore 
+Z)  basswood 
+z OR basswood 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+This distributed information system was prevalent in the years before the World Wide Web: 
+W)  Gopher 
+X)  SSL 
+Y)  LINUX 
+Z)  Fox 
+w OR gopher 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Dynamic RAM is called such because: 
+W)  the value it holds can be dynamically changed at any time 
+X)  the address space the RAM refers to can be dynamically changed 
+Y)  the value it holds must be dynamically refreshed every few milliseconds 
+Z)  the value it holds must be dynamically refreshed once a session 
+y OR the value it holds must be dynamically refreshed every few milliseconds
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following exhibits the least resistivity at 20°C: 
+W)  gold  
+X)  tungsten 
+Y)  iron 
+Z)  copper 
+z OR copper 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If a violin string is 0.5 meters long and has a mass of 3.0 grams, what tension, in Newtons, must be on the string to give a wave velocity of 14.14 meters per second? 
+1.2 OR 1.2 newtons OR 1.2 n 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+The coronal suture is found between what two bones? 
+parietal and frontal OR parietal, frontal OR frontal and parietal OR frontal, parietal 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following infectious agents is NOT properly matched with its disease: 
+W)  Trichophyton and ringworm 
+X)  Hepatitis A and serum hepatitis 
+Y)  Rubella and German measles 
+Z)  Epstein Barr and infectious mononucleosis 
+x OR hepatitis a and serum hepatitis 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Polystyrene is produced by which of the following reactions: 
+W)  free radical vinyl polymerization from the monomer styrene 
+X)  metalocene catalysis polymerization  
+Y)  graft copolymerization 
+Z)  butadiene polymerization  
+w OR free radical vinyl polymerization from the monomer styrene
+ 
+BONUS 
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following molecular shapes would you expect from O3: 
+W)  bent 
+X)  trigonal planar  
+Y)  linear 
+Z)  see-saw 
+w OR bent 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+When a one solar mass star becomes a red giant for the first time, its energy comes mainly from the fusion of helium forming into what final element? 
+carbon 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following distance-measuring techniques measures the farthest: 
+W)  radar ranging 
+X)  stellar parallax 
+Y)  variable stars 
+Z)  standard candle/Tully-Fisher relation 
+z OR standard candle/tully-fisher relation 
+
+TOSS UP
+MATH
+MULTIPLE CHOICE
+In a normal distribution, a mean of a sample population, plus or minus 1 standard deviation, includes what percentage of the sample: 
+W)  16% 
+X)  32% 
+Y)  68% 
+Z)  95% 
+y OR 68% 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the 13th term in the following arithmetic progression: 2, 7, 12… 
+62 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+When two halves of a crystal aggregate are mirror images of each other and joined together in some definite, shared crystallographic orientation, such crystals 
+are referred to as being:  
+W)  polymorphs 
+X)  symmetrical 
+Y)  twinned  
+Z)  anhedral 
+y OR twinned 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is FALSE about the Coriolis Effect: 
+W)  it is an apparent force due to the precession of the Earth   
+X)  it is an apparent force due to the rotation of the Earth 
+Y)  it causes winds in the Northern Hemisphere to be deflected to the right 
+Z)  it causes winds in the Southern Hemisphere to be deflected to the left 
+w OR it is an apparent force due to the precession of the earth 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+A wave with a wavelength of 40 meters and a height of 2 meters, will NOT be refracted in water with a depth of more than: 
+W)  1 meter 
+X)  2 meters 
+Y)  10 meters 
+Z)  20 meters 
+z OR 20 meters 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The mass of a new 2002 USA quarter is about how many grams: 
+W)  3.0 
+X)  4.5 
+Y)  5.5 
+Z)  7.0 
+y OR 5.5 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which printer uses bits of plastic that effectively are melted onto the surface of the paper: 
+W)  thermal 
+X)  ink jet 
+Y)  laser 
+Z)  dot matrix 
+y OR laser 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following is true for a binary tree but not for a regular tree: 
+W)  it stores only zeros and ones 
+X)  each parent node has no more than two children 
+Y)  its branches are ordered 
+Z)  nodes without children are called leaves 
+x OR each parent node has no more than two children 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Red light has a wavelength of: 
+W)  300-350 nanometers 
+X)  450-500 nanometers 
+Y)  550-600 nanometers 
+Z)  650-700 nanometers 
+z OR 650-700 nanometers 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Bose-Einstein condensates were initially created by using elements from what specific part of the periodic table: 
+group 1 OR alkali metals OR alkali
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+From what vitamin is NAD derived? 
+niacin 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Penicillium notatum is to penicillin as Bacillus subtilis is to: 
+bacitracin 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following radioactive isotopes emits alpha particles: 
+W)  hydrogen-3 
+X)  cobalt-60 
+Y)  carbon-14 
+Z)  radium-226 
+z OR radium-226 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the molecular formula for the conjugate acid of the following Brønsted-Lowry base:  HCO3– 
+h2co3 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+In North America, what is typically the most spectacular meteor shower in the month of August? 
+perseids 
+
+BONUS 
+ASTRONOMY
+MULTIPLE CHOICE
+A bolometer is used to: 
+W)  measure the energy output of the Sun 
+X)  measure the length of a bowling alley 
+Y)  measure the size of celestial bodies 
+Z)  standardize the azimuth of a sextant 
+w OR measure the energy output of the sun 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+As the intensity of metamorphism increases, which of the following transformations occurs: 
+W)  granite to slate 
+X)  schist to slate 
+Y)  gneiss to quartzite 
+Z)  limestone to marble 
+z OR limestone to marble 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+In which of the following latitudes would you expect belts of high pressure to typically develop: 
+W)  30° North  
+X)  0° 
+Y)  50° North  
+Z)  60° South 
+w OR 30° north 
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following is classified as a water- insoluble fiber: 
+W)  algal polysaccharides 
+X)  pectin 
+Y)  lignin 
+Z)  gums 
+y OR lignin 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Methods that cause hair to have curls usually rely on manipulating disulfide bonds in what amino acid? 
+cystine 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+The line spectra of low density gases is usually produced by the emission or absorption of light by: 
+W)  molecules 
+X)  crystals 
+Y)  crystal lattices 
+Z)  individual atoms 
+z OR individual atoms 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What was the last name of the father and son team that developed the theory and technique of X-ray diffraction by crystals? 
+bragg 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Avery and Macleod attributed the transforming principle to what substance?  
+dna 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What other vitamin acts like an antagonist and has the most similar structure to vitamin K? 
+vitamin e 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Reaction with a copper compound is a qualitative test for which functional group: 
+W)  alcohol 
+X)  aldehyde 
+Y)  ketone 
+Z)  carboxylic acid 
+x OR aldehyde 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Name the two elements that have atomic numbers less than that of lead that have no stable isotopes: 
+technetium and promethium OR technetiu, promethium OR tc and pm OR tc, pm

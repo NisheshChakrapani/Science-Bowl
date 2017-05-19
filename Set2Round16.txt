@@ -1,0 +1,327 @@
+﻿TOSS UP
+BIOLOGY
+SHORT ANSWER
+In what part of the chloroplast is carbon fixed during the Calvin cycle? 
+stroma 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+Assuming average size, order the following from the smallest to the largest:  red blood cell,  Polio virus,  Rickettsia,  Anthrax bacillus 
+polio virus, rickettsia, anthrax bacillus, red blood cell 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+Which of the following four molecules can have both right- handed and left-handed forms: 
+W)  2-chloro-2-bromobutane 
+X)  1-chloro-2-bromoethene 
+Y)  trichloromethane 
+Z)  glycerol 
+w OR 2-chloro-2-bromobutane 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+The reaction of 2 chemical substances to make a product that has a standard enthalpy of reaction, or ∆H°, (read as: delta H naught) of -200 kilojoules.  If the reaction is carried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is the total energy change, ∆E, (read as: delta E) in kilojoules, of the system, to the nearest whole number. Do not include units. 
+-191 OR -192
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What general theory of science, begun by Max Planck, allows scientists to quantitatively understand the behavior of atoms, subatomic particles, phases of matter, and semiconductors: 
+quantum theory 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Assuming g = 9.8 m/s2 and negligible air resistance, how far, in meters rounded to the first decimal place, would an object travel after 2 seconds if thrown down vertically, with an initial velocity of 4 m/sec from a 100 meter tower? 
+27.6 meters OR 27.6 m OR 27.6
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is the most likely reason that the Pleiades stars were all formed together: 
+W)  they are all the same size, luminosity, and spectral class 
+X)  they all orbit a common larger neutron star 
+Y)  they are in the region of a black hole 
+Z)  they are all concentrated in a small region 
+z OR they are all concentrated in a small region 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Compute the estimated temperature, in Kelvin, of a stellar body’s surface that emits light with a spectrum that peaks at 145 nanometers: 
+20000 OR 20000 K OR 20000 kelvin
+ 
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+In the soil profile, which horizon is know as the zone of accumulation: 
+W)  A-horizon 
+X)  B-horizon 
+Y)  O-horizon 
+Z)  E-horizon 
+x OR b-horizon 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+The doldrums are to 0° latitude, as the horse latitudes are to what? Type as "<number> degrees latitude"
+30 degrees latitude
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+What is the term for the distance, usually given in millimeters, between the optical center of a lens and the point at which rays of light from objects at infinity are brought to focus: 
+focal length 
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+In the single-lens reflex camera, which of the following is TRUE of focal length of a lens as it pertains to angle of view: 
+W)  the longer the focal length, the narrower its angle of view will be 
+X)  the shorter the focal length, the narrower its angle of view will be 
+Y)  the longer the focal length, the wider its angle of view will be 
+Z)  the focal length of a lens does not affect the angle of view 
+w OR the longer the focal length, the narrower its angle of view will be
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+The ability to create a table in Microsoft Word and embed it into a section of a spreadsheet created in Excel, is an example of: 
+W)  OpenGL 
+X)  database indexing 
+Y)  OLE 
+Z)  Direct 3D 
+y OR ole 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What does the acronym OLE stand for? 
+object linking and embedding 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Animal cell is to gap junction as plant cell is to: 
+plasmodesmeta 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+In the double reciprocal Lineweaver-Burke plot of enzyme activity, the line passes through the ordinate, or the one over V zero, axis at: 
+W)  -1/Vmax   (read as: minus one over VEE-max) 
+X)  Km/Vmax   (read as: Kay M over VEE-max) 
+Y)  Km/V0   (read as: Kay M over VEE-zero) 
+Z)  1/ Vmax   (read as: one over VEE-max) 
+z OR 1/ vmax 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+A 2s orbital has 2 regions of maximum probability where electrons can be found separated by a spherical surface of 0 probability that is called what? 
+node OR nodal surface 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+A tank contains the following mixture of gases: 14grams diatomic H2, 56 grams diatomic N2, and  8 grams diatomic He2.  To the first decimal place, what is the mole fraction of each gas in the mixture? Type as "h2 = <x>, n2 = <x>, he2 = <x>"
+h2 = 0.7, n2 = 0.2, he2 = 0.1
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following is TRUE concerning objects moving down an inclined plane: 
+W)  a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either disk 
+X)  a hollow disk will roll faster than a solid disk regardless of the mass or outer diameter of either disk 
+Y) regardless of the mass or outer diameter of either disk, a solid disk will roll at the same rate as a hollow cylinder  
+Z)  a solid disk will roll slower than a hollow disk of twice the mass and outer diameter of the solid disk 
+w OR a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either disk
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Which two elements did Chadwick primarily produce when he bombarded N-14 with alpha particles in the first artificial transmutation of atoms? 
+oxygen and hydrogen OR oxygen, hydrogen OR hydrogen and oxygen OR hydrogen, oxygen OR o and h OR o, h OR h and o OR h, o
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+What are probably the only particles emitted by stellar cores without being influenced appreciably by the outermost layers of the stars, and are detected by an instrument in the Homestake gold mine? 
+neutrinos 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+In the solar neutrino detector in Lead, South Dakota, when a neutrino emitted in positron decay in the sun is captured by a Chlorine-37 nucleus, what isotope is most likely formed? 
+argon-37 OR argon 37 OR ar-37 OR ar 37
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+In geologic mapping, the angular difference between dip and strike is: 
+W)  45° 
+X)  90° 
+Y)  180° 
+Z)  360° 
+x OR 90° 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+What is the name given to the urban microclimate whereby a region around a city remains up to several degrees warmer than the surrounding countryside, especially on warm, still summer nights? 
+heat island OR heat island effect OR urban heat island OR urban heat island effect OR urban heat zone
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+During his work in 1892 on the liquefaction of hydrogen, what Scottish chemist invented a double-walled vacuum flask which became widely known and named in his honor? 
+sir james dewar OR dewar
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Order the following metals in terms of their electrical conductivities from the highest to the lowest:  gold;  silver;  copper;  aluminum 
+silver, copper, gold, aluminum 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In Java, when a class implements an interface it: 
+W)  may or may not choose to implement the methods defined in the interface     
+X)  cannot implement any methods with the same signature as those defined in the interface        
+Y)  must implement all the methods defined in the interface 
+Z)  designates the user language in the interface 
+y OR must implement all the methods defined in the interface 
+
+BONUS 
+COMPUTER SCIENCE
+SHORT ANSWER
+What does the acronym DBCS, a language script that requires two bytes to represent a character, stand for? 
+double-byte character sets 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+In the equation for Gibbs free energy, if ∆H (read as: delta H) is positive and ∆S (read as: delta S) is negative, then the reaction will occur: 
+W)  spontaneously at all temperatures 
+X)  nonspontaneously at all temperatures 
+Y)  spontaneously only at high temperatures 
+Z)  spontaneously only at low temperatures 
+x OR nonspontaneously at all temperatures 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Order the following 4 monosaccharides from the smallest to the largest:  erythrose,  glucose,  dihydroxyacetone,  xylose 
+dihydroxyacetone, erythrose, xylose, glucose 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which law most directly states that a black body is a perfect source of thermal radiation: 
+W)  Carnot’s law 
+X)  Kirchoff’s law 
+Y)  Planck’s law 
+Z)  Dirac’s law 
+x OR kirchoff’s law 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+What are the electric charge values for up, down, and strange quarks, respectively? 
+2/3, –1/3, –1/3 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following planets cannot come into quadrature with Earth: 
+W)  Mars 
+X)  Saturn 
+Y)  Uranus 
+Z)  Venus 
+z OR venus 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+Order the following planets from the one with the least number of known moons to the one with the most:  Saturn,  Neptune,  Mars,  Uranus 
+mars, neptune, uranus, saturn 
+
+TOSS UP
+MATH
+SHORT ANSWER
+Assume A and B are the subsets of the universal set that contains 100 elements.  If the number of elements in set A is 75, and the number of elements in set B is 25, and the number of elements in the intersection set of A and B equals 10, then how many elements are in the union set of A and B? 
+90 
+
+BONUS 
+MATH
+SHORT ANSWER
+Differentiate: (17x^18)(ln(x))
+(306x^17)(ln(x)) + (17x^17)
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+At present estimates, the Earth’s planetary albedo is estimated to be: 
+W)  30% 
+X)  40% 
+Y)  50% 
+Z)  60% 
+w OR 30% 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+The branch of geology that deals with the study of the origin, composition, distribution, and ordering of layered sedimentary rocks is called what? 
+stratigraphy 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+In a non-oligometric protein, reversible denaturation changes which of the following levels of protein structure: 
+W)  primary 
+X)  amino acid sequence 
+Y)  tertiary 
+Z)  quaternary  
+y OR tertiary 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following structures is NOT properly matched with its function: 
+W)  synovial lining and joint movement 
+X)  corpus luteum and estrogen secretion 
+Y)  chordae tendonae and connection of bones to muscles 
+Z)  intercalated disks and cardiac muscle 
+y OR chordae tendonae and connection of bones to muscles 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+A molecule that has a trigonal bipyramidal molecular geometry will have how many charge clouds around its central atom: 
+W)  4 
+X)  5 
+Y)  6 
+Z)  8 
+x OR 5 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move the least remaining at the origin?  arginine,  glutamic acid,  glycine, alanine, lysine? 
+glycine, alanine OR glycine and alanine OR alanine, glycine OR glycine and alanine
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What is the most common name for interactions of high-energy photons and atoms that create electrons and positrons, thus providing an example of the conversion of energy to matter? 
+pair production 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Rounded to the nearest whole number in kilometers per hour, what is the net ground-speed of a bird flying at 30 kilometers per hour east with a southerly crosswind of 10 kilometers per hour? Do not include units 
+32

@@ -1,0 +1,386 @@
+﻿TOSS UP
+PHYSICS
+SHORT ANSWER
+For two sound sources heard simultaneously, one of which vibrates at 444 hertz and the other vibrates at 456 hertz, what is the beat frequency in beats per second? Do not include units.
+12
+
+BONUS 
+PHYSICS
+MULTIPLE CHOICE
+In the 1950’s, the Oak Ridge National Laboratory made a significant impact on medical treatment and diagnosis by providing which of the following to researchers and clinicians: 
+W)  x-ray machines 
+X)  power sources for pace makers 
+Y)  radioisotopes  
+Z)  large amounts of technetium  
+y OR radioisotopes 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+In microbiology, a standard method of obtaining a pure culture is: 
+W)  centrifugation 
+X)  streak plate 
+Y)  stab culture 
+Z)  liquid fermantation 
+x OR streak plate 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following best describes REM sleep: 
+W)  active dreaming with desynchronized EEG 
+X)  atonia with deep sleep 
+Y)  deep sleep with atonia and active dreaming 
+Z)  deep sleep with active dreaming 
+w OR active dreaming with desynchronized eeg 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Using standard chemical nomenclature, what is the chemical formula  for perchloric acid? 
+hclo4 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Which element is used in scientific research as a cooling agent for extremely low-temperature studies because at 4.2 K, it has the lowest boiling point of any known substance? 
+helium OR liquid helium OR he 
+
+TOSS UP
+ASTRONOMY
+SHORT ANSWER
+A circle with a dot in the center is most commonly the astronomer’s symbol for what?  
+sun 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+What is the name for the constellation with the brightest star? 
+canis major OR the big dog
+
+TOSS UP
+MATH
+SHORT ANSWER
+Convert to both radians and degrees the angle that equals one-half of 3pi/4 radians. Type as "<radians>, <degrees>". Do not include units.
+3pi/8, 67.5 
+
+BONUS 
+MATH
+SHORT ANSWER
+A merchant wants to mix 2 types of sugar that sell for $0.40 per gram and $0.60 per gram, respectively.  If he wants a mixture of 5 grams that sells for $0.58 per gram, how many grams of each should he mix? Type as "<number> grams of 0.40, <number> grams of 0.60" 
+0.5 grams of $0.40, 4.5 grams of $0.60 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Approximately what percent of the water in the hydrosphere is groundwater: 
+W)  10 
+X)  5 
+Y)  2.5 
+Z)  less than 1 
+z OR less than 1 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+What is the term for a tidally generated wave that propagates up a relatively shallow and sloping estuary or river in a solitary wave form, the leading edge of which presents an abrupt rise in level? 
+tidal bore OR bore
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+The development of this is usually considered by anthropologists and sociologists the main prerequisite for an advanced social, economic and political 
+structure: 
+W)  art 
+X)  technology 
+Y)  monetary system 
+Z)  agriculture 
+z OR agriculture 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+What term derived from the Greek word for “shortcoming” generally means an apparent lag in effect behind what is causing it? 
+hysteresis 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+In the Windows environment, which of the following file extensions represents a hidden file to replace pages or segments of data in memory: 
+W)  .dll  
+X)  .swp  
+Y)  .exe 
+Z)  .ini 
+x OR .swp 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+Which of the following best represents the data transmission speed of a USB port: 
+W)  128 kilobits per second 
+X)  480 megabits per second  
+Y)  650 megabits per second 
+Z)  12 megabits per second 
+x OR 480 megabits per second 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+As exemplified in beta decay, as an atom’s atomic mass increases, more of these particles are needed to maintain nuclear stability: 
+neutrons 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+If C is capacitance, Q is charge, and V is voltage across the capacitor, what mathematical formula is the most direct representation of the capacitance of a parallel plate capacitor:  
+c = q/v 
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+What specific physical state does Bacillus anthracis form that allows it to survive in an exposed environment for decades?   
+spore OR endospore
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+In apoptosis, what is programmed into the cell: 
+death OR cell death
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+A trigonal planar arrangement of electronic orbitals around an atom in a molecule most generally implies what type of hybridization: 
+W)  sp 
+X)  sp2 
+Y)  sp3 
+Z)  sp3d 
+x OR sp2 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What is the general term for the process in which a crystalline hydrated solid loses water of crystallization to the air, whereby a powdery deposit is gradually formed: 
+efflorescence 
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is believed to be the most likely composition of cosmic dust: 
+W)  carbonaceous, silicate or iron-bearing materials with some frozen gases 
+X)  hydrogen, helium and lithium crystals 
+Y)  thorium, uranium and lead particles from dead stars 
+Z)  pure ice crystals with small amounts of ionized hydrogen 
+w OR carbonaceous, silicate or iron-bearing materials with 
+
+SOME FROZEN GASES 
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+The precise measurements of Wilson and Penzias of cosmic background radiation was in what region of the electromagnetic spectrum? 
+microwave OR 7.35 cm
+
+TOSS UP
+MATH
+SHORT ANSWER
+The sine of θ (theta) is positive if the angle terminates in what two Quadrants of the Cartesian coordinate system? 
+i and ii OR i, ii OR 1 and 2 OR 1, 2 
+
+BONUS 
+MATH
+SHORT ANSWER
+What is the slope of a line that passes through the points (5, 3) and (-1, 1)? 
+1/3 
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+About how many years ago is it thought that the dominant ice-age cycle changed from 40,000 year periods to 100,000 year intervals with very large fluctuation: 
+W)  200,000 – 400,000 
+X)  600,000 – 800,000 
+Y)  2 million – 2.5 million 
+Z)  4 million – 4.5 million  
+x OR 600,000 – 800,000 
+
+BONUS 
+EARTH SCIENCE
+MULTIPLE CHOICE
+Which of the following is known to have created one of the largest tsunamis, also known as a mega-tsunami: 
+W)  subterranean earthquakes 
+X)  suboceanic earthquakes 
+Y)  landslides 
+Z)  volcanic eruptions 
+y OR landslides 
+
+TOSS UP
+GENERAL SCIENCE
+SHORT ANSWER
+Which scientist and scholar is well known for such terms as “transcendental function”, “archetypes” and “collective unconscious”? 
+carl jung OR jung
+
+BONUS 
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which famous primatologist, a protégé of Louis Leaky, dedicated her life to research of gorillas and was most likely murdered by poachers in 1985: 
+W)  Jane Goodall 
+X)  Shirley Sparling  
+Y)  Margaret Mead 
+Z)  Dian Fossey 
+z OR dian fossey 
+
+TOSS UP
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+What kind of viruses modify their appearance and change their program code periodically: 
+W)  multipartite 
+X)  non-resident file 
+Y)  stealth 
+Z)  polymorphic 
+z OR polymorphic 
+
+BONUS 
+COMPUTER SCIENCE
+MULTIPLE CHOICE
+When working optimally, which broadband connection to the internet provides the fastest download speeds: 
+W)  cable 
+X)  DSL 
+Y)  wireless satellite 
+Z)  MMDS 
+z OR mmds 
+
+TOSS UP
+PHYSICS
+MULTIPLE CHOICE
+Which of the following colors of light has the SMALLEST angle of refraction in normal glass: 
+W)  violet 
+X)  green 
+Y)  orange 
+Z)  red 
+z OR red 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+At 10 cents per kilowatt hour, how much does it cost to run a 1200 watt heater for 4 hours? 
+48 cents 
+
+TOSS UP
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following classes of antibodies will predominate upon a second exposure to an antigen: 
+W)  IgG 
+X)  IgE 
+Y)  IgA  
+Z)  IgN 
+w OR igg 
+
+BONUS 
+BIOLOGY
+SHORT ANSWER
+What two monosaccharides make up the disaccharide sucrose? 
+fructose and glucose OR fructose, glucose OR glucose and fructose OR glucose, fructose 
+
+TOSS UP
+CHEMISTRY
+SHORT ANSWER
+Which of the gas laws specifically states that the volume of a fixed amount of gas at a constant pressure varies directly with its absolute temperature? 
+charles' law OR charles' OR charles law OR charles law
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+What common product is made by taking water that is filtered through hardwood ashes, evaporating it in iron pots, mixing what remains with tallow, and allowing it to cure for a few weeks: 
+soap
+
+TOSS UP
+ASTRONOMY
+MULTIPLE CHOICE
+The angular distance of a star east of the Prime Meridian is most commonly referred to as the star’s: 
+W)  deviation  
+X)  gnomon angle 
+Y)  zenith point 
+Z)  right ascension  
+z OR right ascension 
+
+BONUS 
+ASTRONOMY
+SHORT ANSWER
+The nominal galactic center lies on the galactic plane in the direction of what constellation? 
+sagittarius OR the archer
+
+TOSS UP
+EARTH SCIENCE
+MULTIPLE CHOICE
+Neglecting any amplification effects that might be produced by shoreline irregularities, what is the tallest wave-height that can reasonably be created by 
+an earthquake-generated tsunami: 
+W)  3 meters 
+X)  15 meters 
+Y)  75 meters 
+Z)  150 meters 
+x OR 15 meters 
+
+BONUS 
+EARTH SCIENCE
+SHORT ANSWER
+Launched by NASA in December of 1999 as part of the EOS Terra payload, what is the name of the instrument which provides high radiometric sensitivity that can study atmospheric, land, and ocean imaging in a single instrument that can also be custom tailored to the individual needs of the user: 
+modis OR moderate-resolution imaging spectroradiometer
+
+TOSS UP
+GENERAL SCIENCE
+MULTIPLE CHOICE
+Which of the following best describes how well a balance can repeatedly indicate the same mass over a series of identical weighings under similar environmental conditions: 
+W)  precision 
+X)  accuracy 
+Y)  linearity 
+Z)  readability 
+w OR precision 
+
+BONUS 
+GENERAL SCIENCE
+SHORT ANSWER
+Which genus of bacteria has been found to be the most successful at restoring the intestinal flora and relieving the symptoms of irritable bowel syndrome? 
+lactobacillus 
+
+TOSS UP
+PHYSICS
+SHORT ANSWER
+What was the name eventually given to the particles that make up cathode rays? 
+electrons 
+
+BONUS 
+PHYSICS
+SHORT ANSWER
+Neglecting friction, what is the net force required, in Newtons, to accelerate a 500 Kg object at 3 m/sec2 in a horizontal direction: 
+1500 newtons OR 1500 OR 1500 n
+
+TOSS UP
+BIOLOGY
+SHORT ANSWER
+Seventy percent of the platelets released from the bone marrow are in the peripheral circulation. Where are most of the rest stored? 
+spleen 
+
+BONUS 
+BIOLOGY
+MULTIPLE CHOICE
+Which of the following is a naturally occurring amino acid that is NOT found in proteins? 
+W)  asparagine 
+X)  phenylalanine 
+Y)  citrulline 
+Z)  threonine 
+y OR citrulline 
+
+TOSS UP
+CHEMISTRY
+MULTIPLE CHOICE
+When bonded together, which of the following pairs has the highest average bond dissociation energy: 
+W)  H and Br  
+X)  H and F   
+Y)  C and Br   
+Z)  N and Cl  
+x OR h and f 
+
+BONUS 
+CHEMISTRY
+SHORT ANSWER
+Using standard chemical nomenclature, what is the chemical formula  for phosphine? 
+ph3 
