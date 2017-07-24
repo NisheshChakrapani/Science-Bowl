@@ -1,8 +1,7 @@
-TOSS UP
+﻿TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Which of the following is the form of highly condensed chromatin that is not transcribable in its present form and typical of the type of chromatin visible in the light 
-microscope when the cell is in interphase: 
+Which of the following is the form of highly condensed chromatin that is not transcribable in its present form and typical of the type of chromatin visible in the light microscope when the cell is in interphase: 
 W)  Z DNA 
 X)  euchromatin 
 Y)  heterochromatin 
@@ -23,7 +22,7 @@ TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What type of magnetism exists in substances in which electrons are unpaired and are very weakly attracted by magnetic fields? 
-paramagnetism (accept: paramagnetic) 
+paramagnetism OR paramagnetic
 
 BONUS 
 CHEMISTRY
@@ -39,7 +38,7 @@ TOSS UP
 PHYSICS
 MULTIPLE CHOICE
 What percent of energy in our Universe is believed to consist of dark matter and normal matter: 
-W)   4.4% 
+W)  4.4% 
 X)  16% 
 Y)  27% 
 Z)  73% 
@@ -49,22 +48,20 @@ BONUS
 PHYSICS
 SHORT ANSWER
 Order the following 4 substances from the one with the LOWEST dielectric constant to the HIGHEST at 20ºC:  mica;  paraffin;  vacuum;  pure water 
-vacuum; paraffin; mica; pure water 
+vacuum, paraffin, mica, pure water 
 
 TOSS UP
 MATH
 SHORT ANSWER
-Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x < 360º:  2 sin  x – 1 = 0 
-30º and 150º 
+Solve the following trigonometric equation for x, giving your answer in degrees such that 0º ≤ x < 360º:  2 sin  x – 1 = 0. Type as "x = <ans1> and <ans2>".
+x = 30 and 150 OR x = 150 and 30
 
 BONUS 
 MATH
 SHORT ANSWER
-Solve the following logarithmic equation in base 10 for x over the real numbers:  
-log (2x – 1) = log (x + 2) + log (x – 2) 
-3 (do not accept 3 and –1) 
+Solve the following logarithmic equation in base 10 for x over the real numbers:  log (2x – 1) = log (x + 2) + log (x – 2) 
+3 OR x = 3
 
-real number system) 
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
@@ -78,8 +75,7 @@ x OR competency
 BONUS 
 EARTH SCIENCE
 MULTIPLE CHOICE
-A ship accidentally loses a cargo of floating rubber balls off the East coast of Japan.  If they follow the prevailing currents, in which of the following 
-locations will most of them likely FIRST wash on shore: 
+A ship accidentally loses a cargo of floating rubber balls off the East coast of Japan.  If they follow the prevailing currents, in which of the following locations will most of them likely FIRST wash on shore: 
 W)  the western coast of North America 
 X)  the eastern coast of Australia 
 Y)  the western coast of Australia 
@@ -114,21 +110,18 @@ W)  magnetic fields can be strongly amplified when 2 neutron stars merge
 X)  Saturn’s moon Titan has been found to have large dunes 
 Y)  hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites 
 Z)  interplanetary dust particles are typically nitrogen-rich and carbon-poor  
-z OR interplanetary dust particles are typically nitrogen-rich 
+z OR interplanetary dust particles are typically nitrogen-rich and carbon-poor
 
-AND CARBON-POOR 
 BONUS 
 ASTRONOMY
 MULTIPLE CHOICE
 Which of the following is LEAST accurate: 
-W)  the imaginary north-south line that passes through the zenith on the celestial sphere is the 
-meridian 
+W)  the imaginary north-south line that passes through the zenith on the celestial sphere is the meridian 
 X)  Kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars 
 Y)  Population TWO stars are composed mostly of hydrogen and helium 
 Z)  a negative sign indicates the celestial coordinate is in the southern hemisphere 
-x ORkirkwood gaps are gaps in the main asteroid belt caused by 
+x OR kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars
 
-THE GRAVITATIONAL EFFECTS OF MARS 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -142,9 +135,8 @@ w OR reverse transcriptase
 BONUS 
 BIOLOGY
 SHORT ANSWER
-Name all of the following 5 products that are NOT produced by the adult human liver:  clotting factors;  glycogen;  erythropoietin;  bile;  corticotropin (read as: core-
-tick-oh-TRO-pin) 
-erythropoietin and corticotropin 
+Name all of the following 5 products that are NOT produced by the adult human liver:  clotting factors;  glycogen;  erythropoietin;  bile;  corticotropin (read as: core-tick-oh-TRO-pin) 
+erythropoietin, corticotropin 
 
 TOSS UP
 CHEMISTRY
@@ -170,7 +162,7 @@ TOSS UP
 PHYSICS
 SHORT ANSWER
 Giving your answer in hertz, what is the lowest frequency possible for a string that is 90-centimeters long and whose wave speed is 360 meters per second? 
-200 
+200 OR 200 hz OR 200 hertz
 
 BONUS 
 PHYSICS
@@ -183,22 +175,6 @@ Z)  95%
 z OR 95% 
 
 TOSS UP
-MATH
-SHORT ANSWER
-Simplify the following radical expression, giving your answer in standard bi form:
-49
-144!  
-i 
-
-7
-12  
-BONUS 
-MATH
-SHORT ANSWER
-Multiply the following complex numbers, giving your answer in standard form:  (2 + i 2 )(3 –  i 2 ) 
-8 + 2 i (accept: 8 + i 2 ) 
-
-TOSS UP
 ASTRONOMY
 MULTIPLE CHOICE
 Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission: 
@@ -209,8 +185,9 @@ Z)  Spitzer infrared spectrograph
 z OR spitzer infrared spectrograph 
 
 BONUS 
-12)  ASTRONOMY  Multiple choice  By what multiple does the brightness of two stars differ with 
-apparent magnitudes of –3 and +4:  
+ASTRONOMY
+MULTIPLE CHOICE
+By what multiple does the brightness of two stars differ with apparent magnitudes of –3 and +4:  
 W)  2.5 
 X)  25   
 Y)  250 
@@ -241,7 +218,7 @@ TOSS UP
 ASTRONOMY
 SHORT ANSWER
 If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy?  
-16 (accept: 24) 
+16 OR 16x OR 16 x OR 16 times OR 24 OR 24x OR 24 x OR 24 times 
 
 BONUS 
 ASTRONOMY
@@ -292,8 +269,7 @@ z OR ki
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-In using a frequency of light that causes the photoelectric effect, which of the following will occur when there is an increase in the intensity of the incident light beam 
-on a metal surface:  
+In using a frequency of light that causes the photoelectric effect, which of the following will occur when there is an increase in the intensity of the incident light beam on a metal surface:  
 W)  the maximum kinetic energy of ejected electrons will increase exponentially 
 X)  the maximum kinetic energy of ejected electrons will increase linearly  
 Y)  it will increase the work function 
@@ -314,13 +290,13 @@ TOSS UP
 MATH
 SHORT ANSWER
 In degrees, what is the least positive angle that is coterminal with 650°? 
-290° 
+290 OR 290 degrees
 
 BONUS 
 MATH
 SHORT ANSWER
 Given the function f(x) = x3 + 3x – k and f(3) = 31, solve for k: 
-5 
+5 OR k = 5
 
 TOSS UP
 EARTH SCIENCE
@@ -340,40 +316,35 @@ W)  from asthenosphere material squeezing through cracks caused by bending in Ea
 X)  from plumes rising rapidly from the boundary between Earth’s core and mantle  
 Y)  at a convergent plate boundary 
 Z)  at a mid-ocean ridge 
-w OR from asthenosphere material squeezing through cracks 
+w OR from asthenosphere material squeezing through cracks caused by bending in Earth's crust
 
-CAUSED BY BENDING IN EARTH’S CRUST 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT true: 
 W)  long-term variation in Earth’s insolation is partially caused by precession 
-X)  there has yet to be any scientifically well-documented case of a human whose immune system 
-has eradicated HIV from their body 
+X)  there has yet to be any scientifically well-documented case of a human whose immune system has eradicated HIV from their body 
 Y)  Candida albicans is a common fungal infective agent in humans 
 Z)  most scientific evidence supports the belief that C3 plants evolved from C4 plants 
-z OR most scientific evidence supports the belief that c3 plants 
-
-EVOLVED FROM C4 PLANTS 
+z OR most scientific evidence supports the belief that c3 plants evolved from c4 plants
+ 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-By number or name, identify all of the following blood measures that would suggest a woman is deficient in iron:  1) low hematocrit;  2) larger than average 
-size of erythrocytes;  3) high levels of TSH;  4) increased transferrin level 
-1 and 4 (accept: 1 - low hematocrit; 4 - increased transferrin 
-
-LEVEL 
+By number or name, identify all of the following blood measures that would suggest a woman is deficient in iron:  1) low hematocrit;  2) larger than average size of erythrocytes;  3) high levels of TSH;  4) increased transferrin level 
+1 and 4 OR 1, 4 OR 4 and 1 
+ 
 TOSS UP
 ASTRONOMY
 SHORT ANSWER
 Name all of the following 4 objects that would NOT be found on Earth:  meteors;  craters;  asteroid impact remnants;  bolides 
-meteors; bolides 
+meteors, bolides 
 
 BONUS 
 ASTRONOMY
 SHORT ANSWER
 For someone standing at 22° North latitude, how many degrees above the horizon will the north celestial pole be?  
-22 
+22 OR 22 degrees
 
 TOSS UP
 BIOLOGY
@@ -385,43 +356,40 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 Name all of the following organelles that are bounded by a double membrane:  nucleus;  mitochondrion;  chloroplast;  lysosome  
-nucleus; mitochondrion; chloroplast 
-
-(ACCEPT:  ALL BUT LYSOSOME) 
+nucleus, mitochondrion, chloroplast OR all but lysosome
+ 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 Order the following 3 ionic solids in terms of their lattice energies or enthalpies, going from the HIGHEST to the LOWEST:  LiBr;  KBr;  NaBr 
-libr; nabr; kbr 
+libr, nabr, kbr 
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
 Arrange the following 3 oxoacids or oxyacids in order of INCREASING acid strength:  HBrO3;  HBrO2;  HBrO 
-hbro; hbro2; hbro3 
+hbro, hbro2, hbro3 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 If a rock is spun on a sling with a frequency of 100 revolutions per minute, what is the rock’s period, in seconds? 
-0.6 
+0.6 OR 0.6 s OR .6 OR .6 s
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-A 3-kilogram model airplane has velocity components of 5 meters per second due east and 8 meters per second due north.  What is the plane’s kinetic energy, in joules to 
-the nearest whole number? 
-134 
+A 3-kilogram model airplane has velocity components of 5 meters per second due east and 8 meters per second due north.  What is the plane’s kinetic energy, in joules to the nearest whole number? 
+134 OR 134 J OR 134 Joules
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
 What part of the human brain releases the most corticotropin? 
-pituitary 
+pituitary OR pituitary gland
 
 BONUS 
 BIOLOGY
 SHORT ANSWER
-What is the average yield of ATP for every NADH and for every FADH2, respectively, that pass through the electron transport system? 
-nadh = 3; fadh2 = 2 
-
+What is the average yield of ATP for every NADH and for every FADH2, respectively, that pass through the electron transport system? Type as "nadh = <number>, fadh2 = <number>".
+nadh = 3, fadh2 = 2 

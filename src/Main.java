@@ -6,6 +6,6 @@ import java.io.IOException;
  */
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
-        Proctor procJock = new Proctor();
+        Proctor proc = new Proctor();
     }
 }

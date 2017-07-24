@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
 Which of the following is TRUE: 
@@ -6,24 +6,23 @@ W)  chimpanzees are an ancestor of Homo sapiens
 X)  bipedal motion dominated hominoid ancestors by about 30 million years ago 
 Y)  humans and modern apes have a common ancestor 
 Z)  Neanderthals were ancestors to modern humans 
-y OR  humans and modern apes have a common ancestor 
+y OR humans and modern apes have a common ancestor 
 
 BONUS 
 BIOLOGY
 SHORT ANSWER
 Order the following 5 taxonomic group with the MOST members to the one with the FEWEST members:  genus;  order;  phylum;  class;  family  
-phylum; class; order; family; genus 
+phylum, class, order, family, genus 
 
 TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
-Which of the following is an element that is very important to human life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic 
-properties like iron: 
+Which of the following is an element that is very important to human life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic properties like iron: 
 W)  selenium 
 X)  cobalt 
 Y)  zinc 
 Z)  manganese 
-x OR  cobalt 
+x OR cobalt 
 
 BONUS 
 CHEMISTRY
@@ -39,7 +38,7 @@ W)  manometer
 X)  anemometer 
 Y)  tensitometer 
 Z)  flow-meter 
-w OR  manometer 
+w OR manometer 
 
 BONUS 
 PHYSICS
@@ -49,19 +48,19 @@ W)  if frequency increases, wavelength increases
 X)  if frequency increases, wavelength decreases 
 Y)  if frequency decreases, wavelength decreases 
 Z)  if frequency increases, wavelength stays the same 
-x OR  if frequency increases, wavelength decreases 
+x OR if frequency increases, wavelength decreases 
 
 TOSS UP
 MATH
 SHORT ANSWER
 If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the measure, in inches, of the other 2 sides? 
-12 and 6 3 
+12 and 6root3 OR 6root3 and 12
 
 BONUS 
 MATH
 SHORT ANSWER
 Consider triangle ABC, where the measure of angle A = 20º, B =117º, and C = 43º.  Arrange the 3 sides in order of increasing length: 
-bc; ab; ac 
+bc, ab, ac 
 
 TOSS UP
 EARTH SCIENCE
@@ -71,7 +70,7 @@ W)  spring tides
 X)  neap tides 
 Y)  diurnal tides 
 Z)  semi-diurnal tides 
-x OR  neap tides 
+x OR neap tides 
 
 BONUS 
 EARTH SCIENCE
@@ -81,19 +80,19 @@ W)  Cretaceous Period
 X)  Quaternary Period  
 Y)  Holocene Epoch 
 Z)  Pleistocene Epoch 
-w OR  cretaceous period 
+w OR cretaceous period 
 
 TOSS UP
 GENERAL SCIENCE
 SHORT ANSWER
 1 bar equals how many Pascals? 
-100,000 (accept: 1 × 105 or 105) 
+100000 OR 1 x 10^5 OR 10^5 
 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
 Meteorologists commonly use the hectopascal for air pressure.  1,000 hectopascals equals how many millibars? 
-1,000 
+1000 
 
 TOSS UP
 ASTRONOMY
@@ -109,7 +108,7 @@ W)  spiral
 X)  elliptical 
 Y)  irregular 
 Z)  dwarf 
-z OR  dwarf 
+z OR dwarf 
 
 TOSS UP
 BIOLOGY
@@ -121,7 +120,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 Name all of the following 4 plants that have their seeds typically dispersed by wind:  dandelion;  milkweed;  maize;  lupine 
-dandelion; milkweed 
+dandelion, milkweed 
 
 TOSS UP
 CHEMISTRY
@@ -131,7 +130,7 @@ W)  ammonia
 X)  dilute sulfuric acid 
 Y)  1 molar sodium chloride 
 Z)  dilute perchloric acid 
-w OR  ammonia 
+w OR ammonia 
 
 BONUS 
 CHEMISTRY
@@ -141,7 +140,7 @@ W)  very high
 X)  high to very high 
 Y)  low 
 Z)  variable 
-y OR  low 
+y OR low 
 
 TOSS UP
 PHYSICS
@@ -156,25 +155,6 @@ What is the wavelength, in meters, of a wave moving at 500 meters per second if 
 25 
 
 TOSS UP
-MATH
-SHORT ANSWER
-Simplify the following expression: 5 2
-2
-1
-xx  
-10 
-
-9
-x   (ACCEPT:  10 9x ) 
-BONUS 
-MATH
-SHORT ANSWER
-What is the slope of a line perpendicular to the line given by the graph of the equation, –5x = –6y + 4 
-– 
-
-5
-6  
-TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
 When rain freezes into pellets while falling to the ground during a winter storm, the most accurate forecast would have predicted: 
@@ -182,15 +162,14 @@ W)  hail
 X)  snow 
 Y)  freezing rain 
 Z)  sleet  
-z OR  sleet 
+z OR sleet 
 
 BONUS 
 EARTH SCIENCE
 SHORT ANSWER
-Identify each of the following 3 rocks, respectively, as igneous, metamorphic, or sedimentary:  marble;  pumice;  conglomerate 
-marble = metamorphic; pumice = igneous; conglomerate = 
+Identify each of the following 3 rocks, respectively, as igneous, metamorphic, or sedimentary:  marble;  pumice;  conglomerate. Type as "marble = <answer>, pumice = <answer>, conglomerate = <answer>".
+marble = metamorphic, pumice = igneous, conglomerate = sedimentary
 
-SEDIMENTARY 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
@@ -199,7 +178,7 @@ W)  marine
 X)  fresh water 
 Y)  land 
 Z)  atmosphere 
-w OR  marine 
+w OR marine 
 
 BONUS 
 GENERAL SCIENCE
@@ -209,9 +188,8 @@ W)  vinegar and baking soda
 X)  vinegar and bleach  
 Y)  vinegar and borax  
 Z)  castile soap and salt 
-x OR  vinegar and bleach 
+x OR vinegar and bleach 
 
-not a good idea to mix these two solutions) 
 TOSS UP
 ASTRONOMY
 MULTIPLE CHOICE
@@ -220,7 +198,7 @@ W)  high axial spin rates
 X)  low mean density 
 Y)  retrograde orbits 
 Z)  prominent layer of liquid-metallic hydrogen 
-x OR  low mean density 
+x OR low mean density 
 
 BONUS 
 ASTRONOMY
@@ -236,7 +214,7 @@ W)  rectal plexus
 X)  cloaca  (read as:  KLO-aye-ka) 
 Y)  rostrum 
 Z)  spiculum 
-x OR  cloaca 
+x OR cloaca 
 
 BONUS 
 BIOLOGY
@@ -246,7 +224,7 @@ W) shoulder
 X)  pelvis 
 Y)  head 
 Z)  knee 
-y OR  head 
+y OR head 
 
 TOSS UP
 CHEMISTRY
@@ -258,7 +236,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 According to standard chemical nomenclature and indicating the proper charge, what is the formula for the sulfite ion? 
-so32– (accept: so3–2) 
+so32– OR so3–2 
 
 TOSS UP
 PHYSICS
@@ -269,8 +247,8 @@ zero
 BONUS 
 PHYSICS
 SHORT ANSWER
-How many neutrons and how many protons are present in a single oxygen-15 nucleus, respectively? 
-neutrons = 7; protons = 8 
+How many neutrons and how many protons are present in a single oxygen-15 nucleus, respectively? Type as "neutrons = <number>, protons = <number>".
+neutrons = 7, protons = 8 
 
 TOSS UP
 MATH
@@ -280,14 +258,12 @@ W)  15, 20, 25
 X)  10, 24, 26 
 Y)  16, 24, 30 
 Z)  33, 44, 55 
-y OR  16, 24, 30 
+y OR 16, 24, 30 
 
 BONUS 
 MATH
 SHORT ANSWER
-Evaluate the following expression when a = 3
-1 , b = 4, c = –1, and  
-d = –5:   2[3a – (b + c) – 4d] 
+Evaluate the following expression when a = 1/3, b = 4, c = -1, and d = -5: 2[3a – (b + c) – 4d] 
 36 
 
 TOSS UP
@@ -298,7 +274,7 @@ W)  20,000 feet and above
 X)  10,000 to 20,000 feet 
 Y)  5,000 to 10,000 feet 
 Z)  2,000 to 5,000 feet 
-w OR  20,000 feet and above 
+w OR 20,000 feet and above 
 
 BONUS 
 EARTH SCIENCE
@@ -308,24 +284,23 @@ W)  hot spots
 X)  divergent plate boundaries 
 Y)  subduction zones 
 Z)  fissure eruptions 
-y OR  subduction zones 
+y OR subduction zones 
 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-Which of the following is the main reason why Africanized honey bees are much more dangerous to humans and animals than European honey 
-bees: 
+Which of the following is the main reason why Africanized honey bees are much more dangerous to humans and animals than European honey bees: 
 W)  they defend their nests more intensely   
 X)  their venom is 10-times more potent 
 Y)  they can sting multiple times 
 Z)  they are larger and carry more venom 
-w OR  they defend their nests more intensely 
+w OR they defend their nests more intensely 
 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
 In most cars, what acts as the circuit ground? 
-the body (accept: frame or chassis) 
+the body OR frame OR chassis
 
 TOSS UP
 ASTRONOMY
@@ -335,7 +310,7 @@ W)  April
 X)  July 
 Y)  August 
 Z)  December 
-z OR  december 
+z OR december 
 
 BONUS 
 ASTRONOMY
@@ -351,7 +326,7 @@ W)  protein
 X)  lipid monolayer 
 Y)  lipid bilayer 
 Z)  polysaccharide 
-z OR  polysaccharide 
+z OR polysaccharide 
 
 BONUS 
 BIOLOGY
@@ -367,26 +342,25 @@ W)  4d
 X)  4f 
 Y)  5s 
 Z)  5p 
-y OR  5s 
+y OR 5s 
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
 Give the electronic configuration for sulfur, located in Period 3 and Group 16 of the Periodic Table: 
-1s22s22p63s23p4 (accept: [ne] 3s23p4) 
+1s22s22p63s23p4 OR [ne]3s23p4 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes.  In what direction would a physicist MOST likely record her 
-acceleration? 
+Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes.  In what direction would a physicist MOST likely record her acceleration? 
 south 
 
 BONUS 
 PHYSICS
 SHORT ANSWER
 If 200 coulombs pass through a wire in 0.5 seconds, what is the average current, in amps, passing through the wire?  
-400 
+400 OR 400 amps OR 400 amperes
 
 TOSS UP
 BIOLOGY
@@ -397,7 +371,5 @@ green
 BONUS 
 BIOLOGY
 SHORT ANSWER
-Name all of the following 4 diseases that are caused by viruses: 
-measles;  AIDS;  tuberculosis;  leprosy 
-measles; aids 
-
+Name all of the following 4 diseases that are caused by viruses: measles;  AIDS;  tuberculosis;  leprosy. Type as "<answer>, <answer>, ..." or type "none" for none.
+measles, aids 

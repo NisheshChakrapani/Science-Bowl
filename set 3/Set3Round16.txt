@@ -1,10 +1,10 @@
-TOSS UP
+﻿TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
 Human skin pigmentation and height may vary greatly and are probably controlled by multiple genes.  This is an example most specifically of: 
 W)  pleiotropy 
 X)  polygenic inheritance 
-Y)  epistasis  (read as: ep-ee-STAY-sis) 
+Y)  epistasis  
 Z)  incomplete codominance 
 x OR polygenic inheritance 
 
@@ -16,26 +16,7 @@ W)  genes mutate constantly in B cells
 X)  genes for antibodies are spliced together from different chromosomal loci 
 Y)  antibodies have large amounts of cross reactivity with various antigens 
 Z)  antibodies are only specific for certain parts of an antigen 
-x OR genes for antibodies are spliced together from different 
-
-CHROMOSOMAL LOCI 
-TOSS UP
-CHEMISTRY
-MULTIPLE CHOICE
-Which of the following is NOT true about amino acids: 
-W)  amino acids exist primarily as zwitterions 
-X)  amino acid are amphoteric 
-Y)  an amino acid becomes neutral at its isoelectric point  
-Z)  tryptophan and cysteine contain sulfur atoms in their side chains 
-z OR tryptophan and cysteine contain sulfur atoms in their side 
-
-CHAINS 
-BONUS 
-CHEMISTRY
-SHORT ANSWER
-Arrange the following 4 bonds in order of INCREASING bond lengths:  C−C (read as: C single bond C);  C=C (read as: C double bond C);  C≡C (read as: C triple 
-bond C);  C–H (read as: C single bond H) 
-c–h; c≡c; c=c; c−c 
+x OR genes for antibodies are spliced together from different chromosomal loci
 
 TOSS UP
 PHYSICS
@@ -55,13 +36,13 @@ W)  the discovery of gravitational waves at the LIGO facility at Pacific Northwe
 X)  Chandra X-ray images of hot gases during a violent merger of the “bullet cluster” of galaxies 
 Y)  creation of quark-gluon plasma at the Relativistic Heavy Ion Collider 
 Z)  the finding that neutrinos account for more mass of the universe than all the stars in the universe 
-x OR chandra x-ray images of hot gases during a violet merger 
+x OR chandra x-ray images of hot gases during a violet merger of the “bullet cluster” of galaxies 
 
-OF THE “BULLET CLUSTER” OF GALAXIES 
 TOSS UP
 MATH
 SHORT ANSWER
-Differentiate the following trigonometric function: f(x) = sin x2 2x cos x2 
+Differentiate the following trigonometric function: f(x) = sin x^2 
+2x cos x^2 OR 2xcos(x^2)
 
 BONUS 
 MATH
@@ -73,7 +54,6 @@ Y)  90
 Z)  108 
 w OR 57 
 
-3200 = 56.6) 
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
@@ -98,19 +78,17 @@ TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
 Which of the following is TRUE: 
-W)  neutrinos released from Fermi National Lab in Illinois have been detected by an underground 
-facility in Minnesota 
-X)  the European Space Agency’s Planck Surveyor recently confirmed a critical postulate of string 
-theory 
+W)  neutrinos released from Fermi National Lab in Illinois have been detected by an underground facility in Minnesota 
+X)  the European Space Agency’s Planck Surveyor recently confirmed a critical postulate of string theory 
 Y)  baryonic matter accounts for most of the mass of the universe 
 Z)  the LISA detector recently detected gravitational waves from 2 colliding black holes 
-w OR neutrinos released from fermi national lab in illinois 
+w OR neutrinos released from fermi national lab in illinois have been detected by an underground facility in Minnesota
 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
 Your boat has a true course of 88º, the variation is 18º west, and the deviation is 12º west.  What is your compass course, in degrees? 
-118 
+118 OR 118 degrees
 
 TOSS UP
 ASTRONOMY
@@ -120,9 +98,8 @@ W)  the far side of the Moon from Earth has more large maria than the near side
 X)  the next sunspot minimum is expected in 2008 
 Y)  the declination of the Sun during the winter solstice is 23.5 degrees north 
 Z)  B-type stars have strong absorption lines for neutral helium 
-z OR b-type stars have strong absorption lines for neutral 
+z OR b-type stars have strong absorption lines for neutral helium
 
-HELIUM 
 BONUS 
 ASTRONOMY
 MULTIPLE CHOICE
@@ -131,9 +108,8 @@ W)  a pulsating variable varying in brightness in a very regular time period of 
 X)  a short pulsating variable with a very regular period of 1 to 4 minutes 
 Y)  a binary star system with an eclipsing partner 
 Z)  a small k-type star with a very regular period of 1 to 3 weeks 
-w OR a pulsating variable varying in brightness in a very 
+w OR a pulsating variable varying in brightness in a very regular time period of 1 to 50 days  
 
-REGULAR TIME PERIOD OF 1 TO 50 DAYS  
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -167,15 +143,13 @@ w OR an 18-carbon saturated fatty acid
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-Consider an acid solution whose density is 1.5 grams per cubic centimeter and which is 30% acid by mass.  Find the volume, in milliliters, of the acid solution that 
-is needed to contain 90 grams of acid: 
-200 
+Consider an acid solution whose density is 1.5 grams per cubic centimeter and which is 30% acid by mass.  Find the volume, in milliliters, of the acid solution that is needed to contain 90 grams of acid: 
+200 OR 200 milliliters OR 200 mL
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-Generally, physicists cannot use light to explore the composition of the subatomic world since light wavelengths are too long.  Which of the following do they MOST 
-often resort to as a tool of probing the nature of the atomic nucleus: 
+Generally, physicists cannot use light to explore the composition of the subatomic world since light wavelengths are too long.  Which of the following do they MOST often resort to as a tool of probing the nature of the atomic nucleus: 
 W)  high energy gamma-rays 
 X)  high energy charged particles 
 Y)  tunneling microscopes 
@@ -186,7 +160,7 @@ BONUS
 PHYSICS
 SHORT ANSWER
 Name all of the following 4 choices that are types of particles called hadrons:  neutron;  proton;  positron;  antiproton 
-neutron; proton; antiproton (accept: all but positron) 
+neutron, proton, antiproton OR all but positron
 
 TOSS UP
 MATH
@@ -196,9 +170,8 @@ W)  a function’s graph may intersect one of its horizontal asymptotes
 X)  a function’s graph may intersect one of its vertical asymptotes  
 Y)  the identity function f(x) = x is its own inverse 
 Z)  the function f(x) = −x is its own inverse  
-x OR a function’s graph may intersect one of its vertical 
+x OR a function’s graph may intersect one of its vertical asymptotes
 
-ASYMPTOTES 
 BONUS 
 MATH
 SHORT ANSWER
@@ -208,8 +181,7 @@ If the 1st term of an arithmetic sequence is 4 and the 20th term is 156, what ar
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following is considered an activator of fluorescence because when present in small concentrations it usually causes a ruby crystal to 
-fluoresce a bright deep red: 
+Which of the following is considered an activator of fluorescence because when present in small concentrations it usually causes a ruby crystal to fluoresce a bright deep red: 
 W)  iron 
 X)  chromium 
 Y)  nickel 
@@ -219,9 +191,8 @@ x OR chromium
 BONUS 
 EARTH SCIENCE
 SHORT ANSWER
-Termed Yedoma in Siberia, what is the name for the windblown dust that was deposited during the glacial age and covers more than 1 million square 
-kilometers of the north plains of Siberia and Central Alaska? 
-loess (accept: frozen loess) 
+Termed Yedoma in Siberia, what is the name for the windblown dust that was deposited during the glacial age and covers more than 1 million square kilometers of the north plains of Siberia and Central Alaska? 
+loess OR frozen loess
 
 TOSS UP
 GENERAL SCIENCE
@@ -241,19 +212,18 @@ W)  a U.S. barrel of crude oil is 42 gallons
 X)  one barrel of U.S. crude oil typically yields about 20 gallons of motor gasoline 
 Y)  the distillation step in crude oil refinement typically eliminates nearly all the sulfur 
 Z)  a U.S. barrel of crude oil can yield more than 44 gallons of petroleum products 
-y OR the distillation step in crude oil refinement typically 
+y OR the distillation step in crude oil refinement typically eliminates nearly all the sulfur 
 
-ELIMINATES NEARLY ALL THE SULFUR 
 TOSS UP
-14)  ASTRONOMY  Multiple choice  Which of the following is LEAST accurate: 
+ASTRONOMY
+MULTIPLE CHOICE
+Which of the following is LEAST accurate: 
 W)  the Sun’s corona is hotter than both the photosphere and the chromosphere  
 X)  the Crab nebula is a remnant of a supernova that collapsed in the year 1054 
-Y)  equinoxes are points on the celestial sphere where the celestial equator is intersected by the 
-ecliptic 
+Y)  equinoxes are points on the celestial sphere where the celestial equator is intersected by the ecliptic 
 Z)  epicycles were employed by Ptolemy to explain retrograde motion in planets 
-x OR the crab nebula is a remnant of a supernova that 
+x OR the crab nebula is a remnant of a supernova that collapsed in the year 1054
 
-COLLAPSED IN THE YEAR 1054 
 BONUS 
 ASTRONOMY
 MULTIPLE CHOICE
@@ -298,22 +268,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 How many milliliters of 0.1 molar hydrochloric acid are required to neutralize 50 milliliters of a 0.1 molar strontium hydroxide solution? 
-100 
-
-0.01 mol HCl × L/0.1 mol = 0.100L = 100ml) 
-TOSS UP
-PHYSICS
-SHORT ANSWER
-Physicists have developed theories, called Grand Unified Theories, that attempt to unify the forces of the universe into one.  As temperatures get higher going back 
-through the early universe, which three of the four forces do these theories typically unify first? 
-g OR
-
-BONUS 
-PHYSICS
-SHORT ANSWER
-Many physicists are highly critical of the rationale that seeks to explain phenomena of the universe by indicating that, if things had been otherwise, life and humans 
-would not exist.  This is MOST commonly known as what principle? 
-anthropic principle (accept: anthropic) 
+100 OR 100 milliliters OR 100 mL
 
 TOSS UP
 MATH
@@ -324,7 +279,7 @@ left
 BONUS 
 MATH
 SHORT ANSWER
-Find the following indefinite integral: ! + dxxx )cos5sin3( (read as: the integral of 3 sine x + 5 cosine x, dx) 
+Find the following indefinite integral: the integral of 3 sine x + 5 cosine x dx 
 –3 cos x + 5 sin x + c 
 
 TOSS UP
@@ -360,21 +315,20 @@ y OR citrus canker is caused by a fungus
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-Name all of the following pathways that are considered major risks for the movement of H5N1 virus throughout the world:  1) poultry shipments;  2) 
-contaminated poultry equipment;  3) migratory birds;  4) infected humans 
-1; 2; 3 (accept: all but 4 - infected humans) 
+Name all of the following pathways that are considered major risks for the movement of H5N1 virus throughout the world:  1) poultry shipments;  2) contaminated poultry equipment;  3) migratory birds;  4) infected humans 
+1, 2, 3 OR all but 4 
 
 TOSS UP
 ASTRONOMY
 SHORT ANSWER
 The abundance of what element in T-Tauri stars is the best indication that they are young stars? 
-lithium 
+lithium OR Li
 
 BONUS 
 ASTRONOMY
 SHORT ANSWER
 Name all of the following instruments that have been used to help understand the critical density of our universe:  COBE;  WMAP;  BOOMERANG 
-cobe; wmap; boomerang (accept: all) 
+cobe, wmap, boomerang OR all
 
 TOSS UP
 BIOLOGY
@@ -386,36 +340,20 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 Name all of the following 3 plant types that are specifically adapted to arid environments with bright Sun:  C4 plants;  CAM plants;  C3 plants 
-c4; cam plants 
-
-TOSS UP
-CHEMISTRY
-SHORT ANSWER
-Identify, by chemical formula, the oxidizing agent and the reducing agent, respectively, for the following reaction:   
-SiCl4  +  2Mg  à  2MgCl2  +  Si 
-oxidizing agent = sicl4; reducing agent = mg 
-
-BONUS 
-CHEMISTRY
-SHORT ANSWER
-What is the molar mass of a gas, in grams per mole to the nearest whole number, if it has a density of 0.50 grams per liter at 400K and standard pressure? 
-16 
+c4, cam plants 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 If a 100-kilogram bear climbs from the bottom to the top of a vertical 10-meter tree in 10 seconds, what is the bear’s average power output, in watts?  
-980 
+980 OR 980 watts
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Two masses are hung in a physics lab. These are tied to opposite ends of a weightless string which passes over a frictionless pulley.  If the masses are released from 
-rest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first 
-decimal place, of mass #1 and in what direction, up or down? 
-3.3 and up (accept: 3.2 and up) 
+Two masses are hung in a physics lab. These are tied to opposite ends of a weightless string which passes over a frictionless pulley.  If the masses are released from rest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first decimal place, of mass #1 and in what direction, up or down? Type as "<number> and <direction>".
+3.3 and up OR 3.2 and up
 
-9.8N/3kg = 3.27 m/s2) 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
@@ -426,5 +364,4 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 To what specific protein do calcium ions bind directly leading to muscle contraction in striated human muscle? 
-troponin-c (accept: troponin) 
-
+troponin-c OR troponin 

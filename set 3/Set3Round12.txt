@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 PHYSICS
 MULTIPLE CHOICE
 Often some of the strongest spectral lines in cold interstellar gas are produced by: 
@@ -11,9 +11,8 @@ z OR calcium and sodium
 BONUS 
 PHYSICS
 SHORT ANSWER
-The cosmic background radiation discovered by Penzias and Wilson closely matches the radiation from a black body with what temperature Kelvin, to the nearest whole 
-number? 
-3 
+The cosmic background radiation discovered by Penzias and Wilson closely matches the radiation from a black body with what temperature Kelvin, to the nearest whole number? 
+3 OR 3 K OR 3 Kelvin
 
 TOSS UP
 CHEMISTRY
@@ -29,7 +28,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 Name all of the following 4 compounds that exhibit hydrogen bonding:  CH4;  H2S;  NH3;  CH3OH 
-nh3; ch3oh 
+nh3, ch3oh 
 
 TOSS UP
 BIOLOGY
@@ -44,9 +43,8 @@ x OR a heavy isotope of oxygen as a tracer
 BONUS 
 BIOLOGY
 SHORT ANSWER
-By number or name, identify all of the following 4 processes that contribute directly to genetic variation in humans:  1) random fertilization of ova with sperm;  2)  
-crossing over;  3) independent assortment;  4) mitosis 
-1, 2 and 3 (accept: all but #4) 
+By number or name, identify all of the following 4 processes that contribute directly to genetic variation in humans:  1) random fertilization of ova with sperm;  2)  crossing over;  3) independent assortment;  4) mitosis 
+1, 2, 3
 
 TOSS UP
 MATH
@@ -58,7 +56,7 @@ BONUS
 MATH
 SHORT ANSWER
 Find the sum of all interior angles, in degrees, in a regular polygon having 14 sides: 
-2,160 
+2160 OR 2160 degrees 
 
 TOSS UP
 EARTH SCIENCE
@@ -74,13 +72,12 @@ BONUS
 EARTH SCIENCE
 SHORT ANSWER
 Arrange the following 4 layers of the Earth’s atmosphere in order of INCREASING air pressure:  stratosphere;  exosphere;  thermosphere;  troposphere  
-exosphere; thermosphere; stratosphere; troposphere 
+exosphere, thermosphere, stratosphere, troposphere 
 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-Some vitamin tablets contain high concentrations of zinc and must be formulated to include high levels of which of the following minerals in order to 
-prevent an induced anemia:  
+Some vitamin tablets contain high concentrations of zinc and must be formulated to include high levels of which of the following minerals in order to prevent an induced anemia:  
 W)  copper 
 X)  calcium 
 Y)  magnesium 
@@ -90,11 +87,9 @@ w OR copper
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-What is the most common name for the technique that places a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally 
-detects changes in the spin of atoms in the molecule? 
-nuclear magnetic resonance (accept: nmr or magnetic 
+What is the most common name for the technique that places a molecule in a strong magnetic field, irradiates the molecule with radio waves, and finally detects changes in the spin of atoms in the molecule? 
+nuclear magnetic resonance OR nmr OR magnetic resonance spectroscopy
 
-RESONANCE SPECTROSCOPY) 
 TOSS UP
 ASTRONOMY
 MULTIPLE CHOICE
@@ -109,7 +104,7 @@ BONUS
 ASTRONOMY
 SHORT ANSWER
 What is the magnifying power of the telescope with a focal length of 5 meters and an eyepiece of 20 millimeters? 
-250 (accept: 250x or 250 times) 
+250 OR 250x OR 250 x OR 250 times 
 
 TOSS UP
 PHYSICS
@@ -124,8 +119,7 @@ z OR thomson scattering
 BONUS 
 PHYSICS
 MULTIPLE CHOICE
-A protanomalous person has decreased sensitivity of the red cones in his or her eyes.  Which of the following color pairs will this person have difficulty distinguishing 
-between: 
+A protanomalous person has decreased sensitivity of the red cones in his or her eyes.  Which of the following color pairs will this person have difficulty distinguishing between: 
 W)  red and green 
 X)  blue and purple 
 Y)  yellow and turquoise 
@@ -140,14 +134,13 @@ W)  acetylene contains delocalized pi bonds
 X)  the simplest carboxylic acid is ethanoic acid 
 Y)  ketones have no hydrogen atoms directly attached to the carbonyl group 
 Z)  alcohols contain nonpolar hydroxyl groups 
-y OR ketones have no hydrogen atoms directly attached to the 
+y OR ketones have no hydrogen atoms directly attached to the carbonyl group
 
-CARBONYL GROUP 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
 Rounded to the nearest whole number, what is the percent of magnesium in magnesium carbonate, given the atomic mass of magnesium is 24 grams per mole? 
-29 
+29 OR 29% OR 29 percent
 
 TOSS UP
 BIOLOGY
@@ -162,8 +155,8 @@ z OR bacteriophage
 BONUS 
 BIOLOGY
 SHORT ANSWER
-In the Amanita mushroom, what is the name of the cell in which karyogamy and meiosis occur and what is the product of meiosis, respectively?  
-cell = basidium; product = basidiospore 
+In the Amanita mushroom, what is the name of the cell in which karyogamy and meiosis occur and what is the product of meiosis, respectively? Type as "cell = <answer>, product = <answer>".
+cell = basidium, product = basidiospore 
 
 TOSS UP
 MATH
@@ -178,8 +171,8 @@ y OR 1160° and 800°
 BONUS 
 MATH
 SHORT ANSWER
-Solve the following equation for x, expressing your answer in simplest radical form over the real numbers:  x4 – 9x2 + 8 = 0 
-22± and ±1 (accept all: 22+ , 22− , +1, -1) 
+Solve the following equation for x, expressing your answer in simplest radical form over the real numbers:  x^4 – 9x^2 + 8 = 0. Type as "x = <positive int1>, <negative int1>, <positive int2>, <negative int2>".
+x = 1, -1, 22, -22 OR x = 22, -22, 1, -1
 
 TOSS UP
 EARTH SCIENCE
@@ -199,14 +192,12 @@ W)  they are more widely spaced over the equatorial regions
 X)  they are more closely spaced over North America in the summer than in the winter 
 Y)  they tend to be linear in form in the Southern Hemisphere south of 40º latitude 
 Z)  they are lines that connect places with the same average temperature 
-x OR they are more closely spaced over north america in the 
+x OR they are more closely spaced over north america in the summer than in the winter
 
-SUMMER THAN IN THE WINTER 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-Which of the following instruments is BEST used to image small, transparent and fluorescent specimens and obtain optical sections without the need for 
-mechanical sectioning: 
+Which of the following instruments is BEST used to image small, transparent and fluorescent specimens and obtain optical sections without the need for mechanical sectioning: 
 W)  X-ray microanalyzer 
 X)  scanning electron microscope 
 Y)  transmission electron microscope 
@@ -216,15 +207,13 @@ z OR confocal laser scanning microscope
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-A relatively new scourge to the citrus growers in Florida, what is the common name of the citrus disease caused by a species of bacteria called C. liberibacter 
-and spread by an introduced non-native insect? 
-greening (accept: citrus greening) 
+A relatively new scourge to the citrus growers in Florida, what is the common name of the citrus disease caused by a species of bacteria called C. liberibacter and spread by an introduced non-native insect? 
+greening OR greening
 
 TOSS UP
 ASTRONOMY
 SHORT ANSWER
-A sidereal drive is a motor on a telescope that turns it in a certain direction to keep the telescope aimed at a certain celestial object.  Giving your answer as 
-north, south, east or west, in what direction does it turn? 
+A sidereal drive is a motor on a telescope that turns it in a certain direction to keep the telescope aimed at a certain celestial object.  Giving your answer as north, south, east or west, in what direction does it turn? 
 west 
 
 BONUS 
@@ -232,16 +221,15 @@ ASTRONOMY
 MULTIPLE CHOICE
 The Wilkinson Microwave Anisotropy Probe was specifically designed to: 
 W)  map all matter in the universe down to a resolution of 1 arc second 
-X)  map the cosmic background radiation to much greater accuracy and precision than previous 
-instruments 
+X)  map the cosmic background radiation to much greater accuracy and precision than previous instruments 
 Y)  map the size and locations of the Local Group 
 Z)  map the exact location of the active galactic center of the Milky Way 
-ACCURACY AND PRECISION THAN PREVIOUS INSTRUMENTS 
+x OR map the cosmic background radiation to much greater accuracy and precision than previous instruments 
+
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-In a compound gearing arrangement where a 40-tooth gear drives an 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total 
-reduction is a factor of: 
+In a compound gearing arrangement where a 40-tooth gear drives an 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total reduction is a factor of: 
 W)  2 
 X)  2.5 
 Y)  4 
@@ -272,13 +260,13 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 Arrange the following compounds in order of INCREASING ionic characteristic:  HCl;  LiBr;  CO;  KF 
-co; hcl; libr; kf 
+co, hcl, libr, kf 
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
 Which of the following are MOST often used to introduce foreign genes into mammalian genomes: 
-W)  sliceosomes (read as: sly-see-oh-somz) 
+W)  sliceosomes 
 X)  zinc fingers 
 Y)  plasmids 
 Z)  telomeres 
@@ -288,7 +276,7 @@ BONUS
 BIOLOGY
 MULTIPLE CHOICE
 Which of the following regulate development in animals, plants and fungi, and were first discovered in Drosophila: 
-W)  homeobox (read as: HOME-ee-oh-box) genes 
+W)  homeobox genes 
 X)  p53 
 Y)  shock genes 
 Z)  oncogenes 
@@ -298,15 +286,13 @@ TOSS UP
 MATH
 SHORT ANSWER
 What function is the inverse of y = 3x + 4? 
-y = 
+y = (x-3)/4
 
-3
-4−x  
 BONUS 
 MATH
 SHORT ANSWER
 Giving your answer as an ordered pair, find the solution of the system of the following 2 equations:  2x + 3y = 8, and 3x – 2y = –1 
-(1, 2) (accept: 1 and 2) 
+(1, 2)
 
 TOSS UP
 EARTH SCIENCE
@@ -321,30 +307,26 @@ x OR hydrolysis
 BONUS 
 EARTH SCIENCE
 SHORT ANSWER
-What is the name for the sedimentary rock that carries high concentrations of organic material in the form of kerogen, which can yield oil when heated and 
-distilled? 
-oil shale (accept: shale) 
+What is the name for the sedimentary rock that carries high concentrations of organic material in the form of kerogen, which can yield oil when heated and distilled? 
+oil shale OR shale
 
 TOSS UP
 GENERAL SCIENCE
 SHORT ANSWER
-Name all of the following 4 reagents that would NOT be labeled as a highly flammable substance: 
-methanol;  diethyl ether;  30% hydrogen peroxide;  benzene 
+Name all of the following 4 reagents that would NOT be labeled as a highly flammable substance: methanol;  diethyl ether;  30% hydrogen peroxide;  benzene 
 30% hydrogen peroxide 
 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-What engineering term is MOST commonly used to describe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an 
-abrupt transition in diameter? 
-stress concentration (accept: stress concentration at the 
-
-CHANGE IN DIAMETER)  (DO NOT ACCEPT:  STRESS) 
+What engineering term is MOST commonly used to describe why a shaft with a radius at a transition in diameter is stronger than the same shaft with an abrupt transition in diameter? 
+stress concentration OR stress concentration at the change in diameter
+ 
 TOSS UP
 ASTRONOMY
 SHORT ANSWER
 If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release? 
-81 (accept: 34) 
+81 OR 3^4
 
 BONUS 
 ASTRONOMY
@@ -367,38 +349,35 @@ How many turns are in the secondary coil of a transformer that has a primary coi
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how 
-many sp3d hybrid orbitals? 
+The hybridization of one ‘s’ (read as: one <pause> s) orbital and 3 ‘p’ (read as: three <pause> p) orbitals and one ‘d’ (read as: one <pause> d) orbital creates how many sp3d hybrid orbitals? 
 5 
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
 A solution contains 0.50 moles of methanol in 100 grams of water.  What is the mole fraction of methanol, to the second decimal place? 
-0.08 (do not accept 8.0%) 
+0.08 OR .08
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
 Black water fever is a complication of malarial infection. The term black water comes from what oxidized product in the urine of infected individuals? 
-hemoglobin (accept: met-hemoglobin) 
+hemoglobin OR met-hemoglobin
 
 BONUS 
 BIOLOGY
 SHORT ANSWER
 Name all of the following 4 human blood cells that are considered lymphocytes:  helper T cells;  CD8 cells;  CD4 cells;  plasma cells  
-helper t cells; cd8 cells; cd4 cells; plasma cells 
+helper t cells; cd8 cells; cd4 cells; plasma cells OR all
 
-(ACCEPT:  ALL) 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-Calculate the atom percent composition, rounded to the nearest whole number, for each atom in acetic acid: 
-c = 25%; h = 50%; o = 25% 
+Calculate the atom percent composition, rounded to the nearest whole number, for each atom in acetic acid, from most to least. Type as "<element> = <x>%, <element2> = <x>%, ...".
+h = 50%, c = 25%, o = 25% OR h = 50%, o = 25%, c = 25%
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-Calculate the mass percent composition, rounded to the nearest whole number, for each atom in acetic acid: 
-c = 40%; h = 7%; o = 53% 
-
+Calculate the mass percent composition, rounded to the nearest whole number, for each atom in acetic acid, from most to least. Type as "<element> = <x>%, <element2> = <x>%, ...". 
+o = 53%, c = 40%, h = 7%

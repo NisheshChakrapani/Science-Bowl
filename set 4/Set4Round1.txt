@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 PHYSICS
 SHORT ANSWER
 If a particle moves from a position of x = 5 meters out to x = 200 meters and back again to x = 5 meters, what is its displacement in meters? 
@@ -7,11 +7,12 @@ If a particle moves from a position of x = 5 meters out to x = 200 meters and ba
 BONUS 
 PHYSICS
 SHORT ANSWER
-What are the two features of displacement? 
-magnitude and direction 
+What are the two features of displacement? Type as "<answer> and <answer>".
+magnitude and direction OR direction and magnitude 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which trophic level has the most energy? 
 W) Consumers 
 X) Decomposers 
@@ -20,7 +21,8 @@ Z) Scavengers
 y OR producers 
 
 BONUS 
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which is the approximate percentage of energy transfer from one trophic level to the next? 
 W) 10% 
 X) 50% 
@@ -31,22 +33,24 @@ w OR 10%
 TOSS UP
 MATH
 SHORT ANSWER
-What is the greatest common factor of the terms in the expression 3x5y2 + 6x3y5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)? 
-23yx3 
+What is the greatest common factor of the terms in the expression 3x^5y^2 + 6x^3y^5 (read as: 3 x to the fifth y squared plus 6 x cubed y to the fifth)? 
+23yx^3 
 
 BONUS 
 MATH
 SHORT ANSWER
 At what value of x is there a minimum for the function f(x)= x2 – 6x (read as: f of x equals x squared minus 6x)?  
-x = 3 
+x = 3 OR 3
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 If a 250 acre farm were leased for wind development with income of $50 per acre per year, how much income would be produced each year? 
-$12,500 
+12500 
 
 BONUS 
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Wind energy is the conversion of wind power into electricity, using wind turbines. Which of the following statements is true about wind energy systems? 
 W) Wind turbines convert kinetic energy from the wind  
 X) Wind farms have to be located on unoccupied pieces of land  
@@ -55,7 +59,7 @@ Z) Construction costs for wind-powered generators are minimal
 w OR wind turbines convert kinetic energy from the wind 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 A compressional tectonic environment can result in all of the following, except:  
 W) Folded mountains 
@@ -65,7 +69,7 @@ Z) Reverse faults
 x OR basin and range 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The source of energy that drives a tsunami wave onto a shore originated: 
 W) From the gravitational attraction between the Earth and the Moon 
@@ -92,22 +96,22 @@ W) Neural impulses cause the release of neurotransmitters that diffuse across th
 X) Neural impulses open potassium-gated channels, allowing sodium to move across the gap 
 Y) Neural impulses travel across the gap as unidirectional electrical currents 
 Z) Neural impulses travel across the gap as multidirectional electrical currents 
-w OR  neural impulses cause the release of neurotransmitters 
+w OR  neural impulses cause the release of neurotransmitters that diffuse across the gap
 
-THAT DIFFUSE ACROSS THE GAP
 TOSS UP
 MATH
 SHORT ANSWER
-Name a real number that does not have a multiplicative inverse. 0 
+Name a real number that does not have a multiplicative inverse. 
+0 
 
 BONUS 
 MATH
 SHORT ANSWER
-Given the function y = 4x – x², what are the two values of x for which the corresponding value for y is 0? 
-0 and 4 
+Given the function y = 4x – x^2, what are the two values of x for which the corresponding value for y is 0? Type as "<number> and <number>".
+0 and 4 OR 4 and 0
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following statements is true about the Andes mountains?  
 W) They are folded mountains 
@@ -117,7 +121,7 @@ Z) They are found along a transform boundary
 x OR they are volcanic mountains 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The tectonic environment of Iceland is: 
 W) A subduction zone 
@@ -167,12 +171,11 @@ w OR slinky
 BONUS 
 PHYSICS
 SHORT ANSWER
-Which of the following are transmitted by electromagnetic waves: 
-1) radio, 2) television, 3) Rayleigh, or 4) P-waves?  
-radio, television (accept: 1, 2) 
+Which of the following are transmitted by electromagnetic waves: 1) radio, 2) television, 3) Rayleigh, or 4) P-waves?  
+radio, television OR radio and television OR 1, 2 OR 1 and 2
 
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following is the best way to get a good view of a meteor shower?   
 W) Watch it during a full moon 
@@ -182,17 +185,16 @@ Z) Wear light clothing
 y OR get as far away from urban light pollution as possible 
 
 BONUS 
-EARTH AND
-SPACE SHORT ANSWER
-When a meteoroid enters the earth’s atmosphere, it glows. Sometimes, the earth meets a number of meteoroids, creating a meteor shower. Most 
-streams and swarms of meteoroids are believed to be fragments of what celestial body?  
+ASTRONOMY
+SHORT ANSWER
+When a meteoroid enters the earth’s atmosphere, it glows. Sometimes, the earth meets a number of meteoroids, creating a meteor shower. Most streams and swarms of meteoroids are believed to be fragments of what celestial body?  
 comet 
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
 The combined genetic information of all the members of a particular population is known as the: 
-W) Allele (read as: ah-LEEL) frequency  
+W) Allele frequency  
 X) Genome 
 Y) Directional selection 
 Z) Gene pool 
@@ -201,8 +203,7 @@ z OR gene pool
 BONUS 
 BIOLOGY
 MULTIPLE CHOICE
-The black fur allele B (read as: big b), is dominant over the white fur allele b (read as: little b). Two mice with black fur mate, producing four offspring: one is 
-white and three are black. What are the likely genotypes of the two parents? 
+The black fur allele B (read as: big b), is dominant over the white fur allele b (read as: little b). Two mice with black fur mate, producing four offspring: one is white and three are black. What are the likely genotypes of the two parents? 
 W) Bb and Bb 
 X) BB and Bb 
 Y) BB and BB 
@@ -243,14 +244,14 @@ W) Temperature is a form of heat, while heat is a measurement
 X) Temperature is a measurement of molecular kinetic energy, while heat is a form of energy 
 Y) Heat and temperature have different wavelengths 
 Z) Heat and temperature have similar wavelengths but different amplitudes 
-x OR temperature is a measurement of molecular kinetic energy, 
+x OR temperature is a measurement of molecular kinetic energy, while heat is a form of energy
 
-WHILE HEAT IS A FORM OF ENERGY 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-If a car is accelerating along a road, the force acting on the car that causes it to move forward is the reaction force from the car pushing on the ground. What is 
-this reaction force due to? 
+If a car is accelerating along a road, the force acting on the car that causes it to move forward is the reaction force from the car pushing on the ground. What is this reaction force due to? 
+friction
+
 BONUS 
 PHYSICS
 SHORT ANSWER
@@ -258,27 +259,27 @@ If a car is accelerating along a road, what force due to the air does the fricti
 drag 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 What is a Robonaut? 
 robotic astronaut 
 
 BONUS 
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 The Earth’s tilt wobbles over a period of approximately 26,000 years. In 10,000 to 13,000 years, what bright star will the axis point to next? 
 vega 
 
 TOSS UP
 MATH
 SHORT ANSWER
-Given the equation 2x – y + 5 = 0, find the slope and y-intercept of the line it represents. 
-slope = 2; y-intercept = 5 or (0, 5) 
+Given the equation 2x – y + 5 = 0, find the slope and y-intercept of the line it represents. Type as "slope = <number>, y-intercept = <number>".
+slope = 2, y-intercept = 5
 
 BONUS 
 MATH
 MULTIPLE CHOICE
-The equation x2 + y2 = 121 with x > 0 and y < 0 would result in the graph of: 
+The equation x^2 + y^2 = 121 with x > 0 and y < 0 would result in the graph of: 
 W) A semicircle below the x-axis 
 X) A quarter circle in the 2nd quadrant 
 Y) A quarter circle in the 4th quadrant 
@@ -288,8 +289,7 @@ y OR a quarter circle in the 4th quadrant
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Some plants spread their pollen via the wind while others use animals to spread their pollen. When a plant uses an animal to spread its pollen, this type of 
-pollination is called: 
+Some plants spread their pollen via the wind while others use animals to spread their pollen. When a plant uses an animal to spread its pollen, this type of pollination is called: 
 W) Vector pollination 
 X) Seed dispersal 
 Y) Evolutionary adaptation  
@@ -299,7 +299,7 @@ w OR vector pollination
 BONUS 
 BIOLOGY
 SHORT ANSWER
-What is the most common term for the stage of photosynthesis (read as: fōe-tōe-SIN-teh-sis) during which carbon fixation occurs? 
+What is the most common term for the stage of photosynthesis during which carbon fixation occurs? 
 calvin cycle 
 
 TOSS UP
@@ -317,8 +317,8 @@ What is the oxidation state of Hydrogen in LiAlH4?
 TOSS UP
 PHYSICS
 SHORT ANSWER
-What are the two forms of electrical current? 
-alternating and direct current (accept: ac and dc) 
+What are the two forms of electrical current? Type as "<ans1> and <ans2>".
+alternating current and direct current OR ac and dc
 
 BONUS 
 PHYSICS
@@ -348,9 +348,8 @@ W) The energy released by the warm water and the mass of the water
 X) The energy released by the warm water and the mass of the ice 
 Y) The energy released by the ice and the mass of the warm water 
 Z) The energy released by the ice and the mass of ice 
-x OR the energy released by the warm water and the mass of the 
+x OR the energy released by the warm water and the mass of the ice
 
-ICE 
 TOSS UP
 MATH
 SHORT ANSWER
@@ -360,10 +359,12 @@ right
 BONUS 
 MATH
 SHORT ANSWER
-Give the median for the following data set: 1, 2, 7, 7, 8, 9, 10, 11. 7.5 
+Give the median for the following data set: 1, 2, 7, 7, 8, 9, 10, 11. 
+7.5 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 A kilowatt-hour is a unit of: 
 W) Charge 
 X) Power 
@@ -372,12 +373,13 @@ Z) Electric potential
 y OR energy 
 
 BONUS 
-ENERGY SHORT ANSWER
+ENERGY
+SHORT ANSWER
 What is the Gibbs free energy, in joules, of chlorine gas formation? 
 0 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Consider two beaches, both with source material from the same granitic mountains. The beach located further from the mountains would have: 
 W) Dark, more angular particles 
@@ -387,12 +389,11 @@ Z) Lighter-colored, more well-rounded, finer particles
 z OR lighter-colored, more well-rounded, finer particles 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT a mechanism of physical and chemical weathering? 
 W) Mass wasting 
 X) Glaciation 
 Y) Frost wedging 
 Z) Groundwater 
-w OR mass wasting 
-
+w OR mass wasting

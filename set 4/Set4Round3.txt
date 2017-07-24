@@ -1,5 +1,4 @@
-﻿  
-TOSS UP
+﻿TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 Which of the following is never considered evidence of a chemical change? 
@@ -22,8 +21,7 @@ y OR it reacts with water to release hydrogen gas
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-A rock is dropped from a building, and a second rock is dropped one second later.  Ignoring air resistance, what happens to the distance between the two rocks 
-over time until one lands?  
+A rock is dropped from a building, and a second rock is dropped one second later.  Ignoring air resistance, what happens to the distance between the two rocks over time until one lands?  
 W) The distance between them will depend on the masses of the rocks 
 X) The distance between them will decrease 
 Y) The distance between them will stay the same 
@@ -34,8 +32,7 @@ BONUS
 PHYSICS
 SHORT ANSWER
 When the drag force acting on a skydiver and the force of gravity are equal, how can you characterize his or her velocity? 
-terminal (accept: constant) 
-
+terminal OR constant 
   
 TOSS UP
 BIOLOGY
@@ -58,7 +55,7 @@ Z) They prefer saltwater
 z OR they prefer saltwater 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Destruction due to an earthquake does NOT vary because of: 
 W) Rock type 
@@ -68,7 +65,7 @@ Z) Distance from the epicenter
 y OR proximity to a volcano 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Waves of energy that come from an earthquake: 
 W) Travel through and along the surface of the earth 
@@ -76,7 +73,6 @@ X) Can be felt at every single point on the surface of the earth
 Y) Travel only along the surface of the earth 
 Z) Are unrelated to movements of magma beneath the surface 
 w OR travel through and along the surface of the earth 
-
   
 TOSS UP
 BIOLOGY
@@ -91,9 +87,7 @@ w OR polyploidy
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-People with insulin-dependent diabetes are now treated with pure human insulin produced by human genes inserted into bacteria. What is the name for an 
-organism produced by taking genes from one organism and inserting them into the cells of a 
-different organism?   
+People with insulin-dependent diabetes are now treated with pure human insulin produced by human genes inserted into bacteria. What is the name for an organism produced by taking genes from one organism and inserting them into the cells of a different organism?   
 W) Clone 
 X) A transgenic organism  
 Y) Hybrid 
@@ -103,18 +97,17 @@ x OR a transgenic organism
 TOSS UP
 MATH
 SHORT ANSWER
-What type of growth does y = 36 7x (read as: y equals 36 times 7 to the power of x) represent? 
+What type of growth does y = 36 7^x (read as: y equals 36 times 7 to the power of x) represent? 
 exponential 
 
 BONUS  
 MATH
 SHORT ANSWER
-Find the length and width in meters of a rectangle with perimeter of 200 meters and maximum possible area. 
-length and width = 50 
+Find the length and width in meters of a rectangle with perimeter of 200 meters and maximum possible area. Type as "L = <num>, W = <num>".
+L = 50, W = 50
 
-  
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following tectonic environments would lead to the formation of the most felsic, silica-rich magma? 
 W) Subduction associated with the Andes Mountains 
@@ -124,7 +117,7 @@ Z) Hot spot underneath Yellowstone
 z OR hot spot underneath yellowstone 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following will NOT help crystallize magma?   
 W) Cooling the liquid 
@@ -138,7 +131,7 @@ PHYSICS
 MULTIPLE CHOICE
 Which one of the following terms is used to indicate the natural tendency of an object to remain at rest or in motion at a constant speed along a straight line? 
 W) Equilibrium 
-X) Inertia (read as: i-NEHR-shah) 
+X) Inertia
 Y) Stability 
 Z) Interaction 
 x OR inertia 
@@ -153,12 +146,11 @@ Y) Translational and rotational
 Z) Random and periodic 
 y OR translational and rotational 
 
-  
 TOSS UP
 BIOLOGY
 SHORT ANSWER
 Name the process in which a parent cell divides into two identical daughter cells. 
-mitosis (accept: cytokinesis) 
+mitosis OR cytokinesis
 
 BONUS  
 BIOLOGY
@@ -182,12 +174,11 @@ Y) Beryllium
 Z) Oxygen 
 y OR beryllium 
 
-  
 TOSS UP
 PHYSICS
 SHORT ANSWER
 How does the center of mass of an object change when going from a 1 g to a 0 g environment? 
-it does not change 
+does not change OR stays the same OR does not 
 
 BONUS  
 PHYSICS
@@ -219,36 +210,36 @@ Y) Phosphate
 Z) Hydroxide 
 y OR phosphate 
 
-  
 TOSS UP
 MATH
 SHORT ANSWER
-When the discriminant of a quadratic function ax2 + bx + c = 0 is greater than 0, how many x intercepts does the graph have? 
+When the discriminant of a quadratic function ax^2 + bx + c = 0 is greater than 0, how many x intercepts does the graph have? 
 2 
 
 BONUS  
 MATH
 SHORT ANSWER
-Give all solutions for h in the following equation: h2 + 3h = - 2. h = -2 and h = -1 
+Give all solutions for h in the following equation: h^2 + 3h = - 2. Type as "h = <num>, <num>".
+h = -2, -1 OR h = -1, -2
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 What is the challenge with regard to wind energy and transmission line capacity? 
 W) Not enough transmission lines connect cities to the windiest parts of the country 
 X) Transmission lines only have the capacity to transfer wind energy from small turbines 
 Y) Transmission lines must be buried 
 Z) We have more transmission lines than our power plants can currently support 
-w OR not enough transmission lines connect cities to the windiest 
+w OR not enough transmission lines connect cities to the windiest parts of the country
 
-PARTS OF THE COUNTRY 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 A wind energy system first converts the kinetic energy of the wind into what type of energy? 
 mechanical 
-
   
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Approximately what percentage of the Earth's surface is covered by ocean? 
 W) 50% 
@@ -258,7 +249,7 @@ Z) 99%
 x OR 70% 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Where is the youngest ocean floor found? 
 W) Mid-ocean ridges 
@@ -277,32 +268,30 @@ BONUS
 MATH
 SHORT ANSWER
 Give the numerical value for the number of different orders in which 7 people can line up at a cash register? 
-5,040 
-
+5040 
   
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Roberto lives in Florida. Which of the following is NOT a way that he could use less energy at home? 
 W) Close the window curtains during the day in the summer 
 X) Open the curtains on south-facing windows during the day in the winter 
 Y) Hang his wet clothes on clotheslines outside when it is sunny 
 Z) Turn thermostats to a colder temperature during the summer 
-z OR turn thermostats to a colder temperature during the 
+z OR turn thermostats to a colder temperature during the summer
 
-SUMMER 
 BONUS  
-ENERGY MULTIPLE CHOICE
-A clothes dryer can be a high consumer of household electricity. Which of the following options is NOT a way in which to reduce energy consumption when using 
-your clothes dryer? 
+ENERGY 
+MULTIPLE CHOICE
+A clothes dryer can be a high consumer of household electricity. Which of the following options is NOT a way in which to reduce energy consumption when using your clothes dryer? 
 W) Purchase a dryer model that has an ENERGY STAR label 
 X) Use the moisture sensor option, if you have one 
 Y) Clean the lint filter to improve the efficiency of the dryer 
 Z) Scrub the lint filter if you use dryer sheets 
-w OR purchase a dryer model that has an energy star label* 
+w OR purchase a dryer model that has an energy star label 
 
-[*NOTE: THERE ARE NO ENERGY STAR DRYERS- SEE WWW.ENERGYSTAR.GOV] 
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following units are typically used when measuring a star’s lifespan? 
 W) Months 
@@ -312,14 +301,14 @@ Z) Light years
 y OR millions or billions of years 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 Rank the following stars from that with the shortest lifespan to that with the longest lifespan: red dwarf, supergiant, main sequence. 
 supergiant, main sequence, red dwarf 
 
-  
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which of the following best defines biodiesel? 
 W) Ethanol 
 X) Raw vegetable oil 
@@ -328,9 +317,9 @@ Z) U.S. diesel fuel
 y OR alternative diesel fuel produced from renewable resources 
 
 BONUS  
-ENERGY SHORT ANSWER
-Gas to liquids, or GTL, fuels are produced by converting natural gas into liquid fuels. Which of the following is NOT a benefit for production and use of GTL 
-fuels? 
+ENERGY 
+MULTIPLE CHOICE
+Gas to liquids, or GTL, fuels are produced by converting natural gas into liquid fuels. Which of the following is NOT a benefit for production and use of GTL fuels? 
 W) They are cleaner than conventional petroleum-based diesel fuel 
 X) They are compatible with the current petroleum infrastructure 
 Y) They can be produced domestically 
@@ -338,7 +327,7 @@ Z) GTL plants are relatively inexpensive to build
 z OR gtl plants are relatively inexpensive to build 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is a characteristic of an intrusive, igneous rock? 
 W) Vesicles 
@@ -348,7 +337,7 @@ Z) Glassy luster
 x OR large interlocking crystals 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following processes would most likely lead to the formation of a metamorphic rock?   
 W) Precipitate forming at the bottom of the oceans 
@@ -357,7 +346,6 @@ Y) High speed ejection from a cone
 Z) Crystals cooling from magma 
 x OR mountain building 
 
-  
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -387,10 +375,8 @@ What is the fifth number in the geometric sequence that begins: 27, 9, 3, 1?
 BONUS  
 MATH
 SHORT ANSWER
-AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18˚ and angle CFE is 
-125˚, what is the measure of angle AEC? 
-37° 
-
+AB and CD are parallel line segments intersected by the line segment EF. Endpoint E lies on AB, and endpoint F lies on CD. If angle CEF is 18˚ and angle CFE is 125˚, what is the measure of angle AEC? Type as "<number> degrees".
+37 degrees
   
 TOSS UP
 PHYSICS
@@ -405,10 +391,7 @@ z OR acceleration
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-In 1901, 63-year-old retired schoolteacher Annie Edson Taylor went over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters. 
-Using 9.8 meters per second squared as the acceleration due to gravity; about how long in 
-seconds did it take for her to reach the water surface? Assume that her initial velocity was zero, 
-and neglect the effect of the air on the barrel during the fall. 
+In 1901, 63-year-old retired schoolteacher Annie Edson Taylor went over the Niagara Falls in a barrel. The Horseshoe Falls have a height of about 51 meters. Using 9.8 meters per second squared as the acceleration due to gravity; about how long in seconds did it take for her to reach the water surface? Assume that her initial velocity was zero, and neglect the effect of the air on the barrel during the fall. 
 W) Between 3 and 4 seconds 
 X) Between 5 and 6 seconds 
 Y) Between 10 and 11 seconds 
@@ -424,9 +407,8 @@ Bethany and Charlene are 7 years apart in age. In two years, Charlene will be tw
 BONUS  
 MATH
 SHORT ANSWER
-Evaluate y = 5x2 + 4x3 + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2. 
+Evaluate y = 5x^2 + 4x^3 + 12 (read as: 5x squared plus 4 x cubed plus 12) when x = -2. 
 0 
-
   
 TOSS UP
 CHEMISTRY
@@ -447,4 +429,3 @@ X) It is homogeneous
 Y) It has a constant melting point 
 Z) Centrifuging can separate the components 
 z OR centrifuging can separate the components 
-

@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 Which of the following strong acids, all at 0.1 molar concentration, will have the LOWEST pH value: 
@@ -12,7 +12,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 Giving its proper charge, what is the oxidation number of the manganese atom in the following compound:  MnO4–  (read as: M, N, O, 4, minus) 
-+7 (accept: 7) 
++7 OR 7 
 
 TOSS UP
 PHYSICS
@@ -27,9 +27,8 @@ w OR a conductor with a very fine point
 BONUS 
 PHYSICS
 SHORT ANSWER
-Rounded to the nearest thousand, how many joules of work are done in pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain 
-that makes a 45º angle with the surface? 
-14,000 
+Rounded to the nearest thousand, how many joules of work are done in pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain that makes a 45º angle with the surface? 
+14000 OR 14000 J 
 
 TOSS UP
 BIOLOGY
@@ -39,9 +38,8 @@ W)  only double-stranded DNA
 X)  only single-stranded DNA or double-stranded DNA  
 Y)  only double-stranded DNA or double-stranded RNA  
 Z)  either single-stranded DNA and RNA or double-stranded DNA and RNA   
-z OR either single-stranded dna and rna  or double-stranded 
+z OR either single-stranded dna and rna  or double-stranded DNA and RNA
 
-DNA AND RNA   
 BONUS 
 BIOLOGY
 MULTIPLE CHOICE
@@ -56,7 +54,7 @@ TOSS UP
 MATH
 SHORT ANSWER
 A circle has a radius of 8 centimeters. Find the central angle, in degrees, of a sector of a circle if its arc length is 2π centimeters: 
-45 
+45 OR 45 degrees
 
 BONUS 
 MATH
@@ -86,14 +84,12 @@ W)  monsoon climates typically lack seasonal precipitation
 X)  a prolonged rain-shadow effect would most likely produce a tropical climate 
 Y)  chaparral vegetation predominates in Mediterranean climates 
 Z)  grassland steppes predominate in humid, mid-latitude conditions 
-y OR chaparral vegetation predominates in mediterranean 
+y OR chaparral vegetation predominates in mediterranean climates
 
-CLIMATES 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-Rooted plants that grow below the surface of the water are called submerged plants.  Which of the following is BEST classified as a freshwater submerged 
-plant: 
+Rooted plants that grow below the surface of the water are called submerged plants.  Which of the following is BEST classified as a freshwater submerged plant: 
 W)  common reed 
 X)  sedges 
 Y)  water lilies 
@@ -104,7 +100,7 @@ BONUS
 GENERAL SCIENCE
 SHORT ANSWER
 What is the decimal number 84 in binary? 
-1010100 (must read as: one-zero-one-zero-one-zero-zero) 
+1010100
 
 TOSS UP
 ASTRONOMY
@@ -129,8 +125,8 @@ y OR planetary nebula
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-In which positions on the benzene ring are the methyl groups found in the compound o-xylene or ortho-xylene (read as:  ORTHO-ZIE-lean): 
-1 and 2 (accept: 2 and 1) 
+In which positions on the benzene ring are the methyl groups found in the compound o-xylene or ortho-xylene (read as:  ORTHO-ZIE-lean)? Type as "<number> and <number>"
+1 and 2 OR 2 and 1
 
 BONUS 
 CHEMISTRY
@@ -155,16 +151,13 @@ x OR rutherford
 BONUS 
 PHYSICS
 SHORT ANSWER
-A pole vaulter with a mass of 150 kilograms is traveling at 25 meters per second just prior to landing on an air mattress which collapses and allows the vaulter to come to 
-rest over a period of 2.0 seconds.  What was the force of the impact between the vaulter and the air 
-mattress, in newtons? 
-1875 
+A pole vaulter with a mass of 150 kilograms is traveling at 25 meters per second just prior to landing on an air mattress which collapses and allows the vaulter to come to rest over a period of 2.0 seconds.  What was the force of the impact between the vaulter and the air mattress, in newtons? 
+1875 OR 1875 m OR 1875 meters
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-TSH causes the thyroid to produce more T3. When T3 rises, it flows through the blood to the brain to decrease the release of TSH.  Which of the following is the 
-MOST accurate and common term for this physiological phenomenon: 
+TSH causes the thyroid to produce more T3. When T3 rises, it flows through the blood to the brain to decrease the release of TSH.  Which of the following is the MOST accurate and common term for this physiological phenomenon: 
 W)  metabolic reaction 
 X)  hormonal balance 
 Y)  negative feedback 
@@ -195,13 +188,12 @@ BONUS
 MATH
 SHORT ANSWER
 Giving your answer in standard form, what is the fourth term in the binomial expansion of the following:  (4x + y)4 
-16xy3 (accept: 16y3x) 
+16xy^3 OR 16y^3x 
 
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following is a physical weathering process caused by a chemical change where there is a weakening and scaling off of successive layers to 
-produce a rounded rock: 
+Which of the following is a physical weathering process caused by a chemical change where there is a weakening and scaling off of successive layers to produce a rounded rock: 
 W)  frost action  
 X)  exfoliation 
 Y)  abrasion 
@@ -211,27 +203,23 @@ x OR exfoliation
 BONUS 
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following is one of the main reasons why geologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid 
-Fault in Kentucky, Mississippi and Tennessee: 
+Which of the following is one of the main reasons why geologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid Fault in Kentucky, Mississippi and Tennessee: 
 W)  the underlying geology is loose sand and mud deposited by the Mississippi River 
 X)  it overlies a deep transform fault margin much like the San Andreas fault  
 Y)  it lies over a fast-moving modern plate boundary 
 Z)  it lies over a deep, subterranean hot spot 
-w OR the underlying geology is loose sand and mud deposited 
+w OR the underlying geology is loose sand and mud deposited by the Mississippi River
 
-BY THE MISSISSIPPI RIVER 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT true: 
-W)  nanometer-thick films that roll themselves into tubes and other useful shapes have been recently 
-discovered 
+W)  nanometer-thick films that roll themselves into tubes and other useful shapes have been recently discovered 
 X)  counting annual growth lines in dinosaur bones can be used to estimate their age at death 
 Y)  amphibian population declines and extinctions are global and rapid 
 Z)  epiphytic plants such as many orchids are considered parasitic plants 
-z OR epiphytic plants such as many orchids are considered 
-
-PARASITIC PLANTS 
+z OR epiphytic plants such as many orchids are considered parasitic plants
+ 
 BONUS 
 GENERAL SCIENCE
 MULTIPLE CHOICE
@@ -266,7 +254,7 @@ TOSS UP
 CHEMISTRY
 SHORT ANSWER
 Predict the bond angle or shape for the central atom in a molecule of beryllium dichloride: 
-180º (accept: linear) 
+180 OR 180 degrees OR linear
 
 BONUS 
 CHEMISTRY
@@ -291,8 +279,7 @@ y OR radar system
 BONUS 
 PHYSICS
 MULTIPLE CHOICE
-The radar system associated with the automatic doors at a local grocery store uses 10.5 gigahertz radiation.  If the door is to open for a person walking towards it at 
-1 meter per second, which Doppler shift must the radar system be able to detect: 
+The radar system associated with the automatic doors at a local grocery store uses 10.5 gigahertz radiation.  If the door is to open for a person walking towards it at 1 meter per second, which Doppler shift must the radar system be able to detect: 
 W)  a red shift of 2 hertz  
 X)  a blue shift of 35 hertz 
 Y)  a red shift of 160 hertz 
@@ -324,10 +311,10 @@ MATH
 MULTIPLE CHOICE
 Which of the following has a graph that is a parabola that opens downward: 
 W)  f(x) = 3x + 1 
-X)  f(x) = x2 – 2  
-Y)  f(x) = –x2  
+X)  f(x) = x^2 – 2  
+Y)  f(x) = –x^2  
 Z)  f(x) = x3 
-y OR f(x) = –x2 
+y OR f(x) = –x^2 
 
 BONUS 
 MATH
@@ -358,8 +345,7 @@ w OR an ocean
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-What type of fluorescence is produced in "Glow Sticks" that are widely found on the market today and which glow for hours after the stick is 
-"broken" to allow for the mixture of different substances: 
+What type of fluorescence is produced in "Glow Sticks" that are widely found on the market today and which glow for hours after the stick is "broken" to allow for the mixture of different substances: 
 W)  thermoluminescence  
 X)  triboluminescence 
 Y)  photoluminescence 
@@ -380,41 +366,37 @@ TOSS UP
 ASTRONOMY
 SHORT ANSWER
 Name all of the following 4 celestial objects that are typically considered minor planets:  Ceres;  Titan;  Mercury;  Juno 
-ceres and juno 
+ceres, juno OR juno, ceres OR ceres and juno OR juno and ceres
 
 BONUS 
 ASTRONOMY
 SHORT ANSWER
 How many times as great will light-gathering power of a reflector telescope be if the radius of its primary mirror is doubled? 
-4 
+4 OR 4x OR 4 times
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What is the systematic IUPAC name for the compound Fe(NO2)3? 
-iron (iii) nitrite (read as: iron three nitrite) (must be exact) 
+iron(iii) nitrite OR iron (iii) nitrite
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
 To the second decimal place, what is the concentration of nitrate ions, in moles per liter, in a 0.26 molar Al(NO3)3 solution? 
-0.78 
+0.78 OR 0.78 mol/L or .78 OR .78 mol/L
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Billy drops his teddy bear out of the car window 2 meters from the ground while his father is driving down Main Street at 20 meters per second.  In seconds to the first 
-decimal place, how long does it take for the bear to hit the ground, assuming air resistance is 
-neglected? 
-0.6 
+Billy drops his teddy bear out of the car window 2 meters from the ground while his father is driving down Main Street at 20 meters per second.  In seconds to the first decimal place, how long does it take for the bear to hit the ground, assuming air resistance is neglected? 
+0.6 OR 0.6 s OR .6 OR .6 s
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Using your rounded answer to the above question and remembering that the father is driving down Main Street at 20 meters per second, how far will the bear travel 
-horizontally before striking the ground, rounded to the nearest whole meter and again assuming air 
-resistance is neglected? 
-12 
+Using your rounded answer to the above question and remembering that the father is driving down Main Street at 20 meters per second, how far will the bear travel horizontally before striking the ground, rounded to the nearest whole meter and again assuming air resistance is neglected? 
+12 OR 12 m OR 12 meters
 
 TOSS UP
 BIOLOGY
@@ -425,20 +407,17 @@ progesterone
 BONUS 
 BIOLOGY
 SHORT ANSWER
-Name all of the following 4 physiological inputs that affect the homeostatic actions of the hypothalamus in humans:   
-limbic system;  olfactory system;  retina;  reticular formation 
-all 
+Name all of the following 4 physiological inputs that affect the homeostatic actions of the hypothalamus in humans: limbic system;  olfactory system;  retina;  reticular formation 
+all OR limbic system, olfactory system, retina, reticular formation 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 What is the underwater pressure in atmospheres in a fresh water lake at a depth of 20 meters? 
-3 
+3 OR 3 atm OR 3 atmospheres
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-What is the resonant frequency, in hertz to the nearest whole number, of a three-component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm 
-resister? 
-80 
-
+What is the resonant frequency, in hertz to the nearest whole number, of a three-component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm resister? 
+80 OR 80 hertz OR 80 hz

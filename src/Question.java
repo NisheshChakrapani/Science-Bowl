@@ -120,4 +120,8 @@ public class Question {
         String line = Arrays.toString(this.answers);
         return line.substring(1, line.length()-1);
     }
+
+    public String getTopic() {
+        return this.topic;
+    }
 }

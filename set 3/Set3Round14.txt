@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 Which of the following molecules has an electron pair geometry that matches its molecular geometry: 
@@ -28,9 +28,8 @@ BONUS
 PHYSICS
 SHORT ANSWER
 What is the principle or law that fundamentally limits the accuracy of specifying at the same time the momentum and position of a particle? 
-heisenberg uncertainty principle (accept: uncertainty 
+heisenberg uncertainty principle OR uncertainty principle
 
-PRINCIPLE) 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -39,15 +38,13 @@ W)  non-sister chromatids of homologous chromosomes cross over
 X)  sister chromatids of homologous chromosomes cross over 
 Y)  non-sister chromatids of non-homologous chromosomes cross over 
 Z)  sister chromatids of non-homologous chromosomes cross over 
-w OR non-sister chromatids of homologous chromosomes cross 
+w OR non-sister chromatids of homologous chromosomes cross over
 
-OVER 
 BONUS 
 BIOLOGY
 SHORT ANSWER
-If 2n is the number of chromosomes and 2s is the DNA content of a diploid human cell in G1 of the cell cycle, what are the n and s values, respectively, of a human 
-spermatogonia at the end of telophase one of meiosis? 
-1n and 2s 
+If 2n is the number of chromosomes and 2s is the DNA content of a diploid human cell in G1 of the cell cycle, what are the n and s values, respectively, of a human spermatogonia at the end of telophase one of meiosis? 
+1n and 2s OR 1n, 2s
 
 TOSS UP
 MATH
@@ -59,7 +56,7 @@ BONUS
 MATH
 SHORT ANSWER
 Find the value of k that will result in a unique, real solution for the following equation:  kx2 + 10x + 25 = 0 
-1 
+1 OR k = 1
 
 TOSS UP
 EARTH SCIENCE
@@ -74,8 +71,7 @@ w OR darcy’s law
 BONUS 
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following is a type of inland fog that occurs more often in spring when warm, moist air is cooled below its dew point as it moves over a cooler 
-surface: 
+Which of the following is a type of inland fog that occurs more often in spring when warm, moist air is cooled below its dew point as it moves over a cooler surface: 
 W)  advection fog 
 X)  radiation fog 
 Y)  reflection fog 
@@ -90,21 +86,18 @@ W)  salt-water intrusion in coastal wells
 X)  the leaching out of toxic heavy metals in lakes and streams 
 Y)  increase in radioactive decay of parent bedrock 
 Z)  increased algal growth to cause eutrophication in lakes 
-x OR the leaching out of toxic heavy metals in lakes and 
+x OR the leaching out of toxic heavy metals in lakes and streams
 
-STREAMS 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
-About two-thirds of the cause of acid precipitation is the production of sulfuric acid in the atmosphere.  The production of what acid accounts for about the 
-other one-third of acid rain? 
-nitric acid (accept: nitrous) 
+About two-thirds of the cause of acid precipitation is the production of sulfuric acid in the atmosphere.  The production of what acid accounts for about the other one-third of acid rain? 
+nitric acid OR nitric OR nitrous acid OR nitrous
 
 TOSS UP
 ASTRONOMY
 MULTIPLE CHOICE
-If an astronomer photographed a massive cloud of ionized hydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically 
-appear to us: 
+If an astronomer photographed a massive cloud of ionized hydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically appear to us: 
 W)  white 
 X)  green 
 Y)  pink 
@@ -147,19 +140,15 @@ MULTIPLE CHOICE
 Which of the following was the big surprise in the classic gold foil experiments of Rutherford, Geiger and Marsden: 
 W)  alpha particles sometimes disappeared 
 X)  electrons would not penetrate the nucleus 
-Y)  the atom was mostly space as supported by the finding that most alpha particles continued on a 
-straight path and hit the rear of the detection screen 
-Z)  some alpha particles left evidence of having returned almost straight back to hit the front part of 
-the detection screen 
-z OR some alpha particles left evidence of having returned 
+Y)  the atom was mostly space as supported by the finding that most alpha particles continued on a straight path and hit the rear of the detection screen 
+Z)  some alpha particles left evidence of having returned almost straight back to hit the front part of the detection screen 
+z OR some alpha particles left evidence of having returned almost straight back to hit the front part of the detection screen 
 
-ALMOST STRAIGHT BACK TO HIT THE FRONT PART OF THE DETECTION SCREEN 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Most of the early classical experiments with alpha particles were done by Rutherford and co-workers using a simple scintillation detector, which was a screen most 
-commonly coated with what substance? 
-zinc sulfide (accept: zns) 
+Most of the early classical experiments with alpha particles were done by Rutherford and co-workers using a simple scintillation detector, which was a screen most commonly coated with what substance? 
+zinc sulfide OR ZnS 
 
 TOSS UP
 BIOLOGY
@@ -169,34 +158,26 @@ W)  they are relatively large organelles and can exceed 3 microns long
 X)  thay have smaller ribosomes than are found in the plant cytosol 
 Y)  they contain thylakoid (read as: THY-la-koid) stacks 
 Z)  their numbers are controlled primarily by the cell’s nuclear genes that control division 
-z OR their numbers are controlled primarily by the cell’s 
+z OR their numbers are controlled primarily by the cell’s nuclear genes that control division 
 
-NUCLEAR GENES THAT CONTROL DIVISION 
 BONUS 
 BIOLOGY
 SHORT ANSWER
-By number or name, identify all of the following 4 areas of plants where you would be MOST likely to see meristematic tissue: 
- 1)  longitudinal section of a terminal bud 
- 2)  cross-section of the pith of a sunflower stem 
- 3)  transverse section of a lateral root tip 
- 4)  cross-section of central parenchymal cells of a corn stem 
-1 and 3 (accept: 1 - longitudinal section of a terminal bud and 
+By number, identify all of the following 4 areas of plants where you would be MOST likely to see meristematic tissue: 1)  longitudinal section of a terminal bud; 2)  cross-section of the pith of a sunflower stem; 3)  transverse section of a lateral root tip; 4)  cross-section of central parenchymal cells of a corn stem 
+1 and 3 OR 1, 3 OR 3 and 1 OR 3, 1
 
-3 - TRANSVERSE SECTION OF A LATERAL ROOT TIP) 
 TOSS UP
 MATH
 SHORT ANSWER
 Giving your answer as one, two, three, or four, in what quadrant will theta terminate if sine θ and secant θ are both negative? 
-3 
+3 OR III
 
 BONUS 
 MATH
 SHORT ANSWER
 Differentiate and simplify the following with respect to x: y = ln x (read as: y = natural log of absolute value of x) 
+1/x
 
-
-x
-1  
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
@@ -225,9 +206,8 @@ W)  the molecular formula for dimethyl sulfoxide is C2H6SO
 X)  black smokers are a type of hydrothermal vent found on the ocean floor 
 Y)  Io is the most volcanically active body in our Solar System 
 Z)  on a weather map, an adjacent series of closed half-circles along a line represents a cold front 
-z OR on a weather map, an adjacent series of closed half-circles 
+z OR on a weather map, an adjacent series of closed half-circles along a line represents a cold front
 
-ALONG A LINE REPRESENTS A COLD FRONT 
 BONUS 
 GENERAL SCIENCE
 MULTIPLE CHOICE
@@ -239,8 +219,9 @@ Z)  the thickness of sea ice over the Arctic Ocean is decreasing
 x OR river discharge is decreasing 
 
 TOSS UP
-14)  ASTRONOMY  Multiple choice  According to the location in the H-R diagram, which of the 
-following stars has the highest absolute visual magnitude and is also the hottest: 
+ASTRONOMY
+MULTIPLE CHOICE
+According to the location in the H-R diagram, which of the following stars has the highest absolute visual magnitude and is also the hottest: 
 W)  one located in the upper left of the diagram 
 X)  one located in the upper right of the diagram 
 Y)  one located in the lower left of the diagram 
@@ -250,8 +231,7 @@ w OR one located in the upper left of the diagram
 BONUS 
 ASTRONOMY
 SHORT ANSWER
-What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a 
-magnetic field? 
+What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a magnetic field? 
 zeeman effect 
 
 TOSS UP
@@ -265,8 +245,9 @@ Z)  delta H products plus delta H reactants
 w OR delta h products minus delta h reactants 
 
 BONUS 
-15)  CHEMISTRY  Short answer  In crystallography, what is the coordination number, or number of 
-nearest neighbors, of an atom in the simple cubic unit cell structure? 
+CHEMISTRY 
+SHORT ANSWER
+In crystallography, what is the coordination number, or number of nearest neighbors, of an atom in the simple cubic unit cell structure? 
 6 
 
 TOSS UP
@@ -276,16 +257,14 @@ Which of the following is NOT true:
 W)  the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus 
 X)  the tritium nucleus contains 3 nucleons 
 Y)  it is typically easier to fission U-238 than U-235 with slow neutrons 
-Z)  fission fragments of a nucleus are more often about 60% and 40% of the original mass of the 
-atom than 50% and 50% 
-y OR it is typically easier to fission u-238 than u-235 with slow 
+Z)  fission fragments of a nucleus are more often about 60% and 40% of the original mass of the atom than 50% and 50% 
+y OR it is typically easier to fission u-238 than u-235 with slow neutrons
 
-NEUTRONS 
 BONUS 
 PHYSICS
 SHORT ANSWER
 In the Standard Model of particle physics, all forces arise because of the exchange of what fundamental class of particles? 
-bosons 
+bosons OR boson
 
 TOSS UP
 BIOLOGY
@@ -311,7 +290,7 @@ TOSS UP
 MATH
 SHORT ANSWER
 Simplify the following trigonometric expression completely: cos θ tan θ (read as: cosine theta tangent theta) 
-sin θ 
+sin θ OR sin theta
 
 BONUS 
 MATH
@@ -332,8 +311,7 @@ z OR bergshrund
 BONUS 
 EARTH SCIENCE
 MULTIPLE CHOICE
-Analysis of which of the following isotopes is most commonly used because it gives the BEST indication of historical temperatures at different latitudes 
-worldwide: 
+Analysis of which of the following isotopes is most commonly used because it gives the BEST indication of historical temperatures at different latitudes worldwide: 
 W)  oxygen 
 X)  carbon 
 Y)  nitrogen 
@@ -354,9 +332,8 @@ W)  directly inhibits the electron transport system in bacteria
 X)  inhibits in vivo endotoxin formation 
 Y)  binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane 
 Z)  binds to 30-S ribosomal subunit 
-y OR binds to a bacterial cell wall precursor to form damaging 
+y OR binds to a bacterial cell wall precursor to form damaging pores in the plasma membrane
 
-PORES IN THE PLASMA MEMBRANE 
 TOSS UP
 ASTRONOMY
 SHORT ANSWER
@@ -367,32 +344,31 @@ BONUS
 ASTRONOMY
 SHORT ANSWER
 How many degrees of arc are in 4 hours and 20 minutes of right ascension? 
-65 degrees 
+65 degrees OR 65
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 What is the focal length, in centimeters and giving the proper sign, of a convex mirror that has a radius of curvature of 12 centimeters? 
-–6 
+–6 OR -6 cm OR -6 centimeters
 
 BONUS 
 PHYSICS
 SHORT ANSWER
 Rutherford and coworkers in the early 20th century found that when alpha particles strike nitrogen-14 nuclei, they most commonly produce what element? 
-oxygen (accept: oxygen-17 or o-17) 
+oxygen OR o OR oxygen-17 OR o-17 OR o 17
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 Predict the bond angles, in degrees, for atoms in a molecule of boron trichloride: 
-120º (accept: three 120º) 
+120 OR 120 degrees OR three 120 OR three 120 degrees
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.3 kilopascals.  What is the volume in the balloon, in 
-liters to the nearest whole number? 
-74 
+Consider a flexible balloon filled with 3.0 moles of helium at a temperature of 27ºC and at a pressure of 101.3 kilopascals.  What is the volume in the balloon, in liters to the nearest whole number? 
+74 OR 74 L OR 74 Liters
 
 TOSS UP
 BIOLOGY
@@ -403,22 +379,17 @@ s
 BONUS 
 BIOLOGY
 SHORT ANSWER
-For a dihybrid cross between parent plants that are each heterozygous for both traits, if there is complete dominance and independent assortment, what is the 
-total fraction of the offspring that will have a recessive phenotype for either trait and the dominant 
-for the other? 
-6/16 (accept: 3/8) 
+For a dihybrid cross between parent plants that are each heterozygous for both traits, if there is complete dominance and independent assortment, what is the total fraction of the offspring that will have a recessive phenotype for either trait and the dominant for the other? 
+6/16 OR 3/8
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 What is the angular velocity, in radians per second, of a wagon wheel with a diameter of 2 meters and a surface velocity of 3 meters per second? 
-3 
+3 OR 3 rad/s OR 3 radians/second
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-The dread pirate Roberts orders his crew into a 100 kilogram rowboat to sail to an island to look for buried treasure.  If the rowboat has a capacity of 1.10 cubic meters and 
-is in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink? 
-20 
-
-9,800N.  Each person weighs (50kg)( 9.8m/s2) = 490N;  9800N/490N = 20 pirates)  
+The dread pirate Roberts orders his crew into a 100 kilogram rowboat to sail to an island to look for buried treasure.  If the rowboat has a capacity of 1.10 cubic meters and is in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink? 
+20

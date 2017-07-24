@@ -1,16 +1,16 @@
-  
-TOSS UP
-ENERGY MULTIPLE CHOICE
+﻿TOSS UP
+ENERGY 
+MULTIPLE CHOICE
 Bioplastics are plastics derived from plant sources, rather than petroleum. Which of the following is NOT a way in which bioplastics can be made? 
 W) Intracellular production by the fermentation of a feedstock 
 X) Engineering a crop to grow the plastic within the plant itself 
 Y) Fermentation of a cereal to make precursors, which would then be processed into bioplastics 
 Z) Fermentation of the waste water from the conventional manufacture of corn syrup 
-z OR fermentation of the waste water from the conventional 
-
-MANUFACTURE OF CORN SYRUP  
+z OR fermentation of the waste water from the conventional manufacture of corn syrup
+ 
 BONUS  
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which of the following is NOT an accurate representation of a limitation on the production and use of bioplastics?   
 W) Using crops to produce plastic diverts plants from the food supply 
 X) Bioplastics are unlikely to disintegrate in a landfill 
@@ -21,20 +21,19 @@ y OR bioplastics produce a variety of pollutants when burned
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-Name the following compound: N2O4. dinitrogen tetroxide (also accept: nitrogen tetroxide, 
-
-NITROGEN PEROXIDE) 
+Name the following compound: N2O4. 
+dinitrogen tetroxide OR nitrogen tetroxide OR nitrogen peroxide
+ 
 BONUS  
 CHEMISTRY
 SHORT ANSWER
 What is the equation for the combustion of octane? 
 2c8h18 + 25o2 18h2o + 16co2 
-
   
 TOSS UP
-3) MATH  Multiple choice  Psoriasis, a chronic skin disorder caused by the immune system, 
-affects 1% to 2% of Caucasians. If there are 16,098,000 Caucasians in New York State, about 
-how many would be expected to have psoriasis? 
+MATH
+MULTIPLE CHOICE
+Psoriasis, a chronic skin disorder caused by the immune system, affects 1% to 2% of Caucasians. If there are 16,098,000 Caucasians in New York State, about how many would be expected to have psoriasis? 
 W) Between 16,000 and 32,000 
 X) Between 160,000 and 325,000 
 Y) Between 1,600,000 and 3,220,000 
@@ -60,14 +59,11 @@ z OR magnitude of displacement less than or equal to distance
 BONUS  
 PHYSICS
 SHORT ANSWER
-José and Rosie were spelunking in the caves in the Black Hills of South Dakota. They crawled through a multitude of passages, traveling a net 3 kilometers 
-westward, 4 kilometers south, and 50 meters up. What was magnitude of their overall 
-displacement to the nearest kilometer? 
-5 
-
+José and Rosie were spelunking in the caves in the Black Hills of South Dakota. They crawled through a multitude of passages, traveling a net 3 kilometers westward, 4 kilometers south, and 50 meters up. What was magnitude of their overall displacement to the nearest kilometer? 
+5 OR 5 km OR 5 kilometers
   
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 In the last 4 billion years, the average brightness of the Sun has: 
 W) Increased 
@@ -77,26 +73,26 @@ Z) Increased, then decreased
 w OR increased 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 What are explosive events associated with sunspots that cause spectacular auroras in Earth’s upper atmosphere near its magnetic poles? 
 solar flares 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-The Lorentz force acting on a particle moving in electric and magnetic fields depends on what two characteristics of the particle? 
-charge and velocity (do not accept: speed) 
+The Lorentz force acting on a particle moving in electric and magnetic fields depends on what two characteristics of the particle? Type as "<answer1> and <answer2>".
+charge and velocity OR velocity and charge
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 The interior light in a car is left on for three hours. The light draws 1 ampere from the battery. How many coulombs flowed through the light? 
-10,800 
-
+10800 OR 10800 coulombs
   
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Where is most of the uranium used in the United States mined? 
 W) United States 
 X) Middle East 
@@ -105,11 +101,10 @@ Z) South America
 w OR united states 
 
 BONUS  
-ENERGY SHORT ANSWER
-Uranium is usually found in trace concentrations, so it generally has to be extracted from uranium ore. Name the term for concentrated uranium oxide, which can 
-vary in color from yellow, orange, and dark green to brown and black, produced from uranium 
-ore in the uranium recovery process. 
-yellowcake (accept: u3o8, triuranium octoxide) 
+ENERGY 
+SHORT ANSWER
+Uranium is usually found in trace concentrations, so it generally has to be extracted from uranium ore. Name the term for concentrated uranium oxide, which can vary in color from yellow, orange, and dark green to brown and black, produced from uranium ore in the uranium recovery process. 
+yellowcake OR u3o8 OR triuranium octoxide
 
 TOSS UP
 MATH
@@ -120,18 +115,16 @@ g < 5
 BONUS  
 MATH
 MULTIPLE CHOICE
-If f(x) (read as: f of x) represents the function whose graph is the standard normal distribution curve, then how do the inflection points on the curve for 2f(x) (read 
-as: 2 f of x) compare to those of f(x)? 
+If f(x) (read as: f of x) represents the function whose graph is the standard normal distribution curve, then how do the inflection points on the curve for 2f(x) (read as: 2 f of x) compare to those of f(x)? 
 W) Both curves have the same inflection points 
 X) The 2f(x) inflection points are twice as far apart but the same height 
 Y) The 2f(x) inflection points are twice as high but the same distance apart 
 Z) The 2f(x) inflection points are both twice as far apart and twice as high 
-y OR the 2f(x) inflection points are twice as high but the same 
-
-DISTANCE APART 
+y OR the 2f(x) inflection points are twice as high but the same distance apart
   
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which of the following forms of energy does NOT require bulk motion of physical matter through space? 
 W) Radiant  
 X) Nuclear 
@@ -140,12 +133,13 @@ Z) Hydropower
 w OR radiant 
 
 BONUS  
-ENERGY SHORT ANSWER
-Ionizing radiation, which can penetrate cells and create ions in cell contents, is generated by which two kinds of electromagnetic radiation? 
-x-rays and gamma rays 
+ENERGY 
+SHORT ANSWER
+Ionizing radiation, which can penetrate cells and create ions in cell contents, is generated by which two kinds of electromagnetic radiation? Type as "<answer1> and <answer2>".
+x-rays and gamma rays OR gamma rays OR x-ray and gamma OR gamma and x-ray
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of these atmospheric layers is furthest from the Earth’s surface? 
 W) Stratosphere 
@@ -155,11 +149,10 @@ Z) Troposphere
 y OR thermosphere 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the name of the atmospheric layer that is the closest to the ground? 
 troposphere 
-
   
 TOSS UP
 BIOLOGY
@@ -174,8 +167,7 @@ y OR instinct
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-Honeybees leave the hive to find food. Upon finding food, honeybees return to the hive and dance to tell others how to find the food. This behavior is an 
-example of: 
+Honeybees leave the hive to find food. Upon finding food, honeybees return to the hive and dance to tell others how to find the food. This behavior is an example of: 
 W) Classical conditioning 
 X) Migration 
 Y) Insight learning 
@@ -192,11 +184,10 @@ BONUS
 MATH
 SHORT ANSWER
 Consider the polynomial 5x2 + 13x + 10. How many and what kind of roots does it have? 
-two complex roots 
+two complex roots OR 2 complex roots OR two complex OR 2 complex
 
-  
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT a greenhouse gas? 
 W) Helium  
@@ -206,12 +197,11 @@ Z) Water vapor
 w OR helium 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-There are many sources and sinks on Earth for carbon dioxide. Give the most biologically significant source and sink, respectively.   
-respiration and photosynthesis (in this order) also accept: 
+EARTH SCIENCE
+SHORT ANSWER
+There are many sources and sinks on Earth for carbon dioxide. Give the most biologically significant source and sink, respectively. Type as "source = <answer>, sink = <answer>".
+source = respiration, sink = photosynthesis
 
-SOURCE IS RESPIRATION AND SINK IS PHOTOSYNTHESIS (IN ANY ORDER) 
 TOSS UP
 MATH
 MULTIPLE CHOICE
@@ -225,16 +215,14 @@ x OR 7
 BONUS 
 MATH
 SHORT ANSWER
-What is the point of intersection of these two lines: 
-y = -2x + 3 and y = 3x - 7? 
+What is the point of intersection of these two lines: y = -2x + 3 and y = 3x - 7? 
 (2, -1) 
-
   
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What is standard temperature, in Kelvin, as defined in ideal gas equations? 
-273 kelvin 
+273 kelvin OR 273 k OR 273
 
 BONUS  
 CHEMISTRY
@@ -249,25 +237,23 @@ x OR specific gravity
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Lynne is standing still on a sidewalk. What is the name of the concept which describes why the siren of an approaching fire truck has a higher frequency than 
-that of a fire truck that is stopped? 
-doppler shift (accept: doppler effect) 
+Lynne is standing still on a sidewalk. What is the name of the concept which describes why the siren of an approaching fire truck has a higher frequency than that of a fire truck that is stopped? 
+doppler shift OR doppler effect
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 Which theory attempts to unify physics by producing all known forces and particles as different vibrations of a single substance? 
 string theory 
-
   
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 A map composed of constant elevation lines is known as what kind of map? 
 topographic 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What quality is represented by isobars when looking at a weather map?   
 W) Pressure 
@@ -289,14 +275,12 @@ x OR the withdrawal reflex
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-A withdrawal reflex is initiated by skin receptors that detect external stimuli. The sensory neurons then pass the message on to the spinal cord, where the 
-sensory nerve terminals synapse with which of the following?   
+A withdrawal reflex is initiated by skin receptors that detect external stimuli. The sensory neurons then pass the message on to the spinal cord, where the sensory nerve terminals synapse with which of the following?   
 W) Synaptic neurons 
 X) Intersynapses  
 Y) Sensory synapse  
 Z) Interneurons  
 z OR interneurons 
-
   
 TOSS UP
 CHEMISTRY
@@ -307,8 +291,7 @@ crystal
 BONUS  
 CHEMISTRY
 MULTIPLE CHOICE
-The unit cell in a crystal system may have one of several forms. Which of the following describes a cubic unit cell with one identical particle in the center 
-of the cell? 
+The unit cell in a crystal system may have one of several forms. Which of the following describes a cubic unit cell with one identical particle in the center of the cell? 
 W) Simple cubic 
 X) Orthohombic 
 Y) Triclinic 
@@ -330,7 +313,6 @@ BIOLOGY
 SHORT ANSWER
 What happens when the third phosphate group is removed from ATP by hydrolysis, forming ADP and phosphate? 
 energy is released 
-
   
 TOSS UP
 PHYSICS
@@ -350,11 +332,10 @@ W) The fuels needed for fusion reactions are expensive and difficult to find
 X) Containing the reaction once it has started is difficult 
 Y) Materials used to contain fusion reactions are affected by the high radiation levels 
 Z) Extremely high temperatures are needed to start the reaction  
-w OR the fuels needed for fusion reactions are expensive and 
+w OR the fuels needed for fusion reactions are expensive and difficult to find
 
-DIFFICULT TO FIND 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The core of the Earth is primarily made of iron and which additional element? 
 W) Mercury 
@@ -364,17 +345,16 @@ Z) Barium
 x OR nickel 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Put the following terms in order from the center of the Earth to the surface: mantle, crust, outer core, inner core. 
 inner core, outer core, mantle, crust 
-
   
 TOSS UP
 MATH
 SHORT ANSWER
-What is + (- ) as a fraction in simplest form? 
-
+What is 3/4 + (-5/6) as a fraction in simplest form? 
+-1/12
 
 BONUS  
 MATH
@@ -396,8 +376,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 What process is best described as the fusion of gametes to produce a new organism? 
-fertilization 
-
+fertilization
   
 TOSS UP
 CHEMISTRY
@@ -408,7 +387,5 @@ A pH of of 2 has what pOH?
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-If the electromotive force of the anode in a galvanic cell is -0.76 volts and the electromotive force of the cathode is 0.34 volts, calculate the electromotive 
-force of the cell in volts. Provide your answer as a decimal to the nearest hundredth. 
-+1.10 (do not accept: -1.10) 
-
+If the electromotive force of the anode in a galvanic cell is -0.76 volts and the electromotive force of the cathode is 0.34 volts, calculate the electromotive force of the cell in volts. Provide your answer as a decimal to the nearest hundredth. 
++1.10 OR +1.10 volts OR +1.10 v OR 1.10 OR 1.10 volts OR 1.10 v 
