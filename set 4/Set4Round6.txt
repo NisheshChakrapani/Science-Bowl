@@ -6,20 +6,18 @@ W)  capacitor
 X)  transformer 
 Y)  resistor 
 Z)  diode 
-z OR  diode 
+z OR diode 
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons.  What is the acceleration of the box, giving your answer in standard SI units, if friction 
-is neglected? 
-50 meters per second squared (accept: 50 meters per second per 
+Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons.  What is the acceleration of the box (no units) if friction is neglected? 
+50
 
-SECOND) 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-If pure water is at its boiling point at standard pressure, how many additional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state? 
+If pure water is at its boiling point at standard pressure, how many additional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state? No units.
 540 
 
 BONUS 
@@ -32,9 +30,8 @@ TOSS UP
 BIOLOGY
 SHORT ANSWER
 In what part of photosynthesis, named after its discoverers, is NADPH used to produce 3-carbon sugar phosphate molecules? 
-calvin cycle (accept: calvin-benson cycle or calvin-benson- 
+calvin cycle OR calvin-benson cycle OR calvin-benson-bassham cycle
 
-BASSHAM CYCLE) 
 BONUS 
 BIOLOGY
 SHORT ANSWER
@@ -45,14 +42,13 @@ TOSS UP
 MATH
 SHORT ANSWER
 What is the specific name for a common tangent that intersects the segment joining the centers of 2 circles? 
-internal common tangent (accept: internal or internal 
+internal common tangent OR internal OR internal tangent
 
-TANGENT) 
 BONUS 
 MATH
 SHORT ANSWER
 A flagpole casts a 100-foot long shadow. If a 6-foot tall person standing at the base of the pole casts an 8-foot shadow, how many feet tall is the flagpole? 
-75 
+75 OR 75 ft OR 75 feet
 
 TOSS UP
 EARTH SCIENCE
@@ -62,7 +58,7 @@ W)  they begin to dissolve
 X)  they become thicker  
 Y)  they develop much later in the organism’s life 
 Z)  they become darker 
-w OR  they begin to dissolve 
+w OR they begin to dissolve 
 
 BONUS 
 EARTH SCIENCE
@@ -72,7 +68,7 @@ W)  passive margins
 X)  Pacific-type margins 
 Y)  transform fault margins 
 Z)  active margins 
-w OR  passive margins 
+w OR passive margins
 
 TOSS UP
 GENERAL SCIENCE
@@ -84,7 +80,7 @@ BONUS
 GENERAL SCIENCE
 SHORT ANSWER
 Convert 140ºF into degrees Celsius: 
-60 
+60 OR 60 degrees OR 60 degrees C OR 60 degrees Celsius
 
 TOSS UP
 ASTRONOMY
@@ -94,7 +90,7 @@ W)  weathering when the Moon was young and had an atmosphere
 X)  interstellar dust deposited over billions of years 
 Y)  from rock pulverized from many impacts 
 Z)  from its original makeup of a soft, silicate rock  
-y OR  from rock pulverized from many impacts 
+y OR from rock pulverized from many impacts 
 
 BONUS 
 ASTRONOMY
@@ -110,19 +106,19 @@ W)  electrolytic reservoir
 X)  cathode 
 Y)  conducting wire 
 Z)  salt bridge  
-z OR  salt bridge 
+z OR salt bridge 
 
 BONUS 
 PHYSICS
 SHORT ANSWER
 How many joules are in a single watt-hour? 
-3,600 
+3600 OR 3600 J OR 3600 Joules
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 If the electronegativity difference in the bonding atoms is intermediate in strength, what general type of bond is typically formed? 
-polar covalent (do not accept: covalent) 
+polar covalent OR polar covalent bond
 
 BONUS 
 CHEMISTRY
@@ -132,7 +128,7 @@ W)  bromine gas
 X)  hydrogen fluoride 
 Y)  water 
 Z)  hydrogen bromide 
-w OR  bromine gas 
+w OR bromine gas 
 
 TOSS UP
 BIOLOGY
@@ -142,7 +138,7 @@ W)  excretory
 X)  digestive 
 Y)  nervous 
 Z)  reproductive 
-x OR  digestive 
+x OR digestive 
 
 BONUS 
 BIOLOGY
@@ -153,25 +149,15 @@ duodenum
 TOSS UP
 MATH
 SHORT ANSWER
-Solve the following equation for x over the integers: x2 = 3x 0; 3 
+Solve the following equation for x over the integers: x^2 = 3x. Type as "x = <ans1, ans2>".
+x = 0, 3 OR x = 3, 0
 
 BONUS 
 MATH
 SHORT ANSWER
-Giving your answer as a fraction reduced to lowest terms, solve the following equation for x:  
-2
-1
-6
-10
-4
-1
-3
-2
-+=− xx  
-– 
+Giving your answer as a fraction reduced to lowest terms, solve the following equation for x:  (2/3)x - (1/4) = (10/6)x + (1/2)
+x = -3/4 OR x = -(3/4)
 
-4
-3  
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
@@ -180,18 +166,17 @@ W)  uranium-235
 X)  uranium-238 
 Y)  potassium-40 
 Z)  carbon-14 
-x OR  uranium-238 
+x OR uranium-238 
 
 BONUS 
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following is a ubiquitous trace mineral found in many igneous, metamorphic and clastic sedimentary rocks, and has been used to date 
-Earth’s oldest rocks at 4-plus billion years: 
+Which of the following is a ubiquitous trace mineral found in many igneous, metamorphic and clastic sedimentary rocks, and has been used to date Earth’s oldest rocks at 4-plus billion years: 
 W)  titanite 
 X)  tremolite 
 Y)  zircon 
 Z)  beryl 
-y OR  zircon 
+y OR zircon 
 
 TOSS UP
 GENERAL SCIENCE
@@ -201,9 +186,8 @@ W)  only a few harmful algal bloom species actually produce toxins that are pois
 X)  algal blooms occur in marine and freshwater environments 
 Y)  algal blooms can occur in the open ocean far from any coastal inlets 
 Z)  pollution is always to blame for harmful algal blooms along coastal waters 
-z OR  pollution is always to blame for harmful algal blooms 
+z OR pollution is always to blame for harmful algal blooms along coastal waters
 
-ALONG COASTAL WATERS 
 BONUS 
 GENERAL SCIENCE
 MULTIPLE CHOICE
@@ -212,7 +196,7 @@ W)  1.1 trillion
 X)  11 trillion 
 Y)  110 trillion 
 Z)  1,100 trillion 
-z OR  1,100 trillion 
+z OR 1,100 trillion 
 
 TOSS UP
 ASTRONOMY
@@ -222,13 +206,13 @@ W)  just above the eastern horizon
 X)  half-way up in the eastern sky 
 Y)  low in the western sky  
 Z)  directly overhead 
-y OR  low in the western sky 
+y OR low in the western sky 
 
 BONUS 
 ASTRONOMY
 SHORT ANSWER
 What is the MOST common organic molecule in the atmosphere of the planet Uranus? 
-methane (accept: ch4) 
+methane OR ch4 
 
 TOSS UP
 PHYSICS
@@ -239,12 +223,8 @@ radium
 BONUS 
 PHYSICS
 SHORT ANSWER
-By words or numbers, name all of the following 4 choices that are TRUE for an object moving at a constant speed: 
- 1) it must have a constant velocity 
- 2) it must be constantly moving in the same direction 
- 3) it can be accelerating 
- 4) it must have a constant weight 
-3) it can be accelerating 
+By words or numbers, name all of the following 4 choices that are TRUE for an object moving at a constant speed: 1) it must have a constant velocity; 2) it must be constantly moving in the same direction; 3) it can be accelerating; 4) it must have a constant weight 
+3 OR it can be accelerating OR 3 only
 
 TOSS UP
 CHEMISTRY
@@ -254,7 +234,7 @@ W)  alkali metals
 X)  noble gases 
 Y)  alkaline Earth metals 
 Z)  transition elements  
-z OR  transition elements 
+z OR transition elements 
 
 BONUS 
 CHEMISTRY
@@ -265,16 +245,14 @@ kclo4
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-What specific type of microscopy passes a beam of electrons through an ultra-thin specimen that is usually stained with an electron opaque substance, producing an image 
-which can be captured by a charged coupled device? 
-transmission electron microscopy (accept: tem) 
+What specific type of microscopy passes a beam of electrons through an ultra-thin specimen that is usually stained with an electron opaque substance, producing an image which can be captured by a charged coupled device? 
+transmission electron microscopy OR tem
 
-(DO NOT ACCEPT:  SCANNING ELECTRON MICROSCOPY OR SEM) 
 BONUS 
 BIOLOGY
 SHORT ANSWER
 Order the following 4 objects found in the human body from the SMALLEST to the LARGEST:  mitochondrion;  ribosome;  erythrocyte;  average monocyte 
-ribosome; mitochondrion; erythrocyte; average monocyte 
+ribosome, mitochondrion, erythrocyte, average monocyte 
 
 TOSS UP
 GENERAL SCIENCE
@@ -284,7 +262,7 @@ W)  boric acid
 X)  pure silica 
 Y)  clay 
 Z)  dyes 
-w OR  boric acid 
+w OR boric acid 
 
 BONUS 
 GENERAL SCIENCE
@@ -294,7 +272,7 @@ W)  makes the glass more scratch-resistant
 X)  makes the glass more brittle 
 Y)  reduces the linear coefficient of expansion of the glass 
 Z)  reduces the effect of detrimental ultraviolet light exposure 
-y OR  reduces the linear coefficient of expansion of the glass 
+y OR reduces the linear coefficient of expansion of the glass 
 
 TOSS UP
 EARTH SCIENCE
@@ -304,7 +282,7 @@ W)  laccolith
 X)  batholith 
 Y)  sill 
 Z)  volcanic neck 
-x OR  batholith 
+x OR batholith 
 
 BONUS 
 EARTH SCIENCE
@@ -314,34 +292,7 @@ W)  quartz
 X)  muscovite 
 Y)  plagioclase 
 Z)  orthoclase 
-x OR  muscovite 
-
-TOSS UP
-MATH
-SHORT ANSWER
-Simplify the following rational expression: 
-xy
-xy
-59
-35
-2
-2
-+
-−  
-cannot be further simplified (accept: 
-
-xy
-xy
-59
-35
-2
-2
-+
-−  or THE SAME) 
-BONUS 
-MATH
-SHORT ANSWER
-Factor the following expression completely: 12x2 + 24x – 36 12(x + 3)(x – 1) (accept: 12(x – 1)(x + 3)) 
+x OR muscovite 
 
 TOSS UP
 ASTRONOMY
@@ -353,19 +304,19 @@ BONUS
 ASTRONOMY
 SHORT ANSWER
 How many degrees above the celestial equator is the north celestial pole? 
-90 
+90 OR 90 degrees
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-What is the electric charge and mass of the carrier particle for the electromagnetic force? 
-both are zero 
+What is the electric charge and mass of the carrier particle for the electromagnetic force? Type as "charge = <number>, mass = <number>".
+charge = 0, mass = 0
 
 BONUS 
 PHYSICS
 SHORT ANSWER
 If the intensity of a sound is 10,000 times as loud as another sound, by how many decibels do the two sounds differ? 
-40 
+40 OR 40 db OR 40 decibels
 
 TOSS UP
 CHEMISTRY
@@ -375,15 +326,13 @@ W)  hydrogen gas found in nature exists as a monatomic molecule
 X)  when 2 oxygen atoms combine to form O2, energy is released 
 Y)  when chlorine gains 1 electron, it becomes larger 
 Z)  noble gases tend not to bond because of their stable valence configurations 
-w OR  hydrogen gas found in nature exists as a monatomic 
+w OR hydrogen gas found in nature exists as a monatomic molecule
 
-MOLECULE 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-Knowing that the chemical name for gypsum is calcium sulfate dihydrate, gypsum is what percent water by weight?  Assume the atomic masses of calcium = 40; 
-sulfur = 32 and oxygen = 16. 
-21 
+Knowing that the chemical name for gypsum is calcium sulfate dihydrate, gypsum is what percent water by weight?  Assume the atomic masses of calcium = 40; sulfur = 32 and oxygen = 16. 
+21 OR 21% OR 21 per cent OR 21 percent
 
 TOSS UP
 BIOLOGY
@@ -393,20 +342,19 @@ W)  transduction
 X)  conjugation 
 Y)  transformation 
 Z)  relaxation 
-w OR  transduction 
+w OR transduction 
 
 BONUS 
 BIOLOGY
 SHORT ANSWER
 Name all of the following 3 transport systems that directly require energy to operate:  active transport;  facilitated diffusion;  sodium potassium pump 
-active transport; sodium potassium pump 
+active transport, sodium potassium pump OR sodium potassium pump, active transport OR all but facilitated diffusion
 
-(ACCEPT:  ALL BUT FACILITATED DIFFUSION) 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What is the general name for a hypothetical gas that obeys Boyles’s law at all temperatures and pressures? 
-ideal gas (accept: ideal) 
+ideal gas OR ideal
 
 BONUS 
 CHEMISTRY
@@ -416,6 +364,4 @@ W)  2 or more gases form homogeneous mixtures in all proportions
 X)  collisions between gas particles are both elastic and inelastic 
 Y)  they diffuse rapidly 
 Z)  they assume the shapes of their containers 
-x OR  collisions between gas particles are both elastic and 
-
-INELASTIC 
+x OR collisions between gas particles are both elastic and inelastic

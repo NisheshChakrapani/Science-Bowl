@@ -1,10 +1,7 @@
 import org.apache.commons.lang3.text.WordUtils;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.NoSuchElementException;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 import java.awt.*;
 import org.apache.commons.lang3.text.WordUtils;
 
@@ -335,7 +332,7 @@ public class Proctor {
                     String[] answers = br.readLine().trim().split(" OR ");
                     j++;
                     q.addAnswers(answers);
-                    if (subjects.contains(q.getTopic())) {
+                    if (subjects.contains(q.getTopic().toUpperCase().trim())) {
                         unread.add(q);
                     }
                     br.readLine();
@@ -343,7 +340,7 @@ public class Proctor {
                 }
             }
         }
-        for (int i = 1; i <= 1; i++) {
+        for (int i = 1; i <= 6; i++) {
             File f = new File("set 4\\Set4Round" + i + ".txt");
             BufferedReader br = new BufferedReader(new FileReader(f));
             int numLines = countLines(f.getAbsolutePath());
@@ -369,7 +366,9 @@ public class Proctor {
                 String[] answers = br.readLine().trim().split(" OR ");
                 j++;
                 q.addAnswers(answers);
-                unread.add(q);
+                if (subjects.contains(q.getTopic().toUpperCase().trim())) {
+                    unread.add(q);
+                }
                 br.readLine();
                 j++;
             }
@@ -438,8 +437,9 @@ public class Proctor {
     }
 
     public void playCasualMode() throws IOException {
+        //test(4, 7); --next to test
         getSubjects();
-        //test(4, 6);
+        System.out.println();
         getAllQuestions();
         boolean done = false;
         Random random = new Random();
@@ -447,10 +447,6 @@ public class Proctor {
         while (!done) {
             int randQ = random.nextInt(unread.size());
             Question q = unread.get(randQ);
-            /*while (!q.getTopic().equals("EARTH SCIENCE")) {
-                randQ = random.nextInt(unread.size());
-                q = unread.get(randQ);
-            }*/
             q.printQuestionWithoutType();
             String response = user.nextLine();
             if (q.isCorrect(response)) {
@@ -493,42 +489,39 @@ public class Proctor {
         Scanner scan = new Scanner(System.in);
         String line = scan.nextLine();
         String[] subjs = {"EARTH SCIENCE", "ASTRONOMY", "MATH", "PHYSICS", "ENERGY", "BIOLOGY", "CHEMISTRY", "GENERAL SCIENCE"};
-        if (line.trim().length()>0) {
+        if (!line.trim().isEmpty()) {
             String[] input = line.split(",");
-            for (String s : input) {
-                s.toUpperCase();
-            }
 
             for (String s : input) {
-                if (s.toUpperCase().contains("EARTH SCIENCE")) {
+                if (s.toUpperCase().trim().equals("EARTH SCIENCE")) {
                     if (!subjects.contains("EARTH SCIENCE")) {
                         subjects.add("EARTH SCIENCE");
                     }
-                } else if (s.toUpperCase().contains("ASTRONOMY")) {
+                } else if (s.toUpperCase().trim().equals("ASTRONOMY")) {
                     if (!subjects.contains("ASTRONOMY")) {
                         subjects.add("ASTRONOMY");
                     }
-                } else if (s.toUpperCase().contains("MATH")) {
+                } else if (s.toUpperCase().trim().equals("MATH")) {
                     if (!subjects.contains("MATH")) {
                         subjects.add("MATH");
                     }
-                } else if (s.toUpperCase().contains("PHYSICS")) {
+                } else if (s.toUpperCase().trim().equals("PHYSICS")) {
                     if (!subjects.contains("PHYSICS")) {
                         subjects.add("PHYSICS");
                     }
-                } else if (s.toUpperCase().contains("ENERGY")) {
+                } else if (s.toUpperCase().trim().equals("ENERGY")) {
                     if (!subjects.contains("ENERGY")) {
                         subjects.add("ENERGY");
                     }
-                } else if (s.toUpperCase().contains("BIOLOGY")) {
+                } else if (s.toUpperCase().trim().equals("BIOLOGY")) {
                     if (!subjects.contains("BIOLOGY")) {
                         subjects.add("BIOLOGY");
                     }
-                } else if (s.toUpperCase().contains("CHEMISTRY")) {
+                } else if (s.toUpperCase().trim().equals("CHEMISTRY")) {
                     if (!subjects.contains("CHEMISTRY")) {
                         subjects.add("CHEMISTRY");
                     }
-                } else if (s.toUpperCase().contains("GENERAL SCIENCE")) {
+                } else if (s.toUpperCase().trim().equals("GENERAL SCIENCE")) {
                     if (!subjects.contains("GENERAL SCIENCE")) {
                         subjects.add("GENERAL SCIENCE");
                     }
@@ -545,11 +538,6 @@ public class Proctor {
                 subjects.add(s);
             }
         }
-
-        /*for (String s : subjects) {
-            System.out.println(s);
-        }
-        System.out.println();*/
     }
     private String wrapString(String q) {
         return WordUtils.wrap(q, 120);
