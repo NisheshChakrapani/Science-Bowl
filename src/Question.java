@@ -124,4 +124,6 @@ public class Question {
     public String getTopic() {
         return this.topic;
     }
+
+    public String getAnswerType() { return this.answerType; }
 }

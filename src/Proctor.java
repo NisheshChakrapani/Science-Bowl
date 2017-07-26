@@ -318,17 +318,7 @@ public class Proctor {
                     String question = br.readLine().trim();
                     j+=4;
                     Question q = new Question(questionType, topic, answerType, question);
-                    if (answerType.equals("MULTIPLE CHOICE")) {
-                        String w = br.readLine().trim();
-                        String x = br.readLine().trim();
-                        String y = br.readLine().trim();
-                        String z = br.readLine().trim();
-                        j+=4;
-                        q.setAnswerW(w);
-                        q.setAnswerX(x);
-                        q.setAnswerY(y);
-                        q.setAnswerZ(z);
-                    }
+                    j = checkQuestionMC(q, br, j);
                     String[] answers = br.readLine().trim().split(" OR ");
                     j++;
                     q.addAnswers(answers);
@@ -346,30 +336,7 @@ public class Proctor {
             int numLines = countLines(f.getAbsolutePath());
             int j = 0;
             while (j < numLines) {
-                String questionType = br.readLine().trim();
-                String topic = br.readLine().trim();
-                String answerType = br.readLine().trim();
-                String question = br.readLine().trim();
-                j+=4;
-                Question q = new Question(questionType, topic, answerType, question);
-                if (answerType.equals("MULTIPLE CHOICE")) {
-                    String w = br.readLine().trim();
-                    String x = br.readLine().trim();
-                    String y = br.readLine().trim();
-                    String z = br.readLine().trim();
-                    j+=4;
-                    q.setAnswerW(w);
-                    q.setAnswerX(x);
-                    q.setAnswerY(y);
-                    q.setAnswerZ(z);
-                }
-                String[] answers = br.readLine().trim().split(" OR ");
-                j++;
-                q.addAnswers(answers);
-                if (subjects.contains(q.getTopic().toUpperCase().trim())) {
-                    unread.add(q);
-                }
-                br.readLine();
+                j = getQuestion(br, j);
                 j++;
             }
         }
@@ -409,17 +376,7 @@ public class Proctor {
                 String question = br.readLine().trim();
                 i += 4;
                 Question q = new Question(questionType, topic, answerType, question);
-                if (answerType.equals("MULTIPLE CHOICE")) {
-                    String w = br.readLine().trim();
-                    String x = br.readLine().trim();
-                    String y = br.readLine().trim();
-                    String z = br.readLine().trim();
-                    i += 4;
-                    q.setAnswerW(w);
-                    q.setAnswerX(x);
-                    q.setAnswerY(y);
-                    q.setAnswerZ(z);
-                }
+                i = checkQuestionMC(q, br, i);
                 try {
                     String[] answers = br.readLine().trim().split(" OR ");
                     i++;
@@ -541,5 +498,39 @@ public class Proctor {
     }
     private String wrapString(String q) {
         return WordUtils.wrap(q, 120);
+    }
+
+    private int getQuestion(BufferedReader br, int j) throws IOException {
+        String questionType = br.readLine().trim();
+        String topic = br.readLine().trim();
+        String answerType = br.readLine().trim();
+        String question = br.readLine().trim();
+        j+=4;
+        Question q = new Question(questionType, topic, answerType, question);
+        j = checkQuestionMC(q, br, j);
+        String[] answers = br.readLine().trim().split(" OR ");
+        j++;
+        q.addAnswers(answers);
+        if (subjects.contains(q.getTopic().toUpperCase().trim())) {
+            unread.add(q);
+        }
+        br.readLine();
+
+        return j;
+    }
+
+    private int checkQuestionMC(Question q, BufferedReader br, int j) throws IOException {
+        if (q.getAnswerType().equals("MULTIPLE CHOICE")) {
+            String w = br.readLine().trim();
+            String x = br.readLine().trim();
+            String y = br.readLine().trim();
+            String z = br.readLine().trim();
+            j+=4;
+            q.setAnswerW(w);
+            q.setAnswerX(x);
+            q.setAnswerY(y);
+            q.setAnswerZ(z);
+        }
+        return j;
     }
 }
