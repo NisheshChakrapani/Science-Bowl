@@ -533,4 +533,25 @@ public class Proctor {
         }
         return j;
     }
+
+    //IN PROGRESS
+    private void generateRound(int roundNumber) {
+        Random random = new Random();
+        int roundBalance = random.nextInt(100);
+        if (roundBalance <= 7) { //Earth and Space heavy -- ER/SC 35%, PHYS 18%, BIO 18%, CHEM 18%, OTHER 11%
+
+        } else if (roundBalance <= 15) { //Physics heavy -- PHYS 35%, ER/SC 18%, BIO 18%, CHEM 18%, OTHER 11%
+
+        } else if (roundBalance <= 23) { //Biology heavy -- BIO 35%, ER/SC 18%, PHYS 18%, CHEM 18%, OTHER 11%
+
+        } else if (roundBalance <= 31) { //Chemistry heavy -- CHEM 35%, ER/SC 18%, PHYS 18%, BIO 18%, OTHER 11%
+
+        } else if (roundBalance <= 49) { //Earth and Space & Physics heavy -- ER/SC 30%, PHYS 30%, BIO 15%, CHEM 15%, OTHER 10%
+
+        } else if (roundBalance <= 67) { //Biology & Chemistry heavy -- BIO 30%, CHEM 30%, ER/SC 15%, PHYS 15%, OTHER 10%
+
+        } else { //Balanced -- ER/SC 20%, PHYS 20%, BIO 20%, CHEM 20%, OTHER 20%
+
+        }
+    }
 }

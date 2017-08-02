@@ -126,4 +126,13 @@ public class Question {
     }
 
     public String getAnswerType() { return this.answerType; }
+
+    public String[] getChoices() {
+        if (answerType.equals("MULTIPLE CHOICE")) {
+            String[] choices = {answerW, answerX, answerY, answerZ};
+            return choices;
+        } else {
+            return null;
+        }
+    }
 }

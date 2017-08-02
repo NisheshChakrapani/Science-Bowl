@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 BIOLOGY
 SHORT ANSWER
 What is the purpose of cones in gymnosperms? 
@@ -7,9 +7,8 @@ sexual reproduction
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Name the plant type that has one seed leaf when it germinates, leaf veins that are parallel to each other, and includes plants such as corn, wheat, lilies, 
-daffodils, and palms. 
-monocots [accept: monocotyledon (read as: moh-noh-koh-ti-lee-dohn)] 
+Name the plant type that has one seed leaf when it germinates, leaf veins that are parallel to each other, and includes plants such as corn, wheat, lilies, daffodils, and palms. 
+monocots OR monocot OR monocotyledon 
 
 TOSS UP
 MATH
@@ -21,16 +20,15 @@ BONUS
 MATH
 SHORT ANSWER
 Rebekah wants to fill a spherical piñata with candy. If the radius of her piñata is 6 inches, what is the volume in cubic inches of her piñata in terms of pi? 
-288π 
+288 pi OR 288pi
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
 What ice sheet on Earth contains the largest volume of ice? 
-east antarctic ice sheet 
+east antarctic ice sheet OR east antarctic
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The West Antarctic Ice Sheet and the East Antarctic Ice Sheet are separated by what mountain range?   
 W) Transantarctic Mountains 
@@ -52,7 +50,7 @@ Which of the following categories of statistical plots displays the first, secon
 W) Box plot 
 X) Scatter plot 
 Y) Histogram 
- Z) Pie chart 
+Z) Pie chart 
 w OR box plot 
 
 TOSS UP
@@ -68,19 +66,18 @@ z OR carbon dioxide and water
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-For the complete combustion of butane, butane plus oxygen produces carbon dioxide and water vapor. What is the balanced equation for the combustion of 
-butane? 
-2c4h10 + 13o2 à (read as: yields) 8co2 + 10h2o 
+For the complete combustion of butane, butane plus oxygen produces carbon dioxide and water vapor. What is the balanced equation for the combustion of butane? Do "-->" for yields
+2c4h10 + 13o2 --> 8co2 + 10h2o 
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
 The mass of a raindrop is 4 milligrams. Which of the following represents the correct mass in grams of the raindrop? 
-W) 4 × 10-3 
-X) 4 × 10-1 
-Y) 4 × 103 
-Z) 4 × 106 
-w OR 4 × 10-3 
+W) 4 x 10^-3 
+X) 4 x 10^-1 
+Y) 4 x 10^3 
+Z) 4 x 10^6 
+w OR 4 x 10^-3 
 
 BONUS  
 PHYSICS
@@ -90,11 +87,10 @@ W) The object’s displacement changes by 9.8 meters every second squared
 X) The object’s acceleration increases by 9.8 meters per second squared each second 
 Y) The object travels 9.8 meters each second 
 Z) The object’s speed increases by 9.8 meters per second each second 
-z OR the object’s speed increases by 9.8 meters per second each 
+z OR the object’s speed increases by 9.8 meters per second each second
 
-SECOND 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 In which sphere is the “bad” ozone, a volatile compound that contributes to smog, located? 
 W) Stratosphere 
@@ -104,8 +100,8 @@ Z) Lithosphere
 y OR troposphere 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 In which sphere is the “good” ozone that absorbs harmful ultraviolet rays located? 
 stratosphere 
 
@@ -122,8 +118,7 @@ x OR imprinting
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-A pigeon is placed in a box. Sooner or later, the pigeon accidentally presses a button or lever that releases food. Eventually, the pigeon learns how to 
-press the button whenever it wants food. This kind of learning is called: 
+A pigeon is placed in a box. Sooner or later, the pigeon accidentally presses a button or lever that releases food. Eventually, the pigeon learns how to press the button whenever it wants food. This kind of learning is called: 
 W) Habituation 
 X) Classical conditioning 
 Y) Insight learning 
@@ -134,18 +129,17 @@ TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 Determine the solubility product constant (or Ksp) of silver bromide, given that its molar solubility is 5.71  10-7 moles per liter.  
-W) 3.26  10-13 
-X) 5.71  10-7 
-Y) 1.14 10-6 
-Z) 2.14  10-4 
-w OR 3.26  10-13 
+W) 3.26 x 10^-13 
+X) 5.71 x 10^-7 
+Y) 1.14 x 10^-6 
+Z) 2.14 x 10^-4 
+w OR 3.26 x 10^-13 
 
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-Which of the following are strong bases in aqueous solution: 1) potassium hydroxide, 2) ammonia, 3) sodium chloride, 4) calcium hydroxide, or 5) beryllium 
-hydroxide? 
-potassium hydroxide and calcium hydroxide (accept: 1 and 4) 
+Which of the following are strong bases in aqueous solution: 1) potassium hydroxide, 2) ammonia, 3) sodium chloride, 4) calcium hydroxide, or 5) beryllium hydroxide? 
+potassium hydroxide, calcium hydroxide OR potassium hydroxide and calcium hydroxide OR 1, 4 OR 1 and 4 
 
 TOSS UP
 BIOLOGY
@@ -176,8 +170,7 @@ y OR increase the concentration of the solution
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-Water tank A has width W1 and tank B has width W2, where W1 > W2. The two water tanks are the same height, H.  If both tanks are completely filled with 
-water, which of the following is true about the water pressure at the bottom of the tank? 
+Water tank A has width W1 and tank B has width W2, where W1 > W2. The two water tanks are the same height, H.  If both tanks are completely filled with water, which of the following is true about the water pressure at the bottom of the tank? 
 W) Pressure cannot be determined  
 X) The pressure is greater in tank A 
 Y) The pressure is greater in tank B 
@@ -185,13 +178,13 @@ Z) Both tanks have the same pressure
 z OR both tanks have the same pressure 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 What is the most abundant element in the universe? 
 hydrogen 
 
 BONUS  
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Our solar system formed approximately how many billion years ago? 
 W) 2 
@@ -200,24 +193,11 @@ Y) 5
 Z) 7 
 y OR 5 
 
-TOSS UP
-MATH
-SHORT ANSWER
-Given the function , what is the largest possible value for y? 
-4 
-
-BONUS 
-MATH
-SHORT ANSWER
-Express the following in standard polynomial form: (read as: 
-the quantity 3x plus 2 cubed) 
-
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-In the 1980s, Europeans began to be diagnosed with mad cow disease, a disease which affects the brain. What is the type of infectious agent that causes this 
-disease?   
+In the 1980s, Europeans began to be diagnosed with mad cow disease, a disease which affects the brain. What is the type of infectious agent that causes this disease?   
 W) Virus 
 X) Bacteria 
 Y) Fungi 
@@ -228,15 +208,14 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 The prions that cause mad cow disease lack DNA. What does current research suggest that prions are? 
-abnormal isoform proteins (accept: misshaped isoform 
+abnormal isoform proteins OR misshaped isoform proteins OR abnormal proteins 
 
-PROTEINS, ABNORMAL PROTEINS) 
 TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 What is the mass of an electron relative to a proton? 
-W) 9.1 x 10-31 
-X) 8.2 x 10-14 
+W) 9.1 x 10^-31 
+X) 8.2 x 10^-14 
 Y) 1/1836 
 Z) 0.51 
 y OR 1/1836 
@@ -244,9 +223,8 @@ y OR 1/1836
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-Sulfuric acid is used to neutralize a solution of sodium hydroxide. Calculate the number of moles of sodium hydroxide required to completely neutralize 
-two moles of sulfuric acid. 
-4 
+Sulfuric acid is used to neutralize a solution of sodium hydroxide. Calculate the number of moles of sodium hydroxide required to completely neutralize two moles of sulfuric acid. 
+4 OR 4 moles
 
 TOSS UP
 PHYSICS
@@ -255,7 +233,8 @@ Which of the following describes an electromagnet?
 W) Straight wire carrying a current 
 X) Current-carrying wire wrapped around a core 
 Y) Permanent bar magnet 
-Z) Rock that is iron attracting 
+Z) Rock that is iron attracting
+ 
 BONUS  
 PHYSICS
 SHORT ANSWER
