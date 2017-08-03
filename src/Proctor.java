@@ -2,36 +2,23 @@ import org.apache.commons.lang3.text.WordUtils;
 
 import java.io.*;
 import java.util.*;
-import java.awt.*;
-import org.apache.commons.lang3.text.WordUtils;
 
-import javax.swing.*;
-import java.io.*;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Random;
 import java.util.Scanner;
-import java.awt.*;
 
-/**
- * Created by nishu on 3/1/2017.
- */
-public class Proctor {
+class Proctor {
     private boolean fastMode;
-    private boolean visualMode;
-    private final double OFFSET_MULTIPLIER = 30;
     private boolean correct = true;
     private Stopwatch stopwatch = new Stopwatch();
     private int set;
     private int round;
-    private final int SLOW_MODE_TOSS_UP = 5000;
-    private final int SLOW_MODE_BONUS = 20000;
-    private final int FAST_MODE_TOSS_UP = 10000;
-    private final int FAST_MODE_BONUS = 25000;
     private ArrayList<Question> unread = new ArrayList<>();
     private ArrayList<String> subjects = new ArrayList<>();
 
-    public Proctor() throws IOException, InterruptedException {
+    Proctor() throws IOException, InterruptedException {
+        test(4, 7);
         getSettings();
         readQuestions();
     }
@@ -125,6 +112,7 @@ public class Proctor {
             stopwatch.reset();
             String questionType = br.readLine().trim();
             try {
+                //noinspection ResultOfMethodCallIgnored
                 questionType.isEmpty();
             } catch (NullPointerException e) {
                 done = true;
@@ -132,16 +120,11 @@ public class Proctor {
             if (!correct && !questionType.contains("TOSS UP")) {
                 skipQuestion(br);
             } else if (!done) {
-                int totalChars = 0;
                 String topic = br.readLine();
                 String answerType = br.readLine();
                 String question = br.readLine();
-                totalChars = question.length();
+                int totalChars = question.length();
                 Question q = new Question(questionType, topic, answerType, question);
-                //System.out.println(questionType);
-                //System.out.println(topic);
-                //System.out.println(answerType);
-                //System.out.println(question);
                 if (answerType.equals("MULTIPLE CHOICE")) {
                     String w = br.readLine();
                     String x = br.readLine();
@@ -151,10 +134,6 @@ public class Proctor {
                     q.setAnswerY(y);
                     q.setAnswerX(x);
                     q.setAnswerZ(z);
-                    //System.out.println(w);
-                    //System.out.println(x);
-                    //System.out.println(y);
-                    //System.out.println(z);
                     totalChars+=w.length();
                     totalChars+=x.length();
                     totalChars+=y.length();
@@ -163,6 +142,7 @@ public class Proctor {
                 q.printQuestion();
                 asked = false;
                 if (!fastMode) {
+                    double OFFSET_MULTIPLIER = 30;
                     Thread.sleep((long) (totalChars * OFFSET_MULTIPLIER));
                     System.out.println("TIMER START");
                 }
@@ -173,9 +153,11 @@ public class Proctor {
                 if (questionType.contains("TOSS UP")) {
                     qCount++;
                     long elapsed = stopwatch.getElapsedTimeMillis();
-                    if (fastMode && elapsed>FAST_MODE_TOSS_UP) {
+                    int SLOW_MODE_TOSS_UP = 5000;
+                    int FAST_MODE_TOSS_UP = 10000;
+                    if (fastMode && elapsed> FAST_MODE_TOSS_UP) {
                         outOfTime = true;
-                    } else if (!fastMode && elapsed>SLOW_MODE_TOSS_UP) {
+                    } else if (!fastMode && elapsed> SLOW_MODE_TOSS_UP) {
                         outOfTime = true;
                     }
                     if (!fastMode && elapsed == 0) {
@@ -183,9 +165,11 @@ public class Proctor {
                     }
                 } else  {
                     long elapsed = stopwatch.getElapsedTimeMillis();
-                    if (fastMode && elapsed>FAST_MODE_BONUS) {
+                    int SLOW_MODE_BONUS = 20000;
+                    int FAST_MODE_BONUS = 25000;
+                    if (fastMode && elapsed> FAST_MODE_BONUS) {
                         outOfTime = true;
-                    } else if (!fastMode && elapsed>SLOW_MODE_BONUS) {
+                    } else if (!fastMode && elapsed> SLOW_MODE_BONUS) {
                         outOfTime = true;
                     }
                 }
@@ -223,7 +207,7 @@ public class Proctor {
                 System.out.println("Current score: " + score);
                 System.out.println("--------------------------------------");
             }
-            String skip = br.readLine();
+            br.readLine();
             if (qCount == 25 && !correct) {
                 done = true;
             } else if (qCount == 25 && correct && questionType.equals("BONUS")) {
@@ -249,15 +233,15 @@ public class Proctor {
     }
 
     private void skipQuestion(BufferedReader br) throws IOException {
-        String s1 = br.readLine();
+        br.readLine();
         String s2 = br.readLine();
-        String s3 = br.readLine();
-        String s4 = br.readLine();
+        br.readLine();
+        br.readLine();
         if (s2.equals("MULTIPLE CHOICE")) {
-            String s5 = br.readLine();
-            String s6 = br.readLine();
-            String s7 = br.readLine();
-            String s8 = br.readLine();
+            br.readLine();
+            br.readLine();
+            br.readLine();
+            br.readLine();
         }
         correct = true;
     }
@@ -307,6 +291,7 @@ public class Proctor {
         for (int i = 1; i <= 3; i++) {
             File folder = new File("set " + i);
             File[] files = folder.listFiles();
+            assert files != null;
             for (File f : files) {
                 BufferedReader br = new BufferedReader(new FileReader(f));
                 int numLines = countLines(f.getAbsolutePath());
@@ -343,11 +328,10 @@ public class Proctor {
     }
 
     private int countLines(String filename) throws IOException {
-        InputStream is = new BufferedInputStream(new FileInputStream(filename));
-        try {
+        try (InputStream is = new BufferedInputStream(new FileInputStream(filename))) {
             byte[] c = new byte[1024];
             int count = 0;
-            int readChars = 0;
+            int readChars;
             boolean empty = true;
             while ((readChars = is.read(c)) != -1) {
                 empty = false;
@@ -357,9 +341,8 @@ public class Proctor {
                     }
                 }
             }
-            return (count == 0 && !empty) ? 1 : count;
-        } finally {
             is.close();
+            return (count == 0 && !empty) ? 1 : count;
         }
     }
 
@@ -393,8 +376,7 @@ public class Proctor {
         }
     }
 
-    public void playCasualMode() throws IOException {
-        //test(4, 7); --next to test
+    private void playCasualMode() throws IOException {
         getSubjects();
         System.out.println();
         getAllQuestions();
@@ -442,7 +424,7 @@ public class Proctor {
     }
 
     private void getSubjects() {
-        System.out.print(wrapString("Would you like to filter by subject(s)? If so, type the subjects that you want to practice with, separated by a space, or leave it blank for all subjects. Subjects are Earth Science, Astronomy, Math, Physics, Energy, Biology, Chemistry, and General Science.\n> "));
+        System.out.print(wrapString());
         Scanner scan = new Scanner(System.in);
         String line = scan.nextLine();
         String[] subjs = {"EARTH SCIENCE", "ASTRONOMY", "MATH", "PHYSICS", "ENERGY", "BIOLOGY", "CHEMISTRY", "GENERAL SCIENCE"};
@@ -486,18 +468,14 @@ public class Proctor {
             }
 
             if (subjects.size()==0) {
-                for (String s : subjs) {
-                    subjects.add(s);
-                }
+                Collections.addAll(subjects, subjs);
             }
         } else {
-            for (String s : subjs) {
-                subjects.add(s);
-            }
+            Collections.addAll(subjects, subjs);
         }
     }
-    private String wrapString(String q) {
-        return WordUtils.wrap(q, 120);
+    private String wrapString() {
+        return WordUtils.wrap("Would you like to filter by subject(s)? If so, type the subjects that you want to practice with, separated by a space, or leave it blank for all subjects. Subjects are Earth Science, Astronomy, Math, Physics, Energy, Biology, Chemistry, and General Science.\n> ", 120);
     }
 
     private int getQuestion(BufferedReader br, int j) throws IOException {

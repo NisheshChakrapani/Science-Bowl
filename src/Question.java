@@ -2,9 +2,6 @@ import org.apache.commons.lang3.text.WordUtils;
 
 import java.util.Arrays;
 
-/**
- * Created by nishu on 5/14/2017.
- */
 public class Question {
     private String questionType;
     private String topic;
@@ -15,31 +12,31 @@ public class Question {
     private String answerX;
     private String answerY;
     private String answerZ;
-    public Question(String questionType, String topic, String answerType, String question) {
+    Question(String questionType, String topic, String answerType, String question) {
         this.questionType = questionType;
         this.topic = topic;
         this.answerType = answerType;
         this.question = question;
     }
 
-    public void addAnswers(String[] answers) {
+    void addAnswers(String[] answers) {
         this.answers = answers;
     }
 
-    public void setAnswerW(String answerW) {
+    void setAnswerW(String answerW) {
         this.answerW = answerW;
     }
-    public void setAnswerX(String answerX) {
+    void setAnswerX(String answerX) {
         this.answerX = answerX;
     }
-    public void setAnswerY(String answerY) {
+    void setAnswerY(String answerY) {
         this.answerY = answerY;
     }
-    public void setAnswerZ(String answerZ) {
+    void setAnswerZ(String answerZ) {
         this.answerZ = answerZ;
     }
 
-    public void printQuestion() {
+    void printQuestion() {
         System.out.println(questionType);
         System.out.println(topic);
         System.out.println(answerType);
@@ -54,7 +51,7 @@ public class Question {
             System.out.println(answerZ);
     }
 
-    public void printQuestionWithoutType() {
+    void printQuestionWithoutType() {
         System.out.println(topic);
         System.out.println(answerType);
         System.out.println(wrapQuestion(question));
@@ -68,7 +65,7 @@ public class Question {
             System.out.println(answerZ);
     }
 
-    public boolean isCorrect(String answer) {
+    boolean isCorrect(String answer) {
         for (String a : answers) {
             if (answer.equalsIgnoreCase(a.trim())) {
                 return true;
@@ -80,16 +77,7 @@ public class Question {
         return WordUtils.wrap(q, 120);
     }
 
-    public void showErrors(int num) {
-        /*if (this.questionType.trim().length()==0 || this.topic.trim().length()==0 || this.answerType.trim().length()==0
-                || this.question.trim().length()==0) {
-            return true;
-        } else if (this.answerType.trim().equalsIgnoreCase("MULTIPLE CHOICE")) {
-            if (this.answerW.trim().length()==0 || this.answerX.trim().length()==0 || this.answerY.trim().length()==0 || this.answerZ.trim().length()==0) {
-                return true;
-            }
-        }
-        return false;*/
+    void showErrors(int num) {
         if (!questionType.equals("TOSS UP") && !questionType.equals("BONUS")) {
             System.out.println("Question Type error on question " + num + "(question type = " + questionType + ")");
         } else if (!topic.equals("BIOLOGY") && !topic.equals("CHEMISTRY") && !topic.equals("EARTH SCIENCE") && !topic.equals("PHYSICS") && !topic.equals("GENERAL SCIENCE") &&
@@ -116,21 +104,20 @@ public class Question {
         }
     }
 
-    public String correctAnswers() {
+    String correctAnswers() {
         String line = Arrays.toString(this.answers);
         return line.substring(1, line.length()-1);
     }
 
-    public String getTopic() {
+    String getTopic() {
         return this.topic;
     }
 
-    public String getAnswerType() { return this.answerType; }
+    String getAnswerType() { return this.answerType; }
 
     public String[] getChoices() {
         if (answerType.equals("MULTIPLE CHOICE")) {
-            String[] choices = {answerW, answerX, answerY, answerZ};
-            return choices;
+            return new String[]{answerW, answerX, answerY, answerZ};
         } else {
             return null;
         }
