@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 Which of the following is NOT true: 
@@ -28,7 +28,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 Name all of the following 4 choices that are typically considered human autoimmune dysfunctions:  Rheumatoid arthritis;  Lupus;  shingles;  Down’s syndrome 
-rheumatoid arthritis; lupus 
+rheumatoid arthritis, lupus OR lupus, rheumatoid arthritis
 
 TOSS UP
 PHYSICS
@@ -43,19 +43,18 @@ z OR  1 femtometer
 BONUS 
 PHYSICS
 SHORT ANSWER
-Consider a planet where g equals 5.0 meters per second squared. Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 
-seconds, giving your answer in standard SI units?  
-40 meters (must give units) 
+Consider a planet where g equals 5.0 meters per second squared. Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 seconds, giving your answer in standard SI units?  
+40 meters OR 40 m
 
 TOSS UP
 MATH
 MULTIPLE CHOICE
-The graph of the relation y = )25( 2x−− is a: 
+The graph of the relation y = -sqrt[(25 - x^2)]
 W)  circle 
 X)  semi-circle 
 Y)  parabola 
 Z)  straight line 
-x OR  semi-circle 
+x OR semi-circle 
 
 BONUS 
 MATH
@@ -77,25 +76,23 @@ W)  incoming solar ultraviolet light is absorbed by the ozone layer
 X)  outgoing infrared solar radiation is trapped by the lower atmosphere 
 Y)  incoming infrared solar radiation is trapped by the magnetic field 
 Z)  outgoing X-rays are absorbed by the troposphere and reflected to the Earth’s surface  
-x OR  outgoing infrared solar radiation is trapped by the lower 
-
-ATMOSPHERE 
+x OR outgoing infrared solar radiation is trapped by the lower atmosphere
+ 
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska.  Which of the following would be the BEST mosquito attractant to 
-ensure he traps the greatest number and variety of mosquitoes: 
+Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska.  Which of the following would be the BEST mosquito attractant to ensure he traps the greatest number and variety of mosquitoes: 
 W)  oxygen  
 X)  nitrogen  
 Y)  dry ice 
 Z)  methane 
-y OR  dry ice 
+y OR dry ice 
 
 BONUS 
 GENERAL SCIENCE
 SHORT ANSWER
 Rounded to the nearest whole number, convert 3,000 meters per second into kilometers per hour: 
-10,800 
+10800 OR 10800 km/hr 
 
 TOSS UP
 ASTRONOMY
@@ -131,7 +128,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 Arrange the following 3 choices in order of increasing bond energies:  O2;  N2;  F2 
-f2; o2; n2 
+f2, o2, n2 
 
 TOSS UP
 BIOLOGY
@@ -141,19 +138,19 @@ W)  2
 X)  4 
 Y)  6 
 Z)  8 
-w OR  2 
+w OR 2 
 
 BONUS 
 BIOLOGY
 SHORT ANSWER
 What is the most plentiful class of immunoglobulins in human plasma? 
-igg (accept: g or immunoglobulin g) 
+igg OR g OR immunoglobulin g
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 What constant is given as the amount of electric charge per mole of electrons? 
-f OR 
+faraday constant OR faraday
 
 BONUS 
 PHYSICS
@@ -163,7 +160,7 @@ W)  opposite to the direction of the velocity
 X)  the same direction as the velocity 
 Y)  the same direction as the magnetic field 
 Z)  perpendicular to the magnetic field 
-z OR  perpendicular to the magnetic field 
+z OR perpendicular to the magnetic field 
 
 TOSS UP
 MATH
@@ -178,23 +175,13 @@ w OR  500º
 BONUS 
 MATH
 SHORT ANSWER
-Giving your answer in simplest radical form, rationalize the denominator of the following expression:  
-)53(
-23
-−
-−  
+Giving your answer in simplest radical form, rationalize the denominator of the following expression: (-3sqrt[2] / (sqrt[3] - sqrt[5]))
+(3sqrt[6] + 3sqrt[10])/2 OR (3/2)(sqrt[6] + sqrt[10])
 
-
-2
-10363 +   ( ACCEPT:  )106(
-2
-3
-+ ) 
 TOSS UP
 EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with 
-good cleavage: 
+Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with good cleavage: 
 W)  biotite 
 X)  olivine 
 Y)  plagioclase 
@@ -214,8 +201,7 @@ z OR  they are both intrusive igneous rocks
 TOSS UP
 GENERAL SCIENCE
 MULTIPLE CHOICE
-A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder.  Each time they are deployed to 
-the field, a small amount of light oil is added to the cylinder.  This is done to: 
+A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder.  Each time they are deployed to the field, a small amount of light oil is added to the cylinder.  This is done to: 
 W)  deter birds from drinking the water 
 X)  stop the canister from oxidizing 
 Y)  prevent the growth of blue-green algae 
@@ -251,7 +237,7 @@ Through how many degrees does the Earth rotate in 8 hours?
 TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
-The molal (read as: moe-lahl) is a concentration unit that is most appropriately used in experimental designs that determine: 
+The molal is a concentration unit that is most appropriately used in experimental designs that determine: 
 W)  freezing point depression 
 X)  osmotic pressure 
 Y)  density 
@@ -261,9 +247,8 @@ w OR  freezing point depression
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-A 4.0 gram sample of calcium chloride contains 6.0 × 1022 cations.  Giving your answer in scientific notation to the nearest whole number, determine the 
-number of anions in 2 grams of CaCl2.  Assume the atomic mass of calcium is 40 and chloride is 35. 
-6 × 1022 
+A 4.0 gram sample of calcium chloride contains 6.0 × 1022 cations.  Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl2.  Assume the atomic mass of calcium is 40 and chloride is 35. 
+6 x 10^22 OR 6x10^22
 
 TOSS UP
 BIOLOGY
@@ -279,9 +264,8 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 What is the most common term for the form of protection when a non-poisonous frog has the same appearance as a poisonous frog? 
-m OR 
-
-(DO NOT ACCEPT:  MULLERIAN MIMICRY) 
+batesian mimicry OR mimicry OR warning mimicry
+ 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
@@ -296,25 +280,25 @@ BONUS
 PHYSICS
 SHORT ANSWER
 Name all of the following 4 isotopes that release energy if they undergo fission:  helium-4;  hydrogen-2;  uranium-235;  iron-56 
-uranium-235 
+uranium-235 OR uranium 235 
 
 TOSS UP
 MATH
 SHORT ANSWER
-Identify the type of conic section represented by the equation, x2 + y2 + 10y + 16 = 0: 
+Identify the type of conic section represented by the equation, x^2 + y^2 + 10y + 16 = 0: 
 circle 
 
 BONUS 
 MATH
 SHORT ANSWER
 Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters: 
-48 3 
+48sqrt[3] 
 
 TOSS UP
 EARTH SCIENCE
 SHORT ANSWER
 What type of fog frequently forms in valleys when the wind is light and the ground cools until the dew point is reached? 
-radiation fog (accept: radiation or radiational) 
+radiation fog OR radiation OR radiational
 
 BONUS 
 EARTH SCIENCE
@@ -326,7 +310,7 @@ TOSS UP
 GENERAL SCIENCE
 SHORT ANSWER
 What is the sling psychrometer used to measure? 
-h OR 
+humidity OR relative humidity OR ambient humidity
 
 BONUS 
 GENERAL SCIENCE
@@ -354,14 +338,12 @@ TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What is the electron capacity in each of the 4 sublevels s, p, d, and f, respectively? 
-s = 2; p = 6; d = 10; f = 14 
+s = 2, p = 6, d = 10, f = 14 OR 2, 6, 10, 14 
 
 BONUS 
 CHEMISTRY
 SHORT ANSWER
-A sample of oxygen gas is collected over water at 14ºC. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the 
-resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry 
-oxygen alone: 
+A sample of oxygen gas is collected over water at 14ºC. Knowing that the vapor pressure of water at 14ºC is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone: 
 118.4 
 
 TOSS UP
@@ -373,34 +355,29 @@ monocyte
 BONUS 
 BIOLOGY
 SHORT ANSWER
-Name all of the following 4 cells that are leukocytes: 
-neutrophil;  basophil;  melanocyte;  macrophage 
-neutrophil; basophil 
+Name all of the following 4 cells that are leukocytes: neutrophil;  basophil;  melanocyte;  macrophage 
+neutrophil, basophil OR basophil, neutrophils
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it 
-returns to a ground state, emits a coherent photon? 
-stimulated emission (accept: stimulated) 
+As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it returns to a ground state, emits a coherent photon? 
+stimulated emission OR stimulated
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature:   
-copper freezes;  water boils;  solar corona;  lead melts 
-water boils; lead melts; copper freezes; solar corona 
+Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature: copper freezes;  water boils;  solar corona;  lead melts 
+water boils, lead melts, copper freezes, solar corona 
 
 TOSS UP
 MATH
 SHORT ANSWER
-Simplify i17 (read as: i to the 17th power): 
+Simplify i^17:
 i 
 
 BONUS 
 MATH
 SHORT ANSWER
-Solve the following equation for x: 21)2(7 222 2
-=× −x  
-4 or –4 (accept: 4±=x ) 
-
+Solve the following equation for x: 2^7 * 2^(x^2 - 2) = 2^21. Type as "<answer> and <answer>"
+4 and -4 OR -4 and 4

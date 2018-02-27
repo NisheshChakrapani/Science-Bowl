@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 MATH
 SHORT ANSWER
 What is the sum of the smallest prime number and the smallest composite number? 
@@ -7,8 +7,8 @@ What is the sum of the smallest prime number and the smallest composite number?
 BONUS  
 MATH
 SHORT ANSWER
-A right triangle has sides with lengths of 8, 15, and 17 meters. As a fraction in lowest terms and in meters, what is the length of the altitude to the hypotenuse? 
-120/17 
+A right triangle has sides with lengths of 8, 15, and 17 meters. As an improper fraction in lowest terms and in meters, what is the length of the altitude to the hypotenuse? 
+120/17 OR 120/17 meters OR 120/17 m
 
 TOSS UP
 BIOLOGY
@@ -37,16 +37,15 @@ Z) Low speed and low torque
 x OR high speed and high torque 
 
 BONUS  
-ENERGY SHORT ANSWER
-Taking g to be 9.8 meters per second squared, a 500 kilogram elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10th 
-floor? 
-147 
+ENERGY 
+SHORT ANSWER
+Taking g to be 9.8 meters per second squared, a 500 kilogram elevator needs how much energy, in kilojoules, to go up 30 meters, a typical height for the 10th floor? 
+147 OR 147 kilojoules OR 147 kj
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-As the result of a collision with another particle, a charged particle ends up with its velocity vector completely parallel to a uniform magnetic field. Which of 
-the following best describes the subsequent path of the particle? 
+As the result of a collision with another particle, a charged particle ends up with its velocity vector completely parallel to a uniform magnetic field. Which of the following best describes the subsequent path of the particle? 
 W) A circular arc 
 X) A spiral 
 Y) A straight line  
@@ -56,15 +55,14 @@ y OR a straight line
 BONUS  
 PHYSICS
 SHORT ANSWER
-An 80 kilogram person dives horizontally off a 100 kilogram rowboat. If the diver’s speed after leaving the rowboat is 5 meters per second, what is the speed 
-in meters per second of the rowboat? 
-4 
+An 80 kilogram person dives horizontally off a 100 kilogram rowboat. If the diver’s speed after leaving the rowboat is 5 meters per second, what is the speed in meters per second of the rowboat? 
+4 OR 4 meters/second OR 4 m/s
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
 What characteristic of male crickets do organisms of the genus Ormia use in order to find the crickets and lay their eggs on and around them? 
-chirping (accept: singing, calling) 
+chirping OR singing OR calling
 
 BONUS  
 BIOLOGY
@@ -74,9 +72,8 @@ W) Uptake of potassium ions
 X) Decrease of carbon dioxide in leaf air spaces due to photosynthesis in the mesophyll 
 Y) Changes in light levels 
 Z) Mesophyll production of abscisic acid in response to water deficiency 
-z OR mesophyll production of abscisic acid in response to water 
-
-DEFICIENCY   
+z OR mesophyll production of abscisic acid in response to water deficiency 
+  
 TOSS UP
 MATH
 SHORT ANSWER
@@ -86,7 +83,8 @@ Providing your answer in decimal form, what is the area under the curve y = x be
 BONUS  
 MATH
 SHORT ANSWER
-Find (1 + i)12 (read as the quantity 1 plus i to the twelfth). -64 
+Find (1 + i)^12 (read as the quantity 1 plus i to the twelfth). 
+-64 
 
 TOSS UP
 CHEMISTRY
@@ -109,13 +107,13 @@ Z) Aluminum
 y OR chlorine 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the collective term for the stellar process in which lighter nuclei fuse to build the nuclei of heavier elements than helium? 
 nucleosynthesis 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following occurs as a rapidly advancing cold front overtakes a closed off warm front? 
 W) Gliding 
@@ -128,7 +126,7 @@ TOSS UP
 CHEMISTRY
 SHORT ANSWER
 What is the SI prefix that multiples a unit by a factor of 1018? 
-exa 
+exa OR exa-
 
 BONUS  
 CHEMISTRY
@@ -140,21 +138,19 @@ TOSS UP
 BIOLOGY
 SHORT ANSWER
 What is the scientific name of the phylum characterized by the presence of jointed appendages? 
-arthropoda (do not accept: arthropods) 
+arthropoda 
 
 BONUS  
 BIOLOGY
 SHORT ANSWER
-What is the common name for the native annual plant with the following description: It has stems that coil around a support for climbing, the leaves are 
-alternate compound with 3 leaflets, and it has a thin-walled fruit that the Chippewa traditionally 
-used as a food source and digestive aid. 
-hogpeanut (accept: wild peanut) (do not accept: peanut) 
+What is the common name for the native annual plant with the following description: It has stems that coil around a support for climbing, the leaves are alternate compound with 3 leaflets, and it has a thin-walled fruit that the Chippewa traditionally used as a food source and digestive aid. 
+hogpeanut OR wild peanut
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 Nuclides that have neutron-to-proton ratios that are too high compared with stable nuclides tend to undergo what kind of decay? 
-beta (accept: beta minus) 
+beta OR beta minus
 
 BONUS  
 CHEMISTRY
@@ -169,35 +165,26 @@ z OR nickel
 TOSS UP
 MATH
 SHORT ANSWER
-By number, identify which one of the following statements is TRUE regarding the set of means of samples of size n from a given population: 1) the mean of the set 
-of sample means varies inversely as the square root of n; 2) the variance of the set of sample 
-means varies directly as n; or 3) the standard deviation of the set of sample means varies 
-inversely as the square root of n. 
-3 
+By number, identify which one of the following statements is TRUE regarding the set of means of samples of size n from a given population: 1) the mean of the set of sample means varies inversely as the square root of n; 2) the variance of the set of sample means varies directly as n; or 3) the standard deviation of the set of sample means varies inversely as the square root of n. 
+3 OR 3 only
 
 BONUS 
 MATH
 SHORT ANSWER
-Convert the complex number -2 - 2i 3 to trigonometric form. 4 cos 4π 
+Convert the complex number -2 - 2isqrt(3) to trigonometric form. 
+4(cos(4pi/3) + isin(4pi/3)) OR 4(cos(4pi/3)+isin(4pi/3))
 
-3
-+ i sin 4π
-3
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Two charges, initially 2.0 centimeters apart, experience a repulsive force of 1.0 newtons. Providing your answer as a fraction in simplest form, when the 
-charges are moved to 8.0 centimeters apart, what force in newtons exists between them? 
-1/16 
+Two charges, initially 2.0 centimeters apart, experience a repulsive force of 1.0 newtons. Providing your answer as a fraction in simplest form, when the charges are moved to 8.0 centimeters apart, what force in newtons exists between them? 
+1/16 OR 1/16 OR 0.0625 N OR .0625
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A solid conducting sphere with a radius of 2 centimeters has a charge of 8 microcoulombs. Concentric with the solid sphere is a hollow conducting spherical 
-shell with an inner radius of 4 centimeters, outer radius of 5 centimeters, and charge of -4 
-microcoulombs. Find the magnitude of the electric field in newtons per coulomb at a radius of 
-4.5 centimeters. 
-zero 
+A solid conducting sphere with a radius of 2 centimeters has a charge of 8 microcoulombs. Concentric with the solid sphere is a hollow conducting spherical shell with an inner radius of 4 centimeters, outer radius of 5 centimeters, and charge of -4 microcoulombs. Find the magnitude of the electric field in newtons per coulomb at a radius of 4.5 centimeters. 
+0 OR zero OR 0 newtons/coulomb OR zero newtons/coulomb OR 0 n/c OR zero n/c
 
 TOSS UP
 BIOLOGY
@@ -235,25 +222,25 @@ TOSS UP
 PHYSICS
 SHORT ANSWER
 By name or number, which of the following three choices are possible constituents of cold dark matter: 1) axions, 2) photinos, 3) quark nuggets? 
-axions, photinos, and quark nuggets (accept: 1, 2, and 3 or all) 
+axions, photinos, quark nuggets OR 1, 2, 3 OR all
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 What is the wavelength, rounded to the nearest ten meters, for the carrier wave of the AM radio station WDOE 1410? 
-210 
+210 OR 210 meters OR 210 m
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the youngest volcano in the Hawaiian chain? 
 loihi 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 By name or number, identify all of the following five elements which destroy ozone: 1) hydrogen, 2) nitrogen, 3) chlorine, 4) bromine, 5) argon. 
-chlorine and bromine (accept: 3 and 4) 
+chlorine, bromine OR 3, 4 
 
 TOSS UP
 PHYSICS
@@ -295,26 +282,22 @@ W) A line segment with one-third the length of a given line segment
 X) A cube with twice the volume of a given cube 
 Y) An angle with one-third the measure of a given angle  
 Z) A square with the same area as that of a given circle 
-w OR a line segment with one-third the length of a given line 
+w OR a line segment with one-third the length of a given line segment
 
-SEGMENT 
 BONUS  
 MATH
 SHORT ANSWER
-Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate 2f x dx  - 5f x dx31
-3
-1  (read as: the integral from 1 to 3 of 2 f of x dx minus 
-the integral from 1 to 3 of 5 f of x dx). 
+Let f(x) be a function with antiderivative g(x) satisfying g(1) = 2 and g(3) = 4. Calculate (the integral from 1 to 3 of: 2f(x)dx) - (the integral from 1 to 3 of: 5f(x)dx)
 -6 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the name of the blue-white supergiant that is also the brightest star in the constellation Orion? 
-rigel (accept: beta orionis) 
+rigel OR beta orionis
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following did NOT occur during the Mesozoic era? 
 W) Formation of the Coast Range batholith 
@@ -327,24 +310,22 @@ TOSS UP
 PHYSICS
 SHORT ANSWER
 In a Bose-Einstein condensate, what general type of particles co- exist in the lowest possible quantum state? 
-bosons 
+bosons OR boson
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A 9-volt battery costs $1.49 and will run a portable DVD player for 6 hours, supplying 25 milliamperes of current. What is the cost per kilowatt hour of the battery’s 
-energy to the nearest $100? 
-$1100 
+A 9-volt battery costs $1.49 and will run a portable DVD player for 6 hours, supplying 25 milliamperes of current. What is the cost per kilowatt hour of the battery’s energy to the nearest $100? 
+1100 OR $1100 OR 1100 dollars
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
-Radiosondes are released at 0 UTC and 1200 UTC daily at multiple locations around the globe. What are the corresponding times in Eastern 
-Standard Time? 
-7 am and 7 pm (accept: 0700 and 1900) 
+EARTH SCIENCE
+SHORT ANSWER
+Radiosondes are released at 0 UTC and 1200 UTC daily at multiple locations around the globe. What are the corresponding times in Eastern Standard Time? Type as "<x>:<00> <am/pm> and <y>:<00> <am/pm>"
+7:00 am and 7:00 pm
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The most explosive type of volcanism would be expected in which of the following locations?  
 W) Mid-ocean ridge 
@@ -360,15 +341,13 @@ Which of the following is measured by total harmonic distortion, a standard for 
 W) How distorted the waveform is from a pure sinusoidal waveform 
 X) How distorted a waveform is from a triangular waveform 
 Y) The difference between a sinusoidal waveform and a triangular waveform 
-Z) The maximum value of a sinusoidal waveform with respect to the reference point of the 
-waveform 
-w OR how distorted the waveform is from a pure sinusoidal 
+Z) The maximum value of a sinusoidal waveform with respect to the reference point of the waveform 
+w OR how distorted the waveform is from a pure sinusoidal wave form
 
-WAVEFORM 
 BONUS  
-ENERGY SHORT ANSWER
-Protists are classified by how they acquire energy. What is the specific phrase used to describe the diffusion of nutrients into the organisms after they have 
-digested organic compounds through the secretion of exoenzymes? 
+ENERGY
+SHORT ANSWER
+Protists are classified by how they acquire energy. What is the specific phrase used to describe the diffusion of nutrients into the organisms after they have digested organic compounds through the secretion of exoenzymes? 
 heterotrophic absorption 
 
 TOSS UP
@@ -390,4 +369,3 @@ X) Ribosomes
 Y) Spliceosomes  
 Z) RNA polymerases 
 y OR spliceosomes 
-

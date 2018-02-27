@@ -18,7 +18,7 @@ class Proctor {
     private ArrayList<String> subjects = new ArrayList<>();
 
     Proctor() throws IOException, InterruptedException {
-        test(4, 7);
+        test(5, 10);
         getSettings();
         readQuestions();
     }
@@ -315,7 +315,7 @@ class Proctor {
                 }
             }
         }
-        for (int i = 1; i <= 6; i++) {
+        for (int i = 1; i <= 7; i++) {
             File f = new File("set 4\\Set4Round" + i + ".txt");
             BufferedReader br = new BufferedReader(new FileReader(f));
             int numLines = countLines(f.getAbsolutePath());
@@ -416,9 +416,16 @@ class Proctor {
 
     private void test(int set, int round) throws IOException {
         getAllByRound(set, round);
+        int errorCount = 0;
         for (int i = 0; i < unread.size(); i++) {
             Question q = unread.get(i);
             q.showErrors((i+1));
+            if (q.hasError()) {
+                errorCount++;
+            }
+        }
+        if (errorCount == 0) {
+            System.out.println("No errors found.");
         }
         System.exit(0);
     }
@@ -474,6 +481,7 @@ class Proctor {
             Collections.addAll(subjects, subjs);
         }
     }
+
     private String wrapString() {
         return WordUtils.wrap("Would you like to filter by subject(s)? If so, type the subjects that you want to practice with, separated by a space, or leave it blank for all subjects. Subjects are Earth Science, Astronomy, Math, Physics, Energy, Biology, Chemistry, and General Science.\n> ", 120);
     }
@@ -513,7 +521,7 @@ class Proctor {
     }
 
     //IN PROGRESS
-    private void generateRound(int roundNumber) {
+    private void generateRound() {
         Random random = new Random();
         int roundBalance = random.nextInt(100);
         if (roundBalance <= 7) { //Earth and Space heavy -- ER/SC 35%, PHYS 18%, BIO 18%, CHEM 18%, OTHER 11%

@@ -1,5 +1,5 @@
-TOSS UP
-EARTH AND SPACE
+﻿TOSS UP
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following most accurately describes the dominant air mass over Nebraska in January? 
 W) Cold, dry, continental 
@@ -9,31 +9,25 @@ Z) Cold, humid, aquatic
 w OR cold, dry, continental 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-By name or number, put the following four choices in chronological order from earliest to most recent: 1) occurrence of humans, 2) existence of 
-Pangaea, 3) formation of the Great Lakes, 4) extinction of the dinosaurs. 
-existence of pangaea, extinction of dinosaurs, occurrence of 
+EARTH SCIENCE
+SHORT ANSWER
+By name or number, put the following four choices in chronological order from earliest to most recent: 1) occurrence of humans, 2) existence of Pangaea, 3) formation of the Great Lakes, 4) extinction of the dinosaurs. 
+existence of pangaea, extinction of dinosaurs, occurrence of humans, formation of the great lakes OR 2, 4, 1, 3
 
-HUMANS, FORMATION OF THE GREAT LAKES (ACCEPT: 2, 4, 1, 3) 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system's 
-fluid? 
-inertial 
+Turbulent flow is more likely to occur under conditions where Reynolds numbers are high. Under these conditions, what forces are dominant in the system's fluid? 
+inertial OR inertia
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A 10-meter long cannon is pointed directly up and launches a 1- kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a 
-constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared 
-and assuming no energy loss due to friction, what is the velocity, in meters per second, of the 
-cannon ball as it leaves the cannon? 
-8 
+A 10-meter long cannon is pointed directly up and launches a 1- kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared and assuming no energy loss due to friction, what is the velocity, in meters per second, of the cannon ball as it leaves the cannon? 
+8 OR 8 meters per second OR 8 meters/second OR 8 m/s
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following BEST describes what happens to continental crust as glaciers melt and retreat? 
 W) Springs fill in low-lying regions left behind 
@@ -43,7 +37,7 @@ Z) There is no impact on the crust
 y OR the crust isostatically rebounds 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Sinkholes, disappearing streams, and caves are found in which of the following types of regions?  
 W) Marshes 
@@ -53,22 +47,21 @@ Z) Karst topography
 z OR karst topography 
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What is the term for the liquid, consisting of precipitation and waste decomposition, that has been filtered through a landfill? 
 leachate 
 
 BONUS  
-ENERGY SHORT ANSWER
-What is the name of an energy storage technology in which electrical energy is stored by accelerating a rotor, maintaining the energy in the system as 
-rotational energy? 
+ENERGY 
+SHORT ANSWER
+What is the name of an energy storage technology in which electrical energy is stored by accelerating a rotor, maintaining the energy in the system as rotational energy? 
 flywheel 
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Wolves are introduced to an island populated with white-tailed deer. After several generations, the average sprint speed of the deer increased significantly 
-relative to the wolf introduction period. In evolutionary terms, of which of the following kinds of 
-selection is this is an example? 
+Wolves are introduced to an island populated with white-tailed deer. After several generations, the average sprint speed of the deer increased significantly relative to the wolf introduction period. In evolutionary terms, of which of the following kinds of selection is this is an example? 
 W) Disruptive  
 X) Stabilizing 
 Y) Directional 
@@ -85,14 +78,13 @@ TOSS UP
 MATH
 SHORT ANSWER
 What is the multiplicative identity of the complex numbers in standard a + bi form?   
-1 + 0i (accept: 1) 
+1 + 0i OR 1 
 
 BONUS  
 MATH
 SHORT ANSWER
-Factor the following polynomial completely over the real numbers: 
-x3 + 3x2 – 5x – 15. 
-(x + 3)(x + 5)(x - 5) (in any order) 
+Factor the following polynomial completely over the real numbers: x^3 + 3x^2 – 5x – 15. Type as (x +/- <number>)(x +/- <number>)..., in ascending order of <number>s.
+(x - 5)(x + 3)(x + 5) 
 
 TOSS UP
 BIOLOGY
@@ -107,17 +99,18 @@ y OR abdomens
 BONUS  
 BIOLOGY
 SHORT ANSWER
-A plant has both megasporangiate (read as: meh-gah-spoh-RAHN- jeet) and microsporangiate (read as: my-krōe-spoh-RAHN-jeet) flowers on the same plant. 
-Indicate the term that describes this type of plant. 
+A plant has both megasporangiate (read as: meh-gah-spoh-RAHN- jeet) and microsporangiate (read as: my-krōe-spoh-RAHN-jeet) flowers on the same plant. Indicate the term that describes this type of plant. 
 monoecious 
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What element is the primary component of most photovoltaic cells? 
-silicon 
+silicon OR si
 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What do we call the point in time when the maximum rate of global petroleum extraction is reached, after which the rate of production declines? 
 peak oil 
 
@@ -125,14 +118,13 @@ TOSS UP
 PHYSICS
 SHORT ANSWER
 If we double the voltage in a simple DC circuit and reduce the resistance by half, what will happen to the value of the current? 
-quadruple 
+quadruple OR it will quadruple
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-By name or number, identify all of the following three choices that are apparent differences between a muon and an electron: 1) mass, 2) electric charge, 3) half 
-life? 
-mass and half life (accept: 1 and 3) 
+By name or number, identify all of the following three choices that are apparent differences between a muon and an electron: 1) mass, 2) electric charge, 3) half life? 
+mass, half life OR 1, 3
 
 TOSS UP
 BIOLOGY
@@ -155,23 +147,6 @@ Z) Global energy minimum
 w OR hydrogen bonding 
 
 TOSS UP
-MATH
-SHORT ANSWER
-What is the exponent of 5 in the prime factorization of 325? 
-2 
-
-BONUS  
-MATH
-SHORT ANSWER
-For which real values of x does the following the series converge: 
-xn
-n!
-∞
-n=0  (read as the summation from n equals 0 to infinity of [pause] x to the power of n over n 
-factorial)? 
-all real numbers 
-
-TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
 A pure element when mixed with an ionic compound is most likely to undergo which of the following kinds of reactions? 
@@ -192,7 +167,7 @@ Z) Cis-xylene
 x OR meta-xylene 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 According to data from the Voyager I and II spacecrafts, at what range, in astronomical units, is the heliopause from the Sun? 
 W) 0 to 100 
@@ -202,17 +177,16 @@ Z) 300 to 400
 x OR 100 to 200 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-By name or number, identify all of the following four formations that were caused by subduction: 1) Cascade Mountains, 2) North American craton, 
-3) Hawaiian Islands, 4) folded Himalayan mountains? 
-cascade mountains (accept: 1) 
+EARTH SCIENCE
+SHORT ANSWER
+By name or number, identify all of the following four formations that were caused by subduction: 1) Cascade Mountains, 2) North American craton, 3) Hawaiian Islands, 4) folded Himalayan mountains? 
+cascade mountains OR 1 OR cascade mountains only OR 1 only
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
 Specifying the sign, what is the oxidation state of nitrogen in the neutral compound iron (II) nitrate? 
-+5 (do not accept: 5) 
++5
 
 BONUS  
 CHEMISTRY
@@ -230,7 +204,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 The energy investment phase of glycolysis (read as: gly-KOH-li- sis) results in the formation of which triose sugar? 
-gadp (accept: dhap, glyceraldehyde 3-phosphate) 
+gadp OR dhap OR glyceraldehyde 3-phosphate
 
 TOSS UP
 CHEMISTRY
@@ -245,39 +219,19 @@ w OR always spontaneous
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a 
-positively charged ion: 1) H2, 2) B2, 3) ClBr, 4) OF. 
-h2, b2, clbr (accept: 1, 2, and 3) 
-
-TOSS UP
-MATH
-MULTIPLE CHOICE
-Which of the following decreases when 5 is subtracted from each item of a data set? 
-W) Standard deviation 
-X) Range 
-Y) Mean 
-Z) Variance 
-y OR mean 
-
-BONUS 
-MATH
-SHORT ANSWER
-Providing your answer as an improper fraction in simplest form in terms of π, what is the volume of the solid generated when the area bounded by y = x3 , x = 2, 
-and the x axis is revolved around the x-axis? 
-128/7 π 
+By name or number, identify all of the following four diatomic molecules whose bond strength would decrease after the removal of an electron to form a positively charged ion: 1) H2, 2) B2, 3) ClBr, 4) OF. 
+h2, b2, clbr OR 1, 2, 3 OR all but OF OR all but 4 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
 What is the frequency, in megahertz, of a wave of period 2 × 10−8 seconds? 
-50 
+50 OR 50 megahertz OR 50 mhz
 
 BONUS 
 PHYSICS
 SHORT ANSWER
-Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change 
-in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water 
-at 0° Celsius? 
+Given that the heat of fusion of water is 80 kilocalories per kilogram and providing your answer as a decimal to the nearest hundredth, what is the change in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water at 0° Celsius? 
 0.29 
 
 TOSS UP
@@ -305,9 +259,8 @@ superheated
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) 
-fluorine, 5) xenon. 
-phosphorus and xenon (accept: 3 and 5) 
+By name or number, identify all of the following five elements that can form compounds with an expanded octet: 1) beryllium, 2) oxygen, 3) phosphorus, 4) fluorine, 5) xenon. 
+phosphorus, xenon OR 3, 5
 
 TOSS UP
 PHYSICS
@@ -330,61 +283,57 @@ Z) The kinetic energy of the planet is at a maximum
 y OR the kinetic energy of the planet is at a minimum 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Why are there so many more land fossils than marine fossils in early Mesozoic rocks? 
 W) Less continental mass existed then 
 X) Shorelines were inundated with terrigenous sediment from mountains  
 Y) Shallow seas were abundant 
 Z) More continental mass existed then  
-x OR shorelines were inundated with terrigenous sediment from 
+x OR shorelines were inundated with terrigenous sediment from mountains
 
-MOUNTAINS 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read 
-as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods),  4) sauropods. 
-sauropods (accept: 4) 
+EARTH SCIENCE
+SHORT ANSWER
+By name or number, identify all of the following four life forms that are NOT a part of the Paleozoic rock record: 1) arthropods, 2) brachiopods (read as: BRA-kee-oh-pods), 3) cephalopods (read as: SEH-fah-loh-pods),  4) sauropods. 
+sauropods OR 4 or sauropods only OR 4 only
 
 TOSS UP
 MATH
 SHORT ANSWER
-Which two mathematicians are generally credited with the invention of calculus? 
-leibniz and newton 
+Which two mathematicians are generally credited with the invention of calculus? Type as "<lastname1> and <lastname2>"
+leibniz and newton OR newton and leibniz
 
 BONUS  
 MATH
 MULTIPLE CHOICE
 Which of the following 2 by 2 matrices is equivalent to a clockwise rotation of 90 degrees? 
-W)   0 −1  1   0  (read as: row 1: 0, -1; row 2: 1, 0) 
-X)   0 1  −1 0     (read as: row 1: 1, 1; row 2: -1, 0) 
-Y)   0 −1−1   0  (read as: row 1: 0, -1; row 2: -1, 0) 
-Z)   0   1    1   0    (read as: row 1: 0, 1; row 2: 1, 0) 
-x OR   0 1  −1 0    
+W) [[0, −1], [1, 0]] (read as: row 1: 0, -1; row 2: 1, 0) 
+X) [[0, 1], [−1, 0]] (read as: row 1: 1, 1; row 2: -1, 0) 
+Y) [[0, −1], [−1, 0]] (read as: row 1: 0, -1; row 2: -1, 0) 
+Z) [[0, 1], [1, 0]] (read as: row 1: 0, 1; row 2: 1, 0) 
+x OR [[0, 1], [−1, 0]]   
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What is the SI unit of magnetic flux? 
 weber 
 
 BONUS  
-ENERGY SHORT ANSWER
-By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to 
-greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland. 
-united states, mexico, kenya, iceland (accept: 2, 3, 1, 4) 
+ENERGY 
+SHORT ANSWER
+By name or number, rank the following four countries in annual geothermal energy generation as a percentage of total domestic energy production from least to greatest: 1) Kenya, 2) United States, 3) Mexico, 4) Iceland. 
+united states, mexico, kenya, iceland OR 2, 3, 1, 4
 
 TOSS UP
 MATH
 SHORT ANSWER
 If a = cos(x), what is cos(2x) in terms of a? 
-2a2 – 1 
+2a^2 – 1 
 
 BONUS 
 MATH
 SHORT ANSWER
-A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. 
-v= x 
-
-3   3
-4  
+A triangular prism has a base that is an equilateral triangle with sides of length x. If the height of the prism is x, express the volume of the prism in terms of x. Type as "V = <formula>".
+V = (x^3(sqrt(3)))/4

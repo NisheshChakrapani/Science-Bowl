@@ -1,11 +1,12 @@
-  
-TOSS UP
-ENERGY SHORT ANSWER
+﻿TOSS UP
+ENERGY 
+SHORT ANSWER
 In an electrolytic cell, what is the sign of the charge associated with the anode? 
-positive (accept: plus) 
+positive OR + OR plus 
 
 BONUS  
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 Which of the following has NOT been shown to be a practical use of electrolytic cells? 
 W) Recovering pure metal from alloys 
 X) Electrolysis  
@@ -33,23 +34,6 @@ Y) Fe3(PO4)2
 Z) Fe3(PO3)2 
 y OR fe3(po4)2 
 
-  
-TOSS UP
-MATH
-MULTIPLE CHOICE
-Find the derivative of 2xex (read as: 2x e to the x). W) xe 22
-x +  
-X) 2xex + ex 
-Y) 2xex + 2ex  
-Z) 2xex  
-y OR 2xex + 2ex 
-
-BONUS  
-MATH
-SHORT ANSWER
-What matrix is the multiplicative inverse of the 2 by 2 matrix (read as: row 1: 3, 1; row 2: 5, 2). 
-
-
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
@@ -58,21 +42,18 @@ W) Connect the capacitors in parallel and the batteries in series
 X) Connect the capacitors in series and the batteries in parallel 
 Y) Connect the capacitors and batteries in parallel 
 Z) Connect the capacitors and batteries in series 
-w OR connect the capacitors in parallel and the batteries in 
+w OR connect the capacitors in parallel and the batteries in series
 
-SERIES 
 BONUS 
 PHYSICS
 SHORT ANSWER
-What would be the total capacitance in microfarads and total voltage of 3 four-microfarad capacitors in parallel and two 1.5 volt batteries in series in a circuit? 
+What would be the total capacitance in microfarads and total voltage of 3 four-microfarad capacitors in parallel and two 1.5 volt batteries in series in a circuit? Write as "[x] microfarads and [y] volts"
 12 microfarads and 3 volts 
 
-  
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
-Which of the following best explains why eliminating one trophic level in an ecosystem often results in a decrease in organisms two trophic levels 
-down? 
+Which of the following best explains why eliminating one trophic level in an ecosystem often results in a decrease in organisms two trophic levels down? 
 W) Abundance of prey in the eliminated trophic level 
 X) Increased predation by organisms one trophic level down 
 Y) Increased predation by organisms two trophic levels down 
@@ -80,18 +61,15 @@ Z) Increased predator diversity
 x OR increased predation by organisms one trophic level down 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What property of diatoms make them useful as climate proxies? 
 W) The chemical makeup of their shells reflects the water chemistry at their time of formation 
-X) The narrow temperature range in which they exist makes them markers for paleo0ocean 
-temperatures 
+X) The narrow temperature range in which they exist makes them markers for paleo0ocean temperatures 
 Y) Their well-preserved digestive system provide ample evidence for ancient food webs 
-Z) Their limited diversity and low adaptability make them key indicators of specific aquatic 
-environments 
-w OR the chemical makeup of their shells reflects the water 
+Z) Their limited diversity and low adaptability make them key indicators of specific aquatic environments 
+w OR the chemical makeup of their shells reflects the water chemistry at their time of formation
 
-CHEMISTRY AT THEIR TIME OF FORMATION  
 TOSS UP
 MATH
 SHORT ANSWER
@@ -101,15 +79,13 @@ What is the largest triangular number less than 25?
 BONUS 
 MATH
 SHORT ANSWER
-A man who is 6 feet tall spots a bird at the top of a 14-foot telephone pole. If the angle of elevation from his eyes to the top of the pole is 30 degrees, then to the 
-nearest foot, how far away is he standing from the base of the pole? 
-14 
-
+A man who is 6 feet tall spots a bird at the top of a 14-foot telephone pole. If the angle of elevation from his eyes to the top of the pole is 30 degrees, then to the nearest foot, how far away is he standing from the base of the pole? 
+14
   
 TOSS UP
-ENERGY MULTIPLE CHOICE
-The human brain contains as many as 100 billion neurons. The neurons communicate with each other through electrochemical signals. Which of the following is 
-NOT true? 
+ENERGY
+MULTIPLE CHOICE
+The human brain contains as many as 100 billion neurons. The neurons communicate with each other through electrochemical signals. Which of the following is NOT true? 
 W) Each neuron can connect to at least 1,000 other neurons 
 X) Neurons have a short life span  
 Y) Brain signals involve less than one-tenth the voltage of an ordinary flashlight battery 
@@ -117,9 +93,9 @@ Z) Some messages pass through the nervous system more quickly than others
 x OR neurons have a short life span 
 
 BONUS  
-ENERGY MULTIPLE CHOICE
-Brain computer interfaces can measure minute differences in the voltage between neurons, amplify and filter the signal, and then a computer interprets it. All of 
-the following are current applications of brain computer interfaces, except: 
+ENERGY
+MULTIPLE CHOICE
+Brain computer interfaces can measure minute differences in the voltage between neurons, amplify and filter the signal, and then a computer interprets it. All of the following are current applications of brain computer interfaces, except: 
 W) Controlling a computer cursor via mental commands 
 X) Interpreting brain signals for movement for someone who can’t physically move 
 Y) Providing a communication link for people who suffer from “locked in” syndrome 
@@ -129,36 +105,32 @@ z OR repairing damaged neurons
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-During a safety test, a small car and a truck move toward each other at the same speed and experience a head-on collision. Afterward, the two objects move 
-away from each other along the same line. Which of the following is correct? 
+During a safety test, a small car and a truck move toward each other at the same speed and experience a head-on collision. Afterward, the two objects move away from each other along the same line. Which of the following is correct? 
 W) The truck will experience a greater speed than the car 
 X) The car will experience a greater speed than the truck 
 Y) The speeds of the truck and the car will be the same 
-Z) Sometimes the truck will experience a greater speed and sometimes the car will experience 
-the greater speed 
+Z) Sometimes the truck will experience a greater speed and sometimes the car will experience the greater speed 
 x OR the car will experience a greater speed than the truck 
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 Mercury or other liquid barometers work by balancing the force exerted by the atmosphere with what? 
-force exerted by the liquid 
-
+force exerted by the liquid OR the force exerted by the liquid
   
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 Hydrogen fuel cells use hydrogen to generate energy. Which of the following is true about hydrogen fuel cells? 
 W) Fuel cells are similar to batteries and store hydrogen, which is an energy source by itself 
 X) Fuel cells extract the hydrogen from other compounds in nature 
 Y) Fuel cells dissolve water into hydrogen, creating oxygen and energy 
-Z) Fuel cells convert chemical energy in hydrogen into electrical energy by combining hydrogen 
-gas with oxygen from the air to produce water and energy 
-z OR fuel cells convert chemical energy into electrical energy 
+Z) Fuel cells convert chemical energy in hydrogen into electrical energy by combining hydrogen gas with oxygen from the air to produce water and energy 
+z OR fuel cells convert chemical energy into electrical energy by combining hydrogen gas with oxygen from the air to produce water and energy 
 
-BY COMBINING HYDROGEN GAS WITH OXYGEN FROM THE AIR TO PRODUCE WATER 
-AND ENERGY 
 BONUS 
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 If you were to use hydrogen fuel cells in spacecraft, what kind of fuel cell type would you most likely prefer? 
 W) Phosphoric acid 
 X) Molten carbonate 
@@ -167,13 +139,13 @@ Z) Alkaline
 z OR alkaline 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Three of these things belong together. Which rock does NOT belong: 1) gneiss, 2) granite, 3) basalt, or 4) limestone? 
-limestone (accept: 4) 
+limestone OR 4
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What kind of minerals do copper ores tend to be? 
 W) Native element 
@@ -182,7 +154,6 @@ Y) Oxide and phosphate
 Z) Hydrocarbon and halide 
 x OR carbonate and sulfide 
 
-  
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -196,58 +167,24 @@ z OR instinctual
 BONUS 
 BIOLOGY
 MULTIPLE CHOICE
-Honey doesn't spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel 
-up because honey is a: 
+Honey doesn't spoil easily because bacteria falling into the honey are often killed. The water in the bacteria rushes out of the cell and the bacteria shrivel up because honey is a: 
 W) Isotonic solution 
 X) Hypertonic solution  
 Y) Hypotonic solution 
 Z) Inorganic solution 
 x OR hypertonic solution 
-
-TOSS UP
-MATH
-MULTIPLE CHOICE
-What are the solutions for x in the following equation: 82 =− xx2 ? 
-W)  0 
-X) 0 and 2 
-Y) 4 and -2 
-Z) -4 and 2 
-y OR 4 and -2 
-
-BONUS 
-MATH
-SHORT ANSWER
-Solve for x in simplest form for 223 2 =+ xx . 
-
-3
-71±−
-=x  (ACCEPT:  -1/3 ± /3) 
   
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Other than precipitation, what is the most important factor defining a biome?   
 temperature 
 
 BONUS 
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Put the following parts of an ecosystem in order from smallest to largest: biome, community, population, ecosystem, organism, species. 
 organism, species, population, community, ecosystem, biome 
-
-TOSS UP
-MATH
-SHORT ANSWER
-Factor the following expression completely over the integers: 
-(a – 2)( 
-
-BONUS  
-MATH
-SHORT ANSWER
-Factor the following expression completely over the integers: 
-. 
-(a + 2) 
-
   
 TOSS UP
 CHEMISTRY
@@ -268,25 +205,21 @@ z OR potassium phosphate
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Mirages, such as the silvery glimmer you sometimes see on a distant hot highway, are caused by heating of the air near the ground. What relevant property of 
-the heated air is changed? 
-index of refraction (accept: density of the air) 
+Mirages, such as the silvery glimmer you sometimes see on a distant hot highway, are caused by heating of the air near the ground. What relevant property of the heated air is changed? 
+index of refraction OR density of the air
 
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-A steadily increasing force is applied to a box that remains at rest for some period of time and then begins to accelerate. Which of the following appropriately 
-describes what happens to the frictional force during the experiment? 
+A steadily increasing force is applied to a box that remains at rest for some period of time and then begins to accelerate. Which of the following appropriately describes what happens to the frictional force during the experiment? 
 W) The frictional force remains constant throughout the experiment 
 X) The frictional force increases throughout the experiment 
 Y) The frictional force increases and then suddenly drops to a lower, non-zero value 
 Z) The frictional force increases and then suddenly drops to zero 
-y OR the frictional force increases and then suddenly drops to a 
+y OR the frictional force increases and then suddenly drops to a lower, non-zero value
 
-LOWER, NONZERO VALUE 
-  
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 As an airmass ascends into the atmosphere, its water vapor capacity changes, causing which of the following? 
 W) Cloud formation and possible precipitation 
@@ -296,10 +229,10 @@ Z) Hurricane conditions
 w OR cloud formation and possible precipitation 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-What are the names of the three primary atmospheric circulation cells that circulate air between the equator and poles? 
-hadley cell, ferrel (or mid-latitude) cell, and polar cell 
+EARTH SCIENCE
+SHORT ANSWER
+What are the names of the three primary atmospheric circulation cells that circulate air between the equator and poles? (List in alphabetical order)
+ferrel cell, hadley cell, polar cell OR ferrel, hadley, polar
 
 TOSS UP
 BIOLOGY
@@ -320,7 +253,6 @@ X) Always carry the gene, but never express it phenotypically
 Y) Only carry the mutated gene if it is heritable 
 Z) Never carry the gene as mutations cannot be heritable 
 y OR only carry the mutated gene if it is heritable 
-
   
 TOSS UP
 CHEMISTRY
@@ -344,14 +276,11 @@ BONUS
 BIOLOGY
 MULTIPLE CHOICE
 Which of the following is NOT true regarding vertebrate muscle contractions? 
-W) Tropomyosin (read as: trōe-poh-MY-oh-sin) binds the calcium ions and exposes the myosin 
-binding sites on actin filaments   
+W) Tropomyosin binds the calcium ions and exposes the myosin binding sites on actin filaments   
 X) The H zone and I band become shorter 
 Y) T Tubules spread action potentials into the muscle fiber 
 Z) The contraction is terminated when calcium ions are taken up by the sarcoplasmic reticulum 
-w OR tropomyosin binds the calcium ions and exposes the myosin 
-
-BINDING SITES ON ACTIN FILAMENTS   
+w OR tropomyosin binds the calcium ions and exposes the myosin binding sites on actin filaments
   
 TOSS UP
 PHYSICS
@@ -362,8 +291,7 @@ What is the total resistance, in ohms, of two resistors in parallel when both ar
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-If the circuit breaker in a 110-volt circuit is listed at 30 amperes, how many 100 watt light bulbs could you have on that circuit, which includes a TV with 250 
-watts, a hair dryer of 1500 watts and a computer of 150 watts? 
+If the circuit breaker in a 110-volt circuit is listed at 30 amperes, how many 100 watt light bulbs could you have on that circuit, which includes a TV with 250 watts, a hair dryer of 1500 watts and a computer of 150 watts? 
 W) 10 
 X) 14 
 Y) 18 
@@ -371,7 +299,7 @@ Z) 20
 x OR 14 
 
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following planets has the longest year? 
 W) Neptune  
@@ -381,27 +309,25 @@ Z) Mercury
 w OR neptune 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 What is it called when Mercury is observed to pass in front of the Sun? 
-a transit of mercury (accept: transit) 
-
+a transit of mercury OR transit of mercury OR transit OR mercury transit
   
 TOSS UP
 MATH
 MULTIPLE CHOICE
 A cylinder and a cone share the same radius and height. What is the ratio of the cylinder’s volume to the cone’s volume? 
-W) 1:1 (read as: 1 to 1) 
-X) 1.5:1 (read as: 1.5 to 1) 
-Y) 2:1 (read as: 2 to 1) 
-Z) 3:1 (read as: 3 to 1) 
+W) 1:1 
+X) 1.5:1 
+Y) 2:1 
+Z) 3:1 
 z OR 3:1 
 
 BONUS  
 MATH
 MULTIPLE CHOICE
-A math teacher is trying to describe her favorite triangle. The lengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeter 
-side is 12°. How many non-congruent triangles fit this description? 
+A math teacher is trying to describe her favorite triangle. The lengths of two sides are 4 centimeters and 6 centimeters. The angle opposite the 4 centimeter side is 12°. How many non-congruent triangles fit this description? 
 W) 0 
 X) 1 
 Y) 2 
@@ -411,8 +337,7 @@ y OR 2
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Darwin's finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the 
-development of the differing beaks? 
+Darwin's finches differ from other finches in the size and shape of their beaks. Which of the following factors has been identified as the major influence on the development of the differing beaks? 
 W) Access to different food sources 
 X) Sexual competition 
 Y) Protection against predators 
@@ -422,10 +347,8 @@ w OR access to different food sources
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Darwin's finches all descended from one species, the Blue-Black Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often 
-occurring together on the same islands. What is the name for speciation that occurs in this way? 
+Darwin's finches all descended from one species, the Blue-Black Grassquit Finch. These finches evolved in overlapping and sometimes identical ranges, often occurring together on the same islands. What is the name for speciation that occurs in this way? 
 sympatric 
-
   
 TOSS UP
 CHEMISTRY
@@ -440,11 +363,9 @@ x OR r
 BONUS  
 CHEMISTRY
 MULTIPLE CHOICE
-Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg(s) + O2(g)  à (read as: 
-yields)  2 MgO(s) + heat? 
+Which of the following changes will increase the reaction rate of the reaction between solid magnesium and gaseous oxygen: 2 Mg(s) + O2(g)  --> (read as: yields)  2 MgO(s) + heat? 
 W) Increasing the concentration of oxygen  
 X) Removing the magnesium oxide as soon as it is formed 
 Y) Reducing the temperature 
 Z) Decreasing the concentration of oxygen 
 w OR increasing the concentration of oxygen 
-

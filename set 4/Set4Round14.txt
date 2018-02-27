@@ -1,8 +1,8 @@
-TOSS UP
+﻿TOSS UP
 MATH
 SHORT ANSWER
 If the determinant of a 2 by 2 matrix, denoted A, is equal to -2, what is the determinant of 2 times A? 
-- 8 
+-8 
 
 BONUS  
 MATH
@@ -18,7 +18,7 @@ TOSS UP
 PHYSICS
 SHORT ANSWER
 If two sine waves are played with frequencies of 400 and 410 Hertz, at what frequency in Hertz will you perceive that their volumes are “pulsing”? 
-10 
+10 OR 10 hertz OR 10 hz
 
 BONUS  
 PHYSICS
@@ -31,7 +31,7 @@ Z) 210 and 420
 x OR 140 and 210 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 If you measure the solar altitude at noon and find it to be 90°, at which of the following locations could you be? 
 W) Congo, in sub-Saharan Africa 
@@ -41,18 +41,15 @@ Z) Tokyo, Japan, off the coast of eastern Asia
 w OR congo, in sub-saharan africa 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-If where you live, the sun rises at 75° northeast on the horizon, in May, and the solar altitude is less than 90° at the equinox, in which hemisphere do 
-you live? 
-northern hemisphere 
+EARTH SCIENCE
+SHORT ANSWER
+If where you live, the sun rises at 75° northeast on the horizon, in May, and the solar altitude is less than 90° at the equinox, in which hemisphere do you live? 
+northern hemisphere OR northern
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-Many mammal species produce colostrum during the late stages of pregnancy or shortly after giving birth. This "first milk" transfers antibodies from the mother to 
-the infant. What is the isotype of these antibodies that can be transferred from the infant gut to 
-the infant bloodstream? 
+Many mammal species produce colostrum during the late stages of pregnancy or shortly after giving birth. This "first milk" transfers antibodies from the mother to the infant. What is the isotype of these antibodies that can be transferred from the infant gut to the infant bloodstream? 
 iga 
 
 BONUS  
@@ -98,9 +95,8 @@ x OR the volume of the object
 BONUS  
 PHYSICS
 SHORT ANSWER
-A spherical Gaussian surface encloses two point charges, q1 and q2, while a third point charge, q3, is placed outside the Gaussian surface.  The electrical field on 
-the Gaussian surface is due to which of the charges? 
-q1, q2, and q3 (accept: 1, 2, 3, or all) 
+A spherical Gaussian surface encloses two point charges, q1 and q2, while a third point charge, q3, is placed outside the Gaussian surface.  The electrical field on the Gaussian surface is due to which of the charges? 
+q1, q2, q3 OR 1, 2, 3 OR all
 
 TOSS UP
 CHEMISTRY
@@ -126,7 +122,7 @@ TOSS UP
 MATH
 SHORT ANSWER
 How far apart, in degrees, are the asymptotes of the graph of 2tan(3x/2) (read as: 2 times the tangent of 3x over 2)? 
-120° 
+120 OR 120 degrees
 
 BONUS  
 MATH
@@ -139,7 +135,8 @@ Z) .91
 z OR .91 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 A strong oxidizing agent would show which of the following characteristics? 
 W) A large, positive reduction potential 
 X) A large, positive oxidation potential 
@@ -148,7 +145,8 @@ Z) A small, positive oxidation potential
 w OR a large, positive reduction potential 
 
 BONUS  
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Which of the following is the strongest reducing agent yielding the most ATP per molecule during oxidative phosphorylation? 
 W) FADH2 
 X) FAD+ 
@@ -157,7 +155,7 @@ Z) NAD+
 y OR nadh 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 A putative observation of methane on Mars was reported in 2009. Which of the following is NOT considered a possible source of this methane? 
 W) Methanogenesis 
@@ -167,38 +165,38 @@ Z) Serpentinization
 y OR volcanic outgassing 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 If the moon is in a new moon phase on April 1, approximately when will the next spring tide occur? 
-any date from april 13 to april 16 
+april 13 OR april 14 OR april 15 OR april 16 
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-Assuming that the light bulbs, wires, and batteries are all the same in two different circuits, how would the brightness of two light bulbs in series compare to 
-the brightness of just one light bulb? 
-dimmer (accept: less bright, less) 
+Assuming that the light bulbs, wires, and batteries are all the same in two different circuits, how would the brightness of two light bulbs in series compare to the brightness of just one light bulb? 
+dimmer OR less bright OR less
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 What will the power loss be in watts in a 100,000 volt transmission line carrying 10 amperes of current if the resistance of the line is 20 ohms?  
-2000 
+2000 watts
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 One component of a solar energy system is the charge controller. Its function is to:   
 W) Provide electrical protection to the system 
 X) Regulate the amount of power that goes into energy storage for later use 
 Y) Dissipate excess energy 
 Z) Store the energy for later use 
-x OR regulate the amount of power that goes into the energy 
+x OR regulate the amount of power that goes into the energy storage for later use
 
-STORAGE FOR LATER USE 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 How much heat in kilocalories does it take to heat 10 kilograms of bathwater from 10° Celsius to 20° Celsius? 
-100 
+100 OR 100 kilocalories OR 100 kcal
 
 TOSS UP
 MATH
@@ -210,10 +208,10 @@ BONUS
 MATH
 SHORT ANSWER
 What is the derivative of cos ( + w) (read as: cosine of open parenthesis pi over 2 plus w close parenthesis) with respect to w, in terms of cos(w)? 
--cos(w) (do not accept: other answers) 
+-cos(w)
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What will likely happen to the amount of dissolved oxygen in a river downstream of a tributary that brings sewage effluent? 
 W) The amount of oxygen will be depleted  
@@ -223,42 +221,35 @@ Z) More oxygen will diffuse into the water
 w OR the amount of oxygen will be depleted 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Does a heavy wet snowfall in Buffalo, New York necessarily mean that Boston, Massachusetts will experience the same weather? 
-W) Yes, because they are geographically close and the Westerlies drive storm systems across 
-the U.S. towards the East 
-X) Yes, because airmasses hitting New England are always impacted by their proximity to the 
-ocean and, therefore, pick up moisture that will be dumped as snow  
-Y) No, because Buffalo, New York, is subject to lake-effect snows; the airmass may be “dried 
-out” by the time it gets to Boston 
-Z) No, because weather in the U.S. is driven by the Westerlies which push storm systems from 
-east to west across the continent 
-y OR no, because buffalo, new york, is subject to lake-effect 
+W) Yes, because they are geographically close and the Westerlies drive storm systems across the U.S. towards the East 
+X) Yes, because airmasses hitting New England are always impacted by their proximity to the ocean and, therefore, pick up moisture that will be dumped as snow  
+Y) No, because Buffalo, New York, is subject to lake-effect snows; the airmass may be “dried out” by the time it gets to Boston 
+Z) No, because weather in the U.S. is driven by the Westerlies which push storm systems from east to west across the continent 
+y OR no, because Buffalo, New York, is subject to lake-effect snows; the airmass may be “dried out” by the time it gets to Boston  
 
-SNOWS; THE AIRMASS MAY BE “DRIED OUT” BY THE TIME IT GETS TO BOSTON 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 Which of the following principles is at work in hybrid cars? 
 W) Recapture some of car’s kinetic energy and use it to go faster 
 X) Recapture some of the car’s kinetic energy and use it for better fuel economy 
 Y) Recapture some of the car’s kinetic energy to synthesize gasoline 
 Z) Recapture engine heat and convert it to more kinetic energy for the car 
-x OR recapture some of the car’s kinetic energy and use it for 
+x OR recapture some of the car’s kinetic energy and use it for better fuel economy
 
-BETTER FUEL ECONOMY 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 If a force of 10 newtons raises a mass 1.0 meters in 1.0 seconds, then what is the power in watts? 
-10 
+10 OR 10 watts OR 10 w
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Humans have a gene, called LCT, which encodes lactase. In most of the world, LCT is active in young children but is turned off in adults. However, northern 
-Europeans and three different tribes of African pastoralists carry a mutation that permits it to be 
-expressed in adults. The mutation is different in each of the four cases, indicating the mutation 
-is an example of: 
+Humans have a gene, called LCT, which encodes lactase. In most of the world, LCT is active in young children but is turned off in adults. However, northern Europeans and three different tribes of African pastoralists carry a mutation that permits it to be expressed in adults. The mutation is different in each of the four cases, indicating the mutation is an example of: 
 W) Paralogous genes 
 X) Convergent evolution 
 Y) Homologous genes 
@@ -268,9 +259,8 @@ x OR convergent evolution
 BONUS  
 BIOLOGY
 SHORT ANSWER
-The human foot and the monkey foot are very different, despite common primate ancestry. The evolution of these differing traits allowed organisms to adapt to 
-different environmental conditions. This type of evolution is known as:  
-divergent evolution 
+The human foot and the monkey foot are very different, despite common primate ancestry. The evolution of these differing traits allowed organisms to adapt to different environmental conditions. This type of evolution is known as:  
+divergent evolution OR divergent
 
 TOSS UP
 MATH
@@ -289,7 +279,7 @@ The number 360 has how many positive integer factors?
 24 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What kind of plate tectonic boundary formed the East African rift? 
 W) Divergent 
@@ -299,16 +289,16 @@ Z) Transform
 w OR divergent 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What oceanic plate sits west of the South American plate, forming a convergent boundary? 
-nazca plate 
+nazca plate OR nazca
 
 TOSS UP
 MATH
 SHORT ANSWER
 If N represents the number of sides for a regular polygon that tessellates the plane, how many different values of N are there? 
-3 
+3 OR 3 values
 
 BONUS 
 MATH
@@ -339,25 +329,19 @@ w OR orange-yellow to green
 TOSS UP
 PHYSICS
 SHORT ANSWER
-When the path difference between two slits is an odd multiple of the light’s wavelength divided by 2, the waves arrive 180 degrees out of phase. What kind of 
-interference does this represent? 
-destructive 
+When the path difference between two slits is an odd multiple of the light’s wavelength divided by 2, the waves arrive 180 degrees out of phase. What kind of interference does this represent? 
+destructive OR destructive interference
 
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-A beam of white light is incident on a triangular glass prism with an index of refraction of 1.5 for visible light, producing a spectrum. Initially, the prism is in a 
-glass aquarium filled with air. If the aquarium is filled with water with an index of refraction of 
-1.3, which of the following is true? 
+A beam of white light is incident on a triangular glass prism with an index of refraction of 1.5 for visible light, producing a spectrum. Initially, the prism is in a glass aquarium filled with air. If the aquarium is filled with water with an index of refraction of 1.3, which of the following is true? 
 W) The spectrum produced has the deviation of the beam opposite to that in air 
 X) The positions of red and violet are reversed in the spectrum 
-Y) The spectrum produced has greater separation between red and violet than that produced in 
-air 
-Z) The spectrum produced has lesser separation between red and violet than that produced in 
-air 
-z OR the spectrum produced has lesser separation between red 
+Y) The spectrum produced has greater separation between red and violet than that produced in air 
+Z) The spectrum produced has lesser separation between red and violet than that produced in air 
+z OR the spectrum produced has lesser separation between red and violet than that produced in air
 
-AND VIOLET THAN THAT PRODUCED IN AIR 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
@@ -387,7 +371,7 @@ What is the method by which scientists determine the precise chromosomal locatio
 gene mapping 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT an accurate description of the dominant airmass effecting America’s Pacific Northwest?   
 W) Cool 
@@ -397,31 +381,23 @@ Z) Dry
 z OR dry 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 The Chinook winds that come from the west and move air down the eastern face of the Rocky Mountains are known as “snow eaters”, because: 
-W) The winds bring moist warm air from California, causing the snows to melt and “disappear” 
-from the Front Range region of Colorado 
-X) The airmass brings cold, dry winds from the peaks of the Rockies, causing the snow to 
-freeze into black ice, making it look like the snow “disappeared” 
-Y) The winds blow the snow off the Front Range and onto the Plains, making the snow 
-“disappear” from the eastern face of the mountains 
-Z) The airmass warms as it descends, increasing its water vapor capacity and causing the snow 
-to sublime and “disappear” 
-z OR the airmass warms as it descends, increasing its water vapor 
+W) The winds bring moist warm air from California, causing the snows to melt and “disappear” from the Front Range region of Colorado 
+X) The airmass brings cold, dry winds from the peaks of the Rockies, causing the snow to freeze into black ice, making it look like the snow “disappeared” 
+Y) The winds blow the snow off the Front Range and onto the Plains, making the snow “disappear” from the eastern face of the mountains 
+Z) The airmass warms as it descends, increasing its water vapor capacity and causing the snow to sublime and “disappear” 
+z OR the airmass warms as it descends, increasing its water vapor capacity and causing the snow to sublime and “disappear” 
 
-CAPACITY AND CAUSING THE SNOW TO SUBLIME AND “DISAPPEAR” 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-Which one or ones of the following are aquatic insect nymphs that have external gills on either the thorax or the abdomen: 1) stoneflies, 2) damselflies,                 
-3) dragonflies, or 4) mayflies?   
-stoneflies, damselflies, and mayflies (accept: 1, 2, 4) 
+Which one or ones of the following are aquatic insect nymphs that have external gills on either the thorax or the abdomen: 1) stoneflies, 2) damselflies, 3) dragonflies, or 4) mayflies? List answers in order either by name or number, separated by commas
+stoneflies, damselflies, mayflies OR 1, 2, 4 
 
 BONUS  
 BIOLOGY
 SHORT ANSWER
-In insects, prothoracicotropic (read as: prōe-thoh-rah-si-koh- TROH-pik) hormone stimulates the prothoracic gland to produce what hormone important in 
-insect development? 
-ecdysone 
-
+In insects, prothoracicotropic (read as: prōe-thoh-rah-si-koh- TROH-pik) hormone stimulates the prothoracic gland to produce what hormone important in insect development? 
+ecdysone

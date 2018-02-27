@@ -1,13 +1,14 @@
-TOSS UP
-ENERGY SHORT ANSWER
+﻿TOSS UP
+ENERGY 
+SHORT ANSWER
 When a 10 kilogram object is lifted 10 meters, in a gravitational field of 9.8 meters per second squared, what is the change in potential energy of the object in joules?   
-980 
+980 OR 980 joules OR 980 j
 
 BONUS  
-ENERGY SHORT ANSWER
-Taking g as 10 meters per second squared and assuming there is no friction, at about what height in meters must a 100 kilogram roller coaster start from rest in 
-order to achieve a speed of 100 meters per second at the bottom?  
-500 
+ENERGY 
+SHORT ANSWER
+Taking g as 10 meters per second squared and assuming there is no friction, at about what height in meters must a 100 kilogram roller coaster start from rest in order to achieve a speed of 100 meters per second at the bottom?  
+500 OR 500 meters OR 500 m
 
 TOSS UP
 CHEMISTRY
@@ -32,7 +33,7 @@ z OR heat
 TOSS UP
 MATH
 SHORT ANSWER
-Express (read as: the summation of x equals 1 to n of log of x) with a factorial. 
+Express the summation of x equals 1 to n of log of x with a factorial. 
 log n! 
 
 BONUS  
@@ -44,26 +45,21 @@ How many different letter arrangements can be formed using the six letters in th
 TOSS UP
 PHYSICS
 SHORT ANSWER
-If Tajon applies 100 newtons of force on a 2-meter wrench at a right angle to the wrench and parallel to the plane of rotation, how much torque, in newton 
-meters, is he applying to the bolt? 
-200 
+If Tajon applies 100 newtons of force on a 2-meter wrench at a right angle to the wrench and parallel to the plane of rotation, how much torque, in newton meters, is he applying to the bolt? 
+200 OR 200 newton meters OR 200 Nm
 
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
 What makes arches and domes more stable than flat roofed structures? 
-W) They transmit compressive forces along their length to the ground, uniformly bearing the 
-load of gravity 
+W) They transmit compressive forces along their length to the ground, uniformly bearing the load of gravity 
 X) Each section is under great tension, using the stronger dimension of the components 
-Y) Torsional resistance to sideways swaying ensures that such structures are stable, even in 
-high winds 
-Z) The surface tension of the arched shape allows the building components to be hollowed out, 
-saving weight. 
-w OR they transmit compressive forces along their length to the 
+Y) Torsional resistance to sideways swaying ensures that such structures are stable, even in high winds 
+Z) The surface tension of the arched shape allows the building components to be hollowed out, saving weight. 
+w OR they transmit compressive forces along their length to the ground, uniformly bearing the load of gravity
 
-GROUND, UNIFORMLY BEARING THE LOAD OF GRAVITY 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is a common mineral that is composed entirely of silicon and oxygen? 
 W) Pyrite 
@@ -73,7 +69,7 @@ Z) Feldspar
 x OR quartz 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following minerals is a mafic silicate? 
 W) Fluorite 
@@ -87,10 +83,10 @@ MATH
 MULTIPLE CHOICE
 Which of the following functions is one-to-one? 
 W) f(x) = |x| + 3 (read as: f of x equals the absolute value of x plus 3) 
-X) f(x) = x2 – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) 
-Y) f(x) = 5x3 + 9 (read as: f of x equals 5 x cubed plus 9) 
-Z) f(x) =  (read as: f of x equals 1 over x squared) 
-y OR f(x) = 5x3 + 9 
+X) f(x) = x^2 – 6x + 11 (read as: f of x equals x squared minus 6 x plus 11) 
+Y) f(x) = 5x^3 + 9 (read as: f of x equals 5 x cubed plus 9) 
+Z) f(x) = 1/(x^2) (read as: f of x equals 1 over x squared) 
+y OR f(x) = 5x^3 + 9 
 
 BONUS  
 MATH
@@ -99,20 +95,19 @@ A triangle has sides of length 5, 7, and 8 meters. In simplest form and in meter
 10 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY 
+MULTIPLE CHOICE
 Why is riding a bicycle on a well-maintained road more energy efficient than walking or running?   
 W) Bipedal motion is highly inefficient 
-X) The coefficient of sliding friction between tires and the ground is less than that between 
-shoes and the ground 
+X) The coefficient of sliding friction between tires and the ground is less than that between shoes and the ground 
 Y) Gravity does very little work on a bicyclist relative to a walker or runner 
 Z) Bicycling requires more calories than walking 
-y OR gravity does very little work on a bicyclist relative to a 
+y OR gravity does very little work on a bicyclist relative to a walker or runner
 
-WALKER OR RUNNER 
 BONUS  
-ENERGY SHORT ANSWER
-When a ball of mass m is launched vertically to a height h and returns to its original starting point of launch, what is the value of its change in gravitational 
-potential energy? 
+ENERGY 
+SHORT ANSWER
+When a ball of mass m is launched vertically to a height h and returns to its original starting point of launch, what is the value of its change in gravitational potential energy? 
 0 
 
 TOSS UP
@@ -128,9 +123,7 @@ y OR electron mapping
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-A jet engine gets its thrust by taking in air, heating and compressing it and then ejecting it at a high speed. If a particular engine takes in 20 kilograms 
-of air per second at 100 meters per second, and ejects it at 500 meters per second, what is the 
-thrust of the engine in newtons? 
+A jet engine gets its thrust by taking in air, heating and compressing it and then ejecting it at a high speed. If a particular engine takes in 20 kilograms of air per second at 100 meters per second, and ejects it at 500 meters per second, what is the thrust of the engine in newtons? 
 W) 760 
 X) 8000 
 Y) 9100 
@@ -138,36 +131,33 @@ Z) 10,500
 x OR 8000 
 
 TOSS UP
-ENERGY SHORT ANSWER
-On a football team, there is a defensive lineman who weighs 350 pounds and can run at 10 miles per hour. On the same team, the wide receiver weighs 175 
-pounds and can run 20 miles per hour. At top speed, which player has more kinetic energy? 
-wide receiver 
+ENERGY 
+SHORT ANSWER
+On a football team, there is a defensive lineman who weighs 350 pounds and can run at 10 miles per hour. On the same team, the wide receiver weighs 175 pounds and can run 20 miles per hour. At top speed, which player has more kinetic energy? 
+wide receiver OR the wide receiver
 
 BONUS  
-ENERGY SHORT ANSWER
-A race car initially moving with a velocity of 50 meters per second produces a skid mark on the road while braking. Using g as 10 meters per second squared, and 
-providing your answer to the nearest integer, how long is the skid mark in meters if the 
-coefficient of kinetic friction is 1.0? 
-125 
+ENERGY 
+SHORT ANSWER
+A race car initially moving with a velocity of 50 meters per second produces a skid mark on the road while braking. Using g as 10 meters per second squared, and providing your answer to the nearest integer, how long is the skid mark in meters if the coefficient of kinetic friction is 1.0? 
+125 OR 125 meters OR 125 m
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Transpolar drift is responsible for the net transport of water and ice in what direction in the Arctic Basin? 
 west to east 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Most sea ice exiting the Arctic Basin passes through what large strait between Greenland and Svalbard (read as: SVAHL-bahr)? 
-the fram strait 
+the fram strait OR fram strait
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-A car of mass 700 kilograms travels at 20 meters per second and collides with a stationary truck of mass 1400 kilograms. The two vehicles interlock as a 
-result of the collision and slide along an icy road. Which of the following is the approximate 
-velocity in meters per second of the combined system? 
+A car of mass 700 kilograms travels at 20 meters per second and collides with a stationary truck of mass 1400 kilograms. The two vehicles interlock as a result of the collision and slide along an icy road. Which of the following is the approximate velocity in meters per second of the combined system? 
 W) 5.6 
 X) 6.6  
 Y) 7.6  
@@ -176,33 +166,18 @@ x OR 6.6
 
 BONUS  
 PHYSICS
-MULTIPLE CHOICE
-Given that the specific heat of iron is 0.12 calories per gram degree Celsius, what will be the final temperature in degrees Celsius of 100 grams of 20 degree 
-Celsius water when 100 grams of 40 degree Celsius iron nails are submerged in it? Provide 
-your answer to the nearest whole number. 
+SHORT ANSWER
+Given that the specific heat of iron is 0.12 calories per gram degree Celsius, what will be the final temperature in degrees Celsius of 100 grams of 20 degree Celsius water when 100 grams of 40 degree Celsius iron nails are submerged in it? Provide your answer to the nearest whole number. 
 22 
 
 TOSS UP
-MATH
+ASTRONOMY
 SHORT ANSWER
-Find the derivative of 12x3 - 6x2 + – 25 (read as: 12 x cubed minus 6 x squared plus 3 over x to the fifth minus 25)   
-36x2 –12x - 
-
-BONUS  
-MATH
-SHORT ANSWER
-A particle’s displacement in meters can be described by the function f(x) = 2x3 + 3x2 - 10x + 30. At x = 5 seconds, what is the acceleration in meters per second 
-squared? Provide your answer to the nearest integer. 
-66 
-
-TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
 Besides Earth, what is the only other planet in our solar system known to have water ice on its surface?     
 mars 
 
 BONUS  
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following are carbon compounds in natural water that have diameters of less than 0.45 micrometers? 
 W) Particulate organic matter 
@@ -210,18 +185,6 @@ X) Nondissolved solids
 Y) Particulate colloids 
 Z) Dissolved organic carbon 
 z OR dissolved organic carbon 
-
-TOSS UP
-MATH
-SHORT ANSWER
-What is tan + sin ? 
-
-
-BONUS  
-MATH
-SHORT ANSWER
-What is the contrapositive of the statement p implies q? 
-not q implies not p (accept: if not q, then not p) 
 
 TOSS UP
 CHEMISTRY
@@ -232,15 +195,13 @@ What is the pH of 1.0 mole of sodium hydroxide dissolved in 10 liters of water?
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-Two Lewis structures depict the ozone molecule equally well and there is no way to distinguish between the two structures. What is the term that describes 
-this phenomenon? 
+Two Lewis structures depict the ozone molecule equally well and there is no way to distinguish between the two structures. What is the term that describes this phenomenon? 
 resonance 
 
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
-Which of the following best describes the way in which the summation of action potentials from a motor neuron can bring a muscle fiber to the maximal 
-level of contraction? 
+Which of the following best describes the way in which the summation of action potentials from a motor neuron can bring a muscle fiber to the maximal level of contraction? 
 W) Summation of contractions 
 X) Suprastimulus 
 Y) Maximal twitch rate 
@@ -251,7 +212,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 Order the following from smallest to largest: myofibril; muscle, actin; myosin; sarcomere (read as: SAHR-koh-mir ); muscle fiber. 
-actin; myosin; sarcomere; myofibril; muscle fiber; muscle 
+actin, myosin, sarcomere, myofibril, muscle fiber, muscle 
 
 TOSS UP
 CHEMISTRY
@@ -276,15 +237,13 @@ z OR aluminum oxide
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-Tay Sachs is a fatal genetic disease. Individuals with Tay Sachs are homozygous for the recessive disease allele. If a husband and wife are both heterozygous 
-for the gene, what is the percent chance that they will have a child with the disease? 
-25% 
+Tay Sachs is a fatal genetic disease. Individuals with Tay Sachs are homozygous for the recessive disease allele. If a husband and wife are both heterozygous for the gene, what is the percent chance that they will have a child with the disease? 
+25% OR 25 OR 25 percent OR 25 per cent
 
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-A diploid cell has 32 chromatids in the G2 phase of the cell cycle. If you examine the cell in Prophase II you would find 2 cells each containing which of the 
-following? 
+A diploid cell has 32 chromatids in the G2 phase of the cell cycle. If you examine the cell in Prophase II you would find 2 cells each containing which of the following? 
 W) 16 molecules of DNA  
 X) 16 chromosomes made of DNA  
 Y) 32 molecules of DNA 
@@ -324,9 +283,8 @@ x OR acquired characteristics can be inherited
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Name all of the following in which the embryonic blastopore becomes the anus, and the mouth originates after the anus: 1) leopard frog, 2) cockroach, 3) 
-bull shark, 4) earthworm, and/or 5) human.    
-1) leopard frog, 3) bull shark and 5) human 
+Name all of the following in which the embryonic blastopore becomes the anus, and the mouth originates after the anus: 1) leopard frog, 2) cockroach, 3) bull shark, 4) earthworm, and/or 5) human.    
+leopard frog, bull shark, human OR 1, 3, 5
 
 TOSS UP
 PHYSICS
@@ -341,9 +299,7 @@ x OR the time derivative of work performed
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-In a wild shot, Guido flings a pool ball of mass m off a 0.68 meter high pool table with downward spin, and the ball hits the floor with a vertical speed of 6.0 
-meters per second. How fast was the ball moving vertically in meters per second when it left the 
-pool table?  
+In a wild shot, Guido flings a pool ball of mass m off a 0.68 meter high pool table with downward spin, and the ball hits the floor with a vertical speed of 6.0 meters per second. How fast was the ball moving vertically in meters per second when it left the pool table?  
 W) 6.7 
 X) 5.7 
 Y) 4.7 
@@ -351,13 +307,13 @@ Z) 3.7
 y OR 4.7 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 If the moon is in a crescent phase and appears in the eastern sky at sunrise, what phase will be next? 
 new moon 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following are the chemical reactants associated with the formation of Karst topography? 
 W) HCl and PbS  
@@ -369,8 +325,7 @@ z OR h2co3 and caco3
 TOSS UP
 MATH
 SHORT ANSWER
-If someone has 1 red shirt, 2 blue shirts, 4 red pants, and 3 green pants from which to choose, what is the probability that a randomly selected shirt and pant 
-combination has at least one red item? Provide your answer as a fraction in simplest form. 
+If someone has 1 red shirt, 2 blue shirts, 4 red pants, and 3 green pants from which to choose, what is the probability that a randomly selected shirt and pant combination has at least one red item? Provide your answer as a fraction in simplest form. 
 5/7 
 
 BONUS  
@@ -392,13 +347,11 @@ w OR monoecious plant
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Many monoecious plant species avoid self pollination, reducing their likelihood of expressing deleterious recessive alleles in future generations. One strategy 
-used by monoecious plants is to produce pollen long after the carpel of the same flower 
-becomes able to receive it. Give the name for this strategy. 
-p OR 
+Many monoecious plant species avoid self pollination, reducing their likelihood of expressing deleterious recessive alleles in future generations. One strategy used by monoecious plants is to produce pollen long after the carpel of the same flower becomes able to receive it. Give the name for this strategy. 
+protogynous flowering OR protogyny
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 During which of the following two days is the maximum solar altitude less than 90° at the equator? 
 W) Winter solstice and vernal equinox 
@@ -408,10 +361,7 @@ Z) Summer solstice and autumnal equinox
 y OR winter and summer solstices 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-Put the formation of the following in chronological order from oldest to youngest: Rocky Mountains, Great Lakes, Colorado River, Appalachian 
-Mountains. 
-appalachian mountains, rocky mountains, colorado river, great 
-
-LAKES 
+EARTH SCIENCE
+SHORT ANSWER
+Put the formation of the following in chronological order from oldest to youngest: Rocky Mountains, Great Lakes, Colorado River, Appalachian Mountains. 
+appalachian mountains, rocky mountains, colorado river, great lakes\

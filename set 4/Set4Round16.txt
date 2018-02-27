@@ -1,20 +1,19 @@
-  
-TOSS UP
+﻿TOSS UP
 PHYSICS
 SHORT ANSWER
 In a totally inelastic collision, what happens to the two colliding objects? 
-they stick together 
+they stick together OR stick together
 
 BONUS  
 PHYSICS
 SHORT ANSWER
 For a uniformly rotating object, what do we call the rate of change in the angle through which the object turns in one second? 
-angular velocity (accept: angular speed) 
+angular velocity OR angular speed
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
-An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate 
-the approximate overall efficiency of the vehicle. 
+ENERGY 
+MULTIPLE CHOICE
+An electric vehicle has two stages. If the first stage, the battery, has an efficiency of 90% and the second stage, the inverter, has an efficiency of 80%, calculate the approximate overall efficiency of the vehicle. 
 W) 56% 
 X) 72% 
 Y) 89% 
@@ -22,11 +21,11 @@ Z) 113%
 x OR 72% 
 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 How much work in joules is done by friction on a sled weighing 100 newtons during a 10 meter displacement? The coefficient of sliding friction is 0.1. 
-100 
-
-  
+100 OR 100 joules OR 100 j
+ 
 TOSS UP
 MATH
 MULTIPLE CHOICE
@@ -40,50 +39,44 @@ x OR 1
 BONUS  
 MATH
 SHORT ANSWER
-A spherical balloon is being inflated at a constant rate of π cubic inches per second.  In inches per second, how fast is the radius increasing when the radius is 3 
-inches? 
+A spherical balloon is being inflated at a constant rate of π cubic inches per second.  In inches per second, how fast is the radius increasing when the radius is 3 inches? 
 1/36 
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 Which type of crude oil is most desired, due to its low sulfur content and higher proportion of carbon chains that can be directed into the liquid fuel product?   
-light sweet (accept: sweet light) 
+light sweet OR sweet light
 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What is the most common sulfur compound that occurs naturally in natural gas. 
 hydrogen sulfide 
 
-  
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
-As the bottom plate moves downward in a subduction zone, pressure and heat cause the subducting crust to release volatiles and localized melting 
-occurs. If the ocean trench associated with this subduction zone is located far from a continent, 
-what volcanic feature will be formed in response to this process? 
-island arc (accept: arc) 
+EARTH SCIENCE
+SHORT ANSWER
+As the bottom plate moves downward in a subduction zone, pressure and heat cause the subducting crust to release volatiles and localized melting occurs. If the ocean trench associated with this subduction zone is located far from a continent, what volcanic feature will be formed in response to this process? 
+island arc OR arc
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-What process is responsible for the remineralization of organic carbon, returning it to its inorganic state, within a timeframe shorter than geologic 
-timescales? 
+EARTH SCIENCE
+SHORT ANSWER
+What process is responsible for the remineralization of organic carbon, returning it to its inorganic state, within a timeframe shorter than geologic timescales? 
 decomposition 
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-In evolutionary biology, one theory, phyletic gradualism, proposes that speciation occurs slowly over time while another proposes that speciation occurs in rare, 
-rapid events. Name the latter theory. 
+In evolutionary biology, one theory, phyletic gradualism, proposes that speciation occurs slowly over time while another proposes that speciation occurs in rare, rapid events. Name the latter theory. 
 punctuated equilibrium 
 
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Name the two main processes which determine whether genetic variations will become common or rare in a population.  
-natural selection and genetic drift (accept: natural selection 
-
-AND SEWALL-WRIGHT EFFECT) 
+Name the two main processes which determine whether genetic variations will become common or rare in a population. Type as "<process1> and <process2>"
+natural selection and genetic drift OR genetic drift and natural selection OR natural selection and sewall-wright effect OR sewall-wright effect and natural selection
   
 TOSS UP
 MATH
@@ -102,7 +95,7 @@ Z) 243
 y OR 93 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which radioisotope would NOT be appropriate to use to date the age of a 2 billion year old rock? 
 W) Carbon-14 
@@ -112,11 +105,10 @@ Z) Uranium-238
 w OR carbon-14 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-What two oxygen isotopes are most commonly compared to examine past temperatures recorded in glacial ice? 
-oxygen-16 and oxygen-18 
-
+EARTH SCIENCE
+SHORT ANSWER
+What two oxygen isotopes are most commonly compared to examine past temperatures recorded in glacial ice? Type as "<isotope1> and <isotope2>". Type isotopes as "<element name>-<number>".
+oxygen-16 and oxygen-18 OR oxygen-18 and oxygen-16
   
 TOSS UP
 MATH
@@ -132,28 +124,24 @@ BONUS
 MATH
 SHORT ANSWER
 What power of 10 is closest to 255? 
-1016 (accept: 16) 
+10^16 OR 16 OR 16th 
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-As an acetic acid solution is diluted, will the hydrogen ion concentration and the percentage of ionization, respectively, increase, decrease or remain the 
-same?    
-the hydrogen ion concentration will decrease; the percentage 
+As an acetic acid solution is diluted, will the hydrogen ion concentration and the percentage of ionization, respectively, increase, decrease or remain the same? Type as "<increase/decrease/remain the same>, <increase/decrease/remain the same>".
+decrease, increase
 
-OF IONIZATION WILL INCREASE 
 BONUS  
 CHEMISTRY
 SHORT ANSWER
 In a sulfuric acid solution, which of the following will be present in the highest concentration: H+, H2SO4, HSO41-, SO42-, or OH1-. 
 h+ 
 
-  
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-If a solid cylinder and a hollow cylinder have the same outer radius and mass, which of the following is true regarding moment of inertia about the cylindrical 
-axis?   
+If a solid cylinder and a hollow cylinder have the same outer radius and mass, which of the following is true regarding moment of inertia about the cylindrical axis?   
 W) The hollow cylinder has a greater moment of inertia 
 X) The solid cylinder has a greater moment of inertia 
 Y) The moment of inertia would be the same for both 
@@ -171,7 +159,7 @@ Z) Acceleration, momentum, displacement
 z OR acceleration, momentum, displacement 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What was the name of the first satellite launched into earth orbit by the United States? 
 W) Trogdor 
@@ -181,7 +169,7 @@ Z) Mercury
 x OR explorer i 
 
 BONUS 
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Pegmatites are examples of what kind of rock that can be formed by cooling processes within the earth? 
 W) Intrusive 
@@ -189,8 +177,6 @@ X) Extrusive
 Y) Metamorphic 
 Z) Detrital 
 w OR intrusive 
-
-  
   
 TOSS UP
 BIOLOGY
@@ -205,15 +191,14 @@ y OR thymus
 BONUS  
 BIOLOGY
 SHORT ANSWER
-What type of cells begin as monocytes and are an important part of the immune system because of their ability to engulf foreign material and dead or dying 
-indigenous cells? 
-macrophage(s) 
+What type of cells begin as monocytes and are an important part of the immune system because of their ability to engulf foreign material and dead or dying indigenous cells? 
+macrophage OR macrophages
 
 TOSS UP
 CHEMISTRY
-MULTIPLE CHOICE
+SHORT ANSWER
 To the nearest whole degree Celsius, at what temperature is water the densest? 
-4 
+4 OR 4 degrees
 
 BONUS  
 CHEMISTRY
@@ -221,21 +206,16 @@ SHORT ANSWER
 Most of the peptide chains in a myoglobin molecule adopt what secondary structure? 
 helix 
 
-  
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-Sometimes, organisms modify the environments in which they occur; for example, termites build mounds with varied chimneys that regulate gas exchange, 
-temperature, and other environmental parameters. This process is most commonly referred to 
-as: 
+Sometimes, organisms modify the environments in which they occur; for example, termites build mounds with varied chimneys that regulate gas exchange, temperature, and other environmental parameters. This process is most commonly referred to as: 
 ecosystem engineering 
 
 BONUS  
 BIOLOGY
 MULTIPLE CHOICE
-The American bullfrog is a prolific hunter and can eat a wide variety of foods, including native western pond turtles and mice. Currently, western pond turtles 
-are listed as an endangered species. Which of the following best explains why turtle populations 
-would be more impacted than mice by the introduction of bullfrogs? 
+The American bullfrog is a prolific hunter and can eat a wide variety of foods, including native western pond turtles and mice. Currently, western pond turtles are listed as an endangered species. Which of the following best explains why turtle populations would be more impacted than mice by the introduction of bullfrogs? 
 W) Bullfrogs like to eat turtles more than they like to eat mice 
 X) Turtles run slower than mice so they can’t get away from the bullfrogs 
 Y) Mice hide better than turtles 
@@ -243,7 +223,7 @@ Z) Turtles have a much longer generation time than mice
 z OR turtles have a much longer generation time than mice 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 What type of smog in the boundary layer of the atmosphere contains sulfur dioxide? 
 W) Oxidizing 
@@ -253,12 +233,11 @@ Z) Boundary layer
 y OR reducing 
 
 BONUS 
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What types of clouds have smooth, lens-like shapes and can stack vertically on top of each other? 
-altocumulus standing lenticularus (accept: lenticular clouds) 
+altocumulus standing lenticularus OR lenticular clouds OR lenticular
 
-  
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
@@ -272,9 +251,7 @@ x OR the two sounds have the same pitch and the same timbre
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-While waterskiing behind her uncle’s boat, Michelle is pulled at a constant speed with a force of 164 newtons by a rope that is nearly horizontal. If Michelle has 
-a mass of 65 kilograms, what is the coefficient of sliding friction between Michelle and the 
-water?  
+While waterskiing behind her uncle’s boat, Michelle is pulled at a constant speed with a force of 164 newtons by a rope that is nearly horizontal. If Michelle has a mass of 65 kilograms, what is the coefficient of sliding friction between Michelle and the water?  
 W) 0.05 
 X) 0.18 
 Y) 0.26 
@@ -284,8 +261,8 @@ y OR 0.26
 TOSS UP
 MATH
 SHORT ANSWER
-Expressing your answer in simplest radical form; evaluate (read as: sine of the quantity 7 pi over 4). 
-
+Expressing your answer in simplest radical form; evaluate: sine of the quantity 7 pi over 4. 
+-sqrt(2)/2
 
 BONUS  
 MATH
@@ -295,8 +272,7 @@ W)  rejecting a true null hypothesis
 X)  accepting a false null hypothesis 
 Y)  using a sample size that is too small for the test 
 Z)  comparing samples that differ too much in size 
-w OR  rejecting a true null hypothesis 
-
+w OR rejecting a true null hypothesis 
   
 TOSS UP
 BIOLOGY
@@ -311,11 +287,9 @@ x OR 20,000
 BONUS  
 BIOLOGY
 SHORT ANSWER
-Arrange the following to depict the conduction pathway in the vertebrate heart: 1) atrioventricular node, 2) right and left bundle branches, 3) sinoatrial node, 4) 
-Bundle of His, 5) Purkinje fibers. 
-3) sinoatrial node; 1) atrioventricular node; 4) bundle of his; 2) 
+Arrange the following to depict the conduction pathway in the vertebrate heart: 1) atrioventricular node, 2) right and left bundle branches, 3) sinoatrial node, 4) Bundle of His, 5) Purkinje fibers. 
+3, 1, 4, 2, 5
 
-RIGHT AND LEFT BUNDLE BRANCHES; 5) PURKINJE FIBERS 
 TOSS UP
 CHEMISTRY
 MULTIPLE CHOICE
@@ -330,9 +304,8 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 The dehydrogenation of a single C-C bond within a hydrocarbon leads to what change in the number of hydrogens in the molecule? 
-loss of 2 hydrogens 
+loss of 2 hydrogens OR -2 hydrogen OR -2 h OR -2 OR loss of 2
 
-  
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
@@ -340,17 +313,13 @@ In 1999, NASA lost a $125 million Mars orbiter because:
 W) The atmosphere on Mars was so corrosive that the orbiter was destroyed 
 X) The engine did not fire 
 Y) The robotic arm jilted it out of orbit 
-Z) Lockheed Martin engineers used English units of measurement and NASA used the metric 
-system  
-z OR lockheed martin engineers used english units of 
+Z) Lockheed Martin engineers used English units of measurement and NASA used the metric system  
+z OR lockheed martin engineers used english units of measurement and NASA used the metric system  
 
-MEASUREMENT AND NASA USED THE METRIC SYSTEM 
 BONUS  
 PHYSICS
 MULTIPLE CHOICE
-Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram skateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls 
-across a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction 
-of 6.0 newtons. What is Arturo’s speed in meters per second as he emerges from the sand?  
+Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram skateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls across a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction of 6.0 newtons. What is Arturo’s speed in meters per second as he emerges from the sand?  
 W) 0 
 X) 1.8 
 Y) 3.8 
@@ -370,14 +339,12 @@ y OR see-sawing
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-A chemist is trying to interpret the results of his Infra-Red Spectroscopy analysis of a compound. He sees a band of high absorbance, around 95%, at 
-about 1775 inverse centimeters. What functional group does his compound most likely contain? 
+A chemist is trying to interpret the results of his Infra-Red Spectroscopy analysis of a compound. He sees a band of high absorbance, around 95%, at about 1775 inverse centimeters. What functional group does his compound most likely contain? 
 carbonyl 
-
   
 TOSS UP
 MATH
-SHORT ANSWER
+MULTIPLE CHOICE
 Evaluate log (read as: log of the quantity 10 to the x times 100 over 10 thousand) 
 W) 2 - x 
 X) x - 2 
@@ -389,13 +356,12 @@ BONUS
 MATH
 SHORT ANSWER
 Find the polynomial with real coefficients, leading coefficient 1, and least degree that has 2 + 3i as a zero.  
-x2 – 4x +13 
+x^2 – 4x +13 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
-Methane is emitted from a variety of anthropogenic and natural sources. The largest human-related source of methane emissions comes from enteric 
-fermentation. At which of the following locations would you most likely find an example of enteric 
-fermentation? 
+ENERGY 
+MULTIPLE CHOICE
+Methane is emitted from a variety of anthropogenic and natural sources. The largest human-related source of methane emissions comes from enteric fermentation. At which of the following locations would you most likely find an example of enteric fermentation? 
 W) Petroleum system 
 X) Coal mine 
 Y) Landfill 
@@ -403,24 +369,19 @@ Z) Cattle ranch
 z OR cattle ranch 
 
 BONUS  
-ENERGY SHORT ANSWER
-Earth’s core is kept hot by the radioactive decay of several radioactive substances, including Uranium-235 and 238; name the other two heat-producing 
-isotopes which are also significant contributors to the radioactive heat production of the Earth. 
-potassium-40 and thorium-232 (do not accept potassium and 
-
-THORIUM) 
+ENERGY 
+SHORT ANSWER
+Earth’s core is kept hot by the radioactive decay of several radioactive substances, including Uranium-235 and 238; name the other two heat-producing isotopes which are also significant contributors to the radioactive heat production of the Earth. Type isotopes as "<element>-<number>", and type answer as "<isotope1> and <isotope2>".
+potassium-40 and thorium-232 OR thorium-232 and potassium-40
   
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Lake Vostok, an Antarctic subglacial lake, is thought to be a potential analogue for two bodies of astrobiological interest. Name one. 
-europa or enceladus (read as: ehn-sehl-ah-duhs) 
+europa OR enceladus 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-The Jovian moon Europa is thought to have a liquid water ocean underlying a water ice shell. What mechanism is responsible for warming the 
-Europan ocean? 
-tidal heating (accept: gravitational heating or internal 
-
-FRICTION CAUSED BY JUPITER’S GRAVITY) 
+EARTH SCIENCE
+SHORT ANSWER
+The Jovian moon Europa is thought to have a liquid water ocean underlying a water ice shell. What mechanism is responsible for warming the Europan ocean? 
+tidal heating OR gravitational heating OR internal friction caused by jupiter's gravity

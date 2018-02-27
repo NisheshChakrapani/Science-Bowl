@@ -12,16 +12,24 @@ public class Question {
     private String answerX;
     private String answerY;
     private String answerZ;
+    private boolean hasError = false;
+
     Question(String questionType, String topic, String answerType, String question) {
         this.questionType = questionType;
         this.topic = topic;
         this.answerType = answerType;
         this.question = question;
     }
-
+    Question() {
+        this.questionType = "";
+        this.topic = "";
+        this.answerType = "";
+        this.question = "";
+    }
     void addAnswers(String[] answers) {
         this.answers = answers;
     }
+    String[] getAnswers() { return this.answers; }
 
     void setAnswerW(String answerW) {
         this.answerW = answerW;
@@ -35,6 +43,20 @@ public class Question {
     void setAnswerZ(String answerZ) {
         this.answerZ = answerZ;
     }
+    public String getAnswerW() {
+        return answerW;
+    }
+    public String getAnswerX() {
+        return answerX;
+    }
+    public String getAnswerY() {
+        return answerY;
+    }
+    public String getAnswerZ() {
+        return answerZ;
+    }
+
+    String getQuestionType() { return this.questionType; }
 
     void printQuestion() {
         System.out.println(questionType);
@@ -49,6 +71,14 @@ public class Question {
             System.out.println(answerY);
         if (answerZ!=null)
             System.out.println(answerZ);
+    }
+
+    void setQuestion(String question) {
+        this.question = question;
+    }
+
+    String getQuestion() {
+        return this.question;
     }
 
     void printQuestionWithoutType() {
@@ -74,32 +104,41 @@ public class Question {
         return false;
     }
     private String wrapQuestion(String q) {
-        return WordUtils.wrap(q, 120);
+        return WordUtils.wrap(q, 50);
     }
 
     void showErrors(int num) {
-        if (!questionType.equals("TOSS UP") && !questionType.equals("BONUS")) {
+        if (!questionType.equals("TOSS UP") && !questionType.equals("BONUS") && num != 1) {
             System.out.println("Question Type error on question " + num + "(question type = " + questionType + ")");
+            hasError = true;
         } else if (!topic.equals("BIOLOGY") && !topic.equals("CHEMISTRY") && !topic.equals("EARTH SCIENCE") && !topic.equals("PHYSICS") && !topic.equals("GENERAL SCIENCE") &&
                 !topic.equals("MATH") && !topic.equals("ENERGY") && !topic.equals("ASTRONOMY") && !topic.equals("COMPUTER SCIENCE")) {
             System.out.println("Topic error on question " + num + "(topic = " + topic + ")");
+            hasError = true;
         } else if (!answerType.equals("SHORT ANSWER") && !answerType.equals("MULTIPLE CHOICE")) {
             System.out.println("Answer type error on question " + num);
+            hasError = true;
         } else if (question.trim().length()==0) {
             System.out.println("Question is blank error on question " + num);
+            hasError = true;
         } else if (answers.length==0) {
             System.out.println("Answer is blank on question " + num);
+            hasError = true;
         }
 
         if (answerType.equals("MULTIPLE CHOICE")) {
             if (answerW.trim().length()==0) {
                 System.out.println("Choice W is blank error on question " + num);
+                hasError = true;
             } else if (answerX.trim().length()==0) {
                 System.out.println("Choice X is blank error on question " + num);
+                hasError = true;
             } else if (answerY.trim().length()==0) {
                 System.out.println("Choice Y is blank error on question " + num);
+                hasError = true;
             } else if (answerZ.trim().length()==0) {
                 System.out.println("Choice Z is blank error on question " + num);
+                hasError = true;
             }
         }
     }
@@ -114,6 +153,8 @@ public class Question {
     }
 
     String getAnswerType() { return this.answerType; }
+
+    boolean hasError() { return this.hasError; }
 
     public String[] getChoices() {
         if (answerType.equals("MULTIPLE CHOICE")) {

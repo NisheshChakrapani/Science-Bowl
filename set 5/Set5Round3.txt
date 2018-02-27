@@ -1,8 +1,8 @@
-TOSS UP
+﻿TOSS UP
 MATH
 SHORT ANSWER
 What is the circumference of the circle with equation (x + 3)2 + (y − 5)2 = 25 ? 
-10π 
+10pi OR 10 pi
 
 BONUS  
 MATH
@@ -28,16 +28,16 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 According to the second law of thermodynamics, what effect does a spontaneous reaction have on the entropy of the universe? 
-increases the entropy of the universe (accept: increases) 
+increases the entropy of the universe OR increases OR it increases OR entropy increases OR increase
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 Excluding dwarf galaxies, what is the most distant galaxy in the local group?  
-triangulum galaxy (accept: m33, ngc 598) 
+triangulum galaxy OR triangulum OR m33 OR ngc 598
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Mineral grains weathered from continental rocks and transported to the oceans are deposited as which of the following kinds of sediments? 
 W) Calcareous (read as: kahl-KEHR-ee-is) ooze 
@@ -60,7 +60,7 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 How many moles of oxygen are contained in one mole of ammonium sulfate? 
-4 
+4 OR 4 moles
 
 TOSS UP
 BIOLOGY
@@ -76,7 +76,7 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 By name or number, identify all of the following four plants that are C4 plants: 1) corn, 2) rice, 3) soybeans, 4) wheat. 
-corn (accept: 1) 
+corn OR 1 OR corn only OR 1 only
 
 TOSS UP
 CHEMISTRY
@@ -102,7 +102,7 @@ TOSS UP
 MATH
 SHORT ANSWER
 In degrees, what is the smallest angle x > 0 such that sin(x) + cos(2x) = 1? 
-30° 
+30 OR 30 degrees
 
 BONUS  
 MATH
@@ -113,17 +113,14 @@ Considering the function f(x) = x2, use a left Riemann sum with 4 equal subinter
 TOSS UP
 PHYSICS
 SHORT ANSWER
-A train moving at 35 meters per second emits a whistle with a frequency of 900 hertz. Assuming that the speed of sound in air is 350 meters per second, what 
-is the frequency, in hertz, measured by a stationary observer in front of the train? 
-1000 
+A train moving at 35 meters per second emits a whistle with a frequency of 900 hertz. Assuming that the speed of sound in air is 350 meters per second, what is the frequency, in hertz, measured by a stationary observer in front of the train? 
+1000 OR 1000 hertz OR 1000 hz
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A particle that is constrained to travel in one dimension moves in simple harmonic motion about the origin with an amplitude of 5 meters and a period of 2 
-seconds. Providing your answer in terms of π, what is the maximum acceleration experienced 
-by the particle in meters per second squared? 
-5π2 
+A particle that is constrained to travel in one dimension moves in simple harmonic motion about the origin with an amplitude of 5 meters and a period of 2 seconds. Providing your answer in terms of π, what is the maximum acceleration experienced by the particle in meters per second squared? 
+5pi^2 OR 5pi^2 m/s OR 5pi^2 meters per second 
 
 TOSS UP
 BIOLOGY
@@ -134,9 +131,8 @@ gastrin
 BONUS  
 BIOLOGY
 SHORT ANSWER
-If a plant that is heterozygous for each of three independently- assorting traits is allowed to self-fertilize, what proportion of the offspring would be heterozygous 
-for all three traits? 
-1/8 
+If a plant that is heterozygous for each of three independently- assorting traits is allowed to self-fertilize, what proportion of the offspring would be heterozygous for all three traits? 
+1/8 OR 0.125
 
 TOSS UP
 CHEMISTRY
@@ -153,15 +149,13 @@ What subshell is incompletely filled in all of the elements in the lanthanide se
 TOSS UP
 PHYSICS
 SHORT ANSWER
-In 15 seconds, 2 × 1013 protons pass a particular point. Given that the charge on the proton is 1.6 ×  10-19 coulombs, and providing your answer as a decimal to the 
-nearest tenth, what is the current in microamperes? 
-0.2 
+In 15 seconds, 2 × 1013 protons pass a particular point. Given that the charge on the proton is 1.6 ×  10-19 coulombs, and providing your answer as a decimal to the nearest tenth, what is the current in microamperes? 
+0.2 OR 0.2 microamperes
 
 BONUS 
 PHYSICS
 MULTIPLE CHOICE
-What is the average force, in newtons, exerted on a 25-gram egg by a bed-sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to 
-stop?  
+What is the average force, in newtons, exerted on a 25-gram egg by a bed-sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to stop?  
 W) 0.5 
 X) 1.5 
 Y) 5 
@@ -169,22 +163,20 @@ Z) 50
 w OR 0.5 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 If Omega is exactly one, which of the following is TRUE about the universe? 
 W) It will expand forever at an accelerating rate 
 X) It will expand forever, but the speed of its expansion will slowly approach zero 
 Y) It will eventually collapse upon itself 
 Z) It will eventually be destroyed by a black hole 
-x OR it will expand forever, but the speed of its expansion will 
+x OR it will expand forever, but the speed of its expansion will slowly approach zero
 
-SLOWLY APPROACH ZERO 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-By name or number, indicate in which of the following three locations the deflection of wind due to the Coriolis effect is strongest: 1) the mid-latitudes, 
-2) the poles, or 3) the equator. 
-the poles (accept: 2) 
+EARTH SCIENCE
+SHORT ANSWER
+By name or number, indicate in which of the following three locations the deflection of wind due to the Coriolis effect is strongest: 1) the mid-latitudes, 2) the poles, or 3) the equator. 
+the poles OR 2
 
 TOSS UP
 PHYSICS
@@ -200,20 +192,20 @@ BONUS
 PHYSICS
 SHORT ANSWER
 A 4-ampere current is maintained in a simple circuit with a total resistance of 2 ohms. How much energy in joules is delivered in 45 seconds? 
-1440 
+1440 OR 1440 Joules OR 1440 J
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What kind of coal is rated poor for its heating value because of its low carbon content of 25 to 35 percent? 
-lignite (accept: brown coal, rosebud coal) 
+lignite OR brown coal OR rosebud coal
 
 BONUS  
-ENERGY SHORT ANSWER
-By name or number, rank the energy efficiency of the following four lighting technologies from least to most efficient: 1) light emitting diodes, 2) incandescent, 
-3) neon, 4) compact fluorescent. 
-incandescent, neon, compact fluorescent, and light emitting 
-
-DIODES (ACCEPT: 2, 3, 4, 1) 
+ENERGY 
+SHORT ANSWER
+By name or number, rank the energy efficiency of the following four lighting technologies from least to most efficient: 1) light emitting diodes, 2) incandescent, 3) neon, 4) compact fluorescent. 
+incandescent, neon, compact fluorescent, and light emitting diodes OR 2, 3, 4, 1
+ 
 TOSS UP
 MATH
 MULTIPLE CHOICE
@@ -231,7 +223,7 @@ The three vertices of a triangle have coordinates (4, 8), (−2, 5), and (3, 1).
 (−2, 5) 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following characteristics changes most significantly in local water bodies when rock salt is sprayed on icy winter roads? 
 W) Water temperature  
@@ -241,34 +233,29 @@ Z) Phosphate concentration
 x OR freezing temperature 
 
 BONUS  
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 Which of the following is NOT true of satellites in geostationary orbits? 
 W) They are in the line-of-sight of more than one third of the Earth’s surface 
 X) They are useful for weather monitoring and communications  
 Y) They provide excellent views of the polar regions 
-Z) They can receive transmissions from free-floating balloons, buoys, and remote automatic 
-data collection stations  
+Z) They can receive transmissions from free-floating balloons, buoys, and remote automatic data collection stations  
 y OR they provide excellent views of the polar regions 
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
 Which of the following statements BEST describes specific heat capacity? 
-W) The amount of thermal energy required to change the temperature of a substance by a 
-certain amount per unit of mass 
+W) The amount of thermal energy required to change the temperature of a substance by a certain amount per unit of mass 
 X) The amount of thermal energy required to alter the physical state of a given substance 
 Y) The total amount of thermal energy in a specific system 
 Z) The average kinetic energy of molecules in a system 
-w OR the amount of thermal energy required to change the 
+w OR the amount of thermal energy required to change the temperature of a substance by a certain amount per unit of mass 
 
-TEMPERATURE OF A SUBSTANCE BY A CERTAIN AMOUNT PER UNIT OF MASS 
 BONUS 
 PHYSICS
 SHORT ANSWER
-A block with a mass of 20 kilograms is being pulled across a level surface. Assuming other forces are negligible and g is 9.8 meters per second squared, what is 
-the coefficient of friction between the two surfaces if a 60-newton force is required to maintain a 
-constant velocity? Provide your answer as a decimal to the nearest tenth. 
+A block with a mass of 20 kilograms is being pulled across a level surface. Assuming other forces are negligible and g is 9.8 meters per second squared, what is the coefficient of friction between the two surfaces if a 60-newton force is required to maintain a constant velocity? Provide your answer as a decimal to the nearest tenth. 
 0.3 
 
 TOSS UP
@@ -288,13 +275,14 @@ Let n be the number of faces of a regular polyhedron. What is the sum of all pos
 50 
 
 TOSS UP
-ENERGY SHORT ANSWER
-Tidal energy is difficult to practically harness because the difference between high tide and low tide needs to be at least 16 feet. What country is the 
-largest producer of electricity from tidal energy? 
+ENERGY 
+SHORT ANSWER
+Tidal energy is difficult to practically harness because the difference between high tide and low tide needs to be at least 16 feet. What country is the largest producer of electricity from tidal energy? 
 france 
 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY 
+SHORT ANSWER
 What is the name of the process by which impurities are added to an intrinsic semiconductor to modulate its electrical properties? 
 doping 
 
@@ -323,9 +311,8 @@ Each side of a cube is white. Two sides are selected at random and painted green
 BONUS  
 MATH
 SHORT ANSWER
-A triangle has two sides with lengths of 4 feet and 5 feet, and a 60- degree included angle. What is the length, in feet and in simplest form, of the third side of the 
-triangle? 
-21 
+A triangle has two sides with lengths of 4 feet and 5 feet, and a 60- degree included angle. What is the length, in feet and in simplest form, of the third side of the triangle? 
+21 OR 21 feet OR 21 ft 
 
 TOSS UP
 BIOLOGY
@@ -340,9 +327,8 @@ z OR nitrile
 BONUS  
 BIOLOGY
 SHORT ANSWER
-By name or number, identify all of the following four biological processes that rely on the participation of calcium ions: 1) oxygen transport, 2) sweat 
-production, 3) digestion, 4) muscular contraction? 
-muscular contraction (accept: 4) 
+By name or number, identify all of the following four biological processes that rely on the participation of calcium ions: 1) oxygen transport, 2) sweat production, 3) digestion, 4) muscular contraction? 
+muscular contraction OR 4 OR muscular contraction only OR 4 only
 
 TOSS UP
 ENERGY
@@ -355,24 +341,22 @@ Z) Uni-directional metering
 z OR uni-directional metering 
 
 BONUS  
-ENERGY SHORT ANSWER
-Taking the speed of light to be 300,000,000 meters per second, about how much energy in kilowatt hours is given by converting 1 nanogram of mass into 
-energy? 
-25 
+ENERGY 
+SHORT ANSWER
+Taking the speed of light to be 300,000,000 meters per second, about how much energy in kilowatt hours is given by converting 1 nanogram of mass into energy? 
+25 OR 25 kilowatt hours
 
 TOSS UP
 PHYSICS
 SHORT ANSWER
-When a proton undergoes beta-plus decay, what two particles are created along with the beta particle? 
-neutron and neutrino 
+When a proton undergoes beta-plus decay, what two particles are created along with the beta particle? Type as "<particle1> and <particle2>"
+neutron and neutrino OR neutrino and neutron
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A position-time graph for position x and time t is defined by the equation x = -t2 + 4t for t ≥ 0. If positive represents forward motion and negative represents 
-backward motion, during which time intervals in seconds would motion be forward and 
-backward, respectively? 
-forward for t < 2 (accept: 0 ≤ t < 2) and backward for t > 2 
+A position-time graph for position x and time t is defined by the equation x = -t2 + 4t for t ≥ 0. If positive represents forward motion and negative represents backward motion, during which time intervals in seconds would motion be forward and backward, respectively? Type as "forward for <interval>, backward for <interval>".
+forward for t < 2, backward for t > 2 OR forward for 0 <= t < 2, backward for t > 2
 
 TOSS UP
 BIOLOGY
@@ -388,5 +372,4 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 By name or number, identify all of the following four organisms that are nonvascular plants: 1) moss, 2) liverwort, 3) St. John’s wort, 4) hornwort. 
-moss, liverwort, and hornwort (accept: 1, 2, and 4) 
-
+moss, liverwort, hornwort OR 1, 2, 4

@@ -24,6 +24,7 @@ Rebekah wants to fill a spherical piñata with candy. If the radius of her piña
 
 TOSS UP
 EARTH SCIENCE
+SHORT ANSWER
 What ice sheet on Earth contains the largest volume of ice? 
 east antarctic ice sheet OR east antarctic
 
@@ -193,7 +194,6 @@ Y) 5
 Z) 7 
 y OR 5 
 
-
 TOSS UP
 BIOLOGY
 MULTIPLE CHOICE
@@ -234,12 +234,13 @@ W) Straight wire carrying a current
 X) Current-carrying wire wrapped around a core 
 Y) Permanent bar magnet 
 Z) Rock that is iron attracting
- 
-BONUS  
+X OR Current-carrying wire wrapped around a core
+
+BONUS
 PHYSICS
 SHORT ANSWER
 A voltage difference of 10 volts delivers how much power, in watts, to a 1-ohm resistor? 
-100 
+100 OR 100 W OR 100 Watts
 
 TOSS UP
 CHEMISTRY
@@ -265,16 +266,17 @@ TOSS UP
 MATH
 SHORT ANSWER
 Where do the lines y = (2x/3) + 5 and 3y = 2x - 21 intersect? 
-they don’t (accept: they’re parallel, null set, empty set) 
+they don’t OR nowhere OR they do not OR parallel OR null set OR empty set OR n/a
 
 BONUS  
 MATH
 SHORT ANSWER
-Where do the lines 3x - 4y =12 and 5x + 4y =20 intersect? 
-(4,0) also accept: x = 4 and y = 0 
+Where do the lines 3x - 4y =12 and 5x + 4y =20 intersect? Type as (x, y)
+(4, 0)
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 The largest reserve of energy in the United States is in which of the following?    
 W) Natural gas 
 X) Coal 
@@ -283,7 +285,8 @@ Z) Offshore oil
 x OR coal 
 
 BONUS 
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 The Organization of the Petroleum Exporting Countries (OPEC) produces about what percentage of the world’s crude oil? 
 W) 20% 
 X) 40% 
@@ -292,14 +295,14 @@ Z) 80%
 x OR 40% 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 The world’s largest desert is on which continent? 
 antarctica 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What property of many meteors makes Antarctica a good place to go meteor hunting? 
 dark color 
 
@@ -324,13 +327,14 @@ Z) Momentum
 y OR kinetic energy 
 
 TOSS UP
-ENERGY SHORT ANSWER
+ENERGY
+SHORT ANSWER
 What is the final three-carbon product of glycolysis? 
-pyruvate (read as: py-ruh-vayt) [accept: pyruvic (read as: py-ruh-vik) 
+pyruvate OR pyruvic acid OR ch3coco2h 
 
-ACID, CH3COCO2H] 
 BONUS  
-ENERGY SHORT ANSWER
+ENERGY
+SHORT ANSWER
 Which acidic compound is the major product of fermentation in skeletal muscle? 
 lactic acid 
 
@@ -347,18 +351,18 @@ If all of the interior angles of a polygon sum to 3060 degrees, how many sides d
 19 
 
 TOSS UP
-ENERGY MULTIPLE CHOICE
-Ocean thermal energy conversion systems convert solar radiation to electric power. Which of the following describes the source of energy in ocean 
-thermal energy conversion systems? 
+ENERGY
+MULTIPLE CHOICE
+Ocean thermal energy conversion systems convert solar radiation to electric power. Which of the following describes the source of energy in ocean thermal energy conversion systems? 
 W) Magma below the ocean floor  
 X) Oceanic thermal vents  
 Y) Wave motion 
 Z) The difference in temperatures between surface and deep waters  
-z OR the difference in temperatures between surface and deep 
+z OR the difference in temperatures between surface and deep waters
 
-WATERS 
 BONUS  
-ENERGY MULTIPLE CHOICE
+ENERGY
+MULTIPLE CHOICE
 What is the minimum temperature difference, in degrees Celsius, needed to develop an ocean thermal energy conversion system? 
 W) 10˚ 
 X) 15˚ 
@@ -367,7 +371,7 @@ Z) 25˚
 y OR 20˚ 
 
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following describes Jupiter's great red spot?  
 W) A storm  
@@ -377,8 +381,7 @@ Z) A volcano
 w OR a storm 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 Saturn's rings are made mostly of: 
-ice 
-
+ice

@@ -1,4 +1,4 @@
-TOSS UP
+﻿TOSS UP
 PHYSICS
 MULTIPLE CHOICE
 Which of the following conditions is necessary and sufficient for an object in equilibrium? 
@@ -11,24 +11,21 @@ x OR it is moving with constant velocity
 BONUS  
 PHYSICS
 SHORT ANSWER
-An object with a mass of 1 gram is whirled in a horizontal circle with a radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on 
-the object, in joules, during one revolution? 
-0 
+An object with a mass of 1 gram is whirled in a horizontal circle with a radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on the object, in joules, during one revolution? 
+0 OR 0 Joules OR 0 J
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What theory states that our solar system formed from the compression of a giant, swirling cloud of gas and dust? 
 nebular 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-By name or number, order the following three events from earliest to latest as two air masses of different densities develop into a mid-latitude 
-cyclone: 1) cyclonic circulation, 2) wave development, 3) front development. 
-front development, wave development, cyclonic circulation 
+EARTH SCIENCE
+SHORT ANSWER
+By name or number, order the following three events from earliest to latest as two air masses of different densities develop into a mid-latitude cyclone: 1) cyclonic circulation, 2) wave development, 3) front development. 
+front development, wave development, cyclonic circulation OR 3, 2, 1
 
-(ACCEPT: 3, 2, 1) 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
@@ -43,7 +40,7 @@ BONUS
 PHYSICS
 SHORT ANSWER
 Given a DC circuit with a voltage source delivering 20 volts and a circuit resistance of 5 kiloohms, what is the value of the current in amperes? 
-0.004 
+0.004 OR 0.004 amperes OR 0.004 amps
 
 TOSS UP
 ENERGY
@@ -56,10 +53,10 @@ Z) A resistor
 y OR a diode 
 
 BONUS  
-ENERGY SHORT ANSWER
-By name or number, identify all of the following four factors that directly affect the amount of electricity generated from hydroelectric dams: 1) water 
-temperature, 2) flow, 3) head, 4) time of day. 
-flow and head (accept: 2 and 3) 
+ENERGY 
+SHORT ANSWER
+By name or number, identify all of the following four factors that directly affect the amount of electricity generated from hydroelectric dams: 1) water temperature, 2) flow, 3) head, 4) time of day. 
+flow, head OR 2, 3
 
 TOSS UP
 MATH
@@ -78,22 +75,21 @@ Find the slope of the line tangent to the parametric curve at the given point: x
 1/e 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
-Name the three layers of the Sun’s atmosphere. photosphere, chromosphere, corona 
+EARTH SCIENCE
+SHORT ANSWER
+Name the three layers of the Sun’s atmosphere. 
+photosphere, chromosphere, corona OR photosphere, corona, chromosphere OR chromosphere, photosphere, corona OR chromosphere, corona, photosphere OR corona, chromosphere, photosphere OR corona, photosphere, chromosphere
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
-The region around Sweden has undergone elastic strain due to pressure from ancient ice cover. What will happen to the elevation of this region 
-over the next 10,000 years? 
-increase 
+EARTH SCIENCE
+SHORT ANSWER
+The region around Sweden has undergone elastic strain due to pressure from ancient ice cover. What will happen to the elevation of this region over the next 10,000 years? 
+increase OR it will increase OR rise OR it will rise OR increases OR rises
 
 TOSS UP
 PHYSICS
 MULTIPLE CHOICE
-Neglecting the effect of air resistance, a stone dropped off of a 197-meter high building lands on the ground at which of the following approximate times in 
-seconds? 
+Neglecting the effect of air resistance, a stone dropped off of a 197-meter high building lands on the ground at which of the following approximate times in seconds? 
 W) 3 
 X) 4 
 Y) 6 
@@ -103,24 +99,22 @@ y OR 6
 BONUS  
 PHYSICS
 SHORT ANSWER
-A capacitor has a very large capacitance of 10 farads and is charged by placing a potential difference of 2 volts between its plates. How much energy in 
-joules is stored in the capacitor? 
-20 
+A capacitor has a very large capacitance of 10 farads and is charged by placing a potential difference of 2 volts between its plates. How much energy in joules is stored in the capacitor? 
+20 OR 20 joules OR 20 j
 
 TOSS UP
-EARTH AND SPACE
+ASTRONOMY
 MULTIPLE CHOICE
 Which of the following BEST describes how planets are distinguishable from stars in the night sky? 
 W) Planets appear brighter than stars 
 X) Planets appear redder than stars 
 Y) Planets appear bigger than stars 
 Z) Planets have periods of retrograde motion while stars do not 
-z OR planets have periods of retrograde motion while stars do 
+z OR planets have periods of retrograde motion while stars do not
 
-NOT 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+ASTRONOMY
+SHORT ANSWER
 What unit equal to 0.01 millimeters thickness at STP is used to measure Earth’s atmospheric ozone layer? 
 dobson unit 
 
@@ -135,34 +129,33 @@ Z) It is largely decentralized
 z OR it is largely decentralized 
 
 BONUS  
-ENERGY SHORT ANSWER
-Taking the latent heat of fusion to be 80 calories per gram, how much energy, in kilocalories, does it take to bring 10 grams of ice at 0° Celsius to liquid water at 
-20° Celsius? 
-1 
+ENERGY 
+SHORT ANSWER
+Taking the latent heat of fusion to be 80 calories per gram, how much energy, in kilocalories, does it take to bring 10 grams of ice at 0° Celsius to liquid water at 20° Celsius? 
+1 OR 1 kilocalorie OR 1 kca
 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
 Insect symbionts are represented in all EXCEPT which of the following three groups: 1) bacteria, 2) fungi, or 3) animals? 
-animals (accept: 3) 
+animals OR 3 OR animals only OR 3 only
 
 BONUS  
 BIOLOGY
 SHORT ANSWER
-By name or number, list all of the following four pollinators that are  members of the order Hymenoptera (read as: hy-meh-NOHP-teh-rah): 1) ruby-throated 
-hummingbird, 2) monarch butterfly, 3) green bottle fly, 4) honey bee. 
-honey bee (accept: 4) 
+By name or number, list all of the following four pollinators that are  members of the order Hymenoptera (read as: hy-meh-NOHP-teh-rah): 1) ruby-throated hummingbird, 2) monarch butterfly, 3) green bottle fly, 4) honey bee. 
+honey bee OR 4 OR honey bee only OR 4 only
 
 TOSS UP
 MATH
 SHORT ANSWER
-What is the numerical value of 1152? 
+What is the numerical value of 115^2? 
 13225 
 
 BONUS  
 MATH
 SHORT ANSWER
-What is the coefficient corresponding to x3 in the binomial expansion of (x + 2)5 (read as: the quantity x plus 2 to the power of 5)? 
+What is the coefficient corresponding to x^3 in the binomial expansion of (x + 2)^5 (read as: the quantity x plus 2 to the power of 5)? 
 40 
 
 TOSS UP
@@ -179,17 +172,19 @@ BONUS
 BIOLOGY
 SHORT ANSWER
 By name or number, give all of the following five choices that are components of bile in vertebrates: 1) water, 2) cholesterol, 3) lymph, 4) bilirubin, 5) amylase.  
-water, cholesterol, bilirubin (accept: 1, 2, and 4) 
+water, cholesterol, bilirubin OR 1, 2, 4 
 
 TOSS UP
-ENERGY SHORT ANSWER
-As the grade of coal increases, how do the concentrations of carbon and sulfur change, respectively? 
-carbon increases and sulfur decreases 
+ENERGY 
+SHORT ANSWER
+As the grade of coal increases, how do the concentrations of carbon and sulfur change, respectively? Type as "carbon <increases/decreases/stays the same>, sulfur <increases/decreases/stays the same"
+carbon increases, sulfur decreases 
 
 BONUS  
-ENERGY SHORT ANSWER
-If burned over the course of a minute, providing your answer to the nearest ten, about how many kilowatts of power would a pound of human fat release? 
-240 (accept: 250, 260, 270, 280, 290) 
+ENERGY 
+SHORT ANSWER
+If burned over the course of a minute, providing your answer to the nearest ten, about how many kilowatts of power would a pound of human fat release? Give your answer as a number only (no units)
+240 OR 250 OR 260 OR 270 OR 280 OR 290
 
 TOSS UP
 PHYSICS
@@ -200,9 +195,8 @@ work function
 BONUS  
 PHYSICS
 SHORT ANSWER
-By name or number, identify all of the following four household items that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing 
-machine, 4) vacuum cleaner. 
-vacuum cleaner (accept: 4) 
+By name or number, identify all of the following four household items that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing machine, 4) vacuum cleaner. 
+vacuum cleaner OR 4 OR vacuum cleaner only OR 4 only
 
 TOSS UP
 BIOLOGY
@@ -233,7 +227,7 @@ y OR all taylor series are convergent
 BONUS  
 MATH
 SHORT ANSWER
-Considering the function f x  =  3x2- 4x  +  1, what is the average rate of change from x = 2 to x = 5? 
+Considering the function f(x) = 3x^2 - 4x + 1, what is the average rate of change from x = 2 to x = 5? 
 17 
 
 TOSS UP
@@ -257,17 +251,16 @@ Z) Nitrogen
 w OR phosphorus 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
-What term is often used to describe a winter storm that strikes the East Coast of the United States, involving a low pressure system that picks up 
-moisture from the ocean and often dumps snow on land? 
-nor’easter 
+EARTH SCIENCE
+SHORT ANSWER
+What term is often used to describe a winter storm that strikes the East Coast of the United States, involving a low pressure system that picks up moisture from the ocean and often dumps snow on land? 
+nor’easter OR noreaster
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What optical device completely eliminates chromatic aberration in telescopes? 
-curved mirrors (accept: mirrors) 
+curved mirrors OR mirrors
 
 TOSS UP
 CHEMISTRY
@@ -282,9 +275,8 @@ x OR trigonal planar
 BONUS  
 CHEMISTRY
 SHORT ANSWER
-Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read 
-as: L equals 2)? 
-10 
+Within a single atom, what is the maximum number of electrons that can fit in an atomic shell defined by the quantum numbers n = 3 and l = 2 (read as: L equals 2)? 
+10 OR 10 electrons
 
 TOSS UP
 BIOLOGY
@@ -295,14 +287,13 @@ aldose
 BONUS 
 BIOLOGY
 SHORT ANSWER
-Bacteria depend on cell membrane lipids to provide structure and stability. What physical environmental factor is most likely to cause these membranes to lose 
-stability? 
+Bacteria depend on cell membrane lipids to provide structure and stability. What physical environmental factor is most likely to cause these membranes to lose stability? 
 temperature 
 
 TOSS UP
 CHEMISTRY
 SHORT ANSWER
-What is the IUPAC name for SnCl2  ∙ 6H2O? 
+What is the IUPAC name for SnCl2 ∙ 6H2O? 
 tin (ii) chloride hexahydrate 
 
 BONUS  
@@ -314,8 +305,7 @@ yogurt, blood, and ketchup (accept: 2, 4, and 5)
 TOSS UP
 MATH
 MULTIPLE CHOICE
-Which of the following statements is NOT an advantage of a repeated-measures design compared to an independent-measures design to compare two 
-treatment conditions? 
+Which of the following statements is NOT an advantage of a repeated-measures design compared to an independent-measures design to compare two treatment conditions? 
 W) It requires fewer subjects  
 X) It is better suited to study development that takes place over time 
 Y) It reduces problems caused by individual differences 
@@ -325,36 +315,31 @@ z OR it reduces the confounding effects of other factors
 BONUS  
 MATH
 SHORT ANSWER
-The linear function y = f(x) contains the two points (2, 1) and (5, 8). In simplest form, what is f(13)? 
-80/3 (accept: 26 2/3) 
+The linear function y = f(x) contains the two points (2, 1) and (5, 8). In simplest form and as an improper fraction, what is f(13)? 
+80/3
 
 TOSS UP
 MATH
 SHORT ANSWER
-A population has a mean of 73 and a standard deviation of 8. If the distribution is standardized to create a new distribution with a mean of 100 and a standard 
-deviation of 20, what is the new value of a score of 65 from the original distribution? 
+A population has a mean of 73 and a standard deviation of 8. If the distribution is standardized to create a new distribution with a mean of 100 and a standard deviation of 20, what is the new value of a score of 65 from the original distribution? 
 80 
 
 BONUS  
 MATH
 SHORT ANSWER
-What are, respectively, the amplitude, period, horizontal shift, and vertical shift of y = -5 + 7cos [π/6 (x + π/12)] (read as: y equals negative 5 plus 7 cosine of open 
-bracket pi over 6 open parenthesis x plus pi over 12 close parenthesis close bracket)? 
-amplitude = 7, period = 12, horizontal shift = - π/12 (accept: π/12 
+What are, respectively, the amplitude, period, horizontal shift, and vertical shift of y = -5 + 7cos [π/6 (x + π/12)] (read as: y equals negative 5 plus 7 cosine of open bracket pi over 6 open parenthesis x plus pi over 12 close parenthesis close bracket)? Type as "amplitude = <answer>, period = <answer>, horizontal shift = <answer>, vertical shift = <answer>". For shifts, only put a number and its sign (if negative). 
+amplitude = 7, period = 12, horizontal shift = -pi/12, vertical shift = -5
 
-LEFT), VERTICAL SHIFT = -5 (ACCEPT: 5 DOWN) 
 TOSS UP
 BIOLOGY
 SHORT ANSWER
-If a person suffers an injury and is no longer able to walk but the heart was not affected, which peripheral nervous system component is most likely to have been 
-damaged? 
-somatic (accept: somatomotor system) 
+If a person suffers an injury and is no longer able to walk but the heart was not affected, which peripheral nervous system component is most likely to have been damaged? 
+somatic OR somatomotor system
 
 BONUS  
 BIOLOGY
 SHORT ANSWER
-What is the technical name of the process, usually occurring in the fall, through which deciduous plants systematically shed their leaves? A thin layer of cells 
-may be produced during this process, thus further sealing the site of detachment. 
+What is the technical name of the process, usually occurring in the fall, through which deciduous plants systematically shed their leaves? A thin layer of cells may be produced during this process, thus further sealing the site of detachment. 
 abscission 
 
 TOSS UP
@@ -371,5 +356,4 @@ BONUS
 CHEMISTRY
 SHORT ANSWER
 How many milliliters of 0.75 molar HCl are required to completely neutralize 25.0 milliliters of 0.15 molar Ba(OH)2? 
-10 
-
+10 OR 10 milliliters OR 10 mL
