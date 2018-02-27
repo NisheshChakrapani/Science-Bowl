@@ -1,20 +1,17 @@
-TOSS UP
+﻿TOSS UP
 PHYSICS
 SHORT ANSWER
-A monochromatic light source incident on a diffraction grating with slit separation d produces a pattern on the wall. What diffraction slit spacing would be required 
-to produce the same pattern on the wall using light of twice the wavelength? 
+A monochromatic light source incident on a diffraction grating with slit separation d produces a pattern on the wall. What diffraction slit spacing would be required to produce the same pattern on the wall using light of twice the wavelength? 
 2d 
 
 BONUS  
 PHYSICS
 SHORT ANSWER
-A 10-gram bullet is shot with an initial velocity of 600 meters per second into a 2-kilogram ballistic pendulum and emerges from the pendulum with a speed of 
-200 meters per second. Given 10 meters per second squared as g, to what height in meters 
-does the pendulum rise? 
-0.2 
+A 10-gram bullet is shot with an initial velocity of 600 meters per second into a 2-kilogram ballistic pendulum and emerges from the pendulum with a speed of 200 meters per second. Given 10 meters per second squared as g, to what height in meters does the pendulum rise? 
+0.2 OR 0.2 m OR 0.2 meters
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 As described by the NOAA space weather scale, which of the following is NOT an effect of a weak geomagnetic storm? 
 W) Power grid fluctuations 
@@ -24,8 +21,8 @@ Z) Migration pathways that may require animals to travel further than normal
 y OR auroras visible at a 45° geomagnetic latitude 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What two substances that provide evidence of the Mediterranean’s periods of shallow marine and arid desert environments compose the core 
 material of a reflecting layer 325 to 650 feet beneath the Mediterranean Sea bottom? 
 evaporite (accept: anhydrites or calcium sulfate) and 
@@ -83,14 +80,14 @@ sine of 3x over the quantity 1 minus cosine of x)?
 6 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the name of the clockwise current which brings warm Caribbean waters into the Gulf of Mexico before joining the Gulf Stream? 
 loop 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 By name or number, order the following five stars from most to least bright based on apparent visual magnitude as seen from Earth: 1) Vega, 2) 
 Procyon (read as: PROH-see-ohn), 3) Achernar (read as: AH-kehr-nahr), 4) Canopus (read as: 
 kah-NŌE-puhs), 5) Sirius (read as: SIR-ee-uhs). 
@@ -115,14 +112,14 @@ the equilibrium temperature in degrees Celsius?
 57° 
 
 TOSS UP
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 What is the name of the vesicular basaltic lava that sinks in water? 
 scoria 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE 
+SHORT ANSWER
 By name or number, identify all of the following four choices that are critical attributes of index fossils: 1) long range through time, 2) easily 
 recognizable, 3) abundant, 4) widespread habitats.  
 easily recognizable, abundant, widespread habitats (accept: 2, 3, 
@@ -251,9 +248,9 @@ BONUS
 MATH
 SHORT ANSWER
 Providing your answer in simplest radical form, what is the eccentricity of the hyperbola 
-(x     2)2
+(x     2)2
 4
-    (y  +  3)
+    (y  +  3)
 2
 9
 =  1 (read as: open parenthesis x minus 2 close 
@@ -276,7 +273,7 @@ Place the following molecules or ions in order of increasing stability: He2, O2,
 he2, he2+, o22−, o2−, and o2 (accept: 1, 4, 3, 5, 2) 
 
 TOSS UP
-EARTH AND SPACE
+EARTH SCIENCE
 MULTIPLE CHOICE
 A granitic pluton is overlain by a sandstone. This relationship is an example of which of the following? 
 W) Angular unconformity 
@@ -286,8 +283,8 @@ Z) Inclusion
 x OR nonconformity 
 
 BONUS  
-EARTH AND
-SPACE SHORT ANSWER
+EARTH SCIENCE
+SHORT ANSWER
 By name or number, put the following four metamorphic rocks in order from lowest to highest metamorphic grade: 1) migmatite, 2) schist, 
 3) slate, 4) gneiss (read as: NICE). 
 slate, schist, gneiss, migmatite (accept: 3, 2, 4, 1) 

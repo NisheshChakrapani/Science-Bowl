@@ -18,7 +18,7 @@ class Proctor {
     private ArrayList<String> subjects = new ArrayList<>();
 
     Proctor() throws IOException, InterruptedException {
-        test(5, 10);
+        test(5, 11);
         getSettings();
         readQuestions();
     }

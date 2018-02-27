@@ -29,6 +29,7 @@ public class Reader extends JPanel implements MouseListener {
         frame.add(this);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
+        frame.setResizable(false);
     }
 
     public void paintComponent(Graphics g) {
@@ -43,11 +44,9 @@ public class Reader extends JPanel implements MouseListener {
                 g.setFont(new Font("Serif", Font.BOLD + Font.ITALIC, 45));
                 g.drawString("NISHU CHAKRAPANI'S", 160, 250);
                 g.drawString("SCIENCE BOWL SIMULATOR", 105, 300);
-
+                removeAll();
                 JButton casual = new JButton("Click to play Casual Mode");
                 casual.setBounds(150, 400, 200, 80);
-                this.add(casual);
-                casual.setVisible(true);
                 casual.addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
                         removeAll();
@@ -55,27 +54,21 @@ public class Reader extends JPanel implements MouseListener {
                         repaint();
                     }
                 });
+                casual.setVisible(true);
+                this.add(casual);
 
                 JButton round = new JButton("Click to play Round Mode");
                 round.setBounds(450, 400, 200, 80);
-                this.add(round);
-                round.setVisible(true);
                 round.addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
                         casualMode = false;
-                        /*/try {
-                            RoundGenerator rg = new RoundGenerator();
-                            getAllInGeneratedRound();
-                        } catch (IOException ioe) {
-                            ioe.printStackTrace();
-                        }
-                        current = questions.remove(0);
-                        current.setQuestion(wrapString(current.getQuestion(), 70));*/
                         removeAll();
                         displayState = 4;
                         repaint();
                     }
                 });
+                round.setVisible(true);
+                this.add(round);
                 break;
             case 1:
                 g.clearRect(0, 0, FRAME_WIDTH, FRAME_HEIGHT);
@@ -224,7 +217,7 @@ public class Reader extends JPanel implements MouseListener {
                 }
 
                 JButton skip = new JButton("Click to skip question.");
-                skip.setBounds(100, 500, 200, 50);
+                skip.setBounds(80, 500, 200, 50);
                 skip.addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent e) {
                         removeAll();
@@ -244,6 +237,28 @@ public class Reader extends JPanel implements MouseListener {
                 });
                 skip.setVisible(true);
                 this.add(skip);
+
+                JButton menu = new JButton("Click to return to main menu.");
+                menu.setBounds(300, 500, 200, 50);
+                menu.addActionListener(new ActionListener() {
+                    public void actionPerformed(ActionEvent e) {
+                        removeAll();
+                        displayState = 0;
+                        repaint();
+                    }
+                });
+                menu.setVisible(true);
+                this.add(menu);
+
+                JButton quit = new JButton("Click to exit the game.");
+                quit.setBounds(520, 500, 200, 50);
+                quit.addActionListener(new ActionListener() {
+                    public void actionPerformed(ActionEvent e) {
+                        System.exit(0);
+                    }
+                });
+                quit.setVisible(true);
+                this.add(quit);
                 break;
             case 3:
                 g.clearRect(0, 0, FRAME_WIDTH, FRAME_HEIGHT);
@@ -383,7 +398,7 @@ public class Reader extends JPanel implements MouseListener {
                         this.add(button);
                     }
                 }
-                for (int i = 1; i < 11; i++) {
+                for (int i = 1; i <= 11; i++) {
                     JButton button = new JButton(5 + ":" + i);
                     final int setNum = 5;
                     final int roundNum = i;

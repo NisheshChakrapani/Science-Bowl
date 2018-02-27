@@ -7,41 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac4912a-8d08-4f52-bfdd-ee89d7672dff" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/QABLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/QuestionAndBonus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Reader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RoundGenerator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RoundWriter.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceBool.iml" afterPath="$PROJECT_DIR$/ScienceBool.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScienceBool/Main.class" afterPath="$PROJECT_DIR$/out/production/ScienceBool/Main.class" />
       <change beforePath="$PROJECT_DIR$/out/production/ScienceBool/Proctor.class" afterPath="$PROJECT_DIR$/out/production/ScienceBool/Proctor.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScienceBool/Question.class" afterPath="$PROJECT_DIR$/out/production/ScienceBool/Question.class" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round10.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round10.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round11.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round11.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round12.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round12.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round13.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round13.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round14.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round14.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round15.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round15.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round16.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round16.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round17.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round17.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round7.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round7.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round8.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round8.txt" />
-      <change beforePath="$PROJECT_DIR$/set 4/Set4Round9.txt" afterPath="$PROJECT_DIR$/set 4/Set4Round9.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round1.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round1.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round10.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round10.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round2.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round2.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round3.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round3.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round4.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round4.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round5.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round5.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round6.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round6.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round7.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round7.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round8.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round8.txt" />
-      <change beforePath="$PROJECT_DIR$/set 5/Set5Round9.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round9.txt" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change beforePath="$PROJECT_DIR$/set 5/Set5Round11.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round11.txt" />
+      <change beforePath="$PROJECT_DIR$/set 5/Set5Round12.txt" afterPath="$PROJECT_DIR$/set 5/Set5Round12.txt" />
       <change beforePath="$PROJECT_DIR$/src/Proctor.java" afterPath="$PROJECT_DIR$/src/Proctor.java" />
-      <change beforePath="$PROJECT_DIR$/src/Question.java" afterPath="$PROJECT_DIR$/src/Question.java" />
+      <change beforePath="$PROJECT_DIR$/src/Reader.java" afterPath="$PROJECT_DIR$/src/Reader.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +45,8 @@
       <file leaf-file-name="Proctor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Proctor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="204">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#generateRound#0;class#Proctor#0" expanded="false" />
@@ -87,12 +58,14 @@
       <file leaf-file-name="Reader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="360" column="81" lean-forward="true" selection-start-line="360" selection-start-column="81" selection-end-line="360" selection-end-column="81" />
+            <state relative-caret-position="379">
+              <caret line="245" column="41" lean-forward="true" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#20190#20191#0" expanded="true" />
-                <element signature="e#20244#20245#0" expanded="true" />
+                <element signature="e#12112#12113#0" expanded="true" />
+                <element signature="e#12174#12175#0" expanded="true" />
+                <element signature="e#20712#20713#0" expanded="true" />
+                <element signature="e#20766#20767#0" expanded="true" />
                 <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
                 <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
                 <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -103,8 +76,8 @@
                 <element signature="method#countLines#0;class#Reader#0" expanded="false" />
                 <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
                 <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-                <element signature="e#25014#25015#0" expanded="true" />
-                <element signature="e#25068#25069#0" expanded="true" />
+                <element signature="e#25536#25537#0" expanded="true" />
+                <element signature="e#25590#25591#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -948,7 +921,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501718769528</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="JFrame added, casual vs round mode added, generated round vs existing round added, working on cleaning up all text files">
+      <created>1519700190736</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1519700190736</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -964,7 +944,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -975,8 +955,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2630745" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26586622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -985,8 +965,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39144215" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1020,7 +1000,8 @@
     <MESSAGE value="Added subject filtering for casual mode" />
     <MESSAGE value="Starting on round generator" />
     <MESSAGE value="Starting on round generator, some code cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting on round generator, some code cleanup" />
+    <MESSAGE value="JFrame added, casual vs round mode added, generated round vs existing round added, working on cleaning up all text files" />
+    <option name="LAST_COMMIT_MESSAGE" value="JFrame added, casual vs round mode added, generated round vs existing round added, working on cleaning up all text files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1037,19 +1018,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RoundGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1108,8 +1076,10 @@
           <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1120,8 +1090,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1143,8 +1113,10 @@
           <caret line="444" column="55" lean-forward="true" selection-start-line="444" selection-start-column="55" selection-end-line="444" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1155,8 +1127,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1334,8 +1306,10 @@
           <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1346,8 +1320,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1447,8 +1421,10 @@
           <caret line="256" column="17" lean-forward="true" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1459,8 +1435,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1482,8 +1458,10 @@
           <caret line="254" column="45" lean-forward="true" selection-start-line="254" selection-start-column="45" selection-end-line="254" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1494,8 +1472,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1592,8 +1570,10 @@
           <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1604,8 +1584,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1711,8 +1691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Proctor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#generateRound#0;class#Proctor#0" expanded="false" />
@@ -1720,14 +1700,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="360" column="81" lean-forward="true" selection-start-line="360" selection-start-column="81" selection-end-line="360" selection-end-column="81" />
+        <state relative-caret-position="379">
+          <caret line="245" column="41" lean-forward="true" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#20190#20191#0" expanded="true" />
-            <element signature="e#20244#20245#0" expanded="true" />
+            <element signature="e#12112#12113#0" expanded="true" />
+            <element signature="e#12174#12175#0" expanded="true" />
+            <element signature="e#20712#20713#0" expanded="true" />
+            <element signature="e#20766#20767#0" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
             <element signature="method#mouseClicked#0;class#Reader#0" expanded="false" />
             <element signature="method#mousePressed#0;class#Reader#0" expanded="false" />
@@ -1738,8 +1728,8 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#25014#25015#0" expanded="true" />
-            <element signature="e#25068#25069#0" expanded="true" />
+            <element signature="e#25536#25537#0" expanded="true" />
+            <element signature="e#25590#25591#0" expanded="true" />
           </folding>
         </state>
       </provider>
