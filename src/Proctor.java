@@ -439,38 +439,47 @@ class Proctor {
             String[] input = line.split(",");
 
             for (String s : input) {
-                if (s.toUpperCase().trim().equals("EARTH SCIENCE")) {
-                    if (!subjects.contains("EARTH SCIENCE")) {
-                        subjects.add("EARTH SCIENCE");
-                    }
-                } else if (s.toUpperCase().trim().equals("ASTRONOMY")) {
-                    if (!subjects.contains("ASTRONOMY")) {
-                        subjects.add("ASTRONOMY");
-                    }
-                } else if (s.toUpperCase().trim().equals("MATH")) {
-                    if (!subjects.contains("MATH")) {
-                        subjects.add("MATH");
-                    }
-                } else if (s.toUpperCase().trim().equals("PHYSICS")) {
-                    if (!subjects.contains("PHYSICS")) {
-                        subjects.add("PHYSICS");
-                    }
-                } else if (s.toUpperCase().trim().equals("ENERGY")) {
-                    if (!subjects.contains("ENERGY")) {
-                        subjects.add("ENERGY");
-                    }
-                } else if (s.toUpperCase().trim().equals("BIOLOGY")) {
-                    if (!subjects.contains("BIOLOGY")) {
-                        subjects.add("BIOLOGY");
-                    }
-                } else if (s.toUpperCase().trim().equals("CHEMISTRY")) {
-                    if (!subjects.contains("CHEMISTRY")) {
-                        subjects.add("CHEMISTRY");
-                    }
-                } else if (s.toUpperCase().trim().equals("GENERAL SCIENCE")) {
-                    if (!subjects.contains("GENERAL SCIENCE")) {
-                        subjects.add("GENERAL SCIENCE");
-                    }
+                switch (s.toUpperCase().trim()) {
+                    case "EARTH SCIENCE":
+                        if (!subjects.contains("EARTH SCIENCE")) {
+                            subjects.add("EARTH SCIENCE");
+                        }
+                        break;
+                    case "ASTRONOMY":
+                        if (!subjects.contains("ASTRONOMY")) {
+                            subjects.add("ASTRONOMY");
+                        }
+                        break;
+                    case "MATH":
+                        if (!subjects.contains("MATH")) {
+                            subjects.add("MATH");
+                        }
+                        break;
+                    case "PHYSICS":
+                        if (!subjects.contains("PHYSICS")) {
+                            subjects.add("PHYSICS");
+                        }
+                        break;
+                    case "ENERGY":
+                        if (!subjects.contains("ENERGY")) {
+                            subjects.add("ENERGY");
+                        }
+                        break;
+                    case "BIOLOGY":
+                        if (!subjects.contains("BIOLOGY")) {
+                            subjects.add("BIOLOGY");
+                        }
+                        break;
+                    case "CHEMISTRY":
+                        if (!subjects.contains("CHEMISTRY")) {
+                            subjects.add("CHEMISTRY");
+                        }
+                        break;
+                    case "GENERAL SCIENCE":
+                        if (!subjects.contains("GENERAL SCIENCE")) {
+                            subjects.add("GENERAL SCIENCE");
+                        }
+                        break;
                 }
             }
 
@@ -518,26 +527,5 @@ class Proctor {
             q.setAnswerZ(z);
         }
         return j;
-    }
-
-    //IN PROGRESS
-    private void generateRound() {
-        Random random = new Random();
-        int roundBalance = random.nextInt(100);
-        if (roundBalance <= 7) { //Earth and Space heavy -- ER/SC 35%, PHYS 18%, BIO 18%, CHEM 18%, OTHER 11%
-
-        } else if (roundBalance <= 15) { //Physics heavy -- PHYS 35%, ER/SC 18%, BIO 18%, CHEM 18%, OTHER 11%
-
-        } else if (roundBalance <= 23) { //Biology heavy -- BIO 35%, ER/SC 18%, PHYS 18%, CHEM 18%, OTHER 11%
-
-        } else if (roundBalance <= 31) { //Chemistry heavy -- CHEM 35%, ER/SC 18%, PHYS 18%, BIO 18%, OTHER 11%
-
-        } else if (roundBalance <= 49) { //Earth and Space & Physics heavy -- ER/SC 30%, PHYS 30%, BIO 15%, CHEM 15%, OTHER 10%
-
-        } else if (roundBalance <= 67) { //Biology & Chemistry heavy -- BIO 30%, CHEM 30%, ER/SC 15%, PHYS 15%, OTHER 10%
-
-        } else { //Balanced -- ER/SC 20%, PHYS 20%, BIO 20%, CHEM 20%, OTHER 20%
-
-        }
     }
 }

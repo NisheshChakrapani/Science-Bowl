@@ -21,9 +21,9 @@ public class Reader extends JPanel implements MouseListener {
     private boolean empty = false;
     private boolean casualMode = true;
 
-    public Reader() {
+    Reader() {
         JFrame frame = new JFrame("Nishu Chakrapani's Science Bowl Simulator");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.setBounds(0, 0, FRAME_WIDTH, FRAME_HEIGHT);
         frame.addMouseListener(this);
         frame.add(this);
@@ -47,25 +47,21 @@ public class Reader extends JPanel implements MouseListener {
                 removeAll();
                 JButton casual = new JButton("Click to play Casual Mode");
                 casual.setBounds(150, 400, 200, 80);
-                casual.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        removeAll();
-                        displayState = 1;
-                        repaint();
-                    }
+                casual.addActionListener(e -> {
+                    removeAll();
+                    displayState = 1;
+                    repaint();
                 });
                 casual.setVisible(true);
                 this.add(casual);
 
                 JButton round = new JButton("Click to play Round Mode");
                 round.setBounds(450, 400, 200, 80);
-                round.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        casualMode = false;
-                        removeAll();
-                        displayState = 4;
-                        repaint();
-                    }
+                round.addActionListener(e -> {
+                    casualMode = false;
+                    removeAll();
+                    displayState = 4;
+                    repaint();
                 });
                 round.setVisible(true);
                 this.add(round);
@@ -94,31 +90,29 @@ public class Reader extends JPanel implements MouseListener {
                 submit.setBounds(300, 450, 200, 50);
                 submit.setVisible(true);
                 this.add(submit);
-                submit.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        int numSelected = 0;
-                        for (JCheckBox jcb : boxes)
-                            if (jcb.isSelected()) {
-                                numSelected++;
-                                topics.add(jcb.getText());
-                            }
-                        if (numSelected == 0) {
-                            for (JCheckBox jcb : boxes) jcb.setSelected(true);
-                        } else {
-                            questions.clear();
-                            try {
-                                for (int i = 1; i <= 4; i++) for (int j = 1; j <= 17; j++) getAllByRound(i, j);
-                                for (int i = 1; i <= 8; i++) getAllByRound(5, i);
-                            } catch (IOException ioe) {
-                                ioe.printStackTrace();
-                            }
-                            Collections.shuffle(questions);
-                            current = questions.get(0);
-                            current.setQuestion(wrapString(current.getQuestion(), 70));
-                            displayState = 2;
-                            removeAll();
-                            repaint();
+                submit.addActionListener(e -> {
+                    int numSelected = 0;
+                    for (JCheckBox jcb : boxes)
+                        if (jcb.isSelected()) {
+                            numSelected++;
+                            topics.add(jcb.getText());
                         }
+                    if (numSelected == 0) {
+                        for (JCheckBox jcb : boxes) jcb.setSelected(true);
+                    } else {
+                        questions.clear();
+                        try {
+                            for (int i = 1; i <= 4; i++) for (int j = 1; j <= 17; j++) getAllByRound(i, j);
+                            for (int i = 1; i <= 8; i++) getAllByRound(5, i);
+                        } catch (IOException ioe) {
+                            ioe.printStackTrace();
+                        }
+                        Collections.shuffle(questions);
+                        current = questions.get(0);
+                        current.setQuestion(wrapQuestion(current.getQuestion()));
+                        displayState = 2;
+                        removeAll();
+                        repaint();
                     }
                 });
                 g.setColor(Color.RED);
@@ -145,14 +139,12 @@ public class Reader extends JPanel implements MouseListener {
                     JTextField answerField = new JTextField("", 1);
                     answerField.setVisible(true);
                     answerField.setBounds(100, y + g.getFontMetrics().getHeight(), 400, 60);
-                    answerField.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            correct = checkCorrect(answerField.getText(), current.getAnswers());
-                            removeAll();
-                            questions.remove(current);
-                            displayState = 3;
-                            repaint();
-                        }
+                    answerField.addActionListener(e -> {
+                        correct = checkCorrect(answerField.getText(), current.getAnswers());
+                        removeAll();
+                        questions.remove(current);
+                        displayState = 3;
+                        repaint();
                     });
                     this.add(answerField);
                     g.setFont(new Font("Serif", Font.BOLD, 30));
@@ -161,56 +153,48 @@ public class Reader extends JPanel implements MouseListener {
                 } else {
                     JButton answerW = new JButton(current.getAnswerW());
                     answerW.setBounds(50, y+50, 700, 30);
-                    answerW.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            if (current.getAnswers()[0].equalsIgnoreCase("W")) correct = true;
-                            removeAll();
-                            questions.remove(current);
-                            displayState = 3;
-                            repaint();
-                        }
+                    answerW.addActionListener(e -> {
+                        if (current.getAnswers()[0].equalsIgnoreCase("W")) correct = true;
+                        removeAll();
+                        questions.remove(current);
+                        displayState = 3;
+                        repaint();
                     });
                     answerW.setVisible(true);
                     this.add(answerW);
 
                     JButton answerX = new JButton(current.getAnswerX());
                     answerX.setBounds(50, y+85, 700, 30);
-                    answerX.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            if (current.getAnswers()[0].equalsIgnoreCase("X")) correct = true;
-                            removeAll();
-                            questions.remove(current);
-                            displayState = 3;
-                            repaint();
-                        }
+                    answerX.addActionListener(e -> {
+                        if (current.getAnswers()[0].equalsIgnoreCase("X")) correct = true;
+                        removeAll();
+                        questions.remove(current);
+                        displayState = 3;
+                        repaint();
                     });
                     answerX.setVisible(true);
                     this.add(answerX);
 
                     JButton answerY = new JButton(current.getAnswerY());
                     answerY.setBounds(50, y+120, 700, 30);
-                    answerY.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            if (current.getAnswers()[0].equalsIgnoreCase("Y")) correct = true;
-                            removeAll();
-                            questions.remove(current);
-                            displayState = 3;
-                            repaint();
-                        }
+                    answerY.addActionListener(e -> {
+                        if (current.getAnswers()[0].equalsIgnoreCase("Y")) correct = true;
+                        removeAll();
+                        questions.remove(current);
+                        displayState = 3;
+                        repaint();
                     });
                     answerY.setVisible(true);
                     this.add(answerY);
 
                     JButton answerZ = new JButton(current.getAnswerZ());
                     answerZ.setBounds(50, y+155, 700, 30);
-                    answerZ.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            if (current.getAnswers()[0].equalsIgnoreCase("Z")) correct = true;
-                            removeAll();
-                            questions.remove(current);
-                            displayState = 3;
-                            repaint();
-                        }
+                    answerZ.addActionListener(e -> {
+                        if (current.getAnswers()[0].equalsIgnoreCase("Z")) correct = true;
+                        removeAll();
+                        questions.remove(current);
+                        displayState = 3;
+                        repaint();
                     });
                     answerZ.setVisible(true);
                     this.add(answerZ);
@@ -218,45 +202,37 @@ public class Reader extends JPanel implements MouseListener {
 
                 JButton skip = new JButton("Click to skip question.");
                 skip.setBounds(80, 500, 200, 50);
-                skip.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        removeAll();
-                        questions.remove(current);
-                        if (questions.size() > 0 && !casualMode && current.getQuestionType().equalsIgnoreCase("TOSS UP")) {
-                            questions.remove(0);
-                        }
-                        if (questions.size() > 0) {
-                            current = questions.get(0);
-                            current.setQuestion(wrapString(current.getQuestion(), 70));
-                        } else {
-                            empty = true;
-                        }
-                        displayState = 2;
-                        repaint();
+                skip.addActionListener(e -> {
+                    removeAll();
+                    questions.remove(current);
+                    if (questions.size() > 0 && !casualMode && current.getQuestionType().equalsIgnoreCase("TOSS UP")) {
+                        questions.remove(0);
                     }
+                    if (questions.size() > 0) {
+                        current = questions.get(0);
+                        current.setQuestion(wrapQuestion(current.getQuestion()));
+                    } else {
+                        empty = true;
+                    }
+                    displayState = 2;
+                    repaint();
                 });
                 skip.setVisible(true);
                 this.add(skip);
 
                 JButton menu = new JButton("Click to return to main menu.");
                 menu.setBounds(300, 500, 200, 50);
-                menu.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        removeAll();
-                        displayState = 0;
-                        repaint();
-                    }
+                menu.addActionListener(e -> {
+                    removeAll();
+                    displayState = 0;
+                    repaint();
                 });
                 menu.setVisible(true);
                 this.add(menu);
 
                 JButton quit = new JButton("Click to exit the game.");
                 quit.setBounds(520, 500, 200, 50);
-                quit.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        System.exit(0);
-                    }
-                });
+                quit.addActionListener(e -> System.exit(0));
                 quit.setVisible(true);
                 this.add(quit);
                 break;
@@ -276,55 +252,50 @@ public class Reader extends JPanel implements MouseListener {
                     g.setColor(Color.RED);
                     g.drawString("Incorrect.", 100, 100);
                     g.setFont(new Font("Serif", Font.PLAIN, 20));
-                    String choices = "Correct answer(s): ";
-                    for (String s : current.getAnswers()) choices += (s + " OR ");
-                    StringBuilder sb = new StringBuilder(choices);
-                    sb.delete(sb.length()-3, sb.length());
-                    choices = wrapString(sb.toString(), 70);
+                    StringBuilder choices = new StringBuilder("Correct answer(s): ");
+                    for (String s : current.getAnswers()) choices.append(s).append(" OR ");
+                    choices.delete(choices.length()-3, choices.length());
+                    String splitChoices = wrapString(choices.toString(), 72);
                     g.setColor(Color.BLACK);
-                    for (String line : choices.split("\n"))
+                    for (String line : splitChoices.split("\n"))
                         g.drawString(line, 100, y2 += g.getFontMetrics().getHeight());
                 }
 
                 JButton next = new JButton("Click for next question");
                 next.setBounds(100, y2+50, 200, 50);
-                next.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        if (questions.size() > 0) {
-                            if (casualMode) {
-                                Collections.shuffle(questions);
-                                current = questions.get(0);
-                                current.setQuestion(wrapString(current.getQuestion(), 70));
-                            } else {
-                                if (!correct && current.getQuestionType().equalsIgnoreCase("TOSS UP")) {
-                                    questions.remove(0);
-                                }
-                                if (questions.size() > 0) {
-                                    current = questions.remove(0);
-                                    current.setQuestion(wrapString(current.getQuestion(), 70));
-                                } else empty = true;
-                            }
+                next.addActionListener(e -> {
+                    if (questions.size() > 0) {
+                        if (casualMode) {
+                            Collections.shuffle(questions);
+                            current = questions.get(0);
+                            current.setQuestion(wrapQuestion(current.getQuestion()));
                         } else {
-                            removeAll();
-                            empty = true;
-                            repaint();
+                            if (!correct && current.getQuestionType().equalsIgnoreCase("TOSS UP")) {
+                                questions.remove(0);
+                            }
+                            if (questions.size() > 0) {
+                                current = questions.remove(0);
+                                current.setQuestion(wrapQuestion(current.getQuestion()));
+                            } else empty = true;
                         }
+                    } else {
                         removeAll();
-                        displayState = 2;
+                        empty = true;
                         repaint();
                     }
+                    removeAll();
+                    displayState = 2;
+                    repaint();
                 });
                 next.setVisible(true);
                 this.add(next);
 
                 JButton newSubjects = new JButton("Click to choose new subjects");
                 newSubjects.setBounds(100, y2+130, 200, 50);
-                newSubjects.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        removeAll();
-                        displayState = 1;
-                        repaint();
-                    }
+                newSubjects.addActionListener(e -> {
+                    removeAll();
+                    displayState = 1;
+                    repaint();
                 });
                 newSubjects.setVisible(true);
                 this.add(newSubjects);
@@ -338,31 +309,27 @@ public class Reader extends JPanel implements MouseListener {
                 g.drawString("Choose a round mode option.", 220, 150);
                 JButton genRound = new JButton("Click to generate a new round");
                 genRound.setBounds(75, 275, 300, 50);
-                genRound.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        try {
-                            new RoundGenerator();
-                            getAllInGeneratedRound();
-                        } catch (IOException ioe) {
-                            ioe.printStackTrace();
-                        }
-                        current = questions.remove(0);
-                        current.setQuestion(wrapString(current.getQuestion(), 70));
-                        removeAll();
-                        displayState = 2;
-                        repaint();
+                genRound.addActionListener(e -> {
+                    try {
+                        new RoundGenerator();
+                        getAllInGeneratedRound();
+                    } catch (IOException ioe) {
+                        ioe.printStackTrace();
                     }
+                    current = questions.remove(0);
+                    current.setQuestion(wrapQuestion(current.getQuestion()));
+                    removeAll();
+                    displayState = 2;
+                    repaint();
                 });
                 genRound.setVisible(true);
                 this.add(genRound);
                 JButton oldRounds = new JButton("Click to choose from pre-existing rounds");
                 oldRounds.setBounds(425, 275, 300, 50);
-                oldRounds.addActionListener(new ActionListener() {
-                    public void actionPerformed(ActionEvent e) {
-                        removeAll();
-                        displayState = 5;
-                        repaint();
-                    }
+                oldRounds.addActionListener(e -> {
+                    removeAll();
+                    displayState = 5;
+                    repaint();
                 });
                 oldRounds.setVisible(true);
                 this.add(oldRounds);
@@ -380,19 +347,17 @@ public class Reader extends JPanel implements MouseListener {
                         final int setNum = i;
                         final int roundNum = j;
                         button.setBounds(88*(i-1)+2, 33*(j-1)+30, 87, 32);
-                        button.addActionListener(new ActionListener() {
-                            public void actionPerformed(ActionEvent e) {
-                                try {
-                                    getAllByRound(setNum, roundNum);
-                                } catch (IOException e1) {
-                                    e1.printStackTrace();
-                                }
-                                current = questions.remove(0);
-                                current.setQuestion(wrapString(current.getQuestion(), 70));
-                                removeAll();
-                                displayState = 2;
-                                repaint();
+                        button.addActionListener(e -> {
+                            try {
+                                getAllByRound(setNum, roundNum);
+                            } catch (IOException e1) {
+                                e1.printStackTrace();
                             }
+                            current = questions.remove(0);
+                            current.setQuestion(wrapQuestion(current.getQuestion()));
+                            removeAll();
+                            displayState = 2;
+                            repaint();
                         });
                         button.setVisible(true);
                         this.add(button);
@@ -403,19 +368,17 @@ public class Reader extends JPanel implements MouseListener {
                     final int setNum = 5;
                     final int roundNum = i;
                     button.setBounds(88*(4)+2, 33*(i-1)+30, 87, 32);
-                    button.addActionListener(new ActionListener() {
-                        public void actionPerformed(ActionEvent e) {
-                            try {
-                                getAllByRound(setNum, roundNum);
-                            } catch (IOException e1) {
-                                e1.printStackTrace();
-                            }
-                            current = questions.remove(0);
-                            current.setQuestion(wrapString(current.getQuestion(), 70));
-                            removeAll();
-                            displayState = 2;
-                            repaint();
+                    button.addActionListener(e -> {
+                        try {
+                            getAllByRound(setNum, roundNum);
+                        } catch (IOException e1) {
+                            e1.printStackTrace();
                         }
+                        current = questions.remove(0);
+                        current.setQuestion(wrapQuestion(current.getQuestion()));
+                        removeAll();
+                        displayState = 2;
+                        repaint();
                     });
                     button.setVisible(true);
                     this.add(button);
@@ -432,27 +395,24 @@ public class Reader extends JPanel implements MouseListener {
             g.setFont(new Font("Serif", Font.BOLD, 25));
             g.setColor(Color.BLACK);
             g.drawString("Question set exhausted. Thanks for playing!", 80, 140);
+            g.setColor(Color.RED);
+            g.setFont(new Font("Serif", Font.PLAIN, 30));
+            g.drawString("FINAL SCORE: " + score, 520, 80);
 
             JButton quit = new JButton("Click to quit");
             quit.setBounds(80,  190, 200, 50);
-            quit.addActionListener(new ActionListener() {
-                public void actionPerformed(ActionEvent e) {
-                    System.exit(0);
-                }
-            });
+            quit.addActionListener(e -> System.exit(0));
             quit.setVisible(true);
             this.add(quit);
 
             JButton restart = new JButton("Click to restart");
             restart.setBounds(80, 270, 200, 50);
-            restart.addActionListener(new ActionListener() {
-                public void actionPerformed(ActionEvent e) {
-                    score = 0;
-                    empty = false;
-                    removeAll();
-                    displayState = 0;
-                    repaint();
-                }
+            restart.addActionListener(e -> {
+                score = 0;
+                empty = false;
+                removeAll();
+                displayState = 0;
+                repaint();
             });
             restart.setVisible(true);
             this.add(restart);
@@ -460,8 +420,7 @@ public class Reader extends JPanel implements MouseListener {
     }
 
     private boolean checkCorrect(String answer, String[] answers) {
-        answer.toLowerCase();
-        for (String s : answers) if (s.toLowerCase().equals(answer)) return true;
+        for (String s : answers) if (s.toLowerCase().equals(answer.toLowerCase())) return true;
         return false;
     }
 
@@ -576,6 +535,9 @@ public class Reader extends JPanel implements MouseListener {
 
     private String wrapString(String str, int wrapLength) {
         return WordUtils.wrap(str, wrapLength);
+    }
+    private String wrapQuestion(String str) {
+        return wrapString(str, 70);
     }
 
     public static void main(String[] args) throws IOException, InterruptedException {

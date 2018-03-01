@@ -5,14 +5,10 @@ public class RoundGenerator {
     private ArrayList<ArrayList<QuestionAndBonus>> questionSets = new ArrayList<>(7);
         // 0 = GNSC, 1 = MATH, 2 = ASTR, 3 = ERTH/ENRG, 4 = PHYS, 5 = BIOL, 6 = CHEM
     private Random random = new Random();
-    private File round;
 
-    public RoundGenerator() throws IOException {
+    RoundGenerator() throws IOException {
         //add empty sets in the list
-        for (int i = 0; i < 7; i++) {
-            ArrayList<QuestionAndBonus> set = new ArrayList<>();
-            questionSets.add(i, set);
-        }
+        for (int i = 0; i < 7; i++) questionSets.add(i, new ArrayList<>());
 
         for (int i = 1; i <= 4; i++) for (int j = 1; j <= 17; j++) getAllByRound(i, j);
         for (int i = 1; i <= 8; i++) getAllByRound(5, i);
@@ -24,13 +20,9 @@ public class RoundGenerator {
 
         //get random skew
         int randomNum = random.nextInt(10); //0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-        if (randomNum <= 5) round = balancedRound();
-        else if (randomNum <= 7) round = earthAndPhysSkewRound();
-        else round = bioChemSkewRound();
-    }
-
-    public File getRoundFile() {
-        return round;
+        if (randomNum <= 5) balancedRound();
+        else if (randomNum <= 7) earthAndPhysSkewRound();
+        else bioChemSkewRound();
     }
 
     private void getAllByRound(int set, int round) throws IOException {
@@ -165,7 +157,7 @@ public class RoundGenerator {
         return j;
     }
 
-    public File balancedRound() throws FileNotFoundException, UnsupportedEncodingException {
+    private void balancedRound() throws FileNotFoundException, UnsupportedEncodingException {
         int numQuestions = random.nextInt(4)+22; //22, 23, 24, or 25 questions
         QABLinkedList link;
         int subject = random.nextInt(100);
@@ -189,7 +181,6 @@ public class RoundGenerator {
             else link.add(questionSets.get(6).remove(0));
         }
 
-        File f = new File("generatedset.txt");
         PrintWriter pw = new PrintWriter("generatedset.txt", "UTF-8");
         for (int i = 0; i < numQuestions; i++) {
             QuestionAndBonus qab = link.get(i);
@@ -204,7 +195,7 @@ public class RoundGenerator {
                 pw.println(qab.getAnswerZ());
             }
             StringBuilder sb = new StringBuilder("");
-            for (String s : qab.getAnswers()) sb.append(s + " OR ");
+            for (String s : qab.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
 
@@ -220,15 +211,14 @@ public class RoundGenerator {
                 pw.println(bonus.getAnswerZ());
             }
             sb = new StringBuilder("");
-            for (String s : bonus.getAnswers()) sb.append(s + " OR ");
+            for (String s : bonus.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
         }
 
         pw.close();
-        return f;
     }
-    public File earthAndPhysSkewRound() throws FileNotFoundException, UnsupportedEncodingException {
+    private void earthAndPhysSkewRound() throws FileNotFoundException, UnsupportedEncodingException {
         int numQuestions = random.nextInt(4)+22; //22, 23, 24, or 25 questions
         QABLinkedList link;
         int subject = random.nextInt(100);
@@ -252,7 +242,6 @@ public class RoundGenerator {
             else link.add(questionSets.get(4).remove(0));
         }
 
-        File f = new File("generatedset.txt");
         PrintWriter pw = new PrintWriter("generatedset.txt", "UTF-8");
         for (int i = 0; i < numQuestions; i++) {
             QuestionAndBonus qab = link.get(i);
@@ -267,7 +256,7 @@ public class RoundGenerator {
                 pw.println(qab.getAnswerZ());
             }
             StringBuilder sb = new StringBuilder("");
-            for (String s : qab.getAnswers()) sb.append(s + " OR ");
+            for (String s : qab.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
 
@@ -283,15 +272,14 @@ public class RoundGenerator {
                 pw.println(bonus.getAnswerZ());
             }
             sb = new StringBuilder("");
-            for (String s : bonus.getAnswers()) sb.append(s + " OR ");
+            for (String s : bonus.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
         }
 
         pw.close();
-        return f;
     }
-    public File bioChemSkewRound() throws FileNotFoundException, UnsupportedEncodingException {
+    private void bioChemSkewRound() throws FileNotFoundException, UnsupportedEncodingException {
         int numQuestions = random.nextInt(4)+22; //22, 23, 24, or 25 questions
         QABLinkedList link;
         int subject = random.nextInt(100);
@@ -315,7 +303,6 @@ public class RoundGenerator {
             else link.add(questionSets.get(6).remove(0));
         }
 
-        File f = new File("generatedset.txt");
         PrintWriter pw = new PrintWriter("generatedset.txt", "UTF-8");
         for (int i = 0; i < numQuestions; i++) {
             QuestionAndBonus qab = link.get(i);
@@ -330,7 +317,7 @@ public class RoundGenerator {
                 pw.println(qab.getAnswerZ());
             }
             StringBuilder sb = new StringBuilder("");
-            for (String s : qab.getAnswers()) sb.append(s + " OR ");
+            for (String s : qab.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
 
@@ -346,12 +333,11 @@ public class RoundGenerator {
                 pw.println(bonus.getAnswerZ());
             }
             sb = new StringBuilder("");
-            for (String s : bonus.getAnswers()) sb.append(s + " OR ");
+            for (String s : bonus.getAnswers()) sb.append(s).append(" OR ");
             pw.println(sb.subSequence(0, sb.length()-4).toString());
             pw.println();
         }
 
         pw.close();
-        return f;
     }
 }
