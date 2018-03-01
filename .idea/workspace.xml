@@ -8,12 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ac4912a-8d08-4f52-bfdd-ee89d7672dff" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScienceBool/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScienceBool/Proctor.class" afterPath="$PROJECT_DIR$/out/production/ScienceBool/Proctor.class" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Proctor.java" afterPath="$PROJECT_DIR$/src/Proctor.java" />
       <change beforePath="$PROJECT_DIR$/src/Reader.java" afterPath="$PROJECT_DIR$/src/Reader.java" />
-      <change beforePath="$PROJECT_DIR$/src/RoundGenerator.java" afterPath="$PROJECT_DIR$/src/RoundGenerator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +53,8 @@
       <file leaf-file-name="Reader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="386" column="20" lean-forward="true" selection-start-line="386" selection-start-column="20" selection-end-line="386" selection-end-column="20" />
+            <state relative-caret-position="416">
+              <caret line="302" column="17" lean-forward="false" selection-start-line="302" selection-start-column="17" selection-end-line="302" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
@@ -72,10 +67,10 @@
                 <element signature="method#countLines#0;class#Reader#0" expanded="false" />
                 <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
                 <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-                <element signature="e#23039#23040#0" expanded="true" />
-                <element signature="e#23093#23094#0" expanded="true" />
-                <element signature="e#23139#23140#0" expanded="true" />
-                <element signature="e#23181#23182#0" expanded="true" />
+                <element signature="e#23099#23100#0" expanded="true" />
+                <element signature="e#23153#23154#0" expanded="true" />
+                <element signature="e#23199#23200#0" expanded="true" />
+                <element signature="e#23241#23242#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,7 +109,7 @@
       <file leaf-file-name="RoundGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RoundGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="-476">
               <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/src/QuestionAndBonus.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#444#445#0" expanded="true" />
                 <element signature="e#478#479#0" expanded="true" />
@@ -147,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/Question.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="e#2031#2032#0" expanded="true" />
                 <element signature="e#2071#2072#0" expanded="true" />
@@ -234,10 +229,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="63" />
-    <option name="y" value="76" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -278,7 +273,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SciBowlRoundWriter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Battleship" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
@@ -944,7 +939,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519753788859</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Some code cleanup">
+      <created>1519868156903</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1519868156903</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1018,7 +1020,8 @@
     <MESSAGE value="Starting on round generator, some code cleanup" />
     <MESSAGE value="JFrame added, casual vs round mode added, generated round vs existing round added, working on cleaning up all text files" />
     <MESSAGE value="restart and quit buttons added to displaystate 2, more rounds added" />
-    <option name="LAST_COMMIT_MESSAGE" value="restart and quit buttons added to displaystate 2, more rounds added" />
+    <MESSAGE value="Some code cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some code cleanup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1102,10 +1105,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,10 +1139,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1324,10 +1327,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1435,10 +1438,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1469,10 +1472,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1577,10 +1580,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1636,19 +1639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QABLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1660,7 +1650,7 @@
     <entry file="file://$PROJECT_DIR$/src/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
             <element signature="e#2031#2032#0" expanded="true" />
             <element signature="e#2071#2072#0" expanded="true" />
@@ -1675,7 +1665,7 @@
     <entry file="file://$PROJECT_DIR$/src/QuestionAndBonus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#444#445#0" expanded="true" />
             <element signature="e#478#479#0" expanded="true" />
@@ -1687,7 +1677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RoundGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="-476">
           <caret line="10" column="73" lean-forward="false" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1700,10 +1690,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/QABLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="386" column="20" lean-forward="true" selection-start-line="386" selection-start-column="20" selection-end-line="386" selection-end-column="20" />
+        <state relative-caret-position="416">
+          <caret line="302" column="17" lean-forward="false" selection-start-line="302" selection-start-column="17" selection-end-line="302" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#checkCorrect#0;class#Reader#0" expanded="false" />
@@ -1716,10 +1719,10 @@
             <element signature="method#countLines#0;class#Reader#0" expanded="false" />
             <element signature="method#checkQuestionMC#0;class#Reader#0" expanded="false" />
             <element signature="method#getAllInGeneratedRound#0;class#Reader#0" expanded="false" />
-            <element signature="e#23039#23040#0" expanded="true" />
-            <element signature="e#23093#23094#0" expanded="true" />
-            <element signature="e#23139#23140#0" expanded="true" />
-            <element signature="e#23181#23182#0" expanded="true" />
+            <element signature="e#23099#23100#0" expanded="true" />
+            <element signature="e#23153#23154#0" expanded="true" />
+            <element signature="e#23199#23200#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
           </folding>
         </state>
       </provider>

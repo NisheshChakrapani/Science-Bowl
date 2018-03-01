@@ -297,8 +297,10 @@ public class Reader extends JPanel implements MouseListener {
                     displayState = 1;
                     repaint();
                 });
-                newSubjects.setVisible(true);
-                this.add(newSubjects);
+                if (casualMode) {
+                    newSubjects.setVisible(true);
+                    this.add(newSubjects);
+                }
                 break;
             case 4:
                 g.clearRect(0, 0, FRAME_WIDTH, FRAME_HEIGHT);
